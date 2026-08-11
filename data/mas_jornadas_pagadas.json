@@ -1,0 +1,50 @@
+{
+  "managers": [
+    {
+      "posicion": 1,
+      "manager": "Manuel Tello",
+      "dinero": 6
+    },
+    {
+      "posicion": 2,
+      "manager": "Dani Portero",
+      "dinero": 6
+    },
+    {
+      "posicion": 3,
+      "manager": "Edu Zurita",
+      "dinero": 2
+    },
+    {
+      "posicion": 6,
+      "manager": "Diego Zuri",
+      "dinero": 2
+    },
+    {
+      "posicion": 8,
+      "manager": "Mena",
+      "dinero": 4
+    },
+    {
+      "posicion": 5,
+      "manager": "Muriqui Saez",
+      "dinero": 4
+    },
+    {
+      "posicion": 9,
+      "manager": "Team Novita",
+      "dinero": 0
+    },
+    {
+      "posicion": 7,
+      "manager": "Chirli",
+      "dinero": 6
+    },
+    {
+      "posicion": 4,
+      "manager": "Carlos Saez",
+      "dinero": 10
+    }
+  ],
+  "total": 40
+}

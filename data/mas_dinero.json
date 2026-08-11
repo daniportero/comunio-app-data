@@ -1,0 +1,83 @@
+[
+  {
+    "posicion": 6,
+    "manager": "Diego Zuri",
+    "valor_equipo": 43210000,
+    "puja_maxima": 24817579,
+    "dinero": 14015079,
+    "compras": 33575721,
+    "ventas": 6790800
+  },
+  {
+    "posicion": 9,
+    "manager": "Team Novita",
+    "valor_equipo": 38990000,
+    "puja_maxima": 23380122,
+    "dinero": 13632622,
+    "compras": 26570778,
+    "ventas": 203400
+  },
+  {
+    "posicion": 7,
+    "manager": "Chirli",
+    "valor_equipo": 40160000,
+    "puja_maxima": 20150000,
+    "dinero": 10110000,
+    "compras": 32290000,
+    "ventas": 0
+  },
+  {
+    "posicion": 5,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 47930000,
+    "puja_maxima": 18961651,
+    "dinero": 6979151,
+    "compras": 46579149,
+    "ventas": 11958300
+  },
+  {
+    "posicion": 8,
+    "manager": "Mena",
+    "valor_equipo": 39680000,
+    "puja_maxima": 14088800,
+    "dinero": 4168800,
+    "compras": 46850000,
+    "ventas": 9418800
+  },
+  {
+    "posicion": 4,
+    "manager": "Carlos Saez",
+    "valor_equipo": 56180000,
+    "puja_maxima": 17514200,
+    "dinero": 3469200,
+    "compras": 48266000,
+    "ventas": 7735200
+  },
+  {
+    "posicion": 3,
+    "manager": "Edu Zurita",
+    "valor_equipo": 58000000,
+    "puja_maxima": 13453998,
+    "dinero": -1046002,
+    "compras": 44090002,
+    "ventas": 2244000
+  },
+  {
+    "posicion": 2,
+    "manager": "Dani Portero",
+    "valor_equipo": 67680000,
+    "puja_maxima": 13114100,
+    "dinero": -3805900,
+    "compras": 60080000,
+    "ventas": 13874100
+  },
+  {
+    "posicion": 1,
+    "manager": "Manuel Tello",
+    "valor_equipo": 68000000,
+    "puja_maxima": 8135400,
+    "dinero": -8864600,
+    "compras": 67510000,
+    "ventas": 16245400
+  }
+]

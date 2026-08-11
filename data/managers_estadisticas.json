@@ -1,0 +1,65 @@
+[
+  {
+    "manager": "Manuel Tello",
+    "valor_equipo": 68000000,
+    "share_valor_liga": 0.1479,
+    "puntos": 0,
+    "revalorizacion": 490000
+  },
+  {
+    "manager": "Dani Portero",
+    "valor_equipo": 67680000,
+    "share_valor_liga": 0.1472,
+    "puntos": 0,
+    "revalorizacion": 7600000
+  },
+  {
+    "manager": "Edu Zurita",
+    "valor_equipo": 58000000,
+    "share_valor_liga": 0.1261,
+    "puntos": 0,
+    "revalorizacion": 13909998
+  },
+  {
+    "manager": "Diego Zuri",
+    "valor_equipo": 43210000,
+    "share_valor_liga": 0.094,
+    "puntos": 0,
+    "revalorizacion": 9634279
+  },
+  {
+    "manager": "Mena",
+    "valor_equipo": 39680000,
+    "share_valor_liga": 0.0863,
+    "puntos": 0,
+    "revalorizacion": -7170000
+  },
+  {
+    "manager": "Muriqui Saez",
+    "valor_equipo": 47930000,
+    "share_valor_liga": 0.1042,
+    "puntos": 0,
+    "revalorizacion": 1350851
+  },
+  {
+    "manager": "Team Novita",
+    "valor_equipo": 38990000,
+    "share_valor_liga": 0.0848,
+    "puntos": 0,
+    "revalorizacion": 12419222
+  },
+  {
+    "manager": "Chirli",
+    "valor_equipo": 40160000,
+    "share_valor_liga": 0.0873,
+    "puntos": 0,
+    "revalorizacion": 7870000
+  },
+  {
+    "manager": "Carlos Saez",
+    "valor_equipo": 56180000,
+    "share_valor_liga": 0.1222,
+    "puntos": 0,
+    "revalorizacion": 7914000
+  }
+]
