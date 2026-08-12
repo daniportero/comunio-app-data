@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-08-12",
+    "jugador": "Ali Houary",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3915.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 350000,
+    "valor_momento": 340000,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-11",
     "jugador": "Diego Llorente",
     "posicion": "DEF",

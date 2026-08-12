@@ -2,8 +2,8 @@
   {
     "posicion": 6,
     "manager": "Diego Zuri",
-    "valor_equipo": 43210000,
-    "puja_maxima": 24817579,
+    "valor_equipo": 45580000,
+    "puja_maxima": 25410079,
     "dinero": 14015079,
     "compras": 33575721,
     "ventas": 6790800
@@ -11,17 +11,17 @@
   {
     "posicion": 9,
     "manager": "Team Novita",
-    "valor_equipo": 38990000,
-    "puja_maxima": 23380122,
+    "valor_equipo": 39880000,
+    "puja_maxima": 23602622,
     "dinero": 13632622,
     "compras": 26570778,
     "ventas": 203400
   },
   {
-    "posicion": 7,
+    "posicion": 8,
     "manager": "Chirli",
-    "valor_equipo": 40160000,
-    "puja_maxima": 20150000,
+    "valor_equipo": 41280000,
+    "puja_maxima": 20430000,
     "dinero": 10110000,
     "compras": 32290000,
     "ventas": 0
@@ -29,26 +29,26 @@
   {
     "posicion": 5,
     "manager": "Muriqui Saez",
-    "valor_equipo": 47930000,
-    "puja_maxima": 18961651,
+    "valor_equipo": 50480000,
+    "puja_maxima": 19599151,
     "dinero": 6979151,
     "compras": 46579149,
     "ventas": 11958300
   },
   {
-    "posicion": 8,
+    "posicion": 7,
     "manager": "Mena",
-    "valor_equipo": 39680000,
-    "puja_maxima": 14088800,
-    "dinero": 4168800,
-    "compras": 46850000,
+    "valor_equipo": 41430000,
+    "puja_maxima": 14176300,
+    "dinero": 3818800,
+    "compras": 47200000,
     "ventas": 9418800
   },
   {
     "posicion": 4,
     "manager": "Carlos Saez",
-    "valor_equipo": 56180000,
-    "puja_maxima": 17514200,
+    "valor_equipo": 57320000,
+    "puja_maxima": 17799200,
     "dinero": 3469200,
     "compras": 48266000,
     "ventas": 7735200
@@ -56,8 +56,8 @@
   {
     "posicion": 3,
     "manager": "Edu Zurita",
-    "valor_equipo": 58000000,
-    "puja_maxima": 13453998,
+    "valor_equipo": 59270000,
+    "puja_maxima": 13771498,
     "dinero": -1046002,
     "compras": 44090002,
     "ventas": 2244000
@@ -65,8 +65,8 @@
   {
     "posicion": 2,
     "manager": "Dani Portero",
-    "valor_equipo": 67680000,
-    "puja_maxima": 13114100,
+    "valor_equipo": 69350000,
+    "puja_maxima": 13531600,
     "dinero": -3805900,
     "compras": 60080000,
     "ventas": 13874100
@@ -74,8 +74,8 @@
   {
     "posicion": 1,
     "manager": "Manuel Tello",
-    "valor_equipo": 68000000,
-    "puja_maxima": 8135400,
+    "valor_equipo": 70780000,
+    "puja_maxima": 8830400,
     "dinero": -8864600,
     "compras": 67510000,
     "ventas": 16245400

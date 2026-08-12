@@ -1,64 +1,64 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 68000000,
-    "share_valor_liga": 0.1479,
+    "valor_equipo": 70780000,
+    "share_valor_liga": 0.1489,
     "puntos": 0,
     "plusvalia": 15275000
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 67680000,
-    "share_valor_liga": 0.1472,
+    "valor_equipo": 69350000,
+    "share_valor_liga": 0.1459,
     "puntos": 0,
     "plusvalia": 21150000
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 58000000,
-    "share_valor_liga": 0.1261,
+    "valor_equipo": 59270000,
+    "share_valor_liga": 0.1247,
     "puntos": 0,
     "plusvalia": 15609998
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 43210000,
-    "share_valor_liga": 0.094,
+    "valor_equipo": 45580000,
+    "share_valor_liga": 0.0959,
     "puntos": 0,
     "plusvalia": 15810945
   },
   {
     "manager": "Mena",
-    "valor_equipo": 39680000,
-    "share_valor_liga": 0.0863,
+    "valor_equipo": 41430000,
+    "share_valor_liga": 0.0872,
     "puntos": 0,
-    "plusvalia": 3230000
+    "plusvalia": 3200000
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 47930000,
-    "share_valor_liga": 0.1042,
+    "valor_equipo": 50480000,
+    "share_valor_liga": 0.1062,
     "puntos": 0,
     "plusvalia": 11855901
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 38990000,
-    "share_valor_liga": 0.0848,
+    "valor_equipo": 39880000,
+    "share_valor_liga": 0.0839,
     "puntos": 0,
     "plusvalia": 12634222
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 40160000,
-    "share_valor_liga": 0.0873,
+    "valor_equipo": 41280000,
+    "share_valor_liga": 0.0868,
     "puntos": 0,
     "plusvalia": 7870000
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 56180000,
-    "share_valor_liga": 0.1222,
+    "valor_equipo": 57320000,
+    "share_valor_liga": 0.1206,
     "puntos": 0,
     "plusvalia": 13587000
   }
