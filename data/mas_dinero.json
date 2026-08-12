@@ -6,7 +6,11 @@
     "puja_maxima": 25410079,
     "dinero": 14015079,
     "compras": 33575721,
-    "ventas": 6790800
+    "ventas": 6790800,
+    "puntos": 0,
+    "cuota_mercado": 0.0986,
+    "plusvalia": 18180945,
+    "margen_ventas": 614134
   },
   {
     "posicion": 9,
@@ -15,7 +19,11 @@
     "puja_maxima": 23602622,
     "dinero": 13632622,
     "compras": 26570778,
-    "ventas": 203400
+    "ventas": 203400,
+    "puntos": 0,
+    "cuota_mercado": 0.0863,
+    "plusvalia": 13524222,
+    "margen_ventas": -11600
   },
   {
     "posicion": 8,
@@ -24,7 +32,11 @@
     "puja_maxima": 20430000,
     "dinero": 10110000,
     "compras": 32290000,
-    "ventas": 0
+    "ventas": 0,
+    "puntos": 0,
+    "cuota_mercado": 0.0893,
+    "plusvalia": 8990000,
+    "margen_ventas": 0
   },
   {
     "posicion": 5,
@@ -33,7 +45,11 @@
     "puja_maxima": 20741951,
     "dinero": 8514451,
     "compras": 46579149,
-    "ventas": 13493600
+    "ventas": 13493600,
+    "puntos": 0,
+    "cuota_mercado": 0.1058,
+    "plusvalia": 13515901,
+    "margen_ventas": 2308550
   },
   {
     "posicion": 7,
@@ -42,7 +58,11 @@
     "puja_maxima": 14176300,
     "dinero": 3818800,
     "compras": 47200000,
-    "ventas": 9418800
+    "ventas": 9418800,
+    "puntos": 0,
+    "cuota_mercado": 0.0896,
+    "plusvalia": 4630000,
+    "margen_ventas": -981200
   },
   {
     "posicion": 4,
@@ -51,7 +71,11 @@
     "puja_maxima": 17956900,
     "dinero": 3679400,
     "compras": 48266000,
-    "ventas": 7945400
+    "ventas": 7945400,
+    "puntos": 0,
+    "cuota_mercado": 0.1235,
+    "plusvalia": 14738000,
+    "margen_ventas": 2051400
   },
   {
     "posicion": 2,
@@ -60,7 +84,11 @@
     "puja_maxima": 17644600,
     "dinero": 2774600,
     "compras": 67510000,
-    "ventas": 27884600
+    "ventas": 27884600,
+    "puntos": 0,
+    "cuota_mercado": 0.1287,
+    "plusvalia": 12505000,
+    "margen_ventas": 7349600
   },
   {
     "posicion": 3,
@@ -69,7 +97,11 @@
     "puja_maxima": 13771498,
     "dinero": -1046002,
     "compras": 44090002,
-    "ventas": 2244000
+    "ventas": 2244000,
+    "puntos": 0,
+    "cuota_mercado": 0.1282,
+    "plusvalia": 16879998,
+    "margen_ventas": 544000
   },
   {
     "posicion": 1,
@@ -78,6 +110,10 @@
     "puja_maxima": 13531600,
     "dinero": -3805900,
     "compras": 60080000,
-    "ventas": 13874100
+    "ventas": 13874100,
+    "puntos": 0,
+    "cuota_mercado": 0.15,
+    "plusvalia": 22820000,
+    "margen_ventas": 324100
   }
 ]
