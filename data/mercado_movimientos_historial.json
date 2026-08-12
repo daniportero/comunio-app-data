@@ -11,6 +11,28 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-12",
+    "jugador": "Abdel Abqar",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3449.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 1223000,
+    "valor_momento": 1270000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-12",
+    "jugador": "Iker Benito",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3221.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 312300,
+    "valor_momento": 300000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-11",
     "jugador": "Diego Llorente",
     "posicion": "DEF",
