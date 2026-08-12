@@ -44,6 +44,28 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-12",
+    "jugador": "Kubo",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2852.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 7113500,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-12",
+    "jugador": "David Affengruber",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3836.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 4525700,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-11",
     "jugador": "Diego Llorente",
     "posicion": "DEF",

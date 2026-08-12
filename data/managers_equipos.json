@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 70780000,
-    "num_jugadores": 14,
+    "valor_equipo": 59480000,
+    "num_jugadores": 12,
     "jugadores": [
       {
         "posicion": "POR",
@@ -51,22 +51,6 @@
         "r3": 0,
         "r2": 0,
         "r1": 1
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "David Affengruber",
-        "imagen": "https://www.comuniate.com/caras3/3836.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-        "valor_jugador": 4360000,
-        "revalorizacion": 1070000,
-        "plusvalia": 2110000,
-        "r5": 5,
-        "r4": 0,
-        "r3": 13,
-        "r2": 9,
-        "r1": 0
       },
       {
         "posicion": "DEF",
@@ -163,22 +147,6 @@
         "r3": 0,
         "r2": 1,
         "r1": 15
-      },
-      {
-        "posicion": "MED",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Kubo",
-        "imagen": "https://www.comuniate.com/caras3/2852.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
-        "valor_jugador": 6940000,
-        "revalorizacion": 1140000,
-        "plusvalia": 3440000,
-        "r5": 0,
-        "r4": 9,
-        "r3": 4,
-        "r2": 7,
-        "r1": 0
       },
       {
         "posicion": "DEL",

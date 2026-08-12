@@ -1289,17 +1289,17 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor_jugador": 6940000,
     "revalorizacion": 1140000,
-    "plusvalia": 3440000,
+    "plusvalia": null,
     "r5": 0,
     "r4": 9,
     "r3": 4,
     "r2": 7,
     "r1": 0,
-    "libre": false,
+    "libre": true,
     "anterior_dueño": "Manuel Tello",
     "compra": 3500000,
-    "venta": null,
-    "margen_venta": null
+    "venta": 7113500,
+    "margen_venta": 3613500
   },
   {
     "posicion": "DEL",
@@ -2654,17 +2654,17 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor_jugador": 4360000,
     "revalorizacion": 1070000,
-    "plusvalia": 2110000,
+    "plusvalia": null,
     "r5": 5,
     "r4": 0,
     "r3": 13,
     "r2": 9,
     "r1": 0,
-    "libre": false,
+    "libre": true,
     "anterior_dueño": "Manuel Tello",
     "compra": 2250000,
-    "venta": null,
-    "margen_venta": null
+    "venta": 4525700,
+    "margen_venta": 2275700
   },
   {
     "posicion": "POR",

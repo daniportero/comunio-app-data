@@ -54,6 +54,15 @@
     "ventas": 7945400
   },
   {
+    "posicion": 2,
+    "manager": "Manuel Tello",
+    "valor_equipo": 59480000,
+    "puja_maxima": 17644600,
+    "dinero": 2774600,
+    "compras": 67510000,
+    "ventas": 27884600
+  },
+  {
     "posicion": 3,
     "manager": "Edu Zurita",
     "valor_equipo": 59270000,
@@ -63,21 +72,12 @@
     "ventas": 2244000
   },
   {
-    "posicion": 2,
+    "posicion": 1,
     "manager": "Dani Portero",
     "valor_equipo": 69350000,
     "puja_maxima": 13531600,
     "dinero": -3805900,
     "compras": 60080000,
     "ventas": 13874100
-  },
-  {
-    "posicion": 1,
-    "manager": "Manuel Tello",
-    "valor_equipo": 70780000,
-    "puja_maxima": 8830400,
-    "dinero": -8864600,
-    "compras": 67510000,
-    "ventas": 16245400
   }
 ]
