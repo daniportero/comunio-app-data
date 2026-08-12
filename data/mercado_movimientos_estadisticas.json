@@ -55,12 +55,12 @@
   },
   {
     "manager": "Team Novita",
-    "total_mov": 20,
+    "total_mov": 21,
     "num_compras": 19,
     "valor_compras": 26570778,
-    "num_ventas": 1,
-    "valor_ventas": 203400,
-    "margen_ventas": -11600
+    "num_ventas": 2,
+    "valor_ventas": 393800,
+    "margen_ventas": 8800
   },
   {
     "manager": "Chirli",

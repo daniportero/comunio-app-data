@@ -66,6 +66,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-12",
+    "jugador": "Juanmi Jiménez",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/1112.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 190400,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-11",
     "jugador": "Diego Llorente",
     "posicion": "DEF",

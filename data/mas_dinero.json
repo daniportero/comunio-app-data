@@ -15,15 +15,15 @@
   {
     "posicion": 9,
     "manager": "Team Novita",
-    "valor_equipo": 39880000,
-    "puja_maxima": 23602622,
-    "dinero": 13632622,
+    "valor_equipo": 39690000,
+    "puja_maxima": 23745522,
+    "dinero": 13823022,
     "compras": 26570778,
-    "ventas": 203400,
+    "ventas": 393800,
     "puntos": 0,
-    "cuota_mercado": 0.0863,
-    "plusvalia": 13524222,
-    "margen_ventas": -11600
+    "cuota_mercado": 0.0859,
+    "plusvalia": 13504222,
+    "margen_ventas": 8800
   },
   {
     "posicion": 8,
@@ -60,7 +60,7 @@
     "compras": 47200000,
     "ventas": 9418800,
     "puntos": 0,
-    "cuota_mercado": 0.0896,
+    "cuota_mercado": 0.0897,
     "plusvalia": 4630000,
     "margen_ventas": -981200
   },
@@ -73,7 +73,7 @@
     "compras": 48266000,
     "ventas": 7945400,
     "puntos": 0,
-    "cuota_mercado": 0.1235,
+    "cuota_mercado": 0.1236,
     "plusvalia": 14738000,
     "margen_ventas": 2051400
   },
@@ -99,7 +99,7 @@
     "compras": 44090002,
     "ventas": 2244000,
     "puntos": 0,
-    "cuota_mercado": 0.1282,
+    "cuota_mercado": 0.1283,
     "plusvalia": 16879998,
     "margen_ventas": 544000
   },
@@ -112,7 +112,7 @@
     "compras": 60080000,
     "ventas": 13874100,
     "puntos": 0,
-    "cuota_mercado": 0.15,
+    "cuota_mercado": 0.1501,
     "plusvalia": 22820000,
     "margen_ventas": 324100
   }
