@@ -11558,17 +11558,17 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor_jugador": 210000,
     "revalorizacion": 40000,
-    "plusvalia": -11000,
+    "plusvalia": null,
     "r5": 4,
     "r4": 0,
     "r3": 0,
     "r2": 13,
     "r1": 0,
-    "libre": false,
+    "libre": true,
     "anterior_dueño": "Carlos Saez",
     "compra": 221000,
-    "venta": null,
-    "margen_venta": null
+    "venta": 210200,
+    "margen_venta": -10800
   },
   {
     "posicion": "POR",

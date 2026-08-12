@@ -2,7 +2,7 @@
   {
     "manager": "Manuel Tello",
     "valor_equipo": 70780000,
-    "share_valor_liga": 0.1494,
+    "share_valor_liga": 0.1495,
     "puntos": 0,
     "plusvalia": 18055000
   },
@@ -16,7 +16,7 @@
   {
     "manager": "Edu Zurita",
     "valor_equipo": 59270000,
-    "share_valor_liga": 0.1251,
+    "share_valor_liga": 0.1252,
     "puntos": 0,
     "plusvalia": 16879998
   },
@@ -30,14 +30,14 @@
   {
     "manager": "Mena",
     "valor_equipo": 41430000,
-    "share_valor_liga": 0.0874,
+    "share_valor_liga": 0.0875,
     "puntos": 0,
     "plusvalia": 4630000
   },
   {
     "manager": "Muriqui Saez",
     "valor_equipo": 48910000,
-    "share_valor_liga": 0.1032,
+    "share_valor_liga": 0.1033,
     "puntos": 0,
     "plusvalia": 13515901
   },
@@ -51,15 +51,15 @@
   {
     "manager": "Chirli",
     "valor_equipo": 41280000,
-    "share_valor_liga": 0.0871,
+    "share_valor_liga": 0.0872,
     "puntos": 0,
     "plusvalia": 8990000
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 57320000,
-    "share_valor_liga": 0.121,
+    "valor_equipo": 57110000,
+    "share_valor_liga": 0.1206,
     "puntos": 0,
-    "plusvalia": 14727000
+    "plusvalia": 14738000
   }
 ]
