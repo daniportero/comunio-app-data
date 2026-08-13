@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-08-13",
+    "jugador": "Lemar",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2596.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 256000,
+    "valor_momento": 250000,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-13",
+    "jugador": "Carlos Romero",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3399.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 6395800,
+    "valor_momento": 6580000,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-12",
     "jugador": "Ali Houary",
     "posicion": "DEL",
@@ -39,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/3879.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor": 210200,
-    "valor_momento": null,
+    "valor_momento": 210000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
@@ -50,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/2852.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 7113500,
-    "valor_momento": null,
+    "valor_momento": 6940000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -61,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/3836.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor": 4525700,
-    "valor_momento": null,
+    "valor_momento": 4360000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -72,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/1112.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "valor": 190400,
-    "valor_momento": null,
+    "valor_momento": 190000,
     "manager": "Team Novita",
     "movimiento": "Venta"
   },

@@ -1,7 +1,7 @@
 {
   "managers": [
     {
-      "posicion": 2,
+      "posicion": 3,
       "manager": "Manuel Tello",
       "dinero": 6
     },
@@ -11,7 +11,7 @@
       "dinero": 6
     },
     {
-      "posicion": 3,
+      "posicion": 4,
       "manager": "Edu Zurita",
       "dinero": 2
     },
@@ -41,7 +41,7 @@
       "dinero": 6
     },
     {
-      "posicion": 4,
+      "posicion": 2,
       "manager": "Carlos Saez",
       "dinero": 10
     }

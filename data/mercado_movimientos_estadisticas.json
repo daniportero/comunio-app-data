@@ -10,12 +10,12 @@
   },
   {
     "manager": "Dani Portero",
-    "total_mov": 19,
+    "total_mov": 20,
     "num_compras": 16,
     "valor_compras": 60080000,
-    "num_ventas": 3,
-    "valor_ventas": 13874100,
-    "margen_ventas": 324100
+    "num_ventas": 4,
+    "valor_ventas": 20269900,
+    "margen_ventas": 1379900
   },
   {
     "manager": "Edu Zurita",
@@ -28,9 +28,9 @@
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 25,
-    "num_compras": 20,
-    "valor_compras": 33575721,
+    "total_mov": 26,
+    "num_compras": 21,
+    "valor_compras": 33831721,
     "num_ventas": 5,
     "valor_ventas": 6790800,
     "margen_ventas": 614134
