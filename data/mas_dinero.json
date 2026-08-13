@@ -8,12 +8,12 @@
     "compras": 26570778,
     "ventas": 393800,
     "puntos": 0,
-    "cuota_mercado": 0.0867,
+    "cuota_mercado": 0.0876,
     "plusvalia": 13504222,
     "margen_ventas": 8800
   },
   {
-    "posicion": 6,
+    "posicion": 5,
     "manager": "Diego Zuri",
     "valor_equipo": 47920000,
     "puja_maxima": 24939079,
@@ -21,9 +21,22 @@
     "compras": 33831721,
     "ventas": 6790800,
     "puntos": 0,
-    "cuota_mercado": 0.1001,
+    "cuota_mercado": 0.1011,
     "plusvalia": 18174945,
     "margen_ventas": 614134
+  },
+  {
+    "posicion": 6,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 46450000,
+    "puja_maxima": 23187251,
+    "dinero": 11574751,
+    "compras": 46579149,
+    "ventas": 18153900,
+    "puntos": 0,
+    "cuota_mercado": 0.098,
+    "plusvalia": 11953678,
+    "margen_ventas": 4331073
   },
   {
     "posicion": 8,
@@ -34,22 +47,9 @@
     "compras": 32290000,
     "ventas": 0,
     "puntos": 0,
-    "cuota_mercado": 0.09,
+    "cuota_mercado": 0.091,
     "plusvalia": 8990000,
     "margen_ventas": 0
-  },
-  {
-    "posicion": 5,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 51080000,
-    "puja_maxima": 19684451,
-    "dinero": 6914451,
-    "compras": 46579149,
-    "ventas": 13493600,
-    "puntos": 0,
-    "cuota_mercado": 0.1067,
-    "plusvalia": 13515901,
-    "margen_ventas": 2308550
   },
   {
     "posicion": 7,
@@ -60,7 +60,7 @@
     "compras": 47200000,
     "ventas": 9418800,
     "puntos": 0,
-    "cuota_mercado": 0.0924,
+    "cuota_mercado": 0.0933,
     "plusvalia": 4630000,
     "margen_ventas": -981200
   },
@@ -73,7 +73,7 @@
     "compras": 67510000,
     "ventas": 27884600,
     "puntos": 0,
-    "cuota_mercado": 0.1296,
+    "cuota_mercado": 0.131,
     "plusvalia": 12505000,
     "margen_ventas": 7349600
   },
@@ -86,22 +86,22 @@
     "compras": 60080000,
     "ventas": 20269900,
     "puntos": 0,
-    "cuota_mercado": 0.136,
+    "cuota_mercado": 0.1375,
     "plusvalia": 21660000,
     "margen_ventas": 1379900
   },
   {
     "posicion": 2,
     "manager": "Carlos Saez",
-    "valor_equipo": 62600000,
-    "puja_maxima": 15329400,
-    "dinero": -320600,
+    "valor_equipo": 62290000,
+    "puja_maxima": 15575200,
+    "dinero": 2700,
     "compras": 48266000,
-    "ventas": 7945400,
+    "ventas": 8268700,
     "puntos": 0,
-    "cuota_mercado": 0.1307,
-    "plusvalia": 14738000,
-    "margen_ventas": 2051400
+    "cuota_mercado": 0.1314,
+    "plusvalia": 14819000,
+    "margen_ventas": 2013700
   },
   {
     "posicion": 4,
@@ -112,7 +112,7 @@
     "compras": 44090002,
     "ventas": 2244000,
     "puntos": 0,
-    "cuota_mercado": 0.1278,
+    "cuota_mercado": 0.1292,
     "plusvalia": 16879998,
     "margen_ventas": 544000
   }

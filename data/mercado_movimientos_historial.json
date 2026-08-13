@@ -22,6 +22,39 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-13",
+    "jugador": "Pablo Marín",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3354.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 323300,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-13",
+    "jugador": "Sergi Cardona",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3433.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 2255800,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-13",
+    "jugador": "Borja Mayoral",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2204.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 2404500,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-12",
     "jugador": "Ali Houary",
     "posicion": "DEL",

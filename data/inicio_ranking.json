@@ -11,8 +11,8 @@
   {
     "posicion": 2,
     "manager": "Carlos Saez",
-    "valor_equipo": 62600000,
-    "dinero": -320600,
+    "valor_equipo": 62290000,
+    "dinero": 2700,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
@@ -37,18 +37,18 @@
   },
   {
     "posicion": 5,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 51080000,
-    "dinero": 6914451,
+    "manager": "Diego Zuri",
+    "valor_equipo": 47920000,
+    "dinero": 12959079,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
   },
   {
     "posicion": 6,
-    "manager": "Diego Zuri",
-    "valor_equipo": 47920000,
-    "dinero": 12959079,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 46450000,
+    "dinero": 11574751,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
