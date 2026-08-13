@@ -3,32 +3,32 @@
     {
       "posicion": 3,
       "manager": "Manuel Tello",
-      "dinero": 6
+      "dinero": 0
     },
     {
       "posicion": 1,
       "manager": "Dani Portero",
-      "dinero": 6
+      "dinero": 0
     },
     {
       "posicion": 4,
       "manager": "Edu Zurita",
-      "dinero": 2
+      "dinero": 0
     },
     {
       "posicion": 6,
       "manager": "Diego Zuri",
-      "dinero": 2
+      "dinero": 0
     },
     {
       "posicion": 7,
       "manager": "Mena",
-      "dinero": 4
+      "dinero": 0
     },
     {
       "posicion": 5,
       "manager": "Muriqui Saez",
-      "dinero": 4
+      "dinero": 0
     },
     {
       "posicion": 9,
@@ -38,13 +38,13 @@
     {
       "posicion": 8,
       "manager": "Chirli",
-      "dinero": 6
+      "dinero": 0
     },
     {
       "posicion": 2,
       "manager": "Carlos Saez",
-      "dinero": 10
+      "dinero": 0
     }
   ],
-  "total": 40
+  "total": 0
 }
