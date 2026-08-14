@@ -85,19 +85,19 @@
   "top_venta": [
     {
       "manager": "Manuel Tello",
-      "jugador": "Ferran Torres",
-      "imagen": "https://www.comuniate.com/caras3/2505.png",
-      "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-      "valor_venta": 9121300,
-      "margen_ventas": 1271300
+      "jugador": "Kubo",
+      "imagen": "https://www.comuniate.com/caras3/2852.png",
+      "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+      "valor_venta": 7113500,
+      "margen_ventas": 3613500
     },
     {
       "manager": "Dani Portero",
-      "jugador": "Dani Olmo",
-      "imagen": "https://www.comuniate.com/caras3/3679.png",
-      "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-      "valor_venta": 13260000,
-      "margen_ventas": 970000
+      "jugador": "Carlos Romero",
+      "imagen": "https://www.comuniate.com/caras3/3399.png",
+      "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+      "valor_venta": 6395800,
+      "margen_ventas": 1055800
     },
     {
       "manager": "Edu Zurita",
@@ -109,35 +109,35 @@
     },
     {
       "manager": "Diego Zuri",
-      "jugador": "Gavi",
-      "imagen": "https://www.comuniate.com/caras3/3160.png",
-      "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-      "valor_venta": 4747400,
-      "margen_ventas": 197400
+      "jugador": "Unai Elgezábal",
+      "imagen": "https://www.comuniate.com/caras3/3829.png",
+      "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+      "valor_venta": 631800,
+      "margen_ventas": 261800
     },
     {
       "manager": "Mena",
-      "jugador": "Carlos Espí",
-      "imagen": "https://www.comuniate.com/caras3/3832.png",
-      "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-      "valor_venta": 6979700,
-      "margen_ventas": -1020300
+      "jugador": "Sow",
+      "imagen": "https://www.comuniate.com/caras3/3471.png",
+      "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+      "valor_venta": 1464700,
+      "margen_ventas": 64700
     },
     {
       "manager": "Muriqui Saez",
-      "jugador": "Mikautadze",
-      "imagen": "https://www.comuniate.com/caras3/3930.png",
-      "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-      "valor_venta": 11958300,
-      "margen_ventas": 1453250
+      "jugador": "Borja Mayoral",
+      "imagen": "https://www.comuniate.com/caras3/2204.png",
+      "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+      "valor_venta": 2404500,
+      "margen_ventas": 1626723
     },
     {
       "manager": "Team Novita",
-      "jugador": "Juan Berrocal",
-      "imagen": "https://www.comuniate.com/caras3/3692.png",
+      "jugador": "Juanmi Jiménez",
+      "imagen": "https://www.comuniate.com/caras3/1112.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-      "valor_venta": 203400,
-      "margen_ventas": -11600
+      "valor_venta": 190400,
+      "margen_ventas": 20400
     },
     {
       "manager": "Carlos Saez",
