@@ -1,27 +1,27 @@
 [
   {
     "manager": "Manuel Tello",
-    "total_mov": 26,
-    "num_compras": 19,
-    "valor_compras": 67510000,
+    "total_mov": 27,
+    "num_compras": 20,
+    "valor_compras": 67770000,
     "num_ventas": 7,
     "valor_ventas": 27884600,
     "margen_ventas": 7349600
   },
   {
     "manager": "Dani Portero",
-    "total_mov": 20,
-    "num_compras": 16,
-    "valor_compras": 60080000,
+    "total_mov": 21,
+    "num_compras": 17,
+    "valor_compras": 72250000,
     "num_ventas": 4,
     "valor_ventas": 20269900,
     "margen_ventas": 1379900
   },
   {
     "manager": "Edu Zurita",
-    "total_mov": 25,
-    "num_compras": 21,
-    "valor_compras": 44090002,
+    "total_mov": 26,
+    "num_compras": 22,
+    "valor_compras": 47200007,
     "num_ventas": 4,
     "valor_ventas": 2244000,
     "margen_ventas": 544000
@@ -37,27 +37,27 @@
   },
   {
     "manager": "Mena",
-    "total_mov": 21,
-    "num_compras": 18,
-    "valor_compras": 47200000,
+    "total_mov": 22,
+    "num_compras": 19,
+    "valor_compras": 49800000,
     "num_ventas": 3,
     "valor_ventas": 9418800,
     "margen_ventas": -981200
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 27,
-    "num_compras": 22,
-    "valor_compras": 46579149,
+    "total_mov": 28,
+    "num_compras": 23,
+    "valor_compras": 50709149,
     "num_ventas": 5,
     "valor_ventas": 18153900,
     "margen_ventas": 4331073
   },
   {
     "manager": "Team Novita",
-    "total_mov": 21,
-    "num_compras": 19,
-    "valor_compras": 26570778,
+    "total_mov": 22,
+    "num_compras": 20,
+    "valor_compras": 26971778,
     "num_ventas": 2,
     "valor_ventas": 393800,
     "margen_ventas": 8800

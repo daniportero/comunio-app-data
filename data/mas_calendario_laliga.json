@@ -41,16 +41,6 @@
   },
   {
     "jornada": 1,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/5.png",
-    "equipo_local": "Celta",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "equipo_visitante": "Osasuna",
-    "resultado": null,
-    "fecha": "2026-08-16",
-    "hora": "21:30"
-  },
-  {
-    "jornada": 1,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "equipo_local": "Deportivo",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
@@ -88,6 +78,16 @@
     "resultado": null,
     "fecha": "2026-08-26",
     "hora": "21:00"
+  },
+  {
+    "jornada": 1,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "equipo_local": "Celta",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "equipo_visitante": "Osasuna",
+    "resultado": null,
+    "fecha": "2026-08-27",
+    "hora": "20:30"
   },
   {
     "jornada": 1,

@@ -1,5 +1,71 @@
 [
   {
+    "fecha": "2026-08-14",
+    "jugador": "Pau Cubarsí",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3509.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 12170000,
+    "valor_momento": 13090000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-14",
+    "jugador": "Iago Aspas",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/1523.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 3110005,
+    "valor_momento": 3120000,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-14",
+    "jugador": "Zaid Romero",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3971.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 4130000,
+    "valor_momento": 3640000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-14",
+    "jugador": "Otorbi",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3557.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 260000,
+    "valor_momento": 250000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-14",
+    "jugador": "Javi Puado",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2637.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 2600000,
+    "valor_momento": 2560000,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-14",
+    "jugador": "André Almeida",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3325.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 401000,
+    "valor_momento": 370000,
+    "manager": "Team Novita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-13",
     "jugador": "Lemar",
     "posicion": "MED",
@@ -28,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/3354.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 323300,
-    "valor_momento": null,
+    "valor_momento": 310000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
@@ -39,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/3433.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 2255800,
-    "valor_momento": null,
+    "valor_momento": 2340000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
@@ -50,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/2204.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "valor": 2404500,
-    "valor_momento": null,
+    "valor_momento": 2290000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },

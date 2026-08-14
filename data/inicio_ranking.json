@@ -2,17 +2,17 @@
   {
     "posicion": 1,
     "manager": "Dani Portero",
-    "valor_equipo": 65150000,
-    "dinero": 189900,
+    "valor_equipo": 78490000,
+    "dinero": -11980100,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
   },
   {
     "posicion": 2,
-    "manager": "Carlos Saez",
-    "valor_equipo": 62290000,
-    "dinero": 2700,
+    "manager": "Edu Zurita",
+    "valor_equipo": 63160000,
+    "dinero": -4956007,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
@@ -20,35 +20,35 @@
   {
     "posicion": 3,
     "manager": "Manuel Tello",
-    "valor_equipo": 62090000,
-    "dinero": 374600,
+    "valor_equipo": 62730000,
+    "dinero": 114600,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
   },
   {
     "posicion": 4,
-    "manager": "Edu Zurita",
-    "valor_equipo": 61220000,
-    "dinero": -1846002,
+    "manager": "Carlos Saez",
+    "valor_equipo": 62500000,
+    "dinero": 2700,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
   },
   {
     "posicion": 5,
-    "manager": "Diego Zuri",
-    "valor_equipo": 47920000,
-    "dinero": 12959079,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 50570000,
+    "dinero": 7444751,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
   },
   {
     "posicion": 6,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 46450000,
-    "dinero": 11574751,
+    "manager": "Diego Zuri",
+    "valor_equipo": 47670000,
+    "dinero": 12959079,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
@@ -56,8 +56,8 @@
   {
     "posicion": 7,
     "manager": "Mena",
-    "valor_equipo": 44240000,
-    "dinero": 2218800,
+    "valor_equipo": 46720000,
+    "dinero": -381200,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
@@ -65,7 +65,7 @@
   {
     "posicion": 8,
     "manager": "Chirli",
-    "valor_equipo": 43110000,
+    "valor_equipo": 42460000,
     "dinero": 7710000,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
@@ -74,8 +74,8 @@
   {
     "posicion": 9,
     "manager": "Team Novita",
-    "valor_equipo": 41500000,
-    "dinero": 13823022,
+    "valor_equipo": 41290000,
+    "dinero": 13422022,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
