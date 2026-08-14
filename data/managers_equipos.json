@@ -1252,8 +1252,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 50570000,
-    "num_jugadores": 18,
+    "valor_equipo": 48800000,
+    "num_jugadores": 17,
     "jugadores": [
       {
         "posicion": "POR",
@@ -1297,22 +1297,6 @@
         "valor_jugador": 3930000,
         "revalorizacion": -50000,
         "plusvalia": -200000,
-        "r5": 0,
-        "r4": 0,
-        "r3": 0,
-        "r2": 0,
-        "r1": 0
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Nobel Mendy",
-        "imagen": "https://www.comuniate.com/caras3/3556.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
-        "valor_jugador": 1770000,
-        "revalorizacion": 320000,
-        "plusvalia": 103334,
         "r5": 0,
         "r4": 0,
         "r3": 0,

@@ -66,6 +66,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-14",
+    "jugador": "Nobel Mendy",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3556.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 1692100,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-13",
     "jugador": "Lemar",
     "posicion": "MED",
