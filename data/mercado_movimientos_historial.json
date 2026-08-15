@@ -44,6 +44,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-15",
+    "jugador": "Pau Cubarsí",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3509.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 15053100,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-14",
     "jugador": "Pau Cubarsí",
     "posicion": "DEF",

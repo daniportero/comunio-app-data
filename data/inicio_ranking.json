@@ -1,18 +1,18 @@
 [
   {
     "posicion": 1,
-    "manager": "Dani Portero",
-    "valor_equipo": 82710000,
-    "dinero": -11980100,
+    "manager": "Edu Zurita",
+    "valor_equipo": 72590000,
+    "dinero": -8346007,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
   },
   {
     "posicion": 2,
-    "manager": "Edu Zurita",
-    "valor_equipo": 72590000,
-    "dinero": -8346007,
+    "manager": "Dani Portero",
+    "valor_equipo": 68180000,
+    "dinero": 3073000,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0

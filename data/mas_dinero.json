@@ -8,7 +8,7 @@
     "compras": 26971778,
     "ventas": 393800,
     "puntos": 0,
-    "cuota_mercado": 0.0821,
+    "cuota_mercado": 0.0843,
     "plusvalia": 14703222,
     "margen_ventas": 8800
   },
@@ -21,9 +21,22 @@
     "compras": 33831721,
     "ventas": 6790800,
     "puntos": 0,
-    "cuota_mercado": 0.0917,
+    "cuota_mercado": 0.0942,
     "plusvalia": 20014945,
     "margen_ventas": 614134
+  },
+  {
+    "posicion": 2,
+    "manager": "Dani Portero",
+    "valor_equipo": 68180000,
+    "puja_maxima": 20118000,
+    "dinero": 3073000,
+    "compras": 72250000,
+    "ventas": 35323000,
+    "puntos": 0,
+    "cuota_mercado": 0.1278,
+    "plusvalia": 24210000,
+    "margen_ventas": 4263000
   },
   {
     "posicion": 6,
@@ -34,7 +47,7 @@
     "compras": 38310000,
     "ventas": 0,
     "puntos": 0,
-    "cuota_mercado": 0.0951,
+    "cuota_mercado": 0.0977,
     "plusvalia": 9380000,
     "margen_ventas": 0
   },
@@ -47,7 +60,7 @@
     "compras": 58486926,
     "ventas": 19846000,
     "puntos": 0,
-    "cuota_mercado": 0.1116,
+    "cuota_mercado": 0.1146,
     "plusvalia": 12872567,
     "margen_ventas": 4356507
   },
@@ -60,7 +73,7 @@
     "compras": 67770000,
     "ventas": 27884600,
     "puntos": 0,
-    "cuota_mercado": 0.1217,
+    "cuota_mercado": 0.125,
     "plusvalia": 15495000,
     "margen_ventas": 7349600
   },
@@ -73,7 +86,7 @@
     "compras": 48266000,
     "ventas": 8268700,
     "puntos": 0,
-    "cuota_mercado": 0.1225,
+    "cuota_mercado": 0.1258,
     "plusvalia": 20489000,
     "margen_ventas": 2013700
   },
@@ -86,12 +99,12 @@
     "compras": 49800000,
     "ventas": 9418800,
     "puntos": 0,
-    "cuota_mercado": 0.0919,
+    "cuota_mercado": 0.0944,
     "plusvalia": 7320000,
     "margen_ventas": -981200
   },
   {
-    "posicion": 2,
+    "posicion": 1,
     "manager": "Edu Zurita",
     "valor_equipo": 72590000,
     "puja_maxima": 9801493,
@@ -99,21 +112,8 @@
     "compras": 50590007,
     "ventas": 2244000,
     "puntos": 0,
-    "cuota_mercado": 0.1325,
+    "cuota_mercado": 0.1361,
     "plusvalia": 17779993,
     "margen_ventas": 544000
-  },
-  {
-    "posicion": 1,
-    "manager": "Dani Portero",
-    "valor_equipo": 82710000,
-    "puja_maxima": 8697400,
-    "dinero": -11980100,
-    "compras": 72250000,
-    "ventas": 20269900,
-    "puntos": 0,
-    "cuota_mercado": 0.151,
-    "plusvalia": 25130000,
-    "margen_ventas": 1379900
   }
 ]
