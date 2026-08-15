@@ -1,5 +1,49 @@
 [
   {
+    "fecha": "2026-08-15",
+    "jugador": "Ayoze Pérez",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3389.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 7777777,
+    "valor_momento": 7660000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-15",
+    "jugador": "David Affengruber",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3836.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 4570000,
+    "valor_momento": 4940000,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-15",
+    "jugador": "Hugo Álvarez",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3179.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 1450000,
+    "valor_momento": 700000,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-15",
+    "jugador": "Angeliño",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4107.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 3390000,
+    "valor_momento": 3900000,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-14",
     "jugador": "Pau Cubarsí",
     "posicion": "DEF",

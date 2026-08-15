@@ -1,7 +1,7 @@
 {
   "managers": [
     {
-      "posicion": 3,
+      "posicion": 4,
       "manager": "Manuel Tello",
       "dinero": 0
     },
@@ -16,7 +16,7 @@
       "dinero": 0
     },
     {
-      "posicion": 6,
+      "posicion": 8,
       "manager": "Diego Zuri",
       "dinero": 0
     },
@@ -36,12 +36,12 @@
       "dinero": 0
     },
     {
-      "posicion": 8,
+      "posicion": 6,
       "manager": "Chirli",
       "dinero": 0
     },
     {
-      "posicion": 4,
+      "posicion": 3,
       "manager": "Carlos Saez",
       "dinero": 0
     }
