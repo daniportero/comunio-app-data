@@ -1,15 +1,6 @@
 [
   {
     "posicion": 1,
-    "manager": "Edu Zurita",
-    "valor_equipo": 72590000,
-    "dinero": -8346007,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 0,
-    "cambio_posicion": 0
-  },
-  {
-    "posicion": 2,
     "manager": "Dani Portero",
     "valor_equipo": 68180000,
     "dinero": 3073000,
@@ -18,7 +9,7 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 3,
+    "posicion": 2,
     "manager": "Carlos Saez",
     "valor_equipo": 67090000,
     "dinero": 2700,
@@ -27,7 +18,7 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 4,
+    "posicion": 3,
     "manager": "Manuel Tello",
     "valor_equipo": 66660000,
     "dinero": 114600,
@@ -36,10 +27,19 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 5,
+    "posicion": 4,
     "manager": "Muriqui Saez",
     "valor_equipo": 61130000,
     "dinero": 1359074,
+    "puntos_jornada_actual": 0,
+    "puntos_total": 0,
+    "cambio_posicion": 0
+  },
+  {
+    "posicion": 5,
+    "manager": "Edu Zurita",
+    "valor_equipo": 58780000,
+    "dinero": 6075893,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
@@ -55,18 +55,18 @@
   },
   {
     "posicion": 7,
-    "manager": "Mena",
-    "valor_equipo": 50370000,
-    "dinero": -381200,
+    "manager": "Diego Zuri",
+    "valor_equipo": 50230000,
+    "dinero": 12959079,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0
   },
   {
     "posicion": 8,
-    "manager": "Diego Zuri",
-    "valor_equipo": 50230000,
-    "dinero": 12959079,
+    "manager": "Mena",
+    "valor_equipo": 49780000,
+    "dinero": 214100,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0

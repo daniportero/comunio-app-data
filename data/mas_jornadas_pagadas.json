@@ -1,32 +1,32 @@
 {
   "managers": [
     {
-      "posicion": 4,
+      "posicion": 3,
       "manager": "Manuel Tello",
       "dinero": 0
     },
     {
-      "posicion": 2,
+      "posicion": 1,
       "manager": "Dani Portero",
       "dinero": 0
     },
     {
-      "posicion": 1,
+      "posicion": 5,
       "manager": "Edu Zurita",
       "dinero": 0
     },
     {
-      "posicion": 8,
+      "posicion": 7,
       "manager": "Diego Zuri",
       "dinero": 0
     },
     {
-      "posicion": 7,
+      "posicion": 8,
       "manager": "Mena",
       "dinero": 0
     },
     {
-      "posicion": 5,
+      "posicion": 4,
       "manager": "Muriqui Saez",
       "dinero": 0
     },
@@ -41,7 +41,7 @@
       "dinero": 0
     },
     {
-      "posicion": 3,
+      "posicion": 2,
       "manager": "Carlos Saez",
       "dinero": 0
     }

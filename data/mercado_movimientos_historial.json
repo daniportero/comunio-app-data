@@ -55,6 +55,50 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-15",
+    "jugador": "Alfon González",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3055.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 171500,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-15",
+    "jugador": "Sorloth",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3159.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 6928400,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-15",
+    "jugador": "Laporte",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1613.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 7322000,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-15",
+    "jugador": "Tete Morente",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3001.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 595300,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-14",
     "jugador": "Pau Cubarsí",
     "posicion": "DEF",
