@@ -1,5 +1,18 @@
 [
   {
+    "posicion": 5,
+    "manager": "Carlos Saez",
+    "valor_equipo": 60140000,
+    "puja_maxima": 33129300,
+    "dinero": 18094300,
+    "compras": 48266000,
+    "ventas": 26360300,
+    "puntos": 0,
+    "cuota_mercado": 0.1146,
+    "plusvalia": 23131000,
+    "margen_ventas": 4637500
+  },
+  {
     "posicion": 9,
     "manager": "Team Novita",
     "valor_equipo": 45680000,
@@ -24,19 +37,6 @@
     "cuota_mercado": 0.0995,
     "plusvalia": 22574945,
     "margen_ventas": 614134
-  },
-  {
-    "posicion": 5,
-    "manager": "Carlos Saez",
-    "valor_equipo": 60140000,
-    "puja_maxima": 24083500,
-    "dinero": 9048500,
-    "compras": 48266000,
-    "ventas": 17314500,
-    "puntos": 0,
-    "cuota_mercado": 0.1146,
-    "plusvalia": 23131000,
-    "margen_ventas": 4637500
   },
   {
     "posicion": 4,

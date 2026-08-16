@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-08-16",
+    "jugador": "Toni Martínez",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3704.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 8521500,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-16",
+    "jugador": "Youssef Enríquez",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3812.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 524300,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-15",
     "jugador": "Ayoze Pérez",
     "posicion": "DEL",

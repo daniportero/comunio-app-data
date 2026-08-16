@@ -73,11 +73,11 @@
   },
   {
     "manager": "Carlos Saez",
-    "total_mov": 23,
+    "total_mov": 25,
     "num_compras": 16,
     "valor_compras": 48266000,
-    "num_ventas": 7,
-    "valor_ventas": 17314500,
+    "num_ventas": 9,
+    "valor_ventas": 26360300,
     "margen_ventas": 4637500
   }
 ]
