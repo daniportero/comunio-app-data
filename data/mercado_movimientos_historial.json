@@ -22,6 +22,72 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-16",
+    "jugador": "Hartman",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4087.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 2646000,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-16",
+    "jugador": "Juan Carlos Arana",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4043.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 1690100,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-16",
+    "jugador": "Pedro Díaz",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3675.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 1766400,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-16",
+    "jugador": "Ayoze Pérez",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3389.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 7846700,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-16",
+    "jugador": "Ángel Pérez",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3979.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 2530100,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-16",
+    "jugador": "Marc Roca",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2313.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 2756100,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-15",
     "jugador": "Ayoze Pérez",
     "posicion": "DEL",
@@ -2406,6 +2472,17 @@
     "valor": 524300,
     "valor_momento": null,
     "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "",
+    "jugador": "Villalibre",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2338.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 4276100,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
     "movimiento": "Venta"
   }
 ]

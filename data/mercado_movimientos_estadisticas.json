@@ -28,12 +28,12 @@
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 26,
+    "total_mov": 29,
     "num_compras": 21,
     "valor_compras": 33831721,
-    "num_ventas": 5,
-    "valor_ventas": 6790800,
-    "margen_ventas": 614134
+    "num_ventas": 8,
+    "valor_ventas": 12893300,
+    "margen_ventas": 4976635
   },
   {
     "manager": "Mena",
@@ -46,12 +46,12 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 30,
+    "total_mov": 34,
     "num_compras": 24,
     "valor_compras": 58486926,
-    "num_ventas": 6,
-    "valor_ventas": 19846000,
-    "margen_ventas": 4356507
+    "num_ventas": 10,
+    "valor_ventas": 37255000,
+    "margen_ventas": 8436619
   },
   {
     "manager": "Team Novita",
