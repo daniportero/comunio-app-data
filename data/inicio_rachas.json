@@ -1,7 +1,7 @@
 [
   {
     "posicion": 1,
-    "posicion_ranking": 3,
+    "posicion_ranking": 2,
     "manager": "Manuel Tello",
     "valor_equipo": 68110000,
     "puntos": 0,
@@ -25,7 +25,7 @@
   },
   {
     "posicion": 3,
-    "posicion_ranking": 5,
+    "posicion_ranking": 4,
     "manager": "Edu Zurita",
     "valor_equipo": 60140000,
     "puntos": 0,
@@ -61,7 +61,7 @@
   },
   {
     "posicion": 6,
-    "posicion_ranking": 4,
+    "posicion_ranking": 3,
     "manager": "Muriqui Saez",
     "valor_equipo": 62950000,
     "puntos": 0,
@@ -97,9 +97,9 @@
   },
   {
     "posicion": 9,
-    "posicion_ranking": 2,
+    "posicion_ranking": 5,
     "manager": "Carlos Saez",
-    "valor_equipo": 69180000,
+    "valor_equipo": 60140000,
     "puntos": 0,
     "r5": 0,
     "r4": 0,

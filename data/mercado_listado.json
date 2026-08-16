@@ -180,26 +180,6 @@
     "lesion": null
   },
   {
-    "posicion": "DEL",
-    "puntos": 4,
-    "media_puntos": 4.0,
-    "imagen": "https://www.comuniate.com/caras3/3704.png",
-    "jugador": "Toni Martínez",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "valor_jugador": 7860000,
-    "revalorizacion": 1630000,
-    "plusvalia": 1609000,
-    "venta": 78600000,
-    "r5": 0,
-    "r4": 0,
-    "r3": 0,
-    "r2": 0,
-    "r1": 0,
-    "manager": "Carlos Saez",
-    "valor_compra": 6251000,
-    "lesion": null
-  },
-  {
     "posicion": "POR",
     "puntos": 0,
     "media_puntos": 0.0,
@@ -217,26 +197,6 @@
     "r1": 0,
     "manager": "Team Novita",
     "valor_compra": 180000,
-    "lesion": null
-  },
-  {
-    "posicion": "DEF",
-    "puntos": 5,
-    "media_puntos": 5.0,
-    "imagen": "https://www.comuniate.com/caras3/3812.png",
-    "jugador": "Youssef Enríquez",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "valor_jugador": 510000,
-    "revalorizacion": 190000,
-    "plusvalia": 339000,
-    "venta": 5100000,
-    "r5": 0,
-    "r4": 0,
-    "r3": 0,
-    "r2": 0,
-    "r1": 0,
-    "manager": "Carlos Saez",
-    "valor_compra": 171000,
     "lesion": null
   },
   {
