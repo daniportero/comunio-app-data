@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/3509.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
     "valor": 15053100,
-    "valor_momento": null,
+    "valor_momento": 14530000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
@@ -61,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/3055.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "valor": 171500,
-    "valor_momento": null,
+    "valor_momento": 180000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
@@ -72,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/3159.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "valor": 6928400,
-    "valor_momento": null,
+    "valor_momento": 6630000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
@@ -83,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/1613.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 7322000,
-    "valor_momento": null,
+    "valor_momento": 7000000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
@@ -94,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/3001.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor": 595300,
-    "valor_momento": null,
+    "valor_momento": 590000,
     "manager": "Mena",
     "movimiento": "Venta"
   },
