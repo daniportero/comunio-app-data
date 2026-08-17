@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/2943.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "valor": 10888700,
-    "valor_momento": null,
+    "valor_momento": 10390000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -61,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/2379.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 7494400,
-    "valor_momento": null,
+    "valor_momento": 7220000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },

@@ -1,6 +1,50 @@
 [
   {
     "jornada": 1,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "equipo_local": "Alavés",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "equipo_visitante": "Getafe",
+    "resultado": "3-0",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 1,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "equipo_local": "Sevilla",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "equipo_visitante": "Rayo Vallecano",
+    "resultado": "2-1",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 1,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "equipo_local": "Racing de Santander",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "equipo_visitante": "Villarreal",
+    "resultado": "2-2",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 1,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "equipo_local": "Espanyol",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "equipo_visitante": "Levante",
+    "resultado": "3-0",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 1,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "equipo_local": "Deportivo",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
