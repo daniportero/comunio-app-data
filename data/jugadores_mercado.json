@@ -5712,48 +5712,6 @@
     "precio": 2650000
   },
   {
-    "jugador": "Kervin Arriaga",
-    "dia": "11/Ago",
-    "variacion": 230000,
-    "precio": 1990000
-  },
-  {
-    "jugador": "Kervin Arriaga",
-    "dia": "12/Ago",
-    "variacion": 50000,
-    "precio": 2040000
-  },
-  {
-    "jugador": "Kervin Arriaga",
-    "dia": "13/Ago",
-    "variacion": -110000,
-    "precio": 1930000
-  },
-  {
-    "jugador": "Kervin Arriaga",
-    "dia": "14/Ago",
-    "variacion": -70000,
-    "precio": 1860000
-  },
-  {
-    "jugador": "Kervin Arriaga",
-    "dia": "15/Ago",
-    "variacion": 160000,
-    "precio": 2020000
-  },
-  {
-    "jugador": "Kervin Arriaga",
-    "dia": "16/Ago",
-    "variacion": -70000,
-    "precio": 1950000
-  },
-  {
-    "jugador": "Kervin Arriaga",
-    "dia": "17/Ago",
-    "variacion": -160000,
-    "precio": 1790000
-  },
-  {
     "jugador": "Militão",
     "dia": "11/Ago",
     "variacion": 20000,
@@ -14532,48 +14490,6 @@
     "precio": 360000
   },
   {
-    "jugador": "Javi López Carballo",
-    "dia": "11/Ago",
-    "variacion": 0,
-    "precio": 190000
-  },
-  {
-    "jugador": "Javi López Carballo",
-    "dia": "12/Ago",
-    "variacion": 0,
-    "precio": 190000
-  },
-  {
-    "jugador": "Javi López Carballo",
-    "dia": "13/Ago",
-    "variacion": 0,
-    "precio": 190000
-  },
-  {
-    "jugador": "Javi López Carballo",
-    "dia": "14/Ago",
-    "variacion": 90000,
-    "precio": 280000
-  },
-  {
-    "jugador": "Javi López Carballo",
-    "dia": "15/Ago",
-    "variacion": 10000,
-    "precio": 290000
-  },
-  {
-    "jugador": "Javi López Carballo",
-    "dia": "16/Ago",
-    "variacion": 0,
-    "precio": 290000
-  },
-  {
-    "jugador": "Javi López Carballo",
-    "dia": "17/Ago",
-    "variacion": -10000,
-    "precio": 280000
-  },
-  {
     "jugador": "Manuel Ángel",
     "dia": "11/Ago",
     "variacion": 10000,
@@ -19278,48 +19194,6 @@
     "precio": 380000
   },
   {
-    "jugador": "Jofre Torrents",
-    "dia": "11/Ago",
-    "variacion": 20000,
-    "precio": 280000
-  },
-  {
-    "jugador": "Jofre Torrents",
-    "dia": "12/Ago",
-    "variacion": 0,
-    "precio": 280000
-  },
-  {
-    "jugador": "Jofre Torrents",
-    "dia": "13/Ago",
-    "variacion": -10000,
-    "precio": 270000
-  },
-  {
-    "jugador": "Jofre Torrents",
-    "dia": "14/Ago",
-    "variacion": 0,
-    "precio": 270000
-  },
-  {
-    "jugador": "Jofre Torrents",
-    "dia": "15/Ago",
-    "variacion": 90000,
-    "precio": 360000
-  },
-  {
-    "jugador": "Jofre Torrents",
-    "dia": "16/Ago",
-    "variacion": -10000,
-    "precio": 350000
-  },
-  {
-    "jugador": "Jofre Torrents",
-    "dia": "17/Ago",
-    "variacion": -10000,
-    "precio": 340000
-  },
-  {
     "jugador": "Jon Pacheco",
     "dia": "11/Ago",
     "variacion": -20000,
@@ -21934,5 +21808,11 @@
     "dia": "17/Ago",
     "variacion": 0,
     "precio": 500000
+  },
+  {
+    "jugador": "Arnau Ortiz",
+    "dia": "17/Ago",
+    "variacion": 0,
+    "precio": 160000
   }
 ]

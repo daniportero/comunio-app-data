@@ -39,11 +39,11 @@
     "valor_mejor_jugador": 5060000,
     "imagen_mejor_jugador": "https://www.comuniate.com/caras3/1771.png",
     "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "jugador_rentable": "Álvaro García",
-    "puntos_jugador_rentable": 9,
-    "valor_jugador_rentable": 5060000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/1771.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/70.png"
+    "jugador_rentable": "Martim Neto",
+    "puntos_jugador_rentable": 3,
+    "valor_jugador_rentable": 530000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3888.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/75.png"
   },
   {
     "posicion": 3,
@@ -57,16 +57,16 @@
     "puntos_fichaje_mas_caro": 0,
     "imagen_mas_caro": "https://www.comuniate.com/caras3/3679.png",
     "escudo_mas_caro": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "mejor_jugador": "Adrián de la Fuente",
+    "mejor_jugador": "Quagliata",
     "puntos_mejor_jugador": 5,
-    "valor_mejor_jugador": 3570000,
-    "imagen_mejor_jugador": "https://www.comuniate.com/caras3/3825.png",
-    "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "jugador_rentable": "Juan Iglesias",
+    "valor_mejor_jugador": 2520000,
+    "imagen_mejor_jugador": "https://www.comuniate.com/caras3/4047.png",
+    "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "jugador_rentable": "Quagliata",
     "puntos_jugador_rentable": 5,
-    "valor_jugador_rentable": 3290000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3052.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/17.png"
+    "valor_jugador_rentable": 2520000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/4047.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/6.png"
   },
   {
     "posicion": 4,
@@ -131,11 +131,11 @@
     "valor_mejor_jugador": 3350000,
     "imagen_mejor_jugador": "https://www.comuniate.com/caras3/2444.png",
     "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "jugador_rentable": "Sivera",
-    "puntos_jugador_rentable": 6,
-    "valor_jugador_rentable": 3350000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/2444.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/89.png"
+    "jugador_rentable": "Adriá Altimira",
+    "puntos_jugador_rentable": 4,
+    "valor_jugador_rentable": 1420000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3514.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/6.png"
   },
   {
     "posicion": 7,
@@ -154,11 +154,11 @@
     "valor_mejor_jugador": 3670000,
     "imagen_mejor_jugador": "https://www.comuniate.com/caras3/3215.png",
     "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "jugador_rentable": "Nahuel Tenaglia",
-    "puntos_jugador_rentable": 16,
-    "valor_jugador_rentable": 3670000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3215.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/89.png"
+    "jugador_rentable": "Ali Houary",
+    "puntos_jugador_rentable": 4,
+    "valor_jugador_rentable": 310000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3915.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/75.png"
   },
   {
     "posicion": 8,

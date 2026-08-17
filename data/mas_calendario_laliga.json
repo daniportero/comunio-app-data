@@ -45,17 +45,6 @@
   },
   {
     "jornada": 1,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
-    "equipo_local": "Deportivo",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "equipo_visitante": "Elche",
-    "resultado": null,
-    "fecha": "2026-08-17",
-    "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 1,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo_local": "Atlético",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/65.png",
