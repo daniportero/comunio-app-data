@@ -1,9 +1,9 @@
 [
   {
     "manager": "Manuel Tello",
-    "total_mov": 27,
-    "num_compras": 20,
-    "valor_compras": 67770000,
+    "total_mov": 28,
+    "num_compras": 21,
+    "valor_compras": 84570000,
     "num_ventas": 7,
     "valor_ventas": 27884600,
     "margen_ventas": 7349600
@@ -46,11 +46,11 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 34,
-    "num_compras": 24,
-    "valor_compras": 58486926,
-    "num_ventas": 10,
-    "valor_ventas": 37255000,
+    "total_mov": 36,
+    "num_compras": 25,
+    "valor_compras": 88042481,
+    "num_ventas": 11,
+    "valor_ventas": 41531100,
     "margen_ventas": 8436619
   },
   {
@@ -73,9 +73,9 @@
   },
   {
     "manager": "Carlos Saez",
-    "total_mov": 25,
-    "num_compras": 16,
-    "valor_compras": 48266000,
+    "total_mov": 26,
+    "num_compras": 17,
+    "valor_compras": 54067000,
     "num_ventas": 9,
     "valor_ventas": 26360300,
     "margen_ventas": 4637500

@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "manager": "Muriqui Saez",
+    "jugador": "Villalibre",
+    "imagen": "https://www.comuniate.com/caras3/2338.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "precio_venta": 4276100,
+    "fecha": "2026-08-17"
+  }
+]

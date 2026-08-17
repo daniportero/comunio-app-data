@@ -1,26 +1,6 @@
 [
   {
     "jornada": 1,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/14.png",
-    "equipo_local": "Racing de Santander",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/19.png",
-    "equipo_visitante": "Villarreal",
-    "resultado": null,
-    "fecha": "2026-08-16",
-    "hora": "17:00"
-  },
-  {
-    "jornada": 1,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/7.png",
-    "equipo_local": "Espanyol",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "equipo_visitante": "Levante",
-    "resultado": null,
-    "fecha": "2026-08-16",
-    "hora": "19:00"
-  },
-  {
-    "jornada": 1,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "equipo_local": "Deportivo",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",

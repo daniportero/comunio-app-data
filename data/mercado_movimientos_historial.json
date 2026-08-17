@@ -1,12 +1,56 @@
 [
   {
+    "fecha": "2026-08-17",
+    "jugador": "Enes Ünal",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2403.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 5801000,
+    "valor_momento": 5070000,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-17",
+    "jugador": "Dani Olmo",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3679.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 16800000,
+    "valor_momento": 16890000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-17",
+    "jugador": "Vinícius Júnior",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2565.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "valor": 29555555,
+    "valor_momento": 26360000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-17",
+    "jugador": "Villalibre",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2338.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 4276100,
+    "valor_momento": 3840000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-16",
     "jugador": "Toni Martínez",
     "posicion": "DEL",
     "imagen": "https://www.comuniate.com/caras3/3704.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 8521500,
-    "valor_momento": null,
+    "valor_momento": 8530000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
@@ -17,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/3812.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 524300,
-    "valor_momento": null,
+    "valor_momento": 510000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
@@ -28,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/4087.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 2646000,
-    "valor_momento": null,
+    "valor_momento": 2520000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -39,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/4043.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
     "valor": 1690100,
-    "valor_momento": null,
+    "valor_momento": 1680000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -50,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/3675.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "valor": 1766400,
-    "valor_momento": null,
+    "valor_momento": 1710000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -61,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/3389.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 7846700,
-    "valor_momento": null,
+    "valor_momento": 7910000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
@@ -72,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/3979.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 2530100,
-    "valor_momento": null,
+    "valor_momento": 2510000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
@@ -83,7 +127,7 @@
     "imagen": "https://www.comuniate.com/caras3/2313.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "valor": 2756100,
-    "valor_momento": null,
+    "valor_momento": 2710000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
