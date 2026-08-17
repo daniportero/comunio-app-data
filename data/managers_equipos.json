@@ -3,6 +3,7 @@
     "manager": "Manuel Tello",
     "valor_equipo": 71740000,
     "num_jugadores": 12,
+    "formacion": "4-3-3",
     "jugadores": [
       {
         "posicion": "POR",
@@ -18,7 +19,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -34,7 +36,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -50,7 +53,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -66,7 +70,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -82,7 +87,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -98,7 +104,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -114,7 +121,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -130,7 +138,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -146,7 +155,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -162,7 +172,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -178,7 +189,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -194,7 +206,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       }
     ]
   },
@@ -202,6 +215,7 @@
     "manager": "Dani Portero",
     "valor_equipo": 71920000,
     "num_jugadores": 12,
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -217,7 +231,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -233,7 +248,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -249,7 +265,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -265,7 +282,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -281,7 +299,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -297,7 +316,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -313,7 +333,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -329,7 +350,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -345,7 +367,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -361,7 +384,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -377,7 +401,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -393,7 +418,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   },
@@ -401,6 +427,7 @@
     "manager": "Edu Zurita",
     "valor_equipo": 62130000,
     "num_jugadores": 16,
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -416,7 +443,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "POR",
@@ -432,7 +460,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -448,7 +477,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -464,7 +494,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -480,7 +511,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -496,7 +528,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -512,7 +545,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -528,7 +562,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -544,7 +579,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -560,7 +596,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -576,7 +613,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -592,7 +630,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -608,7 +647,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -624,7 +664,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -640,7 +681,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEL",
@@ -656,7 +698,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   },
@@ -664,6 +707,7 @@
     "manager": "Diego Zuri",
     "valor_equipo": 48300000,
     "num_jugadores": 13,
+    "formacion": "3-5-2",
     "jugadores": [
       {
         "posicion": "POR",
@@ -679,7 +723,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -695,7 +740,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -711,7 +757,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -727,7 +774,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -743,7 +791,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -759,7 +808,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -775,7 +825,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -791,7 +842,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -807,7 +859,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -823,7 +876,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -839,7 +893,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -855,7 +910,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -871,7 +927,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   },
@@ -879,6 +936,7 @@
     "manager": "Mena",
     "valor_equipo": 51950000,
     "num_jugadores": 15,
+    "formacion": "3-4-3",
     "jugadores": [
       {
         "posicion": "POR",
@@ -894,7 +952,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -910,7 +969,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -926,7 +986,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -942,7 +1003,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -958,7 +1020,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -974,7 +1037,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -990,7 +1054,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1006,7 +1071,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1022,7 +1088,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -1038,7 +1105,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1054,7 +1122,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -1070,7 +1139,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -1086,7 +1156,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEL",
@@ -1102,7 +1173,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -1118,7 +1190,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   },
@@ -1126,6 +1199,7 @@
     "manager": "Muriqui Saez",
     "valor_equipo": 73940000,
     "num_jugadores": 15,
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1141,7 +1215,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1157,7 +1232,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1173,7 +1249,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1189,7 +1266,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1205,7 +1283,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -1221,7 +1300,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -1237,7 +1317,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1253,7 +1334,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1269,7 +1351,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -1285,7 +1368,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1301,7 +1385,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1317,7 +1402,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1333,7 +1419,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -1349,7 +1436,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -1365,7 +1453,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   },
@@ -1373,6 +1462,7 @@
     "manager": "Team Novita",
     "valor_equipo": 44590000,
     "num_jugadores": 18,
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1388,7 +1478,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "POR",
@@ -1404,7 +1495,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1420,7 +1512,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -1436,7 +1529,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1452,7 +1546,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1468,7 +1563,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -1484,7 +1580,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEF",
@@ -1500,7 +1597,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1516,7 +1614,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1532,7 +1631,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1548,7 +1648,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -1564,7 +1665,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1580,7 +1682,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1596,7 +1699,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1612,7 +1716,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1628,7 +1733,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -1644,7 +1750,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEL",
@@ -1660,7 +1767,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   },
@@ -1668,6 +1776,7 @@
     "manager": "Chirli",
     "valor_equipo": 55080000,
     "num_jugadores": 14,
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1683,7 +1792,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1699,7 +1809,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1715,7 +1826,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1731,7 +1843,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1747,7 +1860,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1763,7 +1877,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -1779,7 +1894,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1795,7 +1911,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1811,7 +1928,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1827,7 +1945,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "MED",
@@ -1843,7 +1962,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1859,7 +1979,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -1875,7 +1996,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": false
       },
       {
         "posicion": "DEL",
@@ -1891,7 +2013,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   },
@@ -1899,6 +2022,7 @@
     "manager": "Carlos Saez",
     "valor_equipo": 66620000,
     "num_jugadores": 10,
+    "formacion": "3-4-3",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1914,7 +2038,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1930,7 +2055,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEF",
@@ -1946,7 +2072,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1962,7 +2089,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1978,7 +2106,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -1994,7 +2123,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "MED",
@@ -2010,7 +2140,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -2026,7 +2157,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -2042,7 +2174,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       },
       {
         "posicion": "DEL",
@@ -2058,7 +2191,8 @@
         "r4": 0,
         "r3": 0,
         "r2": 0,
-        "r1": 0
+        "r1": 0,
+        "alineado": true
       }
     ]
   }
