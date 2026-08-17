@@ -1,29 +1,6 @@
 [
   {
     "posicion": 1,
-    "manager": "Manuel Tello",
-    "valor_equipo": 89350000,
-    "semanas_lider": 0,
-    "jornadas_ganadas": 0,
-    "mejor_puntos_jornada": 0,
-    "fichaje_mas_caro": "Dani Olmo",
-    "valor_fichaje_max": 16800000,
-    "puntos_fichaje_mas_caro": 0,
-    "imagen_mas_caro": "https://www.comuniate.com/caras3/3679.png",
-    "escudo_mas_caro": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "mejor_jugador": "Adrián de la Fuente",
-    "puntos_mejor_jugador": 5,
-    "valor_mejor_jugador": 3600000,
-    "imagen_mejor_jugador": "https://www.comuniate.com/caras3/3825.png",
-    "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "jugador_rentable": "Juan Iglesias",
-    "puntos_jugador_rentable": 5,
-    "valor_jugador_rentable": 3250000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3052.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/17.png"
-  },
-  {
-    "posicion": 2,
     "manager": "Muriqui Saez",
     "valor_equipo": 73940000,
     "semanas_lider": 0,
@@ -46,7 +23,7 @@
     "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/17.png"
   },
   {
-    "posicion": 3,
+    "posicion": 2,
     "manager": "Dani Portero",
     "valor_equipo": 71920000,
     "semanas_lider": 0,
@@ -67,6 +44,29 @@
     "valor_jugador_rentable": 4650000,
     "imagen_jugador_rentable": "https://www.comuniate.com/caras3/1771.png",
     "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/70.png"
+  },
+  {
+    "posicion": 3,
+    "manager": "Manuel Tello",
+    "valor_equipo": 71740000,
+    "semanas_lider": 0,
+    "jornadas_ganadas": 0,
+    "mejor_puntos_jornada": 0,
+    "fichaje_mas_caro": "Dani Olmo",
+    "valor_fichaje_max": 16800000,
+    "puntos_fichaje_mas_caro": 0,
+    "imagen_mas_caro": "https://www.comuniate.com/caras3/3679.png",
+    "escudo_mas_caro": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "mejor_jugador": "Adrián de la Fuente",
+    "puntos_mejor_jugador": 5,
+    "valor_mejor_jugador": 3600000,
+    "imagen_mejor_jugador": "https://www.comuniate.com/caras3/3825.png",
+    "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "jugador_rentable": "Juan Iglesias",
+    "puntos_jugador_rentable": 5,
+    "valor_jugador_rentable": 3250000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3052.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/17.png"
   },
   {
     "posicion": 4,

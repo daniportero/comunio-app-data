@@ -44,6 +44,28 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-17",
+    "jugador": "Álex Baena",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2943.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 10888700,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-17",
+    "jugador": "Edu Expósito",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2379.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 7494400,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-16",
     "jugador": "Toni Martínez",
     "posicion": "DEL",

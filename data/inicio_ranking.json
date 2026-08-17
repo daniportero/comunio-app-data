@@ -1,15 +1,6 @@
 [
   {
     "posicion": 1,
-    "manager": "Manuel Tello",
-    "valor_equipo": 89350000,
-    "dinero": -16685400,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 0,
-    "cambio_posicion": 0
-  },
-  {
-    "posicion": 2,
     "manager": "Muriqui Saez",
     "valor_equipo": 73940000,
     "dinero": -6511381,
@@ -18,10 +9,19 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 3,
+    "posicion": 2,
     "manager": "Dani Portero",
     "valor_equipo": 71920000,
     "dinero": 3073000,
+    "puntos_jornada_actual": 0,
+    "puntos_total": 0,
+    "cambio_posicion": 0
+  },
+  {
+    "posicion": 3,
+    "manager": "Manuel Tello",
+    "valor_equipo": 71740000,
+    "dinero": 1697700,
     "puntos_jornada_actual": 0,
     "puntos_total": 0,
     "cambio_posicion": 0

@@ -1,12 +1,12 @@
 {
   "managers": [
     {
-      "posicion": 1,
+      "posicion": 3,
       "manager": "Manuel Tello",
       "dinero": 0
     },
     {
-      "posicion": 3,
+      "posicion": 2,
       "manager": "Dani Portero",
       "dinero": 0
     },
@@ -26,7 +26,7 @@
       "dinero": 0
     },
     {
-      "posicion": 2,
+      "posicion": 1,
       "manager": "Muriqui Saez",
       "dinero": 0
     },
