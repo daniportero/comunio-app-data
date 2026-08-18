@@ -4,7 +4,7 @@
     "jornadas": [
       {
         "jornada": 1,
-		"puntos_totales": 15,
+		"puntos_totales": 13,
         "jugadores": [
           {
             "jugador": "Unai Simón",
@@ -50,7 +50,7 @@
             "puntos": 2,
             "alineado": false,
             "alineado_inicial": true
-          }
+          },
           {
             "jugador": "Gonzalo Villar",
             "posicion": "MED",
@@ -77,7 +77,7 @@
             "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
-          }
+          },
           {
             "jugador": "Adeyemi",
             "posicion": "DEL",
@@ -397,7 +397,7 @@
     "jornadas": [
       {
         "jornada": 1,
-		"puntos_totales": 5,
+		"puntos_totales": 10,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -698,7 +698,7 @@
     "jornadas": [
       {
         "jornada": 1,
-		"puntos_totales": 40,
+		"puntos_totales": 35,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -793,7 +793,7 @@
           {
             "jugador": "Ángel Pérez",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3010.png",
+            "imagen": "https://www.comuniate.com/caras3/3979.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": 5,
             "alineado": true,
@@ -802,7 +802,7 @@
           {
             "jugador": "Villalibre",
             "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3979.png",
+            "imagen": "https://www.comuniate.com/caras3/2338.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": 1,
             "alineado": true,
@@ -847,7 +847,7 @@
           {
             "jugador": "Marc Roca",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3//.png",
+            "imagen": "https://www.comuniate.com/caras3/2313.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": false,
@@ -1181,7 +1181,7 @@
     "jornadas": [
       {
         "jornada": 1,
-		"puntos_totales": 18,
+		"puntos_totales": 24,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -1218,7 +1218,7 @@
             "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
-          }
+          },
           {
             "jugador": "Agoumé",
             "posicion": "MED",
