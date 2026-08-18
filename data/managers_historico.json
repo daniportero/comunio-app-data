@@ -1156,6 +1156,15 @@
             "alineado": true,
             "vendido": false
           },
+		  {
+            "jugador": "Youssef Enríquez",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com//caras3/3812.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": 5,
+            "alineado": true,
+            "vendido": true
+          },
           {
             "jugador": "Agoumé",
             "posicion": "MED",
@@ -1217,15 +1226,6 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
-          },
-          {
-            "jugador": "Ugrinic",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3895.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-            "puntos": 0,
-            "alineado": false,
             "vendido": false
           }
         ]
