@@ -123,7 +123,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 29,
+        "puntos_totales": 28,
         "jugadores": [
           {
             "jugador": "Batalla",
@@ -202,7 +202,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3888.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": 3,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -534,7 +534,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 41,
+        "puntos_totales": 40,
         "jugadores": [
           {
             "jugador": "Eriksson",
@@ -622,7 +622,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3915.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -680,7 +680,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 40,
+        "puntos_totales": 39,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -714,7 +714,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4046.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
