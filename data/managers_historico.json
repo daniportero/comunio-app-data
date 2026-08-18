@@ -12,7 +12,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Adrián de la Fuente",
@@ -21,7 +21,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Héctor Bellerín",
@@ -30,7 +30,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Juan Iglesias",
@@ -39,7 +39,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Quagliata",
@@ -47,18 +47,9 @@
             "imagen": "https://www.comuniate.com/caras3/4047.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
             "puntos": 2,
-            "alineado": true,
-            "vendido": false
-          },
-          {
-            "jugador": "Dani Olmo",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3679.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-            "puntos": 0,
-            "alineado": true,
-            "vendido": false
-          },
+            "alineado": false,
+            "alineado_inicial": true
+          }
           {
             "jugador": "Gonzalo Villar",
             "posicion": "MED",
@@ -66,7 +57,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Izan Merino",
@@ -75,8 +66,17 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
+          {
+            "jugador": "Álex Baena",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/2943.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": true
+          }
           {
             "jugador": "Adeyemi",
             "posicion": "DEL",
@@ -84,7 +84,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Cucho Hernández",
@@ -93,7 +93,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Sergio Camello",
@@ -102,7 +102,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": 3,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Otorbi",
@@ -111,7 +111,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           }
         ]
       }
@@ -130,7 +130,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": 4,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Diego Llorente",
@@ -139,7 +139,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Hancko",
@@ -148,7 +148,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Rüdiger",
@@ -157,7 +157,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Álex Pastor",
@@ -166,7 +166,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Bernardo Silva",
@@ -175,7 +175,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Fede Valverde",
@@ -184,7 +184,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Marc Aguado",
@@ -193,7 +193,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 13,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Martim Neto",
@@ -202,7 +202,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 3,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Álvaro García",
@@ -211,7 +211,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Guruzeta",
@@ -220,7 +220,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Javi Rodríguez",
@@ -229,7 +229,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           }
         ]
       }
@@ -248,7 +248,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Angeliño",
@@ -257,7 +257,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Leandro Cabrera",
@@ -266,7 +266,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Lejeune",
@@ -275,7 +275,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": 3,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Zubeldia",
@@ -284,7 +284,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Abde Ezzalzouli",
@@ -293,7 +293,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Aleix Febas",
@@ -302,7 +302,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Dotor",
@@ -311,7 +311,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Gustavo Puerta",
@@ -320,7 +320,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": 7,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Rubén García",
@@ -329,7 +329,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Iago Aspas",
@@ -338,7 +338,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Unai Marrero",
@@ -347,7 +347,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Javi Galán",
@@ -356,7 +356,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Gorrotxategi",
@@ -365,7 +365,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Marc Casadó",
@@ -374,7 +374,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Yangel Herrera",
@@ -383,7 +383,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           }
         ]
       }
@@ -402,7 +402,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Fran García",
@@ -411,7 +411,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Hugo Rincón",
@@ -420,7 +420,16 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Hartman",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/4087.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": true
           },
           {
             "jugador": "Militão",
@@ -428,8 +437,8 @@
             "imagen": "https://www.comuniate.com/caras3/2760.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
             "puntos": 0,
-            "alineado": true,
-            "vendido": false
+            "alineado": false,
+            "alineado_inicial": true
           },
           {
             "jugador": "Dani Lorenzo",
@@ -438,7 +447,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Fermín López",
@@ -446,8 +455,8 @@
             "imagen": "https://www.comuniate.com/caras3/3506.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
-            "alineado": true,
-            "vendido": false
+            "alineado": false,
+            "alineado_inicial": true
           },
           {
             "jugador": "Giuliano Simeone",
@@ -456,7 +465,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Hugo González",
@@ -464,8 +473,17 @@
             "imagen": "https://www.comuniate.com/caras3/3484.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": 0,
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Pedro Díaz",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3675.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "puntos": 3,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Ramón Terrats",
@@ -474,25 +492,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
-          },
-          {
-            "jugador": "Raba",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2498.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-            "puntos": 0,
-            "alineado": true,
-            "vendido": false
-          },
-          {
-            "jugador": "Ratiu",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/3498.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
-            "puntos": 0,
-            "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Lemar",
@@ -501,7 +501,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Peio Canales",
@@ -510,7 +510,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Víctor García",
@@ -518,8 +518,26 @@
             "imagen": "https://www.comuniate.com/caras3/2924.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": 2,
-            "alineado": false,
-            "vendido": false
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Raba",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2498.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Juan Carlos Arana",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/4043.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": true
           }
         ]
       }
@@ -538,7 +556,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Nahuel Tenaglia",
@@ -547,7 +565,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": 16,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Omar El Hilali",
@@ -556,7 +574,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": 4,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Víctor Chust",
@@ -565,7 +583,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Amatucci",
@@ -574,7 +592,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
             "puntos": 7,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Juan Cruz",
@@ -583,7 +601,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Mikel Jauregizar",
@@ -592,7 +610,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Sucic",
@@ -601,7 +619,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Alemao",
@@ -610,7 +628,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Ali Houary",
@@ -619,7 +637,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 4,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Budimir",
@@ -628,7 +646,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Aitor Paredes",
@@ -637,7 +655,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Davinchi",
@@ -646,7 +664,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": 3,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Moscardo",
@@ -655,7 +673,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Javi Puado",
@@ -664,7 +682,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           }
         ]
       }
@@ -683,7 +701,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Einar Galilea",
@@ -692,7 +710,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Juan Foyth",
@@ -700,17 +718,17 @@
             "imagen": "https://www.comuniate.com/caras3/3017.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": 7,
-            "alineado": true,
-            "vendido": false
+            "alineado": false,
+            "alineado_inicial": true
           },
           {
             "jugador": "Lucas Noubi",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4046.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Zaid Romero",
@@ -719,7 +737,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": 2,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Carlos Álvarez",
@@ -728,7 +746,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": 2,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Comesaña",
@@ -737,7 +755,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": 2,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Mario Soriano",
@@ -746,7 +764,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
             "puntos": 6,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Peque",
@@ -754,8 +772,8 @@
             "imagen": "https://www.comuniate.com/caras3/3655.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": 7,
-            "alineado": true,
-            "vendido": false
+            "alineado": false,
+            "alineado_inicial": true
           },
           {
             "jugador": "Íñigo Vicente",
@@ -764,16 +782,34 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": 10,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
-            "jugador": "Vinícius Júnior",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2565.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 0,
+            "jugador": "Ángel Pérez",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3010.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Villalibre",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3979.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+            "puntos": 1,
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Ayoze Pérez",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3389.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+            "puntos": 4,
+            "alineado": true,
+            "alineado_inicial": true
           },
           {
             "jugador": "Aihen Muñoz",
@@ -782,7 +818,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Sergio Gómez",
@@ -791,7 +827,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": true
+            "alineado_inicial": true
           },
           {
             "jugador": "Lucas Cepeda",
@@ -800,7 +836,16 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 2,
             "alineado": false,
-            "vendido": true
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Marc Roca",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3//.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+            "puntos": 0,
+            "alineado": false,
+            "alineado_inicial": true
           },
           {
             "jugador": "Sato",
@@ -809,7 +854,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": true
+            "alineado_inicial": true
           }
         ]
       }
@@ -828,7 +873,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Alex Freeman",
@@ -837,7 +882,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Andrés Castrín",
@@ -846,7 +891,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Bigas",
@@ -855,7 +900,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Unai Núñez",
@@ -864,7 +909,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": 8,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Beñat Turrientes",
@@ -873,7 +918,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Diangana",
@@ -882,7 +927,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Marc Bernal",
@@ -891,7 +936,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Villares",
@@ -900,7 +945,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
             "puntos": 3,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Álex Calatrava",
@@ -909,7 +954,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": 6,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Etta Eyong",
@@ -918,7 +963,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": 2,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Adrián Rodríguez",
@@ -927,7 +972,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Boselli",
@@ -936,7 +981,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Gerard Martín",
@@ -945,7 +990,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Luiz Felipe",
@@ -954,7 +999,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "André Almeida",
@@ -963,7 +1008,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Luis Rioja",
@@ -972,7 +1017,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Swedberg",
@@ -981,7 +1026,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           }
         ]
       }
@@ -1000,7 +1045,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": 6,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Adriá Altimira",
@@ -1009,7 +1054,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Alejandro Balde",
@@ -1018,7 +1063,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Carlos Puga",
@@ -1027,7 +1072,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "David Affengruber",
@@ -1036,7 +1081,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Aimar Oroz",
@@ -1045,7 +1090,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Diego López Noguerol",
@@ -1054,7 +1099,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Hugo Álvarez",
@@ -1063,7 +1108,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Isco",
@@ -1072,7 +1117,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Javier Guerra",
@@ -1081,7 +1126,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Iván Romero",
@@ -1090,7 +1135,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": 4,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Jon Moncayola",
@@ -1099,7 +1144,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Iker Losada",
@@ -1108,7 +1153,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Brugui",
@@ -1117,7 +1162,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": 0,
             "alineado": false,
-            "vendido": false
+            "alineado_inicial": true
           }
         ]
       }
@@ -1136,7 +1181,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": 3,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Andrés García",
@@ -1145,7 +1190,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Natan",
@@ -1154,17 +1199,17 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
-		  {
+          {
             "jugador": "Youssef Enríquez",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com//caras3/3812.png",
+            "imagen": "https://www.comuniate.com/caras3/3812.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": true
-          },
+            "alineado_inicial": true
+          }
           {
             "jugador": "Agoumé",
             "posicion": "MED",
@@ -1172,7 +1217,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Carlos Soler",
@@ -1181,7 +1226,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Ilias Akhomach",
@@ -1190,7 +1235,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": 2,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Unai López",
@@ -1199,16 +1244,16 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": 5,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
-            "jugador": "Enes Ünal",
+            "jugador": "Toni Martínez",
             "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2403.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 3,
+            "imagen": "https://www.comuniate.com/caras3/3704.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": 4,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Julián Álvarez",
@@ -1217,7 +1262,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           },
           {
             "jugador": "Raphinha",
@@ -1226,7 +1271,7 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
             "alineado": true,
-            "vendido": false
+            "alineado_inicial": true
           }
         ]
       }
