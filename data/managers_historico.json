@@ -4,7 +4,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 15,
+        "puntos_totales": 20,
         "jugadores": [
           {
             "jugador": "Unai Simón",
@@ -20,7 +20,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3825.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
-            "puntos": 0,
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -123,7 +123,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 20,
+        "puntos_totales": 29,
         "jugadores": [
           {
             "jugador": "Batalla",
@@ -211,7 +211,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/1771.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
-            "puntos": 0,
+            "puntos": 9,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1136,7 +1136,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 18,
+        "puntos_totales": 20,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -1152,7 +1152,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4097.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 0,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
