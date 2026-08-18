@@ -22,6 +22,39 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-18",
+    "jugador": "Sato",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4086.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 5450100,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-18",
+    "jugador": "Sergio Gómez",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2990.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 4701900,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-18",
+    "jugador": "Lucas Cepeda",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3977.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 680700,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-17",
     "jugador": "Enes Ünal",
     "posicion": "DEL",
