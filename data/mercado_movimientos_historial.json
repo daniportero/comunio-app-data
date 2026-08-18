@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-08-18",
+    "jugador": "Ugrinic",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3895.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 1501000,
+    "valor_momento": 1260000,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-18",
+    "jugador": "Ratiu",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3498.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 5333339,
+    "valor_momento": 4880000,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-17",
     "jugador": "Enes Ünal",
     "posicion": "DEL",

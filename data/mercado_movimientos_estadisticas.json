@@ -28,9 +28,9 @@
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 29,
-    "num_compras": 21,
-    "valor_compras": 33831721,
+    "total_mov": 30,
+    "num_compras": 22,
+    "valor_compras": 39165060,
     "num_ventas": 8,
     "valor_ventas": 12893300,
     "margen_ventas": 4976635
@@ -73,9 +73,9 @@
   },
   {
     "manager": "Carlos Saez",
-    "total_mov": 26,
-    "num_compras": 17,
-    "valor_compras": 54067000,
+    "total_mov": 27,
+    "num_compras": 18,
+    "valor_compras": 55568000,
     "num_ventas": 9,
     "valor_ventas": 26360300,
     "margen_ventas": 4637500
