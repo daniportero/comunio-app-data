@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "manager": "Manuel Tello",
+    "jugador": "Quagliata",
+    "imagen": "https://www.comuniate.com/caras3/4047.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "precio_venta": 2337700,
+    "fecha": "2026-08-19"
+  },
+  {
+    "manager": "Manuel Tello",
+    "jugador": "Otorbi",
+    "imagen": "https://www.comuniate.com/caras3/3557.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "precio_venta": 313900,
+    "fecha": "2026-08-19"
+  }
+]

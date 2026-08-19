@@ -4,7 +4,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 20,
+        "puntos_totales": 23,
         "jugadores": [
           {
             "jugador": "Unai Simón",
@@ -120,6 +120,15 @@
             "imagen": "https://www.comuniate.com/caras3/3679.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Santiago Mouriño",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3458.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": false
           }
@@ -551,6 +560,15 @@
             "puntos": 2,
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Ratiu",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3498.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
