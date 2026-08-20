@@ -1,5 +1,60 @@
 [
   {
+    "fecha": "2026-08-20",
+    "jugador": "Sergi Cardona",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3433.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 2620000,
+    "valor_momento": 2500000,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-20",
+    "jugador": "Kubo",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2852.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 7950000,
+    "valor_momento": 8320000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-20",
+    "jugador": "Nico Williams",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3084.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 15190000,
+    "valor_momento": 15570000,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-20",
+    "jugador": "Odriozola",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2350.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 241000,
+    "valor_momento": 270000,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-20",
+    "jugador": "Pablo Ramón",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3762.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 1101000,
+    "valor_momento": 1240000,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-19",
     "jugador": "Villalibre",
     "posicion": "DEL",
@@ -61,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/2369.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 4243600,
-    "valor_momento": null,
+    "valor_momento": 4120000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
@@ -72,7 +127,7 @@
     "imagen": "https://www.comuniate.com/caras3/3475.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 380000,
-    "valor_momento": null,
+    "valor_momento": 400000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },

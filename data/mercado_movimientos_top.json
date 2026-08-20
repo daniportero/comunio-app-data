@@ -7,7 +7,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
       "valor_compra": 16800000,
       "plusvalia": -230000,
-      "revalorizacion": 1570000
+      "revalorizacion": 1160000
     },
     {
       "manager": "Dani Portero",
@@ -16,7 +16,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 14050000,
       "plusvalia": 4190000,
-      "revalorizacion": -80000
+      "revalorizacion": -1320000
     },
     {
       "manager": "Edu Zurita",
@@ -25,16 +25,16 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
       "valor_compra": 8990000,
       "plusvalia": 5190000,
-      "revalorizacion": 3650000
+      "revalorizacion": 2980000
     },
     {
       "manager": "Diego Zuri",
-      "jugador": "Fermín López",
-      "imagen": "https://www.comuniate.com/caras3/3506.png",
-      "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-      "valor_compra": 7855225,
-      "plusvalia": 5784775,
-      "revalorizacion": 1860000
+      "jugador": "Nico Williams",
+      "imagen": "https://www.comuniate.com/caras3/3084.png",
+      "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+      "valor_compra": 15190000,
+      "plusvalia": 0,
+      "revalorizacion": 2270000
     },
     {
       "manager": "Mena",
@@ -43,7 +43,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
       "valor_compra": 9500000,
       "plusvalia": 6590000,
-      "revalorizacion": 2470000
+      "revalorizacion": 1220000
     },
     {
       "manager": "Muriqui Saez",
@@ -52,7 +52,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 29555555,
       "plusvalia": -5975555,
-      "revalorizacion": 470000
+      "revalorizacion": -1860000
     },
     {
       "manager": "Team Novita",
@@ -61,7 +61,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
       "valor_compra": 3950000,
       "plusvalia": 3890000,
-      "revalorizacion": 300000
+      "revalorizacion": 80000
     },
     {
       "manager": "Chirli",
@@ -70,7 +70,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
       "valor_compra": 12500000,
       "plusvalia": 2490000,
-      "revalorizacion": 2130000
+      "revalorizacion": 1760000
     },
     {
       "manager": "Carlos Saez",
@@ -79,7 +79,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
       "valor_compra": 15101000,
       "plusvalia": 9179000,
-      "revalorizacion": 6310000
+      "revalorizacion": 3640000
     }
   ],
   "top_venta": [

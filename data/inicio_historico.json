@@ -1,1 +1,47 @@
-[]
+[
+  {
+    "jornada": 1,
+    "posicion": 1,
+    "manager": "Mena"
+  },
+  {
+    "jornada": 1,
+    "posicion": 2,
+    "manager": "Dani Portero"
+  },
+  {
+    "jornada": 1,
+    "posicion": 3,
+    "manager": "Muriqui Saez"
+  },
+  {
+    "jornada": 1,
+    "posicion": 4,
+    "manager": "Manuel Tello"
+  },
+  {
+    "jornada": 1,
+    "posicion": 5,
+    "manager": "Carlos Saez"
+  },
+  {
+    "jornada": 1,
+    "posicion": 6,
+    "manager": "Diego Zuri"
+  },
+  {
+    "jornada": 1,
+    "posicion": 7,
+    "manager": "Chirli"
+  },
+  {
+    "jornada": 1,
+    "posicion": 8,
+    "manager": "Team Novita"
+  },
+  {
+    "jornada": 1,
+    "posicion": 9,
+    "manager": "Edu Zurita"
+  }
+]
