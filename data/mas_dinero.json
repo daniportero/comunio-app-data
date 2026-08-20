@@ -8,8 +8,8 @@
     "compras": 26971778,
     "ventas": 393800,
     "puntos": 19,
-    "cuota_mercado": 0.0752,
-    "plusvalia": 18653222,
+    "cuota_mercado": 0.0756,
+    "plusvalia": 18563222,
     "margen_ventas": 8800
   },
   {
@@ -21,8 +21,8 @@
     "compras": 56910000,
     "ventas": 26360300,
     "puntos": 26,
-    "cuota_mercado": 0.1239,
-    "plusvalia": 29207000,
+    "cuota_mercado": 0.1247,
+    "plusvalia": 30177000,
     "margen_ventas": 4637500
   },
   {
@@ -34,9 +34,22 @@
     "compras": 88042481,
     "ventas": 52363800,
     "puntos": 39,
-    "cuota_mercado": 0.1083,
-    "plusvalia": 9094233,
+    "cuota_mercado": 0.109,
+    "plusvalia": 11814233,
     "margen_ventas": 13310986
+  },
+  {
+    "posicion": 7,
+    "manager": "Chirli",
+    "valor_equipo": 56210000,
+    "puja_maxima": 15363100,
+    "dinero": 1310600,
+    "compras": 40930000,
+    "ventas": 2010600,
+    "puntos": 23,
+    "cuota_mercado": 0.0942,
+    "plusvalia": 16250000,
+    "margen_ventas": 1040600
   },
   {
     "posicion": 1,
@@ -47,8 +60,8 @@
     "compras": 49800000,
     "ventas": 10014100,
     "puntos": 42,
-    "cuota_mercado": 0.0909,
-    "plusvalia": 14330000,
+    "cuota_mercado": 0.0914,
+    "plusvalia": 16030000,
     "margen_ventas": -1235900
   },
   {
@@ -60,9 +73,22 @@
     "compras": 88820000,
     "ventas": 48919300,
     "puntos": 39,
-    "cuota_mercado": 0.1283,
-    "plusvalia": 19300000,
+    "cuota_mercado": 0.1291,
+    "plusvalia": 21650000,
     "margen_ventas": 15529300
+  },
+  {
+    "posicion": 6,
+    "manager": "Diego Zuri",
+    "valor_equipo": 70150000,
+    "puja_maxima": 17969640,
+    "dinero": 432140,
+    "compras": 54355060,
+    "ventas": 14547200,
+    "puntos": 24,
+    "cuota_mercado": 0.1175,
+    "plusvalia": 24600493,
+    "margen_ventas": 5741647
   },
   {
     "posicion": 9,
@@ -73,35 +99,9 @@
     "compras": 61870017,
     "ventas": 21289500,
     "puntos": 18,
-    "cuota_mercado": 0.1164,
-    "plusvalia": 23229984,
+    "cuota_mercado": 0.1172,
+    "plusvalia": 22949984,
     "margen_ventas": 6399499
-  },
-  {
-    "posicion": 7,
-    "manager": "Chirli",
-    "valor_equipo": 58300000,
-    "puja_maxima": 13875000,
-    "dinero": -700000,
-    "compras": 40930000,
-    "ventas": 0,
-    "puntos": 23,
-    "cuota_mercado": 0.097,
-    "plusvalia": 16540000,
-    "margen_ventas": 0
-  },
-  {
-    "posicion": 6,
-    "manager": "Diego Zuri",
-    "valor_equipo": 71880000,
-    "puja_maxima": 16748240,
-    "dinero": -1221760,
-    "compras": 54355060,
-    "ventas": 12893300,
-    "puntos": 24,
-    "cuota_mercado": 0.1197,
-    "plusvalia": 23981605,
-    "margen_ventas": 4976635
   },
   {
     "posicion": 2,
@@ -112,8 +112,8 @@
     "compras": 80200000,
     "ventas": 35323000,
     "puntos": 40,
-    "cuota_mercado": 0.1404,
-    "plusvalia": 35100000,
+    "cuota_mercado": 0.1413,
+    "plusvalia": 35180000,
     "margen_ventas": 4263000
   }
 ]

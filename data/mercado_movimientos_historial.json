@@ -55,6 +55,28 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-20",
+    "jugador": "Adriá Altimira",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3514.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 2010600,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-20",
+    "jugador": "Hugo González",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3484.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 1653900,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-19",
     "jugador": "Villalibre",
     "posicion": "DEL",

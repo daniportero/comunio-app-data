@@ -5,7 +5,7 @@
     "valor_equipo": 54580000,
     "dinero": 634100,
     "puntos_jornada_actual": 42,
-    "puntos_total": 84,
+    "puntos_total": 42,
     "cambio_posicion": 0
   },
   {
@@ -14,7 +14,7 @@
     "valor_equipo": 84320000,
     "dinero": -4477000,
     "puntos_jornada_actual": 40,
-    "puntos_total": 80,
+    "puntos_total": 40,
     "cambio_posicion": 0
   },
   {
@@ -23,7 +23,7 @@
     "valor_equipo": 77080000,
     "dinero": 489300,
     "puntos_jornada_actual": 39,
-    "puntos_total": 78,
+    "puntos_total": 39,
     "cambio_posicion": 0
   },
   {
@@ -32,7 +32,7 @@
     "valor_equipo": 65080000,
     "dinero": 4711319,
     "puntos_jornada_actual": 39,
-    "puntos_total": 78,
+    "puntos_total": 39,
     "cambio_posicion": 0
   },
   {
@@ -41,25 +41,25 @@
     "valor_equipo": 74410000,
     "dinero": 9710300,
     "puntos_jornada_actual": 26,
-    "puntos_total": 52,
+    "puntos_total": 26,
     "cambio_posicion": 0
   },
   {
     "posicion": 6,
     "manager": "Diego Zuri",
-    "valor_equipo": 71880000,
-    "dinero": -1221760,
+    "valor_equipo": 70150000,
+    "dinero": 432140,
     "puntos_jornada_actual": 24,
-    "puntos_total": 48,
+    "puntos_total": 24,
     "cambio_posicion": 0
   },
   {
     "posicion": 7,
     "manager": "Chirli",
-    "valor_equipo": 58300000,
-    "dinero": -700000,
+    "valor_equipo": 56210000,
+    "dinero": 1310600,
     "puntos_jornada_actual": 23,
-    "puntos_total": 46,
+    "puntos_total": 23,
     "cambio_posicion": 0
   },
   {
@@ -68,7 +68,7 @@
     "valor_equipo": 45150000,
     "dinero": 13612022,
     "puntos_jornada_actual": 19,
-    "puntos_total": 38,
+    "puntos_total": 19,
     "cambio_posicion": 0
   },
   {
@@ -77,7 +77,7 @@
     "valor_equipo": 69930000,
     "dinero": -400517,
     "puntos_jornada_actual": 18,
-    "puntos_total": 36,
+    "puntos_total": 18,
     "cambio_posicion": 0
   }
 ]
