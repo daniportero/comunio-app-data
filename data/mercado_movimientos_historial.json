@@ -77,6 +77,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-20",
+    "jugador": "Marc Casadó",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3507.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 851600,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-19",
     "jugador": "Villalibre",
     "posicion": "DEL",
