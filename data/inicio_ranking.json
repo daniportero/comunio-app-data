@@ -2,8 +2,8 @@
   {
     "posicion": 1,
     "manager": "Manuel Tello",
-    "valor_equipo": 77080000,
-    "dinero": 489300,
+    "valor_equipo": 79640000,
+    "dinero": -2860700,
     "puntos_jornada_actual": 12,
     "puntos_total": 51,
     "cambio_posicion": 0
@@ -11,7 +11,7 @@
   {
     "posicion": 2,
     "manager": "Dani Portero",
-    "valor_equipo": 76000000,
+    "valor_equipo": 71270000,
     "dinero": 3843000,
     "puntos_jornada_actual": 9,
     "puntos_total": 49,
@@ -20,7 +20,7 @@
   {
     "posicion": 3,
     "manager": "Carlos Saez",
-    "valor_equipo": 74410000,
+    "valor_equipo": 73010000,
     "dinero": 9710300,
     "puntos_jornada_actual": 6,
     "puntos_total": 32,
@@ -29,8 +29,8 @@
   {
     "posicion": 4,
     "manager": "Chirli",
-    "valor_equipo": 56210000,
-    "dinero": 1310600,
+    "valor_equipo": 54510000,
+    "dinero": -449400,
     "puntos_jornada_actual": 5,
     "puntos_total": 28,
     "cambio_posicion": 0
@@ -38,7 +38,7 @@
   {
     "posicion": 5,
     "manager": "Edu Zurita",
-    "valor_equipo": 69100000,
+    "valor_equipo": 68660000,
     "dinero": 451083,
     "puntos_jornada_actual": 4,
     "puntos_total": 22,
@@ -47,7 +47,7 @@
   {
     "posicion": 6,
     "manager": "Mena",
-    "valor_equipo": 54580000,
+    "valor_equipo": 53280000,
     "dinero": 634100,
     "puntos_jornada_actual": 4,
     "puntos_total": 46,
@@ -56,7 +56,7 @@
   {
     "posicion": 7,
     "manager": "Diego Zuri",
-    "valor_equipo": 70150000,
+    "valor_equipo": 68310000,
     "dinero": 432140,
     "puntos_jornada_actual": 2,
     "puntos_total": 26,
@@ -65,7 +65,7 @@
   {
     "posicion": 8,
     "manager": "Muriqui Saez",
-    "valor_equipo": 65080000,
+    "valor_equipo": 60250000,
     "dinero": 4711319,
     "puntos_jornada_actual": 0,
     "puntos_total": 39,
@@ -74,8 +74,8 @@
   {
     "posicion": 9,
     "manager": "Team Novita",
-    "valor_equipo": 45150000,
-    "dinero": 13612022,
+    "valor_equipo": 45130000,
+    "dinero": 13012012,
     "puntos_jornada_actual": 0,
     "puntos_total": 19,
     "cambio_posicion": 0

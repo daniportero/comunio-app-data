@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-08-21",
+    "jugador": "Kike García",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2202.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 1760000,
+    "valor_momento": 1370000,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-21",
+    "jugador": "Raúl Moro",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3625.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 3350000,
+    "valor_momento": 3340000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-21",
+    "jugador": "Youssef Enríquez",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3812.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 600010,
+    "valor_momento": 640000,
+    "manager": "Team Novita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-20",
     "jugador": "Sergi Cardona",
     "posicion": "DEF",
@@ -61,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/3514.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "valor": 2010600,
-    "valor_momento": null,
+    "valor_momento": 2090000,
     "manager": "Chirli",
     "movimiento": "Venta"
   },
@@ -72,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/3484.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "valor": 1653900,
-    "valor_momento": null,
+    "valor_momento": 1730000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -83,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/3507.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
     "valor": 851600,
-    "valor_momento": null,
+    "valor_momento": 830000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
