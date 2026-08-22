@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-08-22",
+    "jugador": "Héctor Bellerín",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3164.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 3440800,
+    "valor_momento": 3310000,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-21",
     "jugador": "Kike García",
     "posicion": "DEL",
@@ -39,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/3333.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "valor": 668600,
-    "valor_momento": null,
+    "valor_momento": 660000,
     "manager": "Chirli",
     "movimiento": "Venta"
   },
