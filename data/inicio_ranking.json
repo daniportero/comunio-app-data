@@ -1,6 +1,15 @@
 [
   {
     "posicion": 1,
+    "manager": "Carlos Saez",
+    "valor_equipo": 73360000,
+    "dinero": 9966100,
+    "puntos_jornada_actual": 22,
+    "puntos_total": 48,
+    "cambio_posicion": 0
+  },
+  {
+    "posicion": 2,
     "manager": "Manuel Tello",
     "valor_equipo": 76480000,
     "dinero": 580100,
@@ -9,16 +18,16 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 2,
-    "manager": "Carlos Saez",
-    "valor_equipo": 73610000,
-    "dinero": 9710300,
-    "puntos_jornada_actual": 19,
-    "puntos_total": 45,
+    "posicion": 3,
+    "manager": "Dani Portero",
+    "valor_equipo": 71040000,
+    "dinero": 3843000,
+    "puntos_jornada_actual": 11,
+    "puntos_total": 51,
     "cambio_posicion": 0
   },
   {
-    "posicion": 3,
+    "posicion": 4,
     "manager": "Edu Zurita",
     "valor_equipo": 68950000,
     "dinero": 451083,
@@ -27,16 +36,16 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 4,
-    "manager": "Dani Portero",
-    "valor_equipo": 71040000,
-    "dinero": 3843000,
-    "puntos_jornada_actual": 9,
-    "puntos_total": 49,
+    "posicion": 5,
+    "manager": "Diego Zuri",
+    "valor_equipo": 68150000,
+    "dinero": 432140,
+    "puntos_jornada_actual": 11,
+    "puntos_total": 35,
     "cambio_posicion": 0
   },
   {
-    "posicion": 5,
+    "posicion": 6,
     "manager": "Chirli",
     "valor_equipo": 56010000,
     "dinero": 219200,
@@ -45,16 +54,16 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 6,
-    "manager": "Diego Zuri",
-    "valor_equipo": 68150000,
-    "dinero": 432140,
-    "puntos_jornada_actual": 8,
-    "puntos_total": 32,
+    "posicion": 7,
+    "manager": "Team Novita",
+    "valor_equipo": 44980000,
+    "dinero": 13012012,
+    "puntos_jornada_actual": 7,
+    "puntos_total": 26,
     "cambio_posicion": 0
   },
   {
-    "posicion": 7,
+    "posicion": 8,
     "manager": "Mena",
     "valor_equipo": 52540000,
     "dinero": 634100,
@@ -63,21 +72,12 @@
     "cambio_posicion": 0
   },
   {
-    "posicion": 8,
-    "manager": "Team Novita",
-    "valor_equipo": 44980000,
-    "dinero": 13012012,
-    "puntos_jornada_actual": 4,
-    "puntos_total": 23,
-    "cambio_posicion": 0
-  },
-  {
     "posicion": 9,
     "manager": "Muriqui Saez",
     "valor_equipo": 62870000,
     "dinero": 4711319,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 39,
+    "puntos_jornada_actual": 3,
+    "puntos_total": 42,
     "cambio_posicion": 0
   }
 ]

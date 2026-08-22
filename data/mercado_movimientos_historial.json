@@ -11,6 +11,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-22",
+    "jugador": "Odriozola",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2350.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 255800,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-21",
     "jugador": "Kike García",
     "posicion": "DEL",

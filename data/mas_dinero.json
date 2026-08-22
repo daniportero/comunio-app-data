@@ -15,15 +15,15 @@
   {
     "posicion": 5,
     "manager": "Carlos Saez",
-    "valor_equipo": 73610000,
-    "puja_maxima": 28112800,
-    "dinero": 9710300,
+    "valor_equipo": 73360000,
+    "puja_maxima": 28306100,
+    "dinero": 9966100,
     "compras": 56910000,
-    "ventas": 26360300,
+    "ventas": 26616100,
     "puntos": 26,
-    "cuota_mercado": 0.1281,
-    "plusvalia": 29377000,
-    "margen_ventas": 4637500
+    "cuota_mercado": 0.1277,
+    "plusvalia": 29368000,
+    "margen_ventas": 4652300
   },
   {
     "posicion": 4,
@@ -34,7 +34,7 @@
     "compras": 88042481,
     "ventas": 52363800,
     "puntos": 39,
-    "cuota_mercado": 0.1094,
+    "cuota_mercado": 0.1095,
     "plusvalia": 9604233,
     "margen_ventas": 13310986
   },
@@ -47,7 +47,7 @@
     "compras": 80200000,
     "ventas": 43643000,
     "puntos": 40,
-    "cuota_mercado": 0.1236,
+    "cuota_mercado": 0.1237,
     "plusvalia": 29850000,
     "margen_ventas": 4633000
   },
@@ -60,7 +60,7 @@
     "compras": 49800000,
     "ventas": 10014100,
     "puntos": 42,
-    "cuota_mercado": 0.0914,
+    "cuota_mercado": 0.0915,
     "plusvalia": 13990000,
     "margen_ventas": -1235900
   },
@@ -73,7 +73,7 @@
     "compras": 92170000,
     "ventas": 52360100,
     "puntos": 39,
-    "cuota_mercado": 0.1331,
+    "cuota_mercado": 0.1332,
     "plusvalia": 19150000,
     "margen_ventas": 17520100
   },
