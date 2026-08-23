@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-08-23",
+    "jugador": "Eneko Jauregi",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4093.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "valor": 400000,
+    "valor_momento": 380000,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-23",
+    "jugador": "Aïssa Mandi",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2251.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 3085000,
+    "valor_momento": 3270000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-22",
     "jugador": "Héctor Bellerín",
     "posicion": "DEF",
@@ -17,7 +39,7 @@
     "imagen": "https://www.comuniate.com/caras3/2350.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 255800,
-    "valor_momento": null,
+    "valor_momento": 250000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },

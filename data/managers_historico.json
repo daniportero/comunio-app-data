@@ -143,7 +143,7 @@
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/2669.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 0,
+            "puntos": -4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -170,7 +170,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3052.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -369,7 +369,7 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 9,
+        "puntos_totales": 27,
         "jugadores": [
           {
             "jugador": "Batalla",
@@ -403,7 +403,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3686.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 0,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -421,7 +421,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4062.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 0,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -430,7 +430,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2415.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 0,
+            "puntos": 7,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -466,7 +466,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2664.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 0,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -656,14 +656,14 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 11,
+        "puntos_totales": 25,
         "jugadores": [
           {
             "jugador": "Courtois",
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/1400.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 0,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -672,7 +672,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/2736.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -699,7 +699,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2829.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -744,7 +744,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/1523.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 0,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -961,7 +961,7 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 8,
+        "puntos_totales": 21,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -986,7 +986,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3576.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1031,7 +1031,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3728.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1049,7 +1049,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3084.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 0,
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1239,7 +1239,7 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 6,
+        "puntos_totales": 7,
         "jugadores": [
           {
             "jugador": "Eriksson",
@@ -1264,7 +1264,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3347.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 0,
+            "puntos": 1,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1345,7 +1345,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3331.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 0,
+            "puntos": 13,
             "alineado": false,
             "alineado_inicial": true
           },
@@ -1562,7 +1562,7 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 0,
+        "puntos_totales": 7,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -1641,7 +1641,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3655.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": 0,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1659,7 +1659,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2565.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 0,
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1849,7 +1849,7 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 4,
+        "puntos_totales": 29,
         "jugadores": [
           {
             "jugador": "Luiz Junior",
@@ -1865,7 +1865,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3910.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": 0,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1892,7 +1892,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/2428.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1919,7 +1919,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3278.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1937,7 +1937,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4083.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 0,
+            "puntos": 11,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -2163,7 +2163,7 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 9,
+        "puntos_totales": 15,
         "jugadores": [
           {
             "jugador": "Sivera",
@@ -2224,7 +2224,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3179.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 0,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -2242,7 +2242,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3404.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -2423,7 +2423,7 @@
       },
       {
         "jornada": 2,
-        "puntos_totales": 19,
+        "puntos_totales": 31,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -2466,7 +2466,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3562.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": 0,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -2484,7 +2484,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3895.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-            "puntos": 0,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
