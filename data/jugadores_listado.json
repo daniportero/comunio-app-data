@@ -3662,17 +3662,17 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor_jugador": 660000,
     "revalorizacion": -580000,
-    "plusvalia": -790000,
+    "plusvalia": null,
     "r5": 0,
     "r4": 0,
     "r3": 0,
     "r2": 0,
     "r1": 0,
-    "libre": false,
+    "libre": true,
     "anterior_dueño": "Mena",
     "compra": 1450000,
-    "venta": null,
-    "margen_venta": null
+    "venta": 670600,
+    "margen_venta": -779400
   },
   {
     "posicion": "MED",
@@ -3809,17 +3809,17 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor_jugador": 2300000,
     "revalorizacion": -810000,
-    "plusvalia": -300000,
+    "plusvalia": null,
     "r5": 0,
     "r4": 0,
     "r3": 0,
     "r2": 0,
     "r1": 0,
-    "libre": false,
+    "libre": true,
     "anterior_dueño": "Mena",
     "compra": 2600000,
-    "venta": null,
-    "margen_venta": null
+    "venta": 2332200,
+    "margen_venta": -267800
   },
   {
     "posicion": "MED",

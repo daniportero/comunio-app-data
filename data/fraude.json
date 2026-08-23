@@ -30,5 +30,21 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "precio_venta": 3440800,
     "fecha": "2026-08-22"
+  },
+  {
+    "manager": "Mena",
+    "jugador": "Javi Puado",
+    "imagen": "https://www.comuniate.com/caras3/2637.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "precio_venta": 2332200,
+    "fecha": "2026-08-23"
+  },
+  {
+    "manager": "Mena",
+    "jugador": "Moscardo",
+    "imagen": "https://www.comuniate.com/caras3/4091.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "precio_venta": 670600,
+    "fecha": "2026-08-23"
   }
 ]

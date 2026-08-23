@@ -33,6 +33,28 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-23",
+    "jugador": "Javi Puado",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2637.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 2332200,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-23",
+    "jugador": "Moscardo",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4091.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 670600,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-22",
     "jugador": "Héctor Bellerín",
     "posicion": "DEF",
