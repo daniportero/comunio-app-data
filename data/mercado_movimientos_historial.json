@@ -22,6 +22,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-23",
+    "jugador": "Alejandro Balde",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3170.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 4576200,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-22",
     "jugador": "Héctor Bellerín",
     "posicion": "DEF",

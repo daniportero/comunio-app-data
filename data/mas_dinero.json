@@ -8,8 +8,8 @@
     "compras": 27571788,
     "ventas": 393800,
     "puntos": 19,
-    "cuota_mercado": 0.0776,
-    "plusvalia": 17793212,
+    "cuota_mercado": 0.0782,
+    "plusvalia": 16383212,
     "margen_ventas": 8800
   },
   {
@@ -21,9 +21,22 @@
     "compras": 56910000,
     "ventas": 26616100,
     "puntos": 26,
-    "cuota_mercado": 0.125,
-    "plusvalia": 29368000,
+    "cuota_mercado": 0.126,
+    "plusvalia": 26258000,
     "margen_ventas": 4652300
+  },
+  {
+    "posicion": 7,
+    "manager": "Chirli",
+    "valor_equipo": 48620000,
+    "puja_maxima": 16950400,
+    "dinero": 4795400,
+    "compras": 42690000,
+    "ventas": 7255400,
+    "puntos": 23,
+    "cuota_mercado": 0.0872,
+    "plusvalia": 9710000,
+    "margen_ventas": 3475400
   },
   {
     "posicion": 4,
@@ -34,8 +47,8 @@
     "compras": 88042481,
     "ventas": 52363800,
     "puntos": 39,
-    "cuota_mercado": 0.1105,
-    "plusvalia": 9604233,
+    "cuota_mercado": 0.1113,
+    "plusvalia": 8794233,
     "margen_ventas": 13310986
   },
   {
@@ -47,8 +60,8 @@
     "compras": 83285000,
     "ventas": 43643000,
     "puntos": 40,
-    "cuota_mercado": 0.1306,
-    "plusvalia": 29835000,
+    "cuota_mercado": 0.1317,
+    "plusvalia": 29105000,
     "margen_ventas": 4633000
   },
   {
@@ -60,8 +73,8 @@
     "compras": 92170000,
     "ventas": 52360100,
     "puntos": 39,
-    "cuota_mercado": 0.1352,
-    "plusvalia": 19150000,
+    "cuota_mercado": 0.1362,
+    "plusvalia": 18600000,
     "margen_ventas": 17520100
   },
   {
@@ -73,8 +86,8 @@
     "compras": 61870017,
     "ventas": 22141100,
     "puntos": 18,
-    "cuota_mercado": 0.1199,
-    "plusvalia": 23069984,
+    "cuota_mercado": 0.1209,
+    "plusvalia": 21499984,
     "margen_ventas": 6151099
   },
   {
@@ -86,8 +99,8 @@
     "compras": 54355060,
     "ventas": 14547200,
     "puntos": 24,
-    "cuota_mercado": 0.1167,
-    "plusvalia": 22600493,
+    "cuota_mercado": 0.1177,
+    "plusvalia": 20030493,
     "margen_ventas": 5741647
   },
   {
@@ -99,21 +112,8 @@
     "compras": 50200000,
     "ventas": 10014100,
     "puntos": 42,
-    "cuota_mercado": 0.0901,
-    "plusvalia": 13990000,
+    "cuota_mercado": 0.0908,
+    "plusvalia": 11640000,
     "margen_ventas": -1235900
-  },
-  {
-    "posicion": 7,
-    "manager": "Chirli",
-    "valor_equipo": 53050000,
-    "puja_maxima": 13481700,
-    "dinero": 219200,
-    "compras": 42690000,
-    "ventas": 2679200,
-    "puntos": 23,
-    "cuota_mercado": 0.0944,
-    "plusvalia": 15130000,
-    "margen_ventas": 869200
   }
 ]
