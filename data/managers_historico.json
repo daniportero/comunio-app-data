@@ -122,6 +122,15 @@
             "puntos": 0,
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Raúl Moro",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3625.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       },
@@ -929,6 +938,15 @@
             "puntos": 2,
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Nico Williams",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3084.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       },
@@ -2382,6 +2400,24 @@
             "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Marcos Alonso",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3345.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Ugrinic",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3895.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+            "puntos": 0,
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       },
