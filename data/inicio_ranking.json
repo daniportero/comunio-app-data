@@ -6,7 +6,9 @@
     "dinero": 21674000,
     "puntos_jornada_actual": 82,
     "puntos_total": 108,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 12,
+    "jugadores_alineados": 12
   },
   {
     "posicion": 2,
@@ -15,7 +17,9 @@
     "dinero": 432140,
     "puntos_jornada_actual": 71,
     "puntos_total": 95,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 9,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 3,
@@ -24,7 +28,9 @@
     "dinero": 13812012,
     "puntos_jornada_actual": 46,
     "puntos_total": 65,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 9,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 4,
@@ -33,7 +39,9 @@
     "dinero": 580100,
     "puntos_jornada_actual": 40,
     "puntos_total": 79,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 9,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 5,
@@ -42,7 +50,9 @@
     "dinero": -12257000,
     "puntos_jornada_actual": 37,
     "puntos_total": 77,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 9,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 6,
@@ -51,7 +61,9 @@
     "dinero": 1251083,
     "puntos_jornada_actual": 30,
     "puntos_total": 48,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 9,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 7,
@@ -60,7 +72,9 @@
     "dinero": 4711319,
     "puntos_jornada_actual": 20,
     "puntos_total": 59,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 6,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 8,
@@ -69,7 +83,9 @@
     "dinero": 4795400,
     "puntos_jornada_actual": 13,
     "puntos_total": 36,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 5,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 9,
@@ -78,6 +94,8 @@
     "dinero": 1136900,
     "puntos_jornada_actual": 5,
     "puntos_total": 47,
-    "cambio_posicion": 0
+    "cambio_posicion": 0,
+    "jugadores_jugados": 5,
+    "jugadores_alineados": 11
   }
 ]
