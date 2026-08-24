@@ -25,6 +25,30 @@
   },
   {
     "posicion": 3,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "equipo": "Atlético",
+    "puntos": 4,
+    "pj": 2,
+    "pg": 1,
+    "pe": 1,
+    "pp": 0,
+    "gf": 4,
+    "gc": 2
+  },
+  {
+    "posicion": 4,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "equipo": "Barcelona",
+    "puntos": 3,
+    "pj": 1,
+    "pg": 1,
+    "pe": 0,
+    "pp": 0,
+    "gf": 5,
+    "gc": 0
+  },
+  {
+    "posicion": 5,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "equipo": "Espanyol",
     "puntos": 3,
@@ -36,19 +60,7 @@
     "gc": 2
   },
   {
-    "posicion": 4,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
-    "equipo": "Atlético",
-    "puntos": 3,
-    "pj": 1,
-    "pg": 1,
-    "pe": 0,
-    "pp": 0,
-    "gf": 2,
-    "gc": 0
-  },
-  {
-    "posicion": 5,
+    "posicion": 6,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "equipo": "Real Madrid",
     "puntos": 3,
@@ -60,7 +72,7 @@
     "gc": 1
   },
   {
-    "posicion": 6,
+    "posicion": 7,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "equipo": "Betis",
     "puntos": 3,
@@ -72,40 +84,28 @@
     "gc": 0
   },
   {
-    "posicion": 7,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
-    "equipo": "Racing de Santander",
-    "puntos": 1,
-    "pj": 1,
-    "pg": 0,
-    "pe": 1,
-    "pp": 0,
-    "gf": 2,
-    "gc": 2
-  },
-  {
     "posicion": 8,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-    "equipo": "Villarreal",
-    "puntos": 1,
-    "pj": 1,
-    "pg": 0,
-    "pe": 1,
-    "pp": 0,
-    "gf": 2,
-    "gc": 2
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "equipo": "Getafe",
+    "puntos": 3,
+    "pj": 2,
+    "pg": 1,
+    "pe": 0,
+    "pp": 1,
+    "gf": 1,
+    "gc": 3
   },
   {
     "posicion": 9,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "equipo": "Elche",
-    "puntos": 1,
-    "pj": 1,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "equipo": "Villarreal",
+    "puntos": 2,
+    "pj": 2,
     "pg": 0,
-    "pe": 1,
+    "pe": 2,
     "pp": 0,
-    "gf": 1,
-    "gc": 1
+    "gf": 4,
+    "gc": 4
   },
   {
     "posicion": 10,
@@ -157,6 +157,30 @@
   },
   {
     "posicion": 14,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "equipo": "Racing de Santander",
+    "puntos": 1,
+    "pj": 2,
+    "pg": 0,
+    "pe": 1,
+    "pp": 1,
+    "gf": 2,
+    "gc": 3
+  },
+  {
+    "posicion": 15,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "equipo": "Elche",
+    "puntos": 1,
+    "pj": 2,
+    "pg": 0,
+    "pe": 1,
+    "pp": 1,
+    "gf": 1,
+    "gc": 6
+  },
+  {
+    "posicion": 16,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
     "equipo": "Osasuna",
     "puntos": 0,
@@ -168,19 +192,7 @@
     "gc": 0
   },
   {
-    "posicion": 15,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "equipo": "Barcelona",
-    "puntos": 0,
-    "pj": 0,
-    "pg": 0,
-    "pe": 0,
-    "pp": 0,
-    "gf": 0,
-    "gc": 0
-  },
-  {
-    "posicion": 16,
+    "posicion": 17,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "equipo": "Real Sociedad",
     "puntos": 0,
@@ -192,7 +204,7 @@
     "gc": 1
   },
   {
-    "posicion": 17,
+    "posicion": 18,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "equipo": "Athletic Club",
     "puntos": 0,
@@ -204,7 +216,7 @@
     "gc": 3
   },
   {
-    "posicion": 18,
+    "posicion": 19,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
     "equipo": "Málaga",
     "puntos": 0,
@@ -216,21 +228,9 @@
     "gc": 2
   },
   {
-    "posicion": 19,
+    "posicion": 20,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "equipo": "Levante",
-    "puntos": 0,
-    "pj": 1,
-    "pg": 0,
-    "pe": 0,
-    "pp": 1,
-    "gf": 0,
-    "gc": 3
-  },
-  {
-    "posicion": 20,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-    "equipo": "Getafe",
     "puntos": 0,
     "pj": 1,
     "pg": 0,

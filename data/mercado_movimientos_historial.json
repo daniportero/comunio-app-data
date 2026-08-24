@@ -1,5 +1,49 @@
 [
   {
+    "fecha": "2026-08-24",
+    "jugador": "Guridi",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2370.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 3850000,
+    "valor_momento": 3730000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-24",
+    "jugador": "Marcos Alonso",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3345.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 5440000,
+    "valor_momento": 5800000,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-24",
+    "jugador": "Pablo Barrios",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3357.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 9165000,
+    "valor_momento": 9270000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-24",
+    "jugador": "Orel Mangala",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4111.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 2100000,
+    "valor_momento": 2020000,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-23",
     "jugador": "Eneko Jauregi",
     "posicion": "DEL",
@@ -28,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/3170.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
     "valor": 4576200,
-    "valor_momento": null,
+    "valor_momento": 4430000,
     "manager": "Chirli",
     "movimiento": "Venta"
   },
@@ -39,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/2637.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 2332200,
-    "valor_momento": null,
+    "valor_momento": 2300000,
     "manager": "Mena",
     "movimiento": "Venta"
   },
@@ -50,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/4091.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 670600,
-    "valor_momento": null,
+    "valor_momento": 660000,
     "manager": "Mena",
     "movimiento": "Venta"
   },
@@ -61,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/3680.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "valor": 17147900,
-    "valor_momento": null,
+    "valor_momento": 17660000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
