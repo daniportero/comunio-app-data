@@ -20,7 +20,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -37,7 +38,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -54,7 +56,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -71,7 +74,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -88,7 +92,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -105,7 +110,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -122,7 +128,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -139,7 +146,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -156,7 +164,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -173,7 +182,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -190,7 +200,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -215,7 +226,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": "Lesión en la tibia"
       },
       {
         "posicion": "DEF",
@@ -232,7 +244,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -249,7 +262,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -266,7 +280,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -283,7 +298,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -300,7 +316,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -317,7 +334,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -334,7 +352,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -351,7 +370,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -368,7 +388,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -385,7 +406,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -402,7 +424,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -419,7 +442,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -436,7 +460,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -453,7 +478,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -478,7 +504,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -495,7 +522,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -512,7 +540,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -529,7 +558,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -546,7 +576,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -563,7 +594,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -580,7 +612,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": "Esguince de rodilla"
       },
       {
         "posicion": "MED",
@@ -597,7 +630,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -614,7 +648,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -631,7 +666,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -648,7 +684,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -665,7 +702,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": ""
       },
       {
         "posicion": "MED",
@@ -682,7 +720,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -699,7 +738,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -716,7 +756,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -741,7 +782,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -758,7 +800,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -775,7 +818,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -792,7 +836,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -809,7 +854,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": "Lesión muscular en bíceps femoral. Baja hasta septiembre/octubre"
       },
       {
         "posicion": "MED",
@@ -826,7 +872,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -843,7 +890,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -860,7 +908,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -877,7 +926,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -894,7 +944,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -911,7 +962,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -928,7 +980,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -945,7 +998,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -962,7 +1016,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -987,7 +1042,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1004,7 +1060,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1021,7 +1078,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1038,7 +1096,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1055,7 +1114,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1072,7 +1132,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1089,7 +1150,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1106,7 +1168,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1123,7 +1186,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1140,7 +1204,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1157,7 +1222,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -1174,7 +1240,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -1191,7 +1258,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -1208,7 +1276,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -1225,7 +1294,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -1250,7 +1320,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1267,7 +1338,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1284,7 +1356,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1301,7 +1374,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1318,7 +1392,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1335,7 +1410,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1352,7 +1428,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1369,7 +1446,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1386,7 +1464,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1403,7 +1482,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1420,7 +1500,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -1437,7 +1518,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -1462,7 +1544,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "POR",
@@ -1479,7 +1562,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1496,7 +1580,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1513,7 +1598,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1530,7 +1616,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1547,7 +1634,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1564,7 +1652,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1581,7 +1670,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": "Lesión muscular"
       },
       {
         "posicion": "DEF",
@@ -1598,7 +1688,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1615,7 +1706,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1632,7 +1724,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1649,7 +1742,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1666,7 +1760,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1683,7 +1778,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1700,7 +1796,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1717,7 +1814,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1734,7 +1832,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1751,7 +1850,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": "Lesión muscular. Baja hasta septiembre"
       },
       {
         "posicion": "DEL",
@@ -1768,7 +1868,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -1793,7 +1894,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1810,7 +1912,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1827,7 +1930,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -1844,7 +1948,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1861,7 +1966,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1878,7 +1984,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1895,7 +2002,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1912,7 +2020,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1929,7 +2038,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -1946,7 +2056,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -1963,7 +2074,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": "Lesión muscular en bíceps femoral. Baja hasta noviembre"
       },
       {
         "posicion": "DEL",
@@ -1980,7 +2092,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -1997,7 +2110,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   },
@@ -2022,7 +2136,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -2039,7 +2154,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -2056,7 +2172,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -2073,7 +2190,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEF",
@@ -2090,7 +2208,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -2107,7 +2226,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -2124,7 +2244,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -2141,7 +2262,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -2158,7 +2280,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -2175,7 +2298,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": false
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -2192,7 +2316,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       },
       {
         "posicion": "DEL",
@@ -2209,7 +2334,8 @@
         "r3": 0,
         "r2": 0,
         "r1": 0,
-        "alineado": true
+        "alineado": true,
+        "lesion": null
       }
     ]
   }

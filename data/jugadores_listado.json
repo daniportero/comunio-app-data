@@ -18,7 +18,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -39,7 +40,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -60,7 +62,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -81,7 +84,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -102,7 +106,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 14050000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -123,7 +128,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 29555555,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -144,7 +150,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -165,7 +172,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -186,7 +194,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 15101000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -207,7 +216,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -228,7 +238,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -249,7 +260,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -270,7 +282,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -291,7 +304,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 10505050,
     "venta": 11958300,
-    "margen_venta": 1453250
+    "margen_venta": 1453250,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -312,7 +326,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -333,7 +348,8 @@
     "anterior_dueño": "Mena",
     "compra": 9500000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -354,7 +370,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -375,7 +392,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 16800000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -396,7 +414,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 8700000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -417,7 +436,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 9501000,
     "venta": 17147900,
-    "margen_venta": 7646900
+    "margen_venta": 7646900,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -438,7 +458,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -459,7 +480,8 @@
     "anterior_dueño": "Chirli",
     "compra": 12500000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -480,7 +502,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 8990000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Esguince de rodilla"
   },
   {
     "posicion": "DEF",
@@ -501,7 +524,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -522,7 +546,8 @@
     "anterior_dueño": "Mena",
     "compra": 8000000,
     "venta": 6979700,
-    "margen_venta": -1020300
+    "margen_venta": -1020300,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -543,7 +568,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 12170000,
     "venta": 15053100,
-    "margen_venta": 2883100
+    "margen_venta": 2883100,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -564,7 +590,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -585,7 +612,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 7855225,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -606,7 +634,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 15190000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -627,7 +656,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -648,7 +678,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión de rodilla"
   },
   {
     "posicion": "DEL",
@@ -669,7 +700,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -690,7 +722,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 7850000,
     "venta": 10888700,
-    "margen_venta": 3038700
+    "margen_venta": 3038700,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -711,7 +744,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 6251000,
     "venta": 8521500,
-    "margen_venta": 2270500
+    "margen_venta": 2270500,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -732,7 +766,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -753,7 +788,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -774,7 +810,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -795,7 +832,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -816,7 +854,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -837,7 +876,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 7870005,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -858,7 +898,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 4550000,
     "venta": 4747400,
-    "margen_venta": 197400
+    "margen_venta": 197400,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -879,7 +920,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 4750000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -900,7 +942,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -921,7 +964,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 4801000,
     "venta": 6935500,
-    "margen_venta": 2134500
+    "margen_venta": 2134500,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -942,7 +986,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 5780000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -963,7 +1008,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 6350000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -984,7 +1030,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1005,7 +1052,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 5111111,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1026,7 +1074,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1047,7 +1096,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 5320000,
     "venta": 6928400,
-    "margen_venta": 1608400
+    "margen_venta": 1608400,
+    "lesion": "Contractura muscular"
   },
   {
     "posicion": "MED",
@@ -1068,7 +1118,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "MED",
@@ -1089,7 +1140,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1110,7 +1162,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 5350000,
     "venta": 5584800,
-    "margen_venta": 234800
+    "margen_venta": 234800,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1131,7 +1184,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1152,7 +1206,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 4130000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1173,7 +1228,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1194,7 +1250,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 5340000,
     "venta": 6395800,
-    "margen_venta": 1055800
+    "margen_venta": 1055800,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1215,7 +1272,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1236,7 +1294,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1257,7 +1316,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1278,7 +1338,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 7950000,
     "venta": 8320000,
-    "margen_venta": 370000
+    "margen_venta": 370000,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1299,7 +1360,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1320,7 +1382,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Rotura de ligamento cruzado y menisco. Baja hasta abril"
   },
   {
     "posicion": "DEL",
@@ -1341,7 +1404,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": ""
   },
   {
     "posicion": "MED",
@@ -1362,7 +1426,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 4851000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1383,7 +1448,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1404,7 +1470,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1425,7 +1492,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 3757577,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1446,7 +1514,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 3950000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1467,7 +1536,8 @@
     "anterior_dueño": "Chirli",
     "compra": 3150000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1488,7 +1558,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1509,7 +1580,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 3010000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -1530,7 +1602,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1551,7 +1624,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 2110000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1572,7 +1646,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "DEL",
@@ -1593,7 +1668,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1614,7 +1690,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1635,7 +1712,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1656,7 +1734,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 2580000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1677,7 +1756,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1698,7 +1778,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión ligamento lateral interno de la rodilla. Baja hasta mediados de septiembre"
   },
   {
     "posicion": "DEL",
@@ -1719,7 +1800,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 3650000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1740,7 +1822,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 9165000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1761,7 +1844,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 7777777,
     "venta": 7846700,
-    "margen_venta": 68923
+    "margen_venta": 68923,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1782,7 +1866,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -1803,7 +1888,8 @@
     "anterior_dueño": "Mena",
     "compra": 3300000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1824,7 +1910,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1845,7 +1932,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -1866,7 +1954,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 3501010,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1887,7 +1976,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 3850000,
     "venta": 7494400,
-    "margen_venta": 3644400
+    "margen_venta": 3644400,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1908,7 +1998,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 2950000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -1929,7 +2020,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 3950000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1950,7 +2042,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1971,7 +2064,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -1992,7 +2086,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 4310001,
     "venta": 7322000,
-    "margen_venta": 3011999
+    "margen_venta": 3011999,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2013,7 +2108,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 4175000,
     "venta": 4701900,
-    "margen_venta": 526900
+    "margen_venta": 526900,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2034,7 +2130,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2055,7 +2152,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2076,7 +2174,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2097,7 +2196,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2118,7 +2218,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2139,7 +2240,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 3110005,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2160,7 +2262,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2181,7 +2284,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 2850000,
     "venta": 4243600,
-    "margen_venta": 1393600
+    "margen_venta": 1393600,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2202,7 +2306,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2223,7 +2328,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 2850000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2244,7 +2350,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Molestias musculares"
   },
   {
     "posicion": "DEF",
@@ -2265,7 +2372,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2286,7 +2394,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 3150000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2307,7 +2416,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2328,7 +2438,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2349,7 +2460,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2370,7 +2482,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 3410005,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2391,7 +2504,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2412,7 +2526,8 @@
     "anterior_dueño": "Chirli",
     "compra": 3260000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2433,7 +2548,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2454,7 +2570,8 @@
     "anterior_dueño": "Mena",
     "compra": 3000000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2475,7 +2592,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 3750000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2496,7 +2614,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2517,7 +2636,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 1000003,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2538,7 +2658,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2559,7 +2680,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 3090001,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2580,7 +2702,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 5333339,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2601,7 +2724,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 2100000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2622,7 +2746,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 5440000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2643,7 +2768,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2664,7 +2790,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2685,7 +2812,8 @@
     "anterior_dueño": "Chirli",
     "compra": 4570000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2706,7 +2834,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2727,7 +2856,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 4250000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2748,7 +2878,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 3843000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2769,7 +2900,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 3350000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2790,7 +2922,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2811,7 +2944,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -2832,7 +2966,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -2853,7 +2988,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2874,7 +3010,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2895,7 +3032,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 2000000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -2916,7 +3054,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 1599999,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular en bíceps femoral. Baja hasta septiembre/octubre"
   },
   {
     "posicion": "DEF",
@@ -2937,7 +3076,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Fractura costal"
   },
   {
     "posicion": "MED",
@@ -2958,7 +3098,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -2979,7 +3120,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 1780000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3000,7 +3142,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3021,7 +3164,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3042,7 +3186,8 @@
     "anterior_dueño": "Chirli",
     "compra": 1970000,
     "venta": 4576200,
-    "margen_venta": 2606200
+    "margen_venta": 2606200,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -3063,7 +3208,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3084,7 +3230,8 @@
     "anterior_dueño": "Chirli",
     "compra": 2170000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3105,7 +3252,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 1750000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular. Baja hasta septiembre"
   },
   {
     "posicion": "DEF",
@@ -3126,7 +3274,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -3147,7 +3296,8 @@
     "anterior_dueño": "Chirli",
     "compra": 2950000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3168,7 +3318,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3189,7 +3340,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 2489000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3210,7 +3362,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 1333333,
     "venta": 5450100,
-    "margen_venta": 4116767
+    "margen_venta": 4116767,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3231,7 +3384,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 1252525,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3252,7 +3406,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 4170000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -3273,7 +3428,8 @@
     "anterior_dueño": "Mena",
     "compra": 700000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3294,7 +3450,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 999999,
     "venta": 2646000,
-    "margen_venta": 1646001
+    "margen_venta": 1646001,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3315,7 +3472,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3336,7 +3494,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 1111111,
     "venta": 2530100,
-    "margen_venta": 1418989
+    "margen_venta": 1418989,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3357,7 +3516,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión en menisco. Baja hasta septiembre"
   },
   {
     "posicion": "DEF",
@@ -3378,7 +3538,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 1401000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3399,7 +3560,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 2759000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3420,7 +3582,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3441,7 +3604,8 @@
     "anterior_dueño": "Mena",
     "compra": 1950000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3462,7 +3626,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3483,7 +3648,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 3150000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3504,7 +3670,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 2450000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3525,7 +3692,8 @@
     "anterior_dueño": "Mena",
     "compra": 2650000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -3546,7 +3714,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -3567,7 +3736,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 1980000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión en la tibia"
   },
   {
     "posicion": "MED",
@@ -3588,7 +3758,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 1850000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3609,7 +3780,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3630,7 +3802,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3651,7 +3824,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3672,7 +3846,8 @@
     "anterior_dueño": "Mena",
     "compra": 1450000,
     "venta": 670600,
-    "margen_venta": -779400
+    "margen_venta": -779400,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3693,7 +3868,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 1501000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3714,7 +3890,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3735,7 +3912,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular en cuádriceps"
   },
   {
     "posicion": "DEL",
@@ -3756,7 +3934,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Rotura del ligamento cruzado anterior de la rodilla derecha. Baja hasta diciembre"
   },
   {
     "posicion": "DEF",
@@ -3777,7 +3956,8 @@
     "anterior_dueño": "Chirli",
     "compra": 2620000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3798,7 +3978,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular"
   },
   {
     "posicion": "DEL",
@@ -3819,7 +4000,8 @@
     "anterior_dueño": "Mena",
     "compra": 2600000,
     "venta": 2332200,
-    "margen_venta": -267800
+    "margen_venta": -267800,
+    "lesion": "Rotura ligamento cruzado anterior de la rodilla derecha. Baja hasta agosto"
   },
   {
     "posicion": "MED",
@@ -3840,7 +4022,8 @@
     "anterior_dueño": "Mena",
     "compra": 1500000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3861,7 +4044,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3882,7 +4066,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3903,7 +4088,8 @@
     "anterior_dueño": "Chirli",
     "compra": 1210000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -3924,7 +4110,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Esguince de tobillo"
   },
   {
     "posicion": "MED",
@@ -3945,7 +4132,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -3966,7 +4154,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -3987,7 +4176,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4008,7 +4198,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4029,7 +4220,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 1665000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -4050,7 +4242,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 777777,
     "venta": 2404500,
-    "margen_venta": 1626723
+    "margen_venta": 1626723,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4071,7 +4264,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 2685000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4092,7 +4286,8 @@
     "anterior_dueño": "Mena",
     "compra": 1800000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4113,7 +4308,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 1530000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4134,7 +4330,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -4155,7 +4352,8 @@
     "anterior_dueño": "Chirli",
     "compra": 2540000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4176,7 +4374,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 3085000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -4197,7 +4396,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4218,7 +4418,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4239,7 +4440,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 800000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": ""
   },
   {
     "posicion": "DEF",
@@ -4260,7 +4462,8 @@
     "anterior_dueño": "Mena",
     "compra": 1000000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4281,7 +4484,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -4302,7 +4506,8 @@
     "anterior_dueño": "Chirli",
     "compra": 1760000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular en bíceps femoral. Baja hasta noviembre"
   },
   {
     "posicion": "DEF",
@@ -4323,7 +4528,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4344,7 +4550,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4365,7 +4572,8 @@
     "anterior_dueño": "Mena",
     "compra": 1850000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4386,7 +4594,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 1100000,
     "venta": 851600,
-    "margen_venta": -248400
+    "margen_venta": -248400,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4407,7 +4616,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4428,7 +4638,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 1101000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4449,7 +4660,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 1270000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4470,7 +4682,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4491,7 +4704,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Molestias musculares"
   },
   {
     "posicion": "DEF",
@@ -4512,7 +4726,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 1450000,
     "venta": 3440800,
-    "margen_venta": 1990800
+    "margen_venta": 1990800,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4533,7 +4748,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4554,7 +4770,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular. Baja hasta septiembre"
   },
   {
     "posicion": "POR",
@@ -4575,7 +4792,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4596,7 +4814,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 811000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4617,7 +4836,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 950000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4638,7 +4858,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -4659,7 +4880,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Rotura ligamento cruzado anterior de la rodilla. Baja hasta abril"
   },
   {
     "posicion": "MED",
@@ -4680,7 +4902,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4701,7 +4924,8 @@
     "anterior_dueño": "Chirli",
     "compra": 840000,
     "venta": 668600,
-    "margen_venta": -171400
+    "margen_venta": -171400,
+    "lesion": "Rotura ligamento cruzado anterior de la rodilla derecha. Baja hasta enero"
   },
   {
     "posicion": "MED",
@@ -4722,7 +4946,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "MED",
@@ -4743,7 +4968,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 483000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4764,7 +4990,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 3850000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4785,7 +5012,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 895000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4806,7 +5034,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 915000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4827,7 +5056,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 921000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4848,7 +5078,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión en menisco"
   },
   {
     "posicion": "MED",
@@ -4869,7 +5100,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4890,7 +5122,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 777777,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -4911,7 +5144,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular en el soleo"
   },
   {
     "posicion": "DEL",
@@ -4932,7 +5166,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -4953,7 +5188,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -4974,7 +5210,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4995,7 +5232,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5016,7 +5254,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5037,7 +5276,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5058,7 +5298,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 895000,
     "venta": 2337700,
-    "margen_venta": 1442700
+    "margen_venta": 1442700,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5079,7 +5320,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5100,7 +5342,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 1250000,
     "venta": 2756100,
-    "margen_venta": 1506100
+    "margen_venta": 1506100,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5121,7 +5364,8 @@
     "anterior_dueño": "Mena",
     "compra": 850000,
     "venta": 595300,
-    "margen_venta": -254700
+    "margen_venta": -254700,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5142,7 +5386,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5163,7 +5408,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5184,7 +5430,8 @@
     "anterior_dueño": "Chirli",
     "compra": 970000,
     "venta": 2010600,
-    "margen_venta": 1040600
+    "margen_venta": 1040600,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5205,7 +5452,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5226,7 +5474,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 775000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5247,7 +5496,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5268,7 +5518,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 540000,
     "venta": 780800,
-    "margen_venta": 240800
+    "margen_venta": 240800,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5289,7 +5540,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 656154,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -5310,7 +5562,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5331,7 +5584,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5352,7 +5606,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5373,7 +5628,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5394,7 +5650,8 @@
     "anterior_dueño": "Mena",
     "compra": 6000000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5415,7 +5672,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5436,7 +5694,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5457,7 +5716,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5478,7 +5738,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5499,7 +5760,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 761000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5520,7 +5782,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5541,7 +5804,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5562,7 +5826,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5583,7 +5848,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5604,7 +5870,8 @@
     "anterior_dueño": "Chirli",
     "compra": 1450000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -5625,7 +5892,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -5646,7 +5914,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5667,7 +5936,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5688,7 +5958,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5709,7 +5980,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 600000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5730,7 +6002,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 650000,
     "venta": 902400,
-    "margen_venta": 252400
+    "margen_venta": 252400,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5751,7 +6024,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5772,7 +6046,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5793,7 +6068,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5814,7 +6090,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 590000,
     "venta": 655200,
-    "margen_venta": 65200
+    "margen_venta": 65200,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5835,7 +6112,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 256000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5856,7 +6134,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 750000,
     "venta": 479800,
-    "margen_venta": -270200
+    "margen_venta": -270200,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5877,7 +6156,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5898,7 +6178,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5919,7 +6200,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 897000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5940,7 +6222,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 777777,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -5961,7 +6244,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -5982,7 +6266,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6003,7 +6288,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 666666,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6024,7 +6310,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6045,7 +6332,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6066,7 +6354,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 350000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6087,7 +6376,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6108,7 +6398,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -6129,7 +6420,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6150,7 +6442,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6171,7 +6464,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 650001,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6192,7 +6486,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 500000,
     "venta": 1223000,
-    "margen_venta": 723000
+    "margen_venta": 723000,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6213,7 +6508,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 320000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6234,7 +6530,8 @@
     "anterior_dueño": "Chirli",
     "compra": 450000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6255,7 +6552,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6276,7 +6574,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -6297,7 +6596,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 470000,
     "venta": 1690100,
-    "margen_venta": 1220100
+    "margen_venta": 1220100,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6318,7 +6618,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6339,7 +6640,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -6360,7 +6662,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 601000,
     "venta": 593300,
-    "margen_venta": -7700
+    "margen_venta": -7700,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6381,7 +6684,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6402,7 +6706,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6423,7 +6728,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6444,7 +6750,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6465,7 +6772,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6486,7 +6794,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6507,7 +6816,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -6528,7 +6838,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 1301000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6549,7 +6860,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6570,7 +6882,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión de rodilla"
   },
   {
     "posicion": "DEF",
@@ -6591,7 +6904,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6612,7 +6926,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -6633,7 +6948,8 @@
     "anterior_dueño": "Mena",
     "compra": 350000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6654,7 +6970,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 720000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6675,7 +6992,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6696,7 +7014,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 651000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6717,7 +7036,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6738,7 +7058,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6759,7 +7080,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6780,7 +7102,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6801,7 +7124,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6822,7 +7146,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6843,7 +7168,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6864,7 +7190,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -6885,7 +7212,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 2310000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6906,7 +7234,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -6927,7 +7256,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6948,7 +7278,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6969,7 +7300,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -6990,7 +7322,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7011,7 +7344,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7032,7 +7366,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 650000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7053,7 +7388,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7074,7 +7410,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7095,7 +7432,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 361000,
     "venta": 323300,
-    "margen_venta": -37700
+    "margen_venta": -37700,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7116,7 +7454,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 410000,
     "venta": 514000,
-    "margen_venta": 104000
+    "margen_venta": 104000,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7137,7 +7476,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión en menisco. Baja hasta noviembre"
   },
   {
     "posicion": "DEL",
@@ -7158,7 +7498,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7179,7 +7520,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 410000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7200,7 +7542,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7221,7 +7564,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7242,7 +7586,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7263,7 +7608,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7284,7 +7630,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "MED",
@@ -7305,7 +7652,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 550000,
     "venta": 171500,
-    "margen_venta": -378500
+    "margen_venta": -378500,
+    "lesion": "Lesión muscular"
   },
   {
     "posicion": "DEL",
@@ -7326,7 +7674,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "DEF",
@@ -7347,7 +7696,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -7368,7 +7718,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7389,7 +7740,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7410,7 +7762,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 360000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7431,7 +7784,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7452,7 +7806,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7473,7 +7828,8 @@
     "anterior_dueño": "Dani Portero",
     "compra": 780000,
     "venta": 256400,
-    "margen_venta": -523600
+    "margen_venta": -523600,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7494,7 +7850,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7515,7 +7872,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7536,7 +7894,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7557,7 +7916,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7578,7 +7938,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7599,7 +7960,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7620,7 +7982,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 290000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7641,7 +8004,8 @@
     "anterior_dueño": "Mena",
     "compra": 400000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7662,7 +8026,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 888888,
     "venta": 1653900,
-    "margen_venta": 765012
+    "margen_venta": 765012,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7683,7 +8048,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7704,7 +8070,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7725,7 +8092,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7746,7 +8114,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7767,7 +8136,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 1101000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7788,7 +8158,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7809,7 +8180,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7830,7 +8202,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7851,7 +8224,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7872,7 +8246,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7893,7 +8268,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 271000,
     "venta": 206400,
-    "margen_venta": -64600
+    "margen_venta": -64600,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7914,7 +8290,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7935,7 +8312,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7956,7 +8334,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 401000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -7977,7 +8356,8 @@
     "anterior_dueño": "Chirli",
     "compra": 280000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -7998,7 +8378,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -8019,7 +8400,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Luxación de hombro"
   },
   {
     "posicion": "DEL",
@@ -8040,7 +8422,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -8061,7 +8444,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8082,7 +8466,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión de rodilla. Baja hasta septiembre"
   },
   {
     "posicion": "MED",
@@ -8103,7 +8488,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 450000,
     "venta": 680700,
-    "margen_venta": 230700
+    "margen_venta": 230700,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8124,7 +8510,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 241000,
     "venta": 255800,
-    "margen_venta": 14800
+    "margen_venta": 14800,
+    "lesion": "Rotura ligamento cruzado anterior de la rodilla izquierda. Baja hasta octubre"
   },
   {
     "posicion": "MED",
@@ -8145,7 +8532,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8166,7 +8554,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8187,7 +8576,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 300000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8208,7 +8598,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -8229,7 +8620,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -8250,7 +8642,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8271,7 +8664,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8292,7 +8686,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8313,7 +8708,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -8334,7 +8730,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -8355,7 +8752,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8376,7 +8774,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8397,7 +8796,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8418,7 +8818,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 215000,
     "venta": 203400,
-    "margen_venta": -11600
+    "margen_venta": -11600,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -8439,7 +8840,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 170000,
     "venta": 190400,
-    "margen_venta": 20400
+    "margen_venta": 20400,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "DEF",
@@ -8460,7 +8862,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 250000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular"
   },
   {
     "posicion": "POR",
@@ -8481,7 +8884,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -8502,7 +8906,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 160000,
     "venta": 380000,
-    "margen_venta": 220000
+    "margen_venta": 220000,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8523,7 +8928,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 333333,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -8544,7 +8950,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8565,7 +8972,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8586,7 +8994,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8607,7 +9016,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8628,7 +9038,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8649,7 +9060,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8670,7 +9082,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8691,7 +9104,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Molestias musculares"
   },
   {
     "posicion": "DEL",
@@ -8712,7 +9126,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8733,7 +9148,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8754,7 +9170,8 @@
     "anterior_dueño": "Mena",
     "compra": 900000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8775,7 +9192,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -8796,7 +9214,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -8817,7 +9236,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -8838,7 +9258,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8859,7 +9280,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -8880,7 +9302,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -8901,7 +9324,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8922,7 +9346,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "MED",
@@ -8943,7 +9368,8 @@
     "anterior_dueño": "Diego Zuri",
     "compra": 270000,
     "venta": 1766400,
-    "margen_venta": 1496400
+    "margen_venta": 1496400,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8964,7 +9390,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -8985,7 +9412,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9006,7 +9434,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 600010,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9027,7 +9456,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9048,7 +9478,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9069,7 +9500,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9090,7 +9522,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9111,7 +9544,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9132,7 +9566,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9153,7 +9588,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9174,7 +9610,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9195,7 +9632,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9216,7 +9654,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9237,7 +9676,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 260000,
     "venta": 313900,
-    "margen_venta": 53900
+    "margen_venta": 53900,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9258,7 +9698,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9279,7 +9720,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9300,7 +9742,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión de rodilla. Baja hasta noviembre"
   },
   {
     "posicion": "DEF",
@@ -9321,7 +9764,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Rotura ligamento cruzado anterior de la rodilla derecha. Baja hasta enero"
   },
   {
     "posicion": "MED",
@@ -9342,7 +9786,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9363,7 +9808,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9384,7 +9830,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9405,7 +9852,8 @@
     "anterior_dueño": "Muriqui Saez",
     "compra": 160000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9426,7 +9874,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9447,7 +9896,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9468,7 +9918,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9489,7 +9940,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9510,7 +9962,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9531,7 +9984,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 160000,
     "venta": 294000,
-    "margen_venta": 134000
+    "margen_venta": 134000,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9552,7 +10006,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9573,7 +10028,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9594,7 +10050,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9615,7 +10072,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9636,7 +10094,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Pendiente de evolución"
   },
   {
     "posicion": "POR",
@@ -9657,7 +10116,8 @@
     "anterior_dueño": "Team Novita",
     "compra": 180000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9678,7 +10138,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9699,7 +10160,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Molestias musculares"
   },
   {
     "posicion": "POR",
@@ -9720,7 +10182,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9741,7 +10204,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9762,7 +10226,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9783,7 +10248,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9804,7 +10270,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión en tendón de bíceps femoral. Baja hasta marzo de 2027"
   },
   {
     "posicion": "MED",
@@ -9825,7 +10292,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9846,7 +10314,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9867,7 +10336,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9888,7 +10358,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 221000,
     "venta": 210200,
-    "margen_venta": -10800
+    "margen_venta": -10800,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9909,7 +10380,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -9930,7 +10402,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -9951,7 +10424,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -9972,7 +10446,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -9993,7 +10468,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10014,7 +10490,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10035,7 +10512,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10056,7 +10534,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10077,7 +10556,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 1310000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10098,7 +10578,8 @@
     "anterior_dueño": "Manuel Tello",
     "compra": 8950000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10119,7 +10600,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10140,7 +10622,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10161,7 +10644,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10182,7 +10666,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10203,7 +10688,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -10224,7 +10710,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10245,7 +10732,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10266,7 +10754,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -10287,7 +10776,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10308,7 +10798,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10329,7 +10820,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": "Lesión muscular. Baja hasta mediados de septiembre"
   },
   {
     "posicion": "DEF",
@@ -10350,7 +10842,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10371,7 +10864,8 @@
     "anterior_dueño": "Edu Zurita",
     "compra": 3390000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10392,7 +10886,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10413,7 +10908,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "POR",
@@ -10434,7 +10930,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10455,7 +10952,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10476,7 +10974,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10497,7 +10996,8 @@
     "anterior_dueño": "Mena",
     "compra": 2100000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10518,7 +11018,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10539,7 +11040,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10560,7 +11062,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10581,7 +11084,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10602,7 +11106,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10623,7 +11128,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10644,7 +11150,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10665,7 +11172,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10686,7 +11194,8 @@
     "anterior_dueño": "Carlos Saez",
     "compra": 5801000,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10707,7 +11216,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10728,7 +11238,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10749,7 +11260,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10770,7 +11282,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10791,7 +11304,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10812,7 +11326,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10833,7 +11348,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -10854,7 +11370,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10875,7 +11392,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -10896,7 +11414,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10917,7 +11436,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10938,7 +11458,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10959,7 +11480,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -10980,7 +11502,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -11001,7 +11524,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -11022,7 +11546,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -11043,7 +11568,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -11064,7 +11590,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -11085,7 +11612,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEL",
@@ -11106,7 +11634,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -11127,7 +11656,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -11148,7 +11678,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -11169,7 +11700,8 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -11190,6 +11722,7 @@
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
-    "margen_venta": null
+    "margen_venta": null,
+    "lesion": null
   }
 ]
