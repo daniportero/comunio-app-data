@@ -13,7 +13,7 @@
     {
       "posicion": 9,
       "manager": "Edu Zurita",
-      "dinero": 0
+      "dinero": 2
     },
     {
       "posicion": 6,
@@ -33,7 +33,7 @@
     {
       "posicion": 8,
       "manager": "Team Novita",
-      "dinero": 0
+      "dinero": 2
     },
     {
       "posicion": 7,
@@ -46,5 +46,5 @@
       "dinero": 0
     }
   ],
-  "total": 0
+  "total": 4
 }
