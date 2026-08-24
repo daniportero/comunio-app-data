@@ -44,6 +44,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-24",
+    "jugador": "Sergi Cardona",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3433.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 1943500,
+    "valor_momento": 1930000,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-23",
     "jugador": "Eneko Jauregi",
     "posicion": "DEL",
