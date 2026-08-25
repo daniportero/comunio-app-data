@@ -11,6 +11,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-08-25",
+    "jugador": "Bernardo Silva",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4062.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "valor": 18602700,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-24",
     "jugador": "Guridi",
     "posicion": "MED",
