@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-08-25",
+    "jugador": "Roger Hinojo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3807.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 1950000,
+    "valor_momento": 1920000,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-24",
     "jugador": "Guridi",
     "posicion": "MED",

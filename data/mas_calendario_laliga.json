@@ -203,7 +203,7 @@
     "equipo_local": "Osasuna",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "equipo_visitante": "Levante",
-    "resultado": null,
+    "resultado": "0-0",
     "fecha": "2026-08-24",
     "hora": "19:30",
     "aplazado": false
@@ -214,7 +214,7 @@
     "equipo_local": "Málaga",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "equipo_visitante": "Deportivo",
-    "resultado": null,
+    "resultado": "1-1",
     "fecha": "2026-08-24",
     "hora": "21:30",
     "aplazado": false

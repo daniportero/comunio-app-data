@@ -23,7 +23,7 @@
     {
       "posicion": 8,
       "manager": "Mena",
-      "dinero": 0
+      "dinero": 2
     },
     {
       "posicion": 5,
@@ -38,7 +38,7 @@
     {
       "posicion": 9,
       "manager": "Chirli",
-      "dinero": 0
+      "dinero": 2
     },
     {
       "posicion": 1,
@@ -46,5 +46,5 @@
       "dinero": 0
     }
   ],
-  "total": 4
+  "total": 8
 }
