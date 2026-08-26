@@ -66,6 +66,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-08-26",
+    "jugador": "Unai López",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/1969.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 2595900,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-25",
     "jugador": "Roger Hinojo",
     "posicion": "DEF",
