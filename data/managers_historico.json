@@ -793,7 +793,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 29,
+        "puntos_totales": 31,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -828,7 +828,7 @@
             "imagen": "https://www.comuniate.com/caras3/2760.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
             "puntos": "-",
-            "alineado": true,
+            "alineado": false,
             "alineado_inicial": true
           },
           {
@@ -846,7 +846,7 @@
             "imagen": "https://www.comuniate.com/caras3/3506.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
             "puntos": "-",
-            "alineado": true,
+            "alineado": false,
             "alineado_inicial": true
           },
           {
@@ -864,7 +864,7 @@
             "imagen": "https://www.comuniate.com/caras3/3484.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": "-",
-            "alineado": true,
+            "alineado": false,
             "alineado_inicial": true
           },
           {
@@ -936,7 +936,7 @@
             "imagen": "https://www.comuniate.com/caras3/2924.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": 2,
-            "alineado": false,
+            "alineado": true,
             "alineado_inicial": true
           },
           {
@@ -1376,7 +1376,7 @@
     "jornadas": [
       {
         "jornada": 1,
-        "puntos_totales": 53,
+        "puntos_totales": 39,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -1402,7 +1402,7 @@
             "imagen": "https://www.comuniate.com/caras3/3017.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": 7,
-            "alineado": true,
+            "alineado": false,
             "alineado_inicial": true
           },
           {
@@ -1456,7 +1456,7 @@
             "imagen": "https://www.comuniate.com/caras3/3655.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": 7,
-            "alineado": true,
+            "alineado": false,
             "alineado_inicial": true
           },
           {
