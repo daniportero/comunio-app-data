@@ -2418,15 +2418,6 @@
             "puntos": 2,
             "alineado": true,
             "alineado_inicial": false
-          },
-          {
-            "jugador": "Bellingham",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3444.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": false
           }
         ]
       },
