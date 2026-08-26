@@ -207,8 +207,8 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 80750000,
-    "num_jugadores": 15,
+    "valor_equipo": 70780000,
+    "num_jugadores": 13,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -320,24 +320,6 @@
         "lesion": null
       },
       {
-        "posicion": "DEF",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Rüdiger",
-        "imagen": "https://www.comuniate.com/caras3/3243.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-        "valor_jugador": 3860000,
-        "revalorizacion": -1320000,
-        "plusvalia": 910000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
         "posicion": "MED",
         "puntos": 14,
         "media_puntos": 7.0,
@@ -439,24 +421,6 @@
         "plusvalia": -50000,
         "r5": 2,
         "r4": 7,
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 3,
-        "media_puntos": 3.0,
-        "jugador": "Guruzeta",
-        "imagen": "https://www.comuniate.com/caras3/2664.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-        "valor_jugador": 6150000,
-        "revalorizacion": -2510000,
-        "plusvalia": 3140000,
-        "r5": 3,
-        "r4": "-",
         "r3": "-",
         "r2": "-",
         "r1": "-",

@@ -8,7 +8,7 @@
     "compras": 33970788,
     "ventas": 393800,
     "puntos": 70,
-    "cuota_mercado": 0.0887,
+    "cuota_mercado": 0.0903,
     "plusvalia": 17084212,
     "margen_ventas": 8800
   },
@@ -21,7 +21,7 @@
     "compras": 44640000,
     "ventas": 9198900,
     "puntos": 53,
-    "cuota_mercado": 0.0863,
+    "cuota_mercado": 0.0878,
     "plusvalia": 11430000,
     "margen_ventas": 2798900
   },
@@ -34,7 +34,7 @@
     "compras": 88042481,
     "ventas": 52363800,
     "puntos": 71,
-    "cuota_mercado": 0.1087,
+    "cuota_mercado": 0.1106,
     "plusvalia": 7604233,
     "margen_ventas": 13310986
   },
@@ -47,7 +47,7 @@
     "compras": 86451000,
     "ventas": 49347000,
     "puntos": 108,
-    "cuota_mercado": 0.1365,
+    "cuota_mercado": 0.1389,
     "plusvalia": 18978000,
     "margen_ventas": 12442200
   },
@@ -60,7 +60,7 @@
     "compras": 52300000,
     "ventas": 13016900,
     "puntos": 60,
-    "cuota_mercado": 0.0833,
+    "cuota_mercado": 0.0847,
     "plusvalia": 11220000,
     "margen_ventas": -2283100
   },
@@ -73,7 +73,7 @@
     "compras": 61870017,
     "ventas": 22141100,
     "puntos": 61,
-    "cuota_mercado": 0.1112,
+    "cuota_mercado": 0.1132,
     "plusvalia": 17459984,
     "margen_ventas": 6151099
   },
@@ -86,7 +86,7 @@
     "compras": 54355060,
     "ventas": 14547200,
     "puntos": 101,
-    "cuota_mercado": 0.1149,
+    "cuota_mercado": 0.1169,
     "plusvalia": 19670493,
     "margen_ventas": 5741647
   },
@@ -99,21 +99,21 @@
     "compras": 92170000,
     "ventas": 52360100,
     "puntos": 92,
-    "cuota_mercado": 0.1305,
+    "cuota_mercado": 0.1328,
     "plusvalia": 18310000,
     "margen_ventas": 17520100
   },
   {
     "posicion": 4,
     "manager": "Dani Portero",
-    "valor_equipo": 80750000,
-    "puja_maxima": 10346200,
-    "dinero": -9841300,
+    "valor_equipo": 70780000,
+    "puja_maxima": 17814200,
+    "dinero": 119200,
     "compras": 112857000,
-    "ventas": 62245700,
+    "ventas": 72206200,
     "puntos": 77,
-    "cuota_mercado": 0.1399,
-    "plusvalia": 22123000,
-    "margen_ventas": 9185700
+    "cuota_mercado": 0.1248,
+    "plusvalia": 18073000,
+    "margen_ventas": 13186200
   }
 ]
