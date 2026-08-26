@@ -2,8 +2,8 @@
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 60690000,
-    "dinero": 22494000,
+    "valor_equipo": 78760000,
+    "dinero": 3976000,
     "puntos_jornada_actual": 2,
     "puntos_total": 110,
     "cambio_posicion": 0,
@@ -13,7 +13,7 @@
   {
     "posicion": 2,
     "manager": "Diego Zuri",
-    "valor_equipo": 65220000,
+    "valor_equipo": 66280000,
     "dinero": 1202140,
     "puntos_jornada_actual": 7,
     "puntos_total": 108,
@@ -24,7 +24,7 @@
   {
     "posicion": 3,
     "manager": "Manuel Tello",
-    "valor_equipo": 75640000,
+    "valor_equipo": 75320000,
     "dinero": 1110100,
     "puntos_jornada_actual": 2,
     "puntos_total": 94,
@@ -35,8 +35,8 @@
   {
     "posicion": 4,
     "manager": "Dani Portero",
-    "valor_equipo": 66230000,
-    "dinero": 6715700,
+    "valor_equipo": 80750000,
+    "dinero": -9841300,
     "puntos_jornada_actual": 6,
     "puntos_total": 83,
     "cambio_posicion": 0,
@@ -46,8 +46,8 @@
   {
     "posicion": 5,
     "manager": "Team Novita",
-    "valor_equipo": 44290000,
-    "dinero": 14322012,
+    "valor_equipo": 51180000,
+    "dinero": 7923012,
     "puntos_jornada_actual": 4,
     "puntos_total": 74,
     "cambio_posicion": 1,
@@ -57,7 +57,7 @@
   {
     "posicion": 6,
     "manager": "Muriqui Saez",
-    "valor_equipo": 60870000,
+    "valor_equipo": 62700000,
     "dinero": 5031319,
     "puntos_jornada_actual": 0,
     "puntos_total": 71,
@@ -68,7 +68,7 @@
   {
     "posicion": 7,
     "manager": "Chirli",
-    "valor_equipo": 49670000,
+    "valor_equipo": 49800000,
     "dinero": 5888900,
     "puntos_jornada_actual": 9,
     "puntos_total": 62,
@@ -79,7 +79,7 @@
   {
     "posicion": 8,
     "manager": "Edu Zurita",
-    "valor_equipo": 63340000,
+    "valor_equipo": 64160000,
     "dinero": 1681083,
     "puntos_jornada_actual": 0,
     "puntos_total": 61,
@@ -90,7 +90,7 @@
   {
     "posicion": 9,
     "manager": "Mena",
-    "valor_equipo": 48220000,
+    "valor_equipo": 48050000,
     "dinero": 2116900,
     "puntos_jornada_actual": 0,
     "puntos_total": 60,

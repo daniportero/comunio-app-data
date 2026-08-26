@@ -1,5 +1,49 @@
 [
   {
+    "fecha": "2026-08-26",
+    "jugador": "Sorloth",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3159.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 6399000,
+    "valor_momento": 6590000,
+    "manager": "Team Novita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-26",
+    "jugador": "Bellingham",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3444.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "valor": 24101000,
+    "valor_momento": 23050000,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-26",
+    "jugador": "Oyarzabal",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2161.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 16557000,
+    "valor_momento": 14240000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-26",
+    "jugador": "Marcos Alonso",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3345.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 5583000,
+    "valor_momento": 5840000,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-25",
     "jugador": "Roger Hinojo",
     "posicion": "DEF",
@@ -17,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/4062.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "valor": 18602700,
-    "valor_momento": null,
+    "valor_momento": 18640000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
