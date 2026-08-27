@@ -2,8 +2,8 @@
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 76060000,
-    "dinero": 5881900,
+    "valor_equipo": 72810000,
+    "dinero": 9073400,
     "puntos_jornada_actual": 6,
     "puntos_total": 114,
     "cambio_posicion": 0,
@@ -24,8 +24,8 @@
   {
     "posicion": 3,
     "manager": "Manuel Tello",
-    "valor_equipo": 81100000,
-    "dinero": -11889900,
+    "valor_equipo": 56630000,
+    "dinero": 13424100,
     "puntos_jornada_actual": 2,
     "puntos_total": 94,
     "cambio_posicion": 0,
@@ -79,8 +79,8 @@
   {
     "posicion": 8,
     "manager": "Edu Zurita",
-    "valor_equipo": 63130000,
-    "dinero": -8917,
+    "valor_equipo": 62470000,
+    "dinero": 618083,
     "puntos_jornada_actual": 6,
     "puntos_total": 67,
     "cambio_posicion": -1,

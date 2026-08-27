@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/4030.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
     "valor": 1690000,
-    "valor_momento": null,
+    "valor_momento": 1740000,
     "manager": "Edu Zurita",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/3885.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 4850000,
-    "valor_momento": null,
+    "valor_momento": 3960000,
     "manager": "Manuel Tello",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/2488.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 8150000,
-    "valor_momento": null,
+    "valor_momento": 7240000,
     "manager": "Manuel Tello",
     "movimiento": "Compra"
   },
@@ -39,9 +39,53 @@
     "imagen": "https://www.comuniate.com/caras3/4102.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "valor": 690000,
-    "valor_momento": null,
+    "valor_momento": 630000,
     "manager": "Carlos Saez",
     "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-27",
+    "jugador": "Agoumé",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3562.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 3191500,
+    "valor_momento": 3250000,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-27",
+    "jugador": "Cucho Hernández",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2585.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 9467800,
+    "valor_momento": 9130000,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-27",
+    "jugador": "Dani Olmo",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3679.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 15846200,
+    "valor_momento": 15340000,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-27",
+    "jugador": "Gorrotxategi",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3833.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 627000,
+    "valor_momento": 660000,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
   },
   {
     "fecha": "2026-08-26",
@@ -94,7 +138,7 @@
     "imagen": "https://www.comuniate.com/caras3/2664.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 5918000,
-    "valor_momento": null,
+    "valor_momento": 6120000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
@@ -105,7 +149,7 @@
     "imagen": "https://www.comuniate.com/caras3/3243.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "valor": 4042500,
-    "valor_momento": null,
+    "valor_momento": 3850000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
@@ -116,7 +160,7 @@
     "imagen": "https://www.comuniate.com/caras3/1969.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "valor": 2595900,
-    "valor_momento": null,
+    "valor_momento": 2690000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
@@ -127,7 +171,7 @@
     "imagen": "https://www.comuniate.com/caras3/3325.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "valor": 551600,
-    "valor_momento": null,
+    "valor_momento": 580000,
     "manager": "Team Novita",
     "movimiento": "Venta"
   },
@@ -138,7 +182,7 @@
     "imagen": "https://www.comuniate.com/caras3/3574.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "valor": 3914300,
-    "valor_momento": null,
+    "valor_momento": 3930000,
     "manager": "Team Novita",
     "movimiento": "Venta"
   },

@@ -82,7 +82,7 @@
     "equipo_local": "Real Madrid",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "equipo_visitante": "Real Sociedad",
-    "resultado": null,
+    "resultado": "4-1",
     "fecha": "2026-08-26",
     "hora": "21:00",
     "aplazado": true
@@ -551,6 +551,17 @@
   },
   {
     "jornada": 6,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "equipo_local": "Real Sociedad",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "equipo_visitante": "Celta",
+    "resultado": null,
+    "fecha": "2026-09-03",
+    "hora": "21:00",
+    "aplazado": false
+  },
+  {
+    "jornada": 6,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo_local": "Atlético",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
@@ -558,7 +569,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -569,7 +580,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -580,7 +591,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -591,7 +602,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -602,7 +613,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -613,7 +624,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -624,7 +635,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -635,7 +646,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 6,
@@ -646,18 +657,7 @@
     "resultado": null,
     "fecha": "2026-09-16",
     "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 6,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/13.png",
-    "equipo_local": "Real Sociedad",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/5.png",
-    "equipo_visitante": "Celta",
-    "resultado": null,
-    "fecha": "2026-09-16",
-    "hora": "21:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 7,
