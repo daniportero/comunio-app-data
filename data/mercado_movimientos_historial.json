@@ -1,5 +1,49 @@
 [
   {
+    "fecha": "2026-08-27",
+    "jugador": "Facu González",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4030.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 1690000,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-27",
+    "jugador": "Tyrhys Dolan",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3885.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 4850000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-27",
+    "jugador": "Guedes",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2488.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 8150000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-27",
+    "jugador": "Musuayi",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4102.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 690000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-26",
     "jugador": "Sorloth",
     "posicion": "DEL",
@@ -74,6 +118,28 @@
     "valor": 2595900,
     "valor_momento": null,
     "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-26",
+    "jugador": "André Almeida",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3325.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 551600,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-08-26",
+    "jugador": "Etta Eyong",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3574.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 3914300,
+    "valor_momento": null,
+    "manager": "Team Novita",
     "movimiento": "Venta"
   },
   {

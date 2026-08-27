@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 75320000,
-    "num_jugadores": 11,
+    "valor_equipo": 81100000,
+    "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -115,6 +115,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 13,
+        "media_puntos": 6.5,
+        "jugador": "Tyrhys Dolan",
+        "imagen": "https://www.comuniate.com/caras3/3885.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+        "valor_jugador": 4010000,
+        "revalorizacion": 860000,
+        "plusvalia": -840000,
+        "r5": 0,
+        "r4": 13,
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": null,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 8,
         "media_puntos": 4.0,
         "jugador": "Izan Merino",
@@ -202,12 +220,30 @@
         "r1": "-",
         "alineado": true,
         "lesion": null
+      },
+      {
+        "posicion": "DEL",
+        "puntos": 0,
+        "media_puntos": 0.0,
+        "jugador": "Guedes",
+        "imagen": "https://www.comuniate.com/caras3/2488.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+        "valor_jugador": 7480000,
+        "revalorizacion": -3340000,
+        "plusvalia": -670000,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": null,
+        "lesion": null
       }
     ]
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 70780000,
+    "valor_equipo": 70820000,
     "num_jugadores": 13,
     "formacion": "4-5-1",
     "jugadores": [
@@ -449,8 +485,8 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 64160000,
-    "num_jugadores": 15,
+    "valor_equipo": 63130000,
+    "num_jugadores": 16,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -523,6 +559,24 @@
         "r2": "-",
         "r1": "-",
         "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 7,
+        "media_puntos": 3.5,
+        "jugador": "Facu González",
+        "imagen": "https://www.comuniate.com/caras3/4030.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+        "valor_jugador": 1650000,
+        "revalorizacion": -50000,
+        "plusvalia": -40000,
+        "r5": 3,
+        "r4": 4,
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": null,
         "lesion": null
       },
       {
@@ -727,7 +781,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 66280000,
+    "valor_equipo": 65760000,
     "num_jugadores": 14,
     "formacion": "3-5-2",
     "jugadores": [
@@ -987,7 +1041,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 48050000,
+    "valor_equipo": 45530000,
     "num_jugadores": 15,
     "formacion": "3-4-3",
     "jugadores": [
@@ -1265,7 +1319,7 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 62700000,
+    "valor_equipo": 59720000,
     "num_jugadores": 12,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1489,8 +1543,8 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 51180000,
-    "num_jugadores": 20,
+    "valor_equipo": 46360000,
+    "num_jugadores": 18,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1783,24 +1837,6 @@
       },
       {
         "posicion": "MED",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "André Almeida",
-        "imagen": "https://www.comuniate.com/caras3/3325.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-        "valor_jugador": 580000,
-        "revalorizacion": 70000,
-        "plusvalia": 179000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
         "puntos": 4,
         "media_puntos": 4.0,
         "jugador": "Luis Rioja",
@@ -1834,30 +1870,12 @@
         "r1": "-",
         "alineado": false,
         "lesion": "Contractura muscular"
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 2,
-        "media_puntos": 1.0,
-        "jugador": "Etta Eyong",
-        "imagen": "https://www.comuniate.com/caras3/3574.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
-        "valor_jugador": 3930000,
-        "revalorizacion": -2390000,
-        "plusvalia": 87000,
-        "r5": 0,
-        "r4": 2,
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
       }
     ]
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 49800000,
+    "valor_equipo": 45860000,
     "num_jugadores": 13,
     "formacion": "3-5-2",
     "jugadores": [
@@ -2099,8 +2117,8 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 76070000,
-    "num_jugadores": 11,
+    "valor_equipo": 76060000,
+    "num_jugadores": 12,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -2299,6 +2317,24 @@
         "r2": "-",
         "r1": "-",
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEL",
+        "puntos": 0,
+        "media_puntos": 0.0,
+        "jugador": "Musuayi",
+        "imagen": "https://www.comuniate.com/caras3/4102.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+        "valor_jugador": 660000,
+        "revalorizacion": -490000,
+        "plusvalia": -30000,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": null,
         "lesion": null
       }
     ]
