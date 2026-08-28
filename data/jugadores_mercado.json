@@ -3864,48 +3864,6 @@
     "precio": 5100000
   },
   {
-    "jugador": "Oso",
-    "dia": "22/Ago",
-    "variacion": 100000,
-    "precio": 3110000
-  },
-  {
-    "jugador": "Oso",
-    "dia": "23/Ago",
-    "variacion": 300000,
-    "precio": 3410000
-  },
-  {
-    "jugador": "Oso",
-    "dia": "24/Ago",
-    "variacion": 0,
-    "precio": 3410000
-  },
-  {
-    "jugador": "Oso",
-    "dia": "25/Ago",
-    "variacion": 140000,
-    "precio": 3550000
-  },
-  {
-    "jugador": "Oso",
-    "dia": "26/Ago",
-    "variacion": 20000,
-    "precio": 3570000
-  },
-  {
-    "jugador": "Oso",
-    "dia": "27/Ago",
-    "variacion": -40000,
-    "precio": 3530000
-  },
-  {
-    "jugador": "Oso",
-    "dia": "28/Ago",
-    "variacion": 180000,
-    "precio": 3710000
-  },
-  {
     "jugador": "Alexander-Arnold",
     "dia": "22/Ago",
     "variacion": 180000,
@@ -22306,5 +22264,11 @@
     "dia": "28/Ago",
     "variacion": 0,
     "precio": 160000
+  },
+  {
+    "jugador": "Mamadou Sarr",
+    "dia": "28/Ago",
+    "variacion": 0,
+    "precio": 750000
   }
 ]
