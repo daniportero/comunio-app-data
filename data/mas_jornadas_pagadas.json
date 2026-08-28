@@ -11,12 +11,12 @@
       "dinero": 0
     },
     {
-      "posicion": 7,
+      "posicion": 6,
       "manager": "Edu Zurita",
       "dinero": 2
     },
     {
-      "posicion": 2,
+      "posicion": 1,
       "manager": "Diego Zuri",
       "dinero": 0
     },
@@ -26,12 +26,12 @@
       "dinero": 2
     },
     {
-      "posicion": 5,
+      "posicion": 7,
       "manager": "Muriqui Saez",
       "dinero": 0
     },
     {
-      "posicion": 6,
+      "posicion": 5,
       "manager": "Team Novita",
       "dinero": 2
     },
@@ -41,7 +41,7 @@
       "dinero": 2
     },
     {
-      "posicion": 1,
+      "posicion": 2,
       "manager": "Carlos Saez",
       "dinero": 0
     }

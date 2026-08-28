@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-08-28",
+    "jugador": "Johnny Cardoso",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3553.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 1250000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-27",
     "jugador": "Facu González",
     "posicion": "DEF",
