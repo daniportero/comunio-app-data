@@ -2,32 +2,32 @@
   {
     "jornada": 1,
     "posicion": 1,
-    "manager": "Mena"
+    "manager": "Edu Zurita"
   },
   {
     "jornada": 1,
     "posicion": 2,
-    "manager": "Dani Portero"
+    "manager": "Diego Zuri"
   },
   {
     "jornada": 1,
     "posicion": 3,
-    "manager": "Muriqui Saez"
+    "manager": "Team Novita"
   },
   {
     "jornada": 1,
     "posicion": 4,
-    "manager": "Manuel Tello"
+    "manager": "Mena"
   },
   {
     "jornada": 1,
     "posicion": 5,
-    "manager": "Carlos Saez"
+    "manager": "Manuel Tello"
   },
   {
     "jornada": 1,
     "posicion": 6,
-    "manager": "Diego Zuri"
+    "manager": "Dani Portero"
   },
   {
     "jornada": 1,
@@ -37,56 +37,56 @@
   {
     "jornada": 1,
     "posicion": 8,
-    "manager": "Team Novita"
+    "manager": "Carlos Saez"
   },
   {
     "jornada": 1,
     "posicion": 9,
-    "manager": "Edu Zurita"
+    "manager": "Muriqui Saez"
   },
   {
     "jornada": 2,
     "posicion": 1,
-    "manager": "Carlos Saez"
-  },
-  {
-    "jornada": 2,
-    "posicion": 2,
     "manager": "Diego Zuri"
   },
   {
     "jornada": 2,
+    "posicion": 2,
+    "manager": "Carlos Saez"
+  },
+  {
+    "jornada": 2,
     "posicion": 3,
-    "manager": "Manuel Tello"
-  },
-  {
-    "jornada": 2,
-    "posicion": 4,
-    "manager": "Dani Portero"
-  },
-  {
-    "jornada": 2,
-    "posicion": 5,
-    "manager": "Muriqui Saez"
-  },
-  {
-    "jornada": 2,
-    "posicion": 6,
     "manager": "Team Novita"
   },
   {
     "jornada": 2,
-    "posicion": 7,
+    "posicion": 4,
+    "manager": "Manuel Tello"
+  },
+  {
+    "jornada": 2,
+    "posicion": 5,
     "manager": "Edu Zurita"
   },
   {
     "jornada": 2,
+    "posicion": 6,
+    "manager": "Dani Portero"
+  },
+  {
+    "jornada": 2,
+    "posicion": 7,
+    "manager": "Chirli"
+  },
+  {
+    "jornada": 2,
     "posicion": 8,
-    "manager": "Mena"
+    "manager": "Muriqui Saez"
   },
   {
     "jornada": 2,
     "posicion": 9,
-    "manager": "Chirli"
+    "manager": "Mena"
   }
 ]
