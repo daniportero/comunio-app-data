@@ -1,6 +1,26 @@
 [
   {
     "posicion": "DEL",
+    "puntos": 13,
+    "media_puntos": 6.5,
+    "imagen": "https://www.comuniate.com/caras3/4098.png",
+    "jugador": "Adeyemi",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor_jugador": 18700000,
+    "revalorizacion": 1790000,
+    "plusvalia": null,
+    "venta": 19500000,
+    "r5": "-",
+    "r4": 11,
+    "r3": 2,
+    "r2": "-",
+    "r1": "-",
+    "manager": "",
+    "valor_compra": 0,
+    "lesion": null
+  },
+  {
+    "posicion": "DEL",
     "puntos": 0,
     "media_puntos": 0.0,
     "imagen": "https://www.comuniate.com/caras3/2498.png",
@@ -517,26 +537,6 @@
     "r1": "-",
     "manager": "Team Novita",
     "valor_compra": 410000,
-    "lesion": null
-  },
-  {
-    "posicion": "DEL",
-    "puntos": 13,
-    "media_puntos": 6.5,
-    "imagen": "https://www.comuniate.com/caras3/4098.png",
-    "jugador": "Adeyemi",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "valor_jugador": 18700000,
-    "revalorizacion": 1790000,
-    "plusvalia": null,
-    "venta": 17500000,
-    "r5": "-",
-    "r4": 11,
-    "r3": 2,
-    "r2": "-",
-    "r1": "-",
-    "manager": "",
-    "valor_compra": 0,
     "lesion": null
   },
   {
