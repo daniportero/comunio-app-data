@@ -7,7 +7,7 @@
     "puntos_jornada_actual": 8,
     "puntos_total": 131,
     "cambio_posicion": 1,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -29,7 +29,7 @@
     "puntos_jornada_actual": 9,
     "puntos_total": 124,
     "cambio_posicion": 1,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
@@ -40,7 +40,7 @@
     "puntos_jornada_actual": 21,
     "puntos_total": 105,
     "cambio_posicion": 4,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -51,18 +51,18 @@
     "puntos_jornada_actual": 6,
     "puntos_total": 102,
     "cambio_posicion": -2,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
     "posicion": 6,
     "manager": "Edu Zurita",
-    "valor_equipo": 67000000,
-    "dinero": -5261917,
+    "valor_equipo": 64190000,
+    "dinero": -2533417,
     "puntos_jornada_actual": 13,
     "puntos_total": 100,
     "cambio_posicion": -1,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
@@ -73,7 +73,7 @@
     "puntos_jornada_actual": 1,
     "puntos_total": 98,
     "cambio_posicion": -1,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 1,
     "jugadores_alineados": 11
   },
   {
@@ -84,7 +84,7 @@
     "puntos_jornada_actual": 11,
     "puntos_total": 95,
     "cambio_posicion": 1,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 4,
     "jugadores_alineados": 11
   },
   {
@@ -95,7 +95,7 @@
     "puntos_jornada_actual": 15,
     "puntos_total": 87,
     "cambio_posicion": -2,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   }
 ]

@@ -6,9 +6,20 @@
     "imagen": "https://www.comuniate.com/caras3/1995.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 6140000,
-    "valor_momento": null,
+    "valor_momento": 5330000,
     "manager": "Edu Zurita",
     "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-29",
+    "jugador": "Angeliño",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4107.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 2728500,
+    "valor_momento": 2810000,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
   },
   {
     "fecha": "2026-08-28",

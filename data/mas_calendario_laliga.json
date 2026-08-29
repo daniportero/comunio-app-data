@@ -221,14 +221,25 @@
   },
   {
     "jornada": 3,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "equipo_local": "Racing de Santander",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "equipo_visitante": "Elche",
+    "resultado": "3-2",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 3,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo_local": "Alavés",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "equipo_visitante": "Villarreal",
-    "resultado": null,
+    "resultado": "1-0",
     "fecha": "2026-08-28",
     "hora": "21:30",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -239,7 +250,7 @@
     "resultado": null,
     "fecha": "2026-08-29",
     "hora": "17:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -250,7 +261,7 @@
     "resultado": null,
     "fecha": "2026-08-29",
     "hora": "19:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -261,7 +272,7 @@
     "resultado": null,
     "fecha": "2026-08-29",
     "hora": "21:30",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -272,7 +283,7 @@
     "resultado": null,
     "fecha": "2026-08-30",
     "hora": "17:00",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -283,7 +294,7 @@
     "resultado": null,
     "fecha": "2026-08-30",
     "hora": "19:30",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -294,7 +305,7 @@
     "resultado": null,
     "fecha": "2026-08-30",
     "hora": "21:30",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -305,7 +316,7 @@
     "resultado": null,
     "fecha": "2026-08-31",
     "hora": "19:30",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 3,
@@ -316,7 +327,7 @@
     "resultado": null,
     "fecha": "2026-08-31",
     "hora": "21:30",
-    "aplazado": false
+    "aplazado": true
   },
   {
     "jornada": 4,
