@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-08-29",
+    "jugador": "Iñaki Williams",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/1995.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 6140000,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-08-28",
     "jugador": "Johnny Cardoso",
     "posicion": "MED",
