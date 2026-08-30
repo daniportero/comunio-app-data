@@ -247,7 +247,7 @@
     "equipo_local": "Levante",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "equipo_visitante": "Betis",
-    "resultado": null,
+    "resultado": "5-2",
     "fecha": "2026-08-29",
     "hora": "17:00",
     "aplazado": true
@@ -258,7 +258,7 @@
     "equipo_local": "Real Sociedad",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "equipo_visitante": "Espanyol",
-    "resultado": null,
+    "resultado": "2-1",
     "fecha": "2026-08-29",
     "hora": "19:00",
     "aplazado": true
@@ -269,7 +269,7 @@
     "equipo_local": "Sevilla",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo_visitante": "Atlético",
-    "resultado": null,
+    "resultado": "1-3",
     "fecha": "2026-08-29",
     "hora": "21:30",
     "aplazado": true

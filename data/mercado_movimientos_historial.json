@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-08-30",
+    "jugador": "Pablo Durán",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3356.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 1404100,
+    "valor_momento": 860000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-30",
+    "jugador": "Nicolas Pépé",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3673.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 15680000,
+    "valor_momento": 14060000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-30",
+    "jugador": "Rubén García",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/1602.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 4068200,
+    "valor_momento": 4020000,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-29",
     "jugador": "Iñaki Williams",
     "posicion": "DEL",
@@ -1764,7 +1797,7 @@
     "jugador": "Héctor Fort",
     "posicion": "DEF",
     "imagen": "https://www.comuniate.com/caras3/3542.png",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 780800,
     "valor_momento": 810000,
     "manager": "Edu Zurita",
@@ -2655,7 +2688,7 @@
     "jugador": "Héctor Fort",
     "posicion": "DEF",
     "imagen": "https://www.comuniate.com/caras3/3542.png",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 540000,
     "valor_momento": 500000,
     "manager": "Edu Zurita",
