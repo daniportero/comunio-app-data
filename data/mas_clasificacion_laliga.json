@@ -1,6 +1,18 @@
 [
   {
     "posicion": 1,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "equipo": "Real Madrid",
+    "puntos": 9,
+    "pj": 3,
+    "pg": 3,
+    "pe": 0,
+    "pp": 0,
+    "gf": 10,
+    "gc": 2
+  },
+  {
+    "posicion": 2,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo": "Atlético",
     "puntos": 7,
@@ -12,7 +24,7 @@
     "gc": 3
   },
   {
-    "posicion": 2,
+    "posicion": 3,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo": "Alavés",
     "puntos": 7,
@@ -24,7 +36,7 @@
     "gc": 1
   },
   {
-    "posicion": 3,
+    "posicion": 4,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
     "equipo": "Barcelona",
     "puntos": 6,
@@ -34,18 +46,6 @@
     "pp": 0,
     "gf": 7,
     "gc": 0
-  },
-  {
-    "posicion": 4,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-    "equipo": "Real Madrid",
-    "puntos": 6,
-    "pj": 2,
-    "pg": 2,
-    "pe": 0,
-    "pp": 0,
-    "gf": 6,
-    "gc": 2
   },
   {
     "posicion": 5,
@@ -73,6 +73,18 @@
   },
   {
     "posicion": 7,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "equipo": "Deportivo",
+    "puntos": 5,
+    "pj": 3,
+    "pg": 1,
+    "pe": 2,
+    "pp": 0,
+    "gf": 5,
+    "gc": 3
+  },
+  {
+    "posicion": 8,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
     "equipo": "Osasuna",
     "puntos": 4,
@@ -84,7 +96,7 @@
     "gc": 1
   },
   {
-    "posicion": 8,
+    "posicion": 9,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "equipo": "Levante",
     "puntos": 4,
@@ -96,7 +108,7 @@
     "gc": 5
   },
   {
-    "posicion": 9,
+    "posicion": 10,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
     "equipo": "Racing de Santander",
     "puntos": 4,
@@ -108,7 +120,7 @@
     "gc": 5
   },
   {
-    "posicion": 10,
+    "posicion": 11,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "equipo": "Espanyol",
     "puntos": 3,
@@ -120,7 +132,19 @@
     "gc": 4
   },
   {
-    "posicion": 11,
+    "posicion": 12,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "equipo": "Athletic Club",
+    "puntos": 3,
+    "pj": 3,
+    "pg": 1,
+    "pe": 0,
+    "pp": 2,
+    "gf": 3,
+    "gc": 5
+  },
+  {
+    "posicion": 13,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "equipo": "Getafe",
     "puntos": 3,
@@ -132,7 +156,7 @@
     "gc": 3
   },
   {
-    "posicion": 12,
+    "posicion": 14,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "equipo": "Real Sociedad",
     "puntos": 3,
@@ -144,19 +168,7 @@
     "gc": 6
   },
   {
-    "posicion": 13,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-    "equipo": "Deportivo",
-    "puntos": 2,
-    "pj": 2,
-    "pg": 0,
-    "pe": 2,
-    "pp": 0,
-    "gf": 2,
-    "gc": 2
-  },
-  {
-    "posicion": 14,
+    "posicion": 15,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "equipo": "Villarreal",
     "puntos": 2,
@@ -168,7 +180,7 @@
     "gc": 5
   },
   {
-    "posicion": 15,
+    "posicion": 16,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "equipo": "Rayo Vallecano",
     "puntos": 1,
@@ -180,40 +192,28 @@
     "gc": 3
   },
   {
-    "posicion": 16,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-    "equipo": "Celta",
-    "puntos": 1,
-    "pj": 2,
-    "pg": 0,
-    "pe": 1,
-    "pp": 1,
-    "gf": 1,
-    "gc": 2
-  },
-  {
     "posicion": 17,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "equipo": "Valencia",
     "puntos": 1,
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
     "pe": 1,
-    "pp": 1,
-    "gf": 0,
-    "gc": 1
+    "pp": 2,
+    "gf": 1,
+    "gc": 4
   },
   {
     "posicion": 18,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-    "equipo": "Málaga",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "equipo": "Celta",
     "puntos": 1,
-    "pj": 2,
+    "pj": 3,
     "pg": 0,
     "pe": 1,
-    "pp": 1,
+    "pp": 2,
     "gf": 1,
-    "gc": 3
+    "gc": 4
   },
   {
     "posicion": 19,
@@ -229,14 +229,14 @@
   },
   {
     "posicion": 20,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-    "equipo": "Athletic Club",
-    "puntos": 0,
-    "pj": 2,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "equipo": "Málaga",
+    "puntos": 1,
+    "pj": 3,
     "pg": 0,
-    "pe": 0,
+    "pe": 1,
     "pp": 2,
     "gf": 1,
-    "gc": 5
+    "gc": 7
   }
 ]

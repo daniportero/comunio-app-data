@@ -280,7 +280,7 @@
     "equipo_local": "Real Madrid",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/65.png",
     "equipo_visitante": "Málaga",
-    "resultado": null,
+    "resultado": "4-0",
     "fecha": "2026-08-30",
     "hora": "17:00",
     "aplazado": true
@@ -291,7 +291,7 @@
     "equipo_local": "Deportivo",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "equipo_visitante": "Valencia",
-    "resultado": null,
+    "resultado": "3-1",
     "fecha": "2026-08-30",
     "hora": "19:30",
     "aplazado": true
@@ -302,7 +302,7 @@
     "equipo_local": "Celta",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "equipo_visitante": "Athletic Club",
-    "resultado": null,
+    "resultado": "0-2",
     "fecha": "2026-08-30",
     "hora": "21:30",
     "aplazado": true
@@ -446,8 +446,8 @@
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "equipo_visitante": "Elche",
     "resultado": null,
-    "fecha": "2026-09-13",
-    "hora": "21:00",
+    "fecha": "2026-09-12",
+    "hora": "18:30",
     "aplazado": false
   },
   {
@@ -458,7 +458,7 @@
     "equipo_visitante": "Málaga",
     "resultado": null,
     "fecha": "2026-09-13",
-    "hora": "21:00",
+    "hora": "14:00",
     "aplazado": false
   },
   {
@@ -655,8 +655,8 @@
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "equipo_visitante": "Getafe",
     "resultado": null,
-    "fecha": "2026-09-16",
-    "hora": "21:00",
+    "fecha": "2026-09-17",
+    "hora": "19:00",
     "aplazado": true
   },
   {

@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-08-31",
+    "jugador": "Mariano Díaz",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2304.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 3790000,
+    "valor_momento": 4210000,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-31",
+    "jugador": "Diego Conde",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3121.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 160000,
+    "valor_momento": 160000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-08-31",
+    "jugador": "Batalla",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3555.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 1769300,
+    "valor_momento": 1750000,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-30",
     "jugador": "Pablo Durán",
     "posicion": "DEL",
