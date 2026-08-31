@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEF",
+    "puntos": 7,
+    "media_puntos": 3.5,
+    "imagen": "https://www.comuniate.com/caras3/3576.png",
+    "jugador": "Hugo Rincón",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor_jugador": 1240000,
+    "revalorizacion": 170000,
+    "plusvalia": 520000,
+    "venta": 1240000,
+    "r5": "-",
+    "r4": 4,
+    "r3": 3,
+    "r2": "-",
+    "r1": "-",
+    "manager": "Diego Zuri",
+    "valor_compra": 720000,
+    "lesion": null
+  },
+  {
     "posicion": "MED",
     "puntos": 0,
     "media_puntos": 0.0,
