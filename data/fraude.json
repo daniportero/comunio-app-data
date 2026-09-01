@@ -14,5 +14,21 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
     "precio_venta": 15846200,
     "fecha": "2026-08-27"
+  },
+  {
+    "manager": "Mena",
+    "jugador": "Eneko Jauregi",
+    "imagen": "https://www.comuniate.com/caras3/4093.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "precio_venta": 280600,
+    "fecha": "2026-09-01"
+  },
+  {
+    "manager": "Mena",
+    "jugador": "Davinchi",
+    "imagen": "https://www.comuniate.com/caras3/3868.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "precio_venta": 760800,
+    "fecha": "2026-09-01"
   }
 ]

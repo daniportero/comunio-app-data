@@ -1,5 +1,82 @@
 [
   {
+    "fecha": "2026-09-01",
+    "jugador": "Maffeo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2453.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 2666666,
+    "valor_momento": 2550000,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-01",
+    "jugador": "Roberto Fernández",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3773.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 11850000,
+    "valor_momento": 11160000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-01",
+    "jugador": "Vlachodimos",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3899.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 2850000,
+    "valor_momento": 2450000,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-01",
+    "jugador": "Ndukwe",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4139.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 400000,
+    "valor_momento": 380000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-01",
+    "jugador": "Gorosabel",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2491.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 570000,
+    "valor_momento": 520000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-01",
+    "jugador": "Eneko Jauregi",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4093.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "valor": 280600,
+    "valor_momento": 280000,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-01",
+    "jugador": "Davinchi",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3868.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 760800,
+    "valor_momento": 800000,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-31",
     "jugador": "Mariano Díaz",
     "posicion": "DEL",

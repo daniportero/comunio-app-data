@@ -1,9 +1,9 @@
 [
   {
     "manager": "Manuel Tello",
-    "total_mov": 42,
-    "num_compras": 28,
-    "valor_compras": 123504100,
+    "total_mov": 45,
+    "num_compras": 31,
+    "valor_compras": 136324100,
     "num_ventas": 14,
     "valor_ventas": 77674100,
     "margen_ventas": 19684100
@@ -28,21 +28,21 @@
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 33,
-    "num_compras": 24,
-    "valor_compras": 58145060,
+    "total_mov": 34,
+    "num_compras": 25,
+    "valor_compras": 60811726,
     "num_ventas": 9,
     "valor_ventas": 14547200,
     "margen_ventas": 5741647
   },
   {
     "manager": "Mena",
-    "total_mov": 27,
-    "num_compras": 21,
-    "valor_compras": 52300000,
-    "num_ventas": 6,
-    "valor_ventas": 13016900,
-    "margen_ventas": -2283100
+    "total_mov": 30,
+    "num_compras": 22,
+    "valor_compras": 55150000,
+    "num_ventas": 8,
+    "valor_ventas": 14058300,
+    "margen_ventas": -7641700
   },
   {
     "manager": "Muriqui Saez",

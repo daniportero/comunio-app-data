@@ -88,5 +88,50 @@
     "jornada": 2,
     "posicion": 9,
     "manager": "Chirli"
+  },
+  {
+    "jornada": 3,
+    "posicion": 1,
+    "manager": "Carlos Saez"
+  },
+  {
+    "jornada": 3,
+    "posicion": 2,
+    "manager": "Manuel Tello"
+  },
+  {
+    "jornada": 3,
+    "posicion": 3,
+    "manager": "Diego Zuri"
+  },
+  {
+    "jornada": 3,
+    "posicion": 4,
+    "manager": "Dani Portero"
+  },
+  {
+    "jornada": 3,
+    "posicion": 5,
+    "manager": "Mena"
+  },
+  {
+    "jornada": 3,
+    "posicion": 6,
+    "manager": "Muriqui Saez"
+  },
+  {
+    "jornada": 3,
+    "posicion": 7,
+    "manager": "Team Novita"
+  },
+  {
+    "jornada": 3,
+    "posicion": 8,
+    "manager": "Edu Zurita"
+  },
+  {
+    "jornada": 3,
+    "posicion": 9,
+    "manager": "Chirli"
   }
 ]
