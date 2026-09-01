@@ -77,6 +77,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-01",
+    "jugador": "Carlos Álvarez",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3363.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 1948800,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-08-31",
     "jugador": "Mariano Díaz",
     "posicion": "DEL",
