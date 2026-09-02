@@ -220,26 +220,6 @@
     "lesion": null
   },
   {
-    "posicion": "MED",
-    "puntos": 18,
-    "media_puntos": 6.0,
-    "imagen": "https://www.comuniate.com/caras3/4038.png",
-    "jugador": "Gustavo Puerta",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
-    "valor_jugador": 4720000,
-    "revalorizacion": -240000,
-    "plusvalia": 1629999,
-    "venta": 47200000,
-    "r5": 8,
-    "r4": 3,
-    "r3": 7,
-    "r2": "-",
-    "r1": "-",
-    "manager": "Edu Zurita",
-    "valor_compra": 3090001,
-    "lesion": null
-  },
-  {
     "posicion": "DEF",
     "puntos": 0,
     "media_puntos": 0.0,

@@ -539,8 +539,8 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 57760000,
-    "num_jugadores": 14,
+    "valor_equipo": 53040000,
+    "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -682,24 +682,6 @@
         "r5": 1,
         "r4": 4,
         "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 18,
-        "media_puntos": 6.0,
-        "jugador": "Gustavo Puerta",
-        "imagen": "https://www.comuniate.com/caras3/4038.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
-        "valor_jugador": 4720000,
-        "revalorizacion": -240000,
-        "plusvalia": 1629999,
-        "r5": 8,
-        "r4": 3,
-        "r3": 7,
         "r2": "-",
         "r1": "-",
         "alineado": true,

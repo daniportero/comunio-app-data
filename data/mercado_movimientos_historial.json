@@ -55,6 +55,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-02",
+    "jugador": "Gustavo Puerta",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4038.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 4757800,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-01",
     "jugador": "Maffeo",
     "posicion": "DEF",
