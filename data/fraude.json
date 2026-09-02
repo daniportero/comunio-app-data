@@ -30,5 +30,21 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "precio_venta": 760800,
     "fecha": "2026-09-01"
+  },
+  {
+    "manager": "Manuel Tello",
+    "jugador": "Adeyemi",
+    "imagen": "https://www.comuniate.com/caras3/4098.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "precio_venta": 17327200,
+    "fecha": "2026-09-02"
+  },
+  {
+    "manager": "Manuel Tello",
+    "jugador": "Guedes",
+    "imagen": "https://www.comuniate.com/caras3/2488.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "precio_venta": 7315800,
+    "fecha": "2026-09-02"
   }
 ]

@@ -2,7 +2,7 @@
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 74270000,
+    "valor_equipo": 74310000,
     "dinero": 9833400,
     "puntos_jornada_actual": 61,
     "puntos_total": 184,
@@ -13,8 +13,8 @@
   {
     "posicion": 2,
     "manager": "Manuel Tello",
-    "valor_equipo": 59130000,
-    "dinero": 7783000,
+    "valor_equipo": 62840000,
+    "dinero": 2133000,
     "puntos_jornada_actual": 64,
     "puntos_total": 179,
     "cambio_posicion": 0,
@@ -24,7 +24,7 @@
   {
     "posicion": 3,
     "manager": "Diego Zuri",
-    "valor_equipo": 70740000,
+    "valor_equipo": 71540000,
     "dinero": -4754526,
     "puntos_jornada_actual": 24,
     "puntos_total": 151,
@@ -35,7 +35,7 @@
   {
     "posicion": 4,
     "manager": "Dani Portero",
-    "valor_equipo": 68570000,
+    "valor_equipo": 67990000,
     "dinero": 2348500,
     "puntos_jornada_actual": 42,
     "puntos_total": 139,
@@ -46,7 +46,7 @@
   {
     "posicion": 5,
     "manager": "Mena",
-    "valor_equipo": 46510000,
+    "valor_equipo": 47120000,
     "dinero": 1058300,
     "puntos_jornada_actual": 51,
     "puntos_total": 135,
@@ -57,8 +57,8 @@
   {
     "posicion": 6,
     "manager": "Muriqui Saez",
-    "valor_equipo": 55890000,
-    "dinero": 7610119,
+    "valor_equipo": 55330000,
+    "dinero": 7350119,
     "puntos_jornada_actual": 50,
     "puntos_total": 134,
     "cambio_posicion": 0,
@@ -68,8 +68,8 @@
   {
     "posicion": 7,
     "manager": "Team Novita",
-    "valor_equipo": 43080000,
-    "dinero": 13875212,
+    "valor_equipo": 42790000,
+    "dinero": 13065212,
     "puntos_jornada_actual": 32,
     "puntos_total": 128,
     "cambio_posicion": 0,
@@ -79,7 +79,7 @@
   {
     "posicion": 8,
     "manager": "Edu Zurita",
-    "valor_equipo": 59550000,
+    "valor_equipo": 57760000,
     "dinero": 1914783,
     "puntos_jornada_actual": 38,
     "puntos_total": 125,
@@ -90,7 +90,7 @@
   {
     "posicion": 9,
     "manager": "Chirli",
-    "valor_equipo": 44240000,
+    "valor_equipo": 41450000,
     "dinero": 6528900,
     "puntos_jornada_actual": 45,
     "puntos_total": 117,

@@ -661,6 +661,17 @@
   },
   {
     "jornada": 7,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "equipo_local": "Espanyol",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "equipo_visitante": "Elche",
+    "resultado": null,
+    "fecha": "2026-09-18",
+    "hora": "21:00",
+    "aplazado": false
+  },
+  {
+    "jornada": 7,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "equipo_local": "Athletic Club",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/89.png",
@@ -698,17 +709,6 @@
     "equipo_local": "Deportivo",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "equipo_visitante": "Betis",
-    "resultado": null,
-    "fecha": "2026-09-20",
-    "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 7,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/7.png",
-    "equipo_local": "Espanyol",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "equipo_visitante": "Elche",
     "resultado": null,
     "fecha": "2026-09-20",
     "hora": "21:00",
@@ -1035,17 +1035,6 @@
   },
   {
     "jornada": 10,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "equipo_local": "Barcelona",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/15.png",
-    "equipo_visitante": "Real Madrid",
-    "resultado": null,
-    "fecha": "2026-10-25",
-    "hora": "20:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 10,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "equipo_local": "Rayo Vallecano",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
@@ -1097,6 +1086,17 @@
     "resultado": null,
     "fecha": "2026-10-25",
     "hora": "20:00",
+    "aplazado": false
+  },
+  {
+    "jornada": 10,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "equipo_local": "Barcelona",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "equipo_visitante": "Real Madrid",
+    "resultado": null,
+    "fecha": "2026-10-25",
+    "hora": "21:00",
     "aplazado": false
   },
   {
