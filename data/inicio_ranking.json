@@ -13,8 +13,8 @@
   {
     "posicion": 2,
     "manager": "Manuel Tello",
-    "valor_equipo": 84390000,
-    "dinero": -16860000,
+    "valor_equipo": 59130000,
+    "dinero": 7783000,
     "puntos_jornada_actual": 64,
     "puntos_total": 179,
     "cambio_posicion": 0,
@@ -68,8 +68,8 @@
   {
     "posicion": 7,
     "manager": "Team Novita",
-    "valor_equipo": 43980000,
-    "dinero": 12968912,
+    "valor_equipo": 43080000,
+    "dinero": 13875212,
     "puntos_jornada_actual": 32,
     "puntos_total": 128,
     "cambio_posicion": 0,

@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 84390000,
-    "num_jugadores": 17,
+    "valor_equipo": 59130000,
+    "num_jugadores": 15,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -205,24 +205,6 @@
       },
       {
         "posicion": "DEL",
-        "puntos": 17,
-        "media_puntos": 5.7,
-        "jugador": "Adeyemi",
-        "imagen": "https://www.comuniate.com/caras3/4098.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-        "valor_jugador": 17900000,
-        "revalorizacion": 930000,
-        "plusvalia": 8950000,
-        "r5": 4,
-        "r4": 11,
-        "r3": 2,
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
         "puntos": 6,
         "media_puntos": 3.0,
         "jugador": "Pablo Durán",
@@ -273,24 +255,6 @@
         "r2": "-",
         "r1": "-",
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 6,
-        "media_puntos": 3.0,
-        "jugador": "Guedes",
-        "imagen": "https://www.comuniate.com/caras3/2488.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
-        "valor_jugador": 7360000,
-        "revalorizacion": 190000,
-        "plusvalia": -790000,
-        "r5": 4,
-        "r4": "-",
-        "r3": 2,
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
         "lesion": null
       },
       {
@@ -967,24 +931,6 @@
       },
       {
         "posicion": "MED",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Lemar",
-        "imagen": "https://www.comuniate.com/caras3/2596.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
-        "valor_jugador": 160000,
-        "revalorizacion": -80000,
-        "plusvalia": -96000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
         "puntos": 37,
         "media_puntos": 12.3,
         "jugador": "Fermín López",
@@ -999,6 +945,24 @@
         "r2": "-",
         "r1": "-",
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
+        "puntos": 0,
+        "media_puntos": 0.0,
+        "jugador": "Lemar",
+        "imagen": "https://www.comuniate.com/caras3/2596.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+        "valor_jugador": 160000,
+        "revalorizacion": -80000,
+        "plusvalia": -96000,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1579,8 +1543,8 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 43980000,
-    "num_jugadores": 18,
+    "valor_equipo": 43080000,
+    "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1689,24 +1653,6 @@
         "r2": "-",
         "r1": "-",
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 4,
-        "media_puntos": 2.0,
-        "jugador": "Boselli",
-        "imagen": "https://www.comuniate.com/caras3/3969.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-        "valor_jugador": 900000,
-        "revalorizacion": 350000,
-        "plusvalia": 3000,
-        "r5": "-",
-        "r4": 4,
-        "r3": 0,
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
         "lesion": null
       },
       {
@@ -1935,24 +1881,6 @@
       },
       {
         "posicion": "DEF",
-        "puntos": 9,
-        "media_puntos": 4.5,
-        "jugador": "David Affengruber",
-        "imagen": "https://www.comuniate.com/caras3/3836.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-        "valor_jugador": 3120000,
-        "revalorizacion": -1510000,
-        "plusvalia": -1450000,
-        "r5": 4,
-        "r4": -2,
-        "r3": 5,
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
         "puntos": 18,
         "media_puntos": 6.0,
         "jugador": "Roger Hinojo",
@@ -1964,6 +1892,24 @@
         "r5": 9,
         "r4": 1,
         "r3": 8,
+        "r2": "-",
+        "r1": "-",
+        "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 9,
+        "media_puntos": 4.5,
+        "jugador": "David Affengruber",
+        "imagen": "https://www.comuniate.com/caras3/3836.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+        "valor_jugador": 3120000,
+        "revalorizacion": -1510000,
+        "plusvalia": -1450000,
+        "r5": 4,
+        "r4": -2,
+        "r3": 5,
         "r2": "-",
         "r1": "-",
         "alineado": true,
