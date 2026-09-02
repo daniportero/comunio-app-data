@@ -1357,7 +1357,7 @@
     "manager": "Muriqui Saez",
     "valor_equipo": 55330000,
     "num_jugadores": 12,
-    "formacion": "4-5-1",
+    "formacion": "4-4-2",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1554,7 +1554,7 @@
         "r3": 2,
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {

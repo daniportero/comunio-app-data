@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEL",
+    "puntos": 13,
+    "media_puntos": 4.3,
+    "imagen": "https://www.comuniate.com/caras3/2161.png",
+    "jugador": "Oyarzabal",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor_jugador": 14550000,
+    "revalorizacion": 310000,
+    "plusvalia": -2007000,
+    "venta": 18000000,
+    "r5": 9,
+    "r4": 2,
+    "r3": 2,
+    "r2": "-",
+    "r1": "-",
+    "manager": "Dani Portero",
+    "valor_compra": 16557000,
+    "lesion": null
+  },
+  {
     "posicion": "MED",
     "puntos": 10,
     "media_puntos": 3.3,
