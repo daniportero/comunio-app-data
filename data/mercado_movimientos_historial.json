@@ -99,6 +99,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-03",
+    "jugador": "David Affengruber",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3836.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 3257300,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-02",
     "jugador": "Adeyemi",
     "posicion": "DEL",
