@@ -1,12 +1,12 @@
 [
   {
     "manager": "Manuel Tello",
-    "total_mov": 49,
+    "total_mov": 50,
     "num_compras": 33,
     "valor_compras": 145124100,
-    "num_ventas": 16,
-    "valor_ventas": 102317100,
-    "margen_ventas": 27227100
+    "num_ventas": 17,
+    "valor_ventas": 104135400,
+    "margen_ventas": 25695400
   },
   {
     "manager": "Dani Portero",

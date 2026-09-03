@@ -240,26 +240,6 @@
     "lesion": null
   },
   {
-    "posicion": "MED",
-    "puntos": 3,
-    "media_puntos": 3.0,
-    "imagen": "https://www.comuniate.com/caras3/3625.png",
-    "jugador": "Raúl Moro",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "valor_jugador": 1900000,
-    "revalorizacion": -1230000,
-    "plusvalia": null,
-    "venta": 2500000,
-    "r5": "-",
-    "r4": 3,
-    "r3": "-",
-    "r2": "-",
-    "r1": "-",
-    "manager": "",
-    "valor_compra": 0,
-    "lesion": null
-  },
-  {
     "posicion": "DEF",
     "puntos": 9,
     "media_puntos": 4.5,

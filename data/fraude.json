@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "manager": "Manuel Tello",
+    "jugador": "Raúl Moro",
+    "imagen": "https://www.comuniate.com/caras3/3625.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "precio_venta": 1818300,
+    "fecha": "2026-09-03"
+  }
+]

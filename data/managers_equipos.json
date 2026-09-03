@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 66370000,
-    "num_jugadores": 17,
+    "valor_equipo": 64470000,
+    "num_jugadores": 16,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -219,24 +219,6 @@
         "r2": "-",
         "r1": "-",
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 3,
-        "media_puntos": 3.0,
-        "jugador": "Raúl Moro",
-        "imagen": "https://www.comuniate.com/caras3/3625.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-        "valor_jugador": 1900000,
-        "revalorizacion": -1230000,
-        "plusvalia": -1450000,
-        "r5": "-",
-        "r4": 3,
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
         "lesion": null
       },
       {
@@ -1079,7 +1061,7 @@
     "manager": "Mena",
     "valor_equipo": 47240000,
     "num_jugadores": 14,
-    "formacion": "3-5-2",
+    "formacion": "4-4-2",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1150,7 +1132,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -1258,7 +1240,7 @@
         "r3": 2,
         "r2": "-",
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1294,7 +1276,7 @@
         "r3": 3,
         "r2": "-",
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1330,7 +1312,7 @@
         "r3": 5,
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       }
     ]
