@@ -2,8 +2,8 @@
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 74310000,
-    "dinero": 9833400,
+    "valor_equipo": 76020000,
+    "dinero": 9180700,
     "puntos_jornada_actual": 61,
     "puntos_total": 184,
     "cambio_posicion": 0,
@@ -13,8 +13,8 @@
   {
     "posicion": 2,
     "manager": "Manuel Tello",
-    "valor_equipo": 62840000,
-    "dinero": 2133000,
+    "valor_equipo": 66370000,
+    "dinero": -1017000,
     "puntos_jornada_actual": 64,
     "puntos_total": 179,
     "cambio_posicion": 0,
@@ -24,7 +24,7 @@
   {
     "posicion": 3,
     "manager": "Diego Zuri",
-    "valor_equipo": 67970000,
+    "valor_equipo": 68110000,
     "dinero": -1113126,
     "puntos_jornada_actual": 24,
     "puntos_total": 151,
@@ -35,8 +35,8 @@
   {
     "posicion": 4,
     "manager": "Dani Portero",
-    "valor_equipo": 67990000,
-    "dinero": 2348500,
+    "valor_equipo": 71040000,
+    "dinero": 2311400,
     "puntos_jornada_actual": 42,
     "puntos_total": 139,
     "cambio_posicion": 0,
@@ -46,7 +46,7 @@
   {
     "posicion": 5,
     "manager": "Mena",
-    "valor_equipo": 47120000,
+    "valor_equipo": 47240000,
     "dinero": 1058300,
     "puntos_jornada_actual": 51,
     "puntos_total": 135,
@@ -57,7 +57,7 @@
   {
     "posicion": 6,
     "manager": "Muriqui Saez",
-    "valor_equipo": 55330000,
+    "valor_equipo": 56150000,
     "dinero": 7350119,
     "puntos_jornada_actual": 50,
     "puntos_total": 134,
@@ -68,8 +68,8 @@
   {
     "posicion": 7,
     "manager": "Team Novita",
-    "valor_equipo": 42790000,
-    "dinero": 13065212,
+    "valor_equipo": 56210000,
+    "dinero": 385157,
     "puntos_jornada_actual": 32,
     "puntos_total": 128,
     "cambio_posicion": 0,
@@ -79,7 +79,7 @@
   {
     "posicion": 8,
     "manager": "Edu Zurita",
-    "valor_equipo": 53040000,
+    "valor_equipo": 53800000,
     "dinero": 6672583,
     "puntos_jornada_actual": 38,
     "puntos_total": 125,
@@ -90,8 +90,8 @@
   {
     "posicion": 9,
     "manager": "Chirli",
-    "valor_equipo": 41450000,
-    "dinero": 6528900,
+    "valor_equipo": 48020000,
+    "dinero": -971100,
     "puntos_jornada_actual": 45,
     "puntos_total": 117,
     "cambio_posicion": 0,

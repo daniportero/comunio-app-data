@@ -6,8 +6,85 @@
     "imagen": "https://www.comuniate.com/caras3/3728.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 3641400,
-    "valor_momento": null,
+    "valor_momento": 3470000,
     "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-03",
+    "jugador": "Mikel Rodríguez",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4096.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 3150000,
+    "valor_momento": 2070000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-03",
+    "jugador": "Joao Cancelo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1952.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 7500000,
+    "valor_momento": 6090000,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-03",
+    "jugador": "Julián Álvarez",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3680.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 12680055,
+    "valor_momento": 12650000,
+    "manager": "Team Novita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-03",
+    "jugador": "Mamadou Sarr",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4148.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 1201000,
+    "valor_momento": 1270000,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-03",
+    "jugador": "Lookman",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3986.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 15120000,
+    "valor_momento": 16360000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-03",
+    "jugador": "Musuayi",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4102.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 548300,
+    "valor_momento": 570000,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-03",
+    "jugador": "Oyarzabal",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2161.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 15082900,
+    "valor_momento": 14860000,
+    "manager": "Dani Portero",
     "movimiento": "Venta"
   },
   {

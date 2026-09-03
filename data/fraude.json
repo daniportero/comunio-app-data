@@ -46,5 +46,13 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "precio_venta": 7315800,
     "fecha": "2026-09-02"
+  },
+  {
+    "manager": "Diego Zuri",
+    "jugador": "Peio Canales",
+    "imagen": "https://www.comuniate.com/caras3/3728.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "precio_venta": 3641400,
+    "fecha": "2026-09-03"
   }
 ]
