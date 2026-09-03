@@ -781,8 +781,8 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 71540000,
-    "num_jugadores": 16,
+    "valor_equipo": 67970000,
+    "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -892,24 +892,6 @@
         "r1": "-",
         "alineado": true,
         "lesion": "Molestias musculares"
-      },
-      {
-        "posicion": "MED",
-        "puntos": 9,
-        "media_puntos": 3.0,
-        "jugador": "Peio Canales",
-        "imagen": "https://www.comuniate.com/caras3/3728.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-        "valor_jugador": 3570000,
-        "revalorizacion": 170000,
-        "plusvalia": 2759000,
-        "r5": 3,
-        "r4": 4,
-        "r3": 2,
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": "Lesión muscular en el sóleo"
       },
       {
         "posicion": "MED",
