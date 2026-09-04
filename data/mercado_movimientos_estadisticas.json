@@ -10,27 +10,27 @@
   },
   {
     "manager": "Dani Portero",
-    "total_mov": 37,
-    "num_compras": 26,
-    "valor_compras": 132437000,
+    "total_mov": 36,
+    "num_compras": 25,
+    "valor_compras": 130287000,
     "num_ventas": 11,
     "valor_ventas": 89058400,
     "margen_ventas": 11501400
   },
   {
     "manager": "Edu Zurita",
-    "total_mov": 43,
-    "num_compras": 29,
-    "valor_compras": 82300017,
+    "total_mov": 42,
+    "num_compras": 28,
+    "valor_compras": 76000017,
     "num_ventas": 14,
     "valor_ventas": 34322600,
     "margen_ventas": 9522598
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 37,
-    "num_compras": 27,
-    "valor_compras": 66367680,
+    "total_mov": 36,
+    "num_compras": 26,
+    "valor_compras": 63589703,
     "num_ventas": 10,
     "valor_ventas": 18188600,
     "margen_ventas": 8572047
@@ -46,11 +46,11 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 43,
-    "num_compras": 28,
-    "valor_compras": 91642481,
-    "num_ventas": 15,
-    "valor_ventas": 54312600,
+    "total_mov": 41,
+    "num_compras": 27,
+    "valor_compras": 89972481,
+    "num_ventas": 14,
+    "valor_ventas": 50036500,
     "margen_ventas": 12500786
   },
   {
@@ -73,11 +73,11 @@
   },
   {
     "manager": "Carlos Saez",
-    "total_mov": 39,
+    "total_mov": 37,
     "num_compras": 24,
     "valor_compras": 88342000,
-    "num_ventas": 15,
-    "valor_ventas": 55682700,
+    "num_ventas": 13,
+    "valor_ventas": 46636900,
     "margen_ventas": 16515900
   }
 ]

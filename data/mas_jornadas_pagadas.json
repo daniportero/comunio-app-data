@@ -13,7 +13,7 @@
     {
       "posicion": 5,
       "manager": "Edu Zurita",
-      "dinero": 2
+      "dinero": 800000
     },
     {
       "posicion": 3,
@@ -23,7 +23,7 @@
     {
       "posicion": 7,
       "manager": "Mena",
-      "dinero": 2
+      "dinero": 800000
     },
     {
       "posicion": 8,
@@ -33,12 +33,12 @@
     {
       "posicion": 6,
       "manager": "Team Novita",
-      "dinero": 2
+      "dinero": 800000
     },
     {
       "posicion": 9,
       "manager": "Chirli",
-      "dinero": 2
+      "dinero": 800000
     },
     {
       "posicion": 1,
@@ -46,5 +46,5 @@
       "dinero": 0
     }
   ],
-  "total": 8
+  "total": 3200000
 }
