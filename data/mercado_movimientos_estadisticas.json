@@ -28,12 +28,12 @@
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 36,
+    "total_mov": 37,
     "num_compras": 26,
     "valor_compras": 63589703,
-    "num_ventas": 10,
-    "valor_ventas": 18188600,
-    "margen_ventas": 8572047
+    "num_ventas": 11,
+    "valor_ventas": 23370200,
+    "margen_ventas": 9963647
   },
   {
     "manager": "Mena",
@@ -64,12 +64,12 @@
   },
   {
     "manager": "Chirli",
-    "total_mov": 23,
+    "total_mov": 24,
     "num_compras": 18,
     "valor_compras": 52140000,
-    "num_ventas": 5,
-    "valor_ventas": 12456200,
-    "margen_ventas": 1486200
+    "num_ventas": 6,
+    "valor_ventas": 13039700,
+    "margen_ventas": 309700
   },
   {
     "manager": "Carlos Saez",

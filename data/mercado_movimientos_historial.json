@@ -44,6 +44,28 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-04",
+    "jugador": "Mariano Díaz",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2304.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 5181600,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-04",
+    "jugador": "Kike García",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2202.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 583500,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-03",
     "jugador": "Peio Canales",
     "posicion": "MED",
