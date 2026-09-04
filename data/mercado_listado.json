@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "POR",
+    "puntos": 22,
+    "media_puntos": 11.0,
+    "imagen": "https://www.comuniate.com/caras3/2669.png",
+    "jugador": "Unai Simón",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor_jugador": 4510000,
+    "revalorizacion": 650000,
+    "plusvalia": null,
+    "venta": 4850000,
+    "r5": "-",
+    "r4": "-",
+    "r3": 10,
+    "r2": -4,
+    "r1": 12,
+    "manager": "",
+    "valor_compra": 0,
+    "lesion": null
+  },
+  {
     "posicion": "DEF",
     "puntos": 6,
     "media_puntos": 6.0,
