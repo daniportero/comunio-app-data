@@ -4,8 +4,8 @@
     "manager": "Carlos Saez",
     "valor_equipo": 72370000,
     "dinero": 164900,
-    "puntos_jornada_actual": 12,
-    "puntos_total": 199,
+    "puntos_jornada_actual": 14,
+    "puntos_total": 201,
     "cambio_posicion": 0,
     "jugadores_jugados": 2,
     "jugadores_alineados": 11
@@ -26,8 +26,8 @@
     "manager": "Diego Zuri",
     "valor_equipo": 63580000,
     "dinero": 2090497,
-    "puntos_jornada_actual": 6,
-    "puntos_total": 157,
+    "puntos_jornada_actual": 8,
+    "puntos_total": 159,
     "cambio_posicion": 0,
     "jugadores_jugados": 0,
     "jugadores_alineados": 11
@@ -37,8 +37,8 @@
     "manager": "Dani Portero",
     "valor_equipo": 70740000,
     "dinero": 201400,
-    "puntos_jornada_actual": 6,
-    "puntos_total": 149,
+    "puntos_jornada_actual": 9,
+    "puntos_total": 152,
     "cambio_posicion": 1,
     "jugadores_jugados": 1,
     "jugadores_alineados": 11
@@ -59,8 +59,8 @@
     "manager": "Muriqui Saez",
     "valor_equipo": 55580000,
     "dinero": 1404019,
-    "puntos_jornada_actual": 4,
-    "puntos_total": 138,
+    "puntos_jornada_actual": 5,
+    "puntos_total": 139,
     "cambio_posicion": 2,
     "jugadores_jugados": 0,
     "jugadores_alineados": 11
