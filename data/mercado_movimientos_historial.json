@@ -1,5 +1,49 @@
 [
   {
+    "fecha": "2026-09-04",
+    "jugador": "Jorge de Frutos",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2806.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 6300000,
+    "valor_momento": 5650000,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-04",
+    "jugador": "Rubén Vargas",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3766.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 2777977,
+    "valor_momento": 1680000,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-04",
+    "jugador": "Abel Bretones",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3651.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 2150000,
+    "valor_momento": 2060000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-04",
+    "jugador": "Urko González",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3078.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 1670000,
+    "valor_momento": 1410000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-03",
     "jugador": "Peio Canales",
     "posicion": "MED",

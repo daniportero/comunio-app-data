@@ -121,6 +121,18 @@
   },
   {
     "posicion": 11,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "equipo": "Real Sociedad",
+    "puntos": 4,
+    "pj": 4,
+    "pg": 1,
+    "pe": 1,
+    "pp": 2,
+    "gf": 3,
+    "gc": 6
+  },
+  {
+    "posicion": 12,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "equipo": "Espanyol",
     "puntos": 3,
@@ -132,7 +144,7 @@
     "gc": 4
   },
   {
-    "posicion": 12,
+    "posicion": 13,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "equipo": "Athletic Club",
     "puntos": 3,
@@ -142,18 +154,6 @@
     "pp": 2,
     "gf": 3,
     "gc": 5
-  },
-  {
-    "posicion": 13,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
-    "equipo": "Real Sociedad",
-    "puntos": 3,
-    "pj": 3,
-    "pg": 1,
-    "pe": 0,
-    "pp": 2,
-    "gf": 3,
-    "gc": 6
   },
   {
     "posicion": 14,
@@ -181,20 +181,20 @@
   },
   {
     "posicion": 16,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-    "equipo": "Valencia",
-    "puntos": 1,
-    "pj": 3,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "equipo": "Celta",
+    "puntos": 2,
+    "pj": 4,
     "pg": 0,
-    "pe": 1,
+    "pe": 2,
     "pp": 2,
     "gf": 1,
     "gc": 4
   },
   {
     "posicion": 17,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-    "equipo": "Celta",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "equipo": "Valencia",
     "puntos": 1,
     "pj": 3,
     "pg": 0,
