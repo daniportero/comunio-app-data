@@ -18,7 +18,7 @@
     {
       "posicion": 3,
       "manager": "Diego Zuri",
-      "dinero": 0
+      "dinero": 2
     },
     {
       "posicion": 7,
@@ -33,7 +33,7 @@
     {
       "posicion": 6,
       "manager": "Team Novita",
-      "dinero": 2
+      "dinero": 4
     },
     {
       "posicion": 9,
@@ -46,5 +46,5 @@
       "dinero": 0
     }
   ],
-  "total": 8
+  "total": 12
 }

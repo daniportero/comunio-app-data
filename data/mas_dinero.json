@@ -13,6 +13,19 @@
     "margen_ventas": 309700
   },
   {
+    "posicion": 3,
+    "manager": "Diego Zuri",
+    "valor_equipo": 63580000,
+    "puja_maxima": 17985497,
+    "dinero": 2090497,
+    "compras": 63589703,
+    "ventas": 23370200,
+    "puntos": 151,
+    "cuota_mercado": 0.1206,
+    "plusvalia": 13396850,
+    "margen_ventas": 9963647
+  },
+  {
     "posicion": 8,
     "manager": "Muriqui Saez",
     "valor_equipo": 55580000,
@@ -26,17 +39,17 @@
     "margen_ventas": 12500786
   },
   {
-    "posicion": 3,
-    "manager": "Diego Zuri",
-    "valor_equipo": 63580000,
-    "puja_maxima": 17185497,
-    "dinero": 1290497,
-    "compras": 63589703,
-    "ventas": 23370200,
-    "puntos": 151,
-    "cuota_mercado": 0.1206,
-    "plusvalia": 13396850,
-    "margen_ventas": 9963647
+    "posicion": 6,
+    "manager": "Team Novita",
+    "valor_equipo": 54430000,
+    "puja_maxima": 14892657,
+    "dinero": 1285157,
+    "compras": 47460843,
+    "ventas": 5766000,
+    "puntos": 138,
+    "cuota_mercado": 0.1032,
+    "plusvalia": 12495157,
+    "margen_ventas": 240000
   },
   {
     "posicion": 7,
@@ -76,19 +89,6 @@
     "cuota_mercado": 0.1087,
     "plusvalia": 6129985,
     "margen_ventas": 9522598
-  },
-  {
-    "posicion": 6,
-    "manager": "Team Novita",
-    "valor_equipo": 54430000,
-    "puja_maxima": 14092657,
-    "dinero": 485157,
-    "compras": 47460843,
-    "ventas": 5766000,
-    "puntos": 138,
-    "cuota_mercado": 0.1032,
-    "plusvalia": 12495157,
-    "margen_ventas": 240000
   },
   {
     "posicion": 4,
