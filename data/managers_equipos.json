@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 64470000,
+    "valor_equipo": 63780000,
     "num_jugadores": 16,
     "formacion": "3-4-3",
     "jugadores": [
@@ -297,8 +297,8 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 71040000,
-    "num_jugadores": 13,
+    "valor_equipo": 70740000,
+    "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -407,6 +407,24 @@
         "r2": "-",
         "r1": "-",
         "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 13,
+        "media_puntos": 4.3,
+        "jugador": "Abel Bretones",
+        "imagen": "https://www.comuniate.com/caras3/3651.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+        "valor_jugador": 2090000,
+        "revalorizacion": 290000,
+        "plusvalia": -60000,
+        "r5": "-",
+        "r4": 5,
+        "r3": 5,
+        "r2": 3,
+        "r1": "-",
+        "alineado": null,
         "lesion": null
       },
       {
@@ -539,8 +557,8 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 53800000,
-    "num_jugadores": 13,
+    "valor_equipo": 57330000,
+    "num_jugadores": 14,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -707,6 +725,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 9,
+        "media_puntos": 3.0,
+        "jugador": "Jorge de Frutos",
+        "imagen": "https://www.comuniate.com/caras3/2806.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+        "valor_jugador": 6030000,
+        "revalorizacion": -1020000,
+        "plusvalia": -270000,
+        "r5": "-",
+        "r4": 2,
+        "r3": 5,
+        "r2": 2,
+        "r1": "-",
+        "alineado": null,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 10,
         "media_puntos": 3.3,
         "jugador": "Yangel Herrera",
@@ -781,8 +817,8 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 68110000,
-    "num_jugadores": 15,
+    "valor_equipo": 68680000,
+    "num_jugadores": 16,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -1002,6 +1038,24 @@
         "lesion": null
       },
       {
+        "posicion": "MED",
+        "puntos": 3,
+        "media_puntos": 3.0,
+        "jugador": "Rubén Vargas",
+        "imagen": "https://www.comuniate.com/caras3/3766.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+        "valor_jugador": 1830000,
+        "revalorizacion": -380000,
+        "plusvalia": -947977,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": 3,
+        "r1": "-",
+        "alineado": null,
+        "lesion": null
+      },
+      {
         "posicion": "DEL",
         "puntos": 32,
         "media_puntos": 10.7,
@@ -1059,7 +1113,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 47240000,
+    "valor_equipo": 47230000,
     "num_jugadores": 14,
     "formacion": "4-4-2",
     "jugadores": [
@@ -1319,8 +1373,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 56150000,
-    "num_jugadores": 12,
+    "valor_equipo": 55580000,
+    "num_jugadores": 13,
     "formacion": "4-4-2",
     "jugadores": [
       {
@@ -1451,6 +1505,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 9,
+        "media_puntos": 3.0,
+        "jugador": "Urko González",
+        "imagen": "https://www.comuniate.com/caras3/3078.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+        "valor_jugador": 1450000,
+        "revalorizacion": -280000,
+        "plusvalia": -220000,
+        "r5": "-",
+        "r4": 2,
+        "r3": 2,
+        "r2": 5,
+        "r1": "-",
+        "alineado": null,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 23,
         "media_puntos": 7.7,
         "jugador": "Íñigo Vicente",
@@ -1543,7 +1615,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 56210000,
+    "valor_equipo": 54430000,
     "num_jugadores": 19,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1893,7 +1965,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 44900000,
+    "valor_equipo": 42790000,
     "num_jugadores": 13,
     "formacion": "3-5-2",
     "jugadores": [
@@ -2135,7 +2207,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 76020000,
+    "valor_equipo": 72370000,
     "num_jugadores": 11,
     "formacion": "4-4-2",
     "jugadores": [
