@@ -346,20 +346,9 @@
     "equipo_local": "Athletic Club",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo_visitante": "Atlético",
-    "resultado": null,
+    "resultado": "3-0",
     "fecha": "2026-09-05",
     "hora": "16:15",
-    "aplazado": false
-  },
-  {
-    "jornada": 4,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "equipo_local": "Rayo Vallecano",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/14.png",
-    "equipo_visitante": "Racing de Santander",
-    "resultado": null,
-    "fecha": "2026-09-05",
-    "hora": "18:30",
     "aplazado": false
   },
   {
