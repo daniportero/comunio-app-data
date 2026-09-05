@@ -988,6 +988,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Abel Bretones",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3651.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
@@ -1557,6 +1566,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Jorge de Frutos",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/2806.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
@@ -2126,6 +2144,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Ayoze Pérez",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3389.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
@@ -3210,6 +3237,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Urko González",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3078.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
@@ -3733,7 +3769,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 11,
+        "puntos_totales": 10,
         "jugadores": [
           {
             "jugador": "Luiz Junior",
@@ -3812,7 +3848,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3278.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 5,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },

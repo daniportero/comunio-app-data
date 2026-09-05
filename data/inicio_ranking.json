@@ -30,18 +30,18 @@
     "puntos_total": 159,
     "cambio_posicion": 0,
     "jugadores_jugados": 0,
-    "jugadores_alineados": 11
+    "jugadores_alineados": 12
   },
   {
     "posicion": 4,
     "manager": "Dani Portero",
-    "valor_equipo": 69960000,
-    "dinero": 201400,
+    "valor_equipo": 68310000,
+    "dinero": 1915800,
     "puntos_jornada_actual": 9,
     "puntos_total": 152,
     "cambio_posicion": 1,
     "jugadores_jugados": 1,
-    "jugadores_alineados": 11
+    "jugadores_alineados": 12
   },
   {
     "posicion": 5,
@@ -52,7 +52,7 @@
     "puntos_total": 147,
     "cambio_posicion": -1,
     "jugadores_jugados": 5,
-    "jugadores_alineados": 11
+    "jugadores_alineados": 12
   },
   {
     "posicion": 6,
@@ -63,7 +63,7 @@
     "puntos_total": 139,
     "cambio_posicion": 2,
     "jugadores_jugados": 0,
-    "jugadores_alineados": 11
+    "jugadores_alineados": 12
   },
   {
     "posicion": 7,
@@ -79,8 +79,8 @@
   {
     "posicion": 8,
     "manager": "Mena",
-    "valor_equipo": 47120000,
-    "dinero": 1078300,
+    "valor_equipo": 46720000,
+    "dinero": 1491100,
     "puntos_jornada_actual": 0,
     "puntos_total": 137,
     "cambio_posicion": -1,

@@ -6,9 +6,31 @@
     "imagen": "https://www.comuniate.com/caras3/3389.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 6311111,
-    "valor_momento": null,
+    "valor_momento": 5680000,
     "manager": "Diego Zuri",
     "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-05",
+    "jugador": "Eriksson",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/4029.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 412800,
+    "valor_momento": 400000,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-05",
+    "jugador": "Diego Llorente",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1679.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 1714400,
+    "valor_momento": 1650000,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
   },
   {
     "fecha": "2026-09-04",
@@ -61,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/2304.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 5181600,
-    "valor_momento": null,
+    "valor_momento": 5100000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -72,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/2202.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 583500,
-    "valor_momento": null,
+    "valor_momento": 590000,
     "manager": "Chirli",
     "movimiento": "Venta"
   },

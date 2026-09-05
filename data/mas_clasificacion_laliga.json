@@ -16,15 +16,27 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "equipo": "Real Madrid",
     "puntos": 9,
-    "pj": 3,
+    "pj": 4,
     "pg": 3,
     "pe": 0,
-    "pp": 0,
+    "pp": 1,
     "gf": 10,
-    "gc": 2
+    "gc": 3
   },
   {
     "posicion": 3,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "equipo": "Betis",
+    "puntos": 9,
+    "pj": 4,
+    "pg": 3,
+    "pe": 0,
+    "pp": 1,
+    "gf": 5,
+    "gc": 5
+  },
+  {
+    "posicion": 4,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo": "Atlético",
     "puntos": 7,
@@ -36,7 +48,7 @@
     "gc": 3
   },
   {
-    "posicion": 4,
+    "posicion": 5,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo": "Alavés",
     "puntos": 7,
@@ -48,7 +60,7 @@
     "gc": 1
   },
   {
-    "posicion": 5,
+    "posicion": 6,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
     "equipo": "Osasuna",
     "puntos": 7,
@@ -60,7 +72,7 @@
     "gc": 1
   },
   {
-    "posicion": 6,
+    "posicion": 7,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "equipo": "Sevilla",
     "puntos": 6,
@@ -69,18 +81,6 @@
     "pe": 0,
     "pp": 1,
     "gf": 6,
-    "gc": 5
-  },
-  {
-    "posicion": 7,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-    "equipo": "Betis",
-    "puntos": 6,
-    "pj": 3,
-    "pg": 2,
-    "pe": 0,
-    "pp": 1,
-    "gf": 4,
     "gc": 5
   },
   {
