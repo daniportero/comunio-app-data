@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEF",
+    "puntos": 0,
+    "media_puntos": 0.0,
+    "imagen": "https://www.comuniate.com/caras3/2491.png",
+    "jugador": "Gorosabel",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor_jugador": 530000,
+    "revalorizacion": -60000,
+    "plusvalia": null,
+    "venta": 530000,
+    "r5": "-",
+    "r4": "-",
+    "r3": "-",
+    "r2": "-",
+    "r1": "-",
+    "manager": "",
+    "valor_compra": 0,
+    "lesion": null
+  },
+  {
     "posicion": "DEL",
     "puntos": 21,
     "media_puntos": 7.0,
