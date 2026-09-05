@@ -364,6 +364,17 @@
   },
   {
     "jornada": 4,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "equipo_local": "Villarreal",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "equipo_visitante": "Deportivo",
+    "resultado": "2-3",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 4,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "equipo_local": "Valencia",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/3.png",
