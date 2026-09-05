@@ -1020,7 +1020,7 @@
       },
       {
         "jornada": 4,
-        "puntos_totales": 4,
+        "puntos_totales": 9,
         "jugadores": [
           {
             "jugador": "Diego Conde",
@@ -1137,6 +1137,15 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": "-",
             "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Diego Llorente",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/1679.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+            "puntos": 5,
+            "alineado": true,
             "alineado_inicial": true
           }
         ]
@@ -2557,6 +2566,15 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": "-",
             "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Mariano Díaz",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2304.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": "-",
+            "alineado": true,
             "alineado_inicial": true
           }
         ]
