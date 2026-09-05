@@ -18,7 +18,7 @@
     "puntos_jornada_actual": 0,
     "puntos_total": 183,
     "cambio_posicion": 0,
-    "jugadores_jugados": 1,
+    "jugadores_jugados": 0,
     "jugadores_alineados": 11
   },
   {
@@ -29,8 +29,8 @@
     "puntos_jornada_actual": 8,
     "puntos_total": 159,
     "cambio_posicion": 0,
-    "jugadores_jugados": 0,
-    "jugadores_alineados": 12
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 4,
@@ -40,8 +40,8 @@
     "puntos_jornada_actual": 9,
     "puntos_total": 152,
     "cambio_posicion": 1,
-    "jugadores_jugados": 1,
-    "jugadores_alineados": 12
+    "jugadores_jugados": 2,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 5,
@@ -51,8 +51,8 @@
     "puntos_jornada_actual": 4,
     "puntos_total": 147,
     "cambio_posicion": -1,
-    "jugadores_jugados": 5,
-    "jugadores_alineados": 12
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 6,
@@ -62,8 +62,8 @@
     "puntos_jornada_actual": 5,
     "puntos_total": 139,
     "cambio_posicion": 2,
-    "jugadores_jugados": 0,
-    "jugadores_alineados": 12
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 7,
@@ -73,7 +73,7 @@
     "puntos_jornada_actual": 0,
     "puntos_total": 138,
     "cambio_posicion": -1,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 0,
     "jugadores_alineados": 11
   },
   {
@@ -84,7 +84,7 @@
     "puntos_jornada_actual": 0,
     "puntos_total": 137,
     "cambio_posicion": -1,
-    "jugadores_jugados": 1,
+    "jugadores_jugados": 0,
     "jugadores_alineados": 11
   },
   {
@@ -95,7 +95,7 @@
     "puntos_jornada_actual": 3,
     "puntos_total": 120,
     "cambio_posicion": 0,
-    "jugadores_jugados": 1,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   }
 ]
