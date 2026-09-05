@@ -4,10 +4,10 @@
     "manager": "Manuel Tello",
     "valor_equipo": 64230000,
     "dinero": 1248900,
-    "puntos_jornada_actual": 31,
-    "puntos_total": 214,
+    "puntos_jornada_actual": 36,
+    "puntos_total": 219,
     "cambio_posicion": 1,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -15,10 +15,10 @@
     "manager": "Carlos Saez",
     "valor_equipo": 75870000,
     "dinero": 164900,
-    "puntos_jornada_actual": 18,
-    "puntos_total": 205,
+    "puntos_jornada_actual": 26,
+    "puntos_total": 213,
     "cambio_posicion": -1,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 4,
     "jugadores_alineados": 11
   },
   {
@@ -29,7 +29,7 @@
     "puntos_jornada_actual": 31,
     "puntos_total": 182,
     "cambio_posicion": 0,
-    "jugadores_jugados": 5,
+    "jugadores_jugados": 6,
     "jugadores_alineados": 11
   },
   {
@@ -37,10 +37,10 @@
     "manager": "Dani Portero",
     "valor_equipo": 68310000,
     "dinero": 1915800,
-    "puntos_jornada_actual": 22,
-    "puntos_total": 165,
+    "puntos_jornada_actual": 21,
+    "puntos_total": 164,
     "cambio_posicion": 1,
-    "jugadores_jugados": 6,
+    "jugadores_jugados": 7,
     "jugadores_alineados": 11
   },
   {
@@ -48,10 +48,10 @@
     "manager": "Edu Zurita",
     "valor_equipo": 56780000,
     "dinero": 552583,
-    "puntos_jornada_actual": 13,
-    "puntos_total": 156,
+    "puntos_jornada_actual": 12,
+    "puntos_total": 155,
     "cambio_posicion": -1,
-    "jugadores_jugados": 3,
+    "jugadores_jugados": 5,
     "jugadores_alineados": 11
   },
   {
@@ -59,10 +59,10 @@
     "manager": "Mena",
     "valor_equipo": 46720000,
     "dinero": 1491100,
-    "puntos_jornada_actual": 11,
-    "puntos_total": 148,
+    "puntos_jornada_actual": 12,
+    "puntos_total": 149,
     "cambio_posicion": 1,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -73,7 +73,7 @@
     "puntos_jornada_actual": 10,
     "puntos_total": 144,
     "cambio_posicion": 1,
-    "jugadores_jugados": 3,
+    "jugadores_jugados": 4,
     "jugadores_alineados": 11
   },
   {
