@@ -2,7 +2,7 @@
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 72370000,
+    "valor_equipo": 75870000,
     "dinero": 164900,
     "puntos_jornada_actual": 14,
     "puntos_total": 201,
@@ -13,7 +13,7 @@
   {
     "posicion": 2,
     "manager": "Manuel Tello",
-    "valor_equipo": 63780000,
+    "valor_equipo": 64620000,
     "dinero": 841300,
     "puntos_jornada_actual": 0,
     "puntos_total": 183,
@@ -24,7 +24,7 @@
   {
     "posicion": 3,
     "manager": "Diego Zuri",
-    "valor_equipo": 63580000,
+    "valor_equipo": 69740000,
     "dinero": 2090497,
     "puntos_jornada_actual": 8,
     "puntos_total": 159,
@@ -35,7 +35,7 @@
   {
     "posicion": 4,
     "manager": "Dani Portero",
-    "valor_equipo": 70740000,
+    "valor_equipo": 69960000,
     "dinero": 201400,
     "puntos_jornada_actual": 9,
     "puntos_total": 152,
@@ -46,7 +46,7 @@
   {
     "posicion": 5,
     "manager": "Edu Zurita",
-    "valor_equipo": 57330000,
+    "valor_equipo": 56780000,
     "dinero": 552583,
     "puntos_jornada_actual": 4,
     "puntos_total": 147,
@@ -57,7 +57,7 @@
   {
     "posicion": 6,
     "manager": "Muriqui Saez",
-    "valor_equipo": 55580000,
+    "valor_equipo": 54630000,
     "dinero": 1404019,
     "puntos_jornada_actual": 5,
     "puntos_total": 139,
@@ -68,7 +68,7 @@
   {
     "posicion": 7,
     "manager": "Team Novita",
-    "valor_equipo": 54430000,
+    "valor_equipo": 54460000,
     "dinero": 1285157,
     "puntos_jornada_actual": 0,
     "puntos_total": 138,
@@ -79,7 +79,7 @@
   {
     "posicion": 8,
     "manager": "Mena",
-    "valor_equipo": 47230000,
+    "valor_equipo": 47120000,
     "dinero": 1078300,
     "puntos_jornada_actual": 0,
     "puntos_total": 137,
@@ -90,7 +90,7 @@
   {
     "posicion": 9,
     "manager": "Chirli",
-    "valor_equipo": 42200000,
+    "valor_equipo": 43780000,
     "dinero": 2869700,
     "puntos_jornada_actual": 3,
     "puntos_total": 120,
