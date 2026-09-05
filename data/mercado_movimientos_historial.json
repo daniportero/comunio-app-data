@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-09-05",
+    "jugador": "Ayoze Pérez",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3389.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 6311111,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-04",
     "jugador": "Jorge de Frutos",
     "posicion": "MED",

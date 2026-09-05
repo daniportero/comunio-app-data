@@ -13,19 +13,6 @@
     "margen_ventas": 309700
   },
   {
-    "posicion": 3,
-    "manager": "Diego Zuri",
-    "valor_equipo": 69740000,
-    "puja_maxima": 19525497,
-    "dinero": 2090497,
-    "compras": 63589703,
-    "ventas": 23370200,
-    "puntos": 151,
-    "cuota_mercado": 0.1299,
-    "plusvalia": 13396850,
-    "margen_ventas": 9963647
-  },
-  {
     "posicion": 8,
     "manager": "Muriqui Saez",
     "valor_equipo": 54630000,
@@ -115,5 +102,18 @@
     "cuota_mercado": 0.1413,
     "plusvalia": 14149000,
     "margen_ventas": 16515900
+  },
+  {
+    "posicion": 3,
+    "manager": "Diego Zuri",
+    "valor_equipo": 69740000,
+    "puja_maxima": 13214386,
+    "dinero": -4220614,
+    "compras": 69900814,
+    "ventas": 23370200,
+    "puntos": 151,
+    "cuota_mercado": 0.1299,
+    "plusvalia": 12815739,
+    "margen_ventas": 9963647
   }
 ]
