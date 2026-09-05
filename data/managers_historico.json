@@ -4765,7 +4765,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 10,
+        "puntos_totales": 11,
         "jugadores": [
           {
             "jugador": "Luiz Junior",
@@ -4844,7 +4844,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3278.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 4,
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
