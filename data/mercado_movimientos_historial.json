@@ -33,6 +33,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-05",
+    "jugador": "Ndukwe",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4139.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 407600,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-04",
     "jugador": "Jorge de Frutos",
     "posicion": "MED",

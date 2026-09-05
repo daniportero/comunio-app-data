@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 64620000,
-    "num_jugadores": 16,
+    "valor_equipo": 64230000,
+    "num_jugadores": 15,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -75,24 +75,6 @@
         "r2": 8,
         "r1": 5,
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Ndukwe",
-        "imagen": "https://www.comuniate.com/caras3/4139.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
-        "valor_jugador": 390000,
-        "revalorizacion": 40000,
-        "plusvalia": -10000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
         "lesion": null
       },
       {
