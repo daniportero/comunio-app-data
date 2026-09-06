@@ -1,5 +1,60 @@
 [
   {
+    "fecha": "2026-09-06",
+    "jugador": "Pablo García Fernández",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3777.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 3650000,
+    "valor_momento": 2270000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Arnau Ortiz",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4124.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 550000,
+    "valor_momento": 740000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Guedes",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2488.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 6940000,
+    "valor_momento": 6500000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Jonny",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1599.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 4680000,
+    "valor_momento": 3850000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Leo Román",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3213.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 3125000,
+    "valor_momento": 3220000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-05",
     "jugador": "Ayoze Pérez",
     "posicion": "DEL",
@@ -39,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/4139.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "valor": 407600,
-    "valor_momento": null,
+    "valor_momento": 390000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
