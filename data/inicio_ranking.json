@@ -15,8 +15,8 @@
     "manager": "Carlos Saez",
     "valor_equipo": 74660000,
     "dinero": 1061000,
-    "puntos_jornada_actual": 27,
-    "puntos_total": 214,
+    "puntos_jornada_actual": 36,
+    "puntos_total": 223,
     "cambio_posicion": -1,
     "jugadores_jugados": 5,
     "jugadores_alineados": 11
@@ -26,8 +26,8 @@
     "manager": "Diego Zuri",
     "valor_equipo": 66710000,
     "dinero": -4220614,
-    "puntos_jornada_actual": 29,
-    "puntos_total": 180,
+    "puntos_jornada_actual": 45,
+    "puntos_total": 196,
     "cambio_posicion": 0,
     "jugadores_jugados": 6,
     "jugadores_alineados": 11
@@ -56,35 +56,35 @@
   },
   {
     "posicion": 6,
+    "manager": "Team Novita",
+    "valor_equipo": 52430000,
+    "dinero": 1285157,
+    "puntos_jornada_actual": 16,
+    "puntos_total": 154,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 3,
+    "jugadores_alineados": 11
+  },
+  {
+    "posicion": 7,
     "manager": "Mena",
     "valor_equipo": 44740000,
     "dinero": 1491100,
     "puntos_jornada_actual": 17,
     "puntos_total": 154,
-    "cambio_posicion": 1,
+    "cambio_posicion": 0,
     "jugadores_jugados": 4,
     "jugadores_alineados": 11
   },
   {
-    "posicion": 7,
+    "posicion": 8,
     "manager": "Muriqui Saez",
     "valor_equipo": 54720000,
     "dinero": 1404019,
     "puntos_jornada_actual": 17,
     "puntos_total": 151,
-    "cambio_posicion": 1,
+    "cambio_posicion": 0,
     "jugadores_jugados": 8,
-    "jugadores_alineados": 11
-  },
-  {
-    "posicion": 8,
-    "manager": "Team Novita",
-    "valor_equipo": 52430000,
-    "dinero": 1285157,
-    "puntos_jornada_actual": 6,
-    "puntos_total": 144,
-    "cambio_posicion": -2,
-    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -92,8 +92,8 @@
     "manager": "Chirli",
     "valor_equipo": 42490000,
     "dinero": 2869700,
-    "puntos_jornada_actual": 3,
-    "puntos_total": 120,
+    "puntos_jornada_actual": 4,
+    "puntos_total": 121,
     "cambio_posicion": 0,
     "jugadores_jugados": 1,
     "jugadores_alineados": 11
