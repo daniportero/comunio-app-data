@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 61900000,
-    "num_jugadores": 14,
+    "valor_equipo": 62060000,
+    "num_jugadores": 15,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -22,6 +22,24 @@
         "r1": 11,
         "alineado": true,
         "lesion": null
+      },
+      {
+        "posicion": "POR",
+        "puntos": 0,
+        "media_puntos": 0.0,
+        "jugador": "Diego Conde",
+        "imagen": "https://www.comuniate.com/caras3/3121.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+        "valor_jugador": 160000,
+        "revalorizacion": 0,
+        "plusvalia": -20000,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": null,
+        "lesion": "Luxación de hombro"
       },
       {
         "posicion": "DEF",
@@ -261,28 +279,10 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 75090000,
-    "num_jugadores": 16,
+    "valor_equipo": 73960000,
+    "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
-      {
-        "posicion": "POR",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Diego Conde",
-        "imagen": "https://www.comuniate.com/caras3/3121.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-        "valor_jugador": 160000,
-        "revalorizacion": 0,
-        "plusvalia": 0,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": true,
-        "lesion": "Luxación de hombro"
-      },
       {
         "posicion": "POR",
         "puntos": 27,
@@ -353,24 +353,6 @@
         "r2": 8,
         "r1": 5,
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Álex Pastor",
-        "imagen": "https://www.comuniate.com/caras3/4068.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-        "valor_jugador": 970000,
-        "revalorizacion": 350000,
-        "plusvalia": 650000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
         "lesion": null
       },
       {
@@ -2171,8 +2153,8 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 75520000,
-    "num_jugadores": 11,
+    "valor_equipo": 74660000,
+    "num_jugadores": 10,
     "formacion": "4-4-2",
     "jugadores": [
       {
@@ -2315,24 +2297,6 @@
         "r4": "-",
         "r3": 4,
         "r2": 6,
-        "r1": 2,
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 7,
-        "media_puntos": 1.8,
-        "jugador": "Ilias Akhomach",
-        "imagen": "https://www.comuniate.com/caras3/3181.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-        "valor_jugador": 860000,
-        "revalorizacion": 0,
-        "plusvalia": 99000,
-        "r5": "-",
-        "r4": 1,
-        "r3": 2,
-        "r2": 2,
         "r1": 2,
         "alineado": true,
         "lesion": null

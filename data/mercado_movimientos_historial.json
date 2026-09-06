@@ -88,6 +88,50 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-06",
+    "jugador": "Ilias Akhomach",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3181.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 896100,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Diego Conde",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3121.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 180000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Diego Conde",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3121.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 180000,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Álex Pastor",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4068.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "valor": 976800,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-05",
     "jugador": "Ayoze Pérez",
     "posicion": "DEL",
