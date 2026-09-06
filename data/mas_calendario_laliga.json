@@ -379,31 +379,9 @@
     "equipo_local": "Valencia",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/3.png",
     "equipo_visitante": "Barcelona",
-    "resultado": null,
+    "resultado": "0-5",
     "fecha": "2026-09-06",
     "hora": "16:15",
-    "aplazado": false
-  },
-  {
-    "jornada": 4,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "equipo_local": "Alavés",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "equipo_visitante": "Osasuna",
-    "resultado": null,
-    "fecha": "2026-09-06",
-    "hora": "18:30",
-    "aplazado": false
-  },
-  {
-    "jornada": 4,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/65.png",
-    "equipo_local": "Málaga",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "equipo_visitante": "Levante",
-    "resultado": null,
-    "fecha": "2026-09-06",
-    "hora": "18:30",
     "aplazado": false
   },
   {
