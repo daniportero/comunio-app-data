@@ -55,6 +55,39 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-06",
+    "jugador": "Mikel Rodríguez",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4096.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 2028000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Unai Simón",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/2669.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 4276500,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-06",
+    "jugador": "Pablo Durán",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3356.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 994900,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-05",
     "jugador": "Ayoze Pérez",
     "posicion": "DEL",
