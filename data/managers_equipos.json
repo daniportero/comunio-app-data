@@ -1579,8 +1579,8 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 52430000,
-    "num_jugadores": 19,
+    "valor_equipo": 51680000,
+    "num_jugadores": 18,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1779,24 +1779,6 @@
         "r2": 4,
         "r1": 5,
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 9,
-        "media_puntos": 4.5,
-        "jugador": "Villares",
-        "imagen": "https://www.comuniate.com/caras3/4054.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-        "valor_jugador": 750000,
-        "revalorizacion": -90000,
-        "plusvalia": -27777,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": 5,
-        "r1": 4,
-        "alineado": false,
         "lesion": null
       },
       {

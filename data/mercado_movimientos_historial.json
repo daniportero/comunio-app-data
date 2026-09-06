@@ -132,6 +132,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-06",
+    "jugador": "Villares",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4054.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 713300,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-05",
     "jugador": "Ayoze Pérez",
     "posicion": "DEL",
