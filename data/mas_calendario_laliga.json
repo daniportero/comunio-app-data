@@ -423,20 +423,9 @@
     "equipo_local": "Getafe",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "equipo_visitante": "Celta",
-    "resultado": null,
+    "resultado": "1-1",
     "fecha": "2026-09-07",
     "hora": "19:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 4,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "equipo_local": "Elche",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/13.png",
-    "equipo_visitante": "Real Sociedad",
-    "resultado": null,
-    "fecha": "2026-09-07",
-    "hora": "21:30",
     "aplazado": false
   },
   {
