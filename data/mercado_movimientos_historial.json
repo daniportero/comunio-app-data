@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-09-07",
+    "jugador": "Kochorashvili",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3087.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 1650000,
+    "valor_momento": 1830000,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-07",
+    "jugador": "José Giménez",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1676.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 2150000,
+    "valor_momento": 1530000,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-07",
+    "jugador": "Xavi Espart",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4008.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 3431000,
+    "valor_momento": 4040000,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-06",
     "jugador": "Pablo García Fernández",
     "posicion": "MED",
@@ -61,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/4096.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 2028000,
-    "valor_momento": null,
+    "valor_momento": 2030000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -72,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/2669.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 4276500,
-    "valor_momento": null,
+    "valor_momento": 4230000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -83,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/3356.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "valor": 994900,
-    "valor_momento": null,
+    "valor_momento": 1010000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -94,7 +127,7 @@
     "imagen": "https://www.comuniate.com/caras3/3181.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 896100,
-    "valor_momento": null,
+    "valor_momento": 860000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
@@ -105,7 +138,7 @@
     "imagen": "https://www.comuniate.com/caras3/3121.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "valor": 180000,
-    "valor_momento": null,
+    "valor_momento": 160000,
     "manager": "Manuel Tello",
     "movimiento": "Compra"
   },
@@ -116,7 +149,7 @@
     "imagen": "https://www.comuniate.com/caras3/3121.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "valor": 180000,
-    "valor_momento": null,
+    "valor_momento": 160000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
@@ -127,7 +160,7 @@
     "imagen": "https://www.comuniate.com/caras3/4068.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
     "valor": 976800,
-    "valor_momento": null,
+    "valor_momento": 970000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
@@ -138,7 +171,7 @@
     "imagen": "https://www.comuniate.com/caras3/4054.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "valor": 713300,
-    "valor_momento": null,
+    "valor_momento": 750000,
     "manager": "Team Novita",
     "movimiento": "Venta"
   },

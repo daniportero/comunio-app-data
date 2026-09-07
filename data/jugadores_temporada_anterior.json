@@ -58774,8 +58774,8 @@
   },
   {
     "jugador": "Leandro Cabrera",
-    "puntos": 193,
-    "media": 5.8,
+    "puntos": 171,
+    "media": 4.6,
     "goles": 3,
     "asistencias": 0,
     "amarillas": 0,
@@ -191986,6 +191986,19 @@
   },
   {
     "jugador": "Esquivel",
+    "puntos": null,
+    "media": null,
+    "goles": null,
+    "asistencias": null,
+    "amarillas": null,
+    "doble_amarilla": null,
+    "rojas": null,
+    "penaltis_marcados": null,
+    "penaltis_fallados": null,
+    "jornadas": []
+  },
+  {
+    "jugador": "Iker Córdoba",
     "puntos": null,
     "media": null,
     "goles": null,
