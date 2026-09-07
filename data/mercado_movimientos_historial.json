@@ -33,6 +33,28 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-07",
+    "jugador": "Arnau Ortiz",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4124.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 803200,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-07",
+    "jugador": "Guridi",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2370.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 2532300,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-06",
     "jugador": "Pablo García Fernández",
     "posicion": "MED",

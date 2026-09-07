@@ -8,8 +8,8 @@
     "compras": 52140000,
     "ventas": 13039700,
     "puntos": 117,
-    "cuota_mercado": 0.0786,
-    "plusvalia": 3080000,
+    "cuota_mercado": 0.0791,
+    "plusvalia": 2510000,
     "margen_ventas": 309700
   },
   {
@@ -21,8 +21,8 @@
     "compras": 47460843,
     "ventas": 6479300,
     "puntos": 138,
-    "cuota_mercado": 0.0988,
-    "plusvalia": 10522934,
+    "cuota_mercado": 0.0994,
+    "plusvalia": 11542934,
     "margen_ventas": 175523
   },
   {
@@ -34,8 +34,8 @@
     "compras": 89972481,
     "ventas": 50036500,
     "puntos": 134,
-    "cuota_mercado": 0.0981,
-    "plusvalia": 2283233,
+    "cuota_mercado": 0.0987,
+    "plusvalia": -126767,
     "margen_ventas": 12500786
   },
   {
@@ -47,8 +47,8 @@
     "compras": 88342000,
     "ventas": 47533000,
     "puntos": 187,
-    "cuota_mercado": 0.1371,
-    "plusvalia": 17200000,
+    "cuota_mercado": 0.138,
+    "plusvalia": 15670000,
     "margen_ventas": 16651000
   },
   {
@@ -60,8 +60,8 @@
     "compras": 76000017,
     "ventas": 34322600,
     "puntos": 143,
-    "cuota_mercado": 0.1014,
-    "plusvalia": 3709985,
+    "cuota_mercado": 0.102,
+    "plusvalia": 2879985,
     "margen_ventas": 9522598
   },
   {
@@ -73,8 +73,8 @@
     "compras": 56800000,
     "ventas": 14471100,
     "puntos": 137,
-    "cuota_mercado": 0.0878,
-    "plusvalia": 11930000,
+    "cuota_mercado": 0.0883,
+    "plusvalia": 12410000,
     "margen_ventas": -7928900
   },
   {
@@ -86,8 +86,8 @@
     "compras": 155784100,
     "ventas": 111842400,
     "puntos": 183,
-    "cuota_mercado": 0.1231,
-    "plusvalia": -5300000,
+    "cuota_mercado": 0.1239,
+    "plusvalia": -2990000,
     "margen_ventas": 20668300
   },
   {
@@ -99,21 +99,21 @@
     "compras": 69900814,
     "ventas": 23370200,
     "puntos": 151,
-    "cuota_mercado": 0.1291,
-    "plusvalia": 10215739,
+    "cuota_mercado": 0.1299,
+    "plusvalia": 12365739,
     "margen_ventas": 9963647
   },
   {
     "posicion": 4,
     "manager": "Dani Portero",
-    "valor_equipo": 77850000,
-    "puja_maxima": 8489100,
-    "dinero": -10973400,
+    "valor_equipo": 74560000,
+    "puja_maxima": 11002100,
+    "dinero": -7637900,
     "compras": 144333000,
-    "ventas": 91929600,
+    "ventas": 95265100,
     "puntos": 143,
-    "cuota_mercado": 0.146,
-    "plusvalia": 13979000,
-    "margen_ventas": 11207600
+    "cuota_mercado": 0.1407,
+    "plusvalia": 15349000,
+    "margen_ventas": 10143100
   }
 ]
