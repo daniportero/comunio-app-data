@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-09-08",
+    "jugador": "Joan García",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3214.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 7090100,
+    "valor_momento": 6710000,
+    "manager": "Team Novita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-08",
+    "jugador": "Boyomo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3628.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 1860000,
+    "valor_momento": 1660000,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-08",
+    "jugador": "Javier Hernández",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3851.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 4000004,
+    "valor_momento": 3720000,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-07",
     "jugador": "Kochorashvili",
     "posicion": "MED",
@@ -39,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/4124.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "valor": 803200,
-    "valor_momento": null,
+    "valor_momento": 800000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
@@ -50,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/2370.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "valor": 2532300,
-    "valor_momento": null,
+    "valor_momento": 2490000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },

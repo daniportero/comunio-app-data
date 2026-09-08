@@ -46,27 +46,27 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 41,
-    "num_compras": 27,
-    "valor_compras": 89972481,
+    "total_mov": 42,
+    "num_compras": 28,
+    "valor_compras": 93972485,
     "num_ventas": 14,
     "valor_ventas": 50036500,
     "margen_ventas": 12500786
   },
   {
     "manager": "Team Novita",
-    "total_mov": 30,
-    "num_compras": 24,
-    "valor_compras": 47460843,
+    "total_mov": 31,
+    "num_compras": 25,
+    "valor_compras": 54550943,
     "num_ventas": 6,
     "valor_ventas": 6479300,
     "margen_ventas": 175523
   },
   {
     "manager": "Chirli",
-    "total_mov": 24,
-    "num_compras": 18,
-    "valor_compras": 52140000,
+    "total_mov": 25,
+    "num_compras": 19,
+    "valor_compras": 54000000,
     "num_ventas": 6,
     "valor_ventas": 13039700,
     "margen_ventas": 309700

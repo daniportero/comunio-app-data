@@ -429,6 +429,17 @@
     "aplazado": false
   },
   {
+    "jornada": 4,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "equipo_local": "Elche",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "equipo_visitante": "Real Sociedad",
+    "resultado": "2-3",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
     "jornada": 5,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "equipo_local": "Sevilla",

@@ -6,8 +6,8 @@
     "dinero": -1381700,
     "puntos_jornada_actual": 73,
     "puntos_total": 256,
-    "cambio_posicion": 1,
-    "jugadores_jugados": 10,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
   {
@@ -17,8 +17,8 @@
     "dinero": 1631000,
     "puntos_jornada_actual": 57,
     "puntos_total": 244,
-    "cambio_posicion": -1,
-    "jugadores_jugados": 9,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
   {
@@ -29,7 +29,7 @@
     "puntos_jornada_actual": 67,
     "puntos_total": 218,
     "cambio_posicion": 0,
-    "jugadores_jugados": 10,
+    "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
   {
@@ -39,8 +39,8 @@
     "dinero": 551100,
     "puntos_jornada_actual": 71,
     "puntos_total": 208,
-    "cambio_posicion": 3,
-    "jugadores_jugados": 9,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
   {
@@ -50,8 +50,8 @@
     "dinero": 922583,
     "puntos_jornada_actual": 37,
     "puntos_total": 180,
-    "cambio_posicion": -1,
-    "jugadores_jugados": 9,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
   {
@@ -61,26 +61,26 @@
     "dinero": -7357900,
     "puntos_jornada_actual": 28,
     "puntos_total": 171,
-    "cambio_posicion": -1,
-    "jugadores_jugados": 10,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
   {
     "posicion": 7,
     "manager": "Team Novita",
     "valor_equipo": 59460000,
-    "dinero": 2248457,
+    "dinero": -4041643,
     "puntos_jornada_actual": 25,
     "puntos_total": 163,
-    "cambio_posicion": -1,
-    "jugadores_jugados": 10,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
   {
     "posicion": 8,
     "manager": "Muriqui Saez",
     "valor_equipo": 51520000,
-    "dinero": 1654019,
+    "dinero": -1545985,
     "puntos_jornada_actual": 25,
     "puntos_total": 159,
     "cambio_posicion": 0,
@@ -91,7 +91,7 @@
     "posicion": 9,
     "manager": "Chirli",
     "valor_equipo": 40390000,
-    "dinero": 3149700,
+    "dinero": 1289700,
     "puntos_jornada_actual": 28,
     "puntos_total": 145,
     "cambio_posicion": 0,

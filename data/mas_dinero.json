@@ -1,44 +1,5 @@
 [
   {
-    "posicion": 9,
-    "manager": "Chirli",
-    "valor_equipo": 40390000,
-    "puja_maxima": 13247200,
-    "dinero": 3149700,
-    "compras": 52140000,
-    "ventas": 13039700,
-    "puntos": 145,
-    "cuota_mercado": 0.0761,
-    "plusvalia": 2510000,
-    "margen_ventas": 309700
-  },
-  {
-    "posicion": 7,
-    "manager": "Team Novita",
-    "valor_equipo": 59460000,
-    "puja_maxima": 17113457,
-    "dinero": 2248457,
-    "compras": 47460843,
-    "ventas": 6479300,
-    "puntos": 163,
-    "cuota_mercado": 0.1121,
-    "plusvalia": 11542934,
-    "margen_ventas": 175523
-  },
-  {
-    "posicion": 8,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 51520000,
-    "puja_maxima": 14534019,
-    "dinero": 1654019,
-    "compras": 89972481,
-    "ventas": 50036500,
-    "puntos": 159,
-    "cuota_mercado": 0.0971,
-    "plusvalia": -126767,
-    "margen_ventas": 12500786
-  },
-  {
     "posicion": 2,
     "manager": "Carlos Saez",
     "valor_equipo": 73960000,
@@ -50,6 +11,19 @@
     "cuota_mercado": 0.1394,
     "plusvalia": 15670000,
     "margen_ventas": 16651000
+  },
+  {
+    "posicion": 9,
+    "manager": "Chirli",
+    "valor_equipo": 40390000,
+    "puja_maxima": 11387200,
+    "dinero": 1289700,
+    "compras": 54000000,
+    "ventas": 13039700,
+    "puntos": 145,
+    "cuota_mercado": 0.0761,
+    "plusvalia": 2300000,
+    "margen_ventas": 309700
   },
   {
     "posicion": 5,
@@ -91,6 +65,19 @@
     "margen_ventas": 20668300
   },
   {
+    "posicion": 8,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 51520000,
+    "puja_maxima": 11334015,
+    "dinero": -1545985,
+    "compras": 93972485,
+    "ventas": 50036500,
+    "puntos": 159,
+    "cuota_mercado": 0.0971,
+    "plusvalia": -376771,
+    "margen_ventas": 12500786
+  },
+  {
     "posicion": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 67440000,
@@ -102,6 +89,19 @@
     "cuota_mercado": 0.1271,
     "plusvalia": 12365739,
     "margen_ventas": 9963647
+  },
+  {
+    "posicion": 7,
+    "manager": "Team Novita",
+    "valor_equipo": 59460000,
+    "puja_maxima": 10823357,
+    "dinero": -4041643,
+    "compras": 54550943,
+    "ventas": 6479300,
+    "puntos": 163,
+    "cuota_mercado": 0.1121,
+    "plusvalia": 11542834,
+    "margen_ventas": 175523
   },
   {
     "posicion": 6,

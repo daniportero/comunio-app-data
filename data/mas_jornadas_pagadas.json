@@ -28,12 +28,12 @@
     {
       "posicion": 8,
       "manager": "Muriqui Saez",
-      "dinero": 0
+      "dinero": 2
     },
     {
       "posicion": 7,
       "manager": "Team Novita",
-      "dinero": 4
+      "dinero": 6
     },
     {
       "posicion": 9,
@@ -46,5 +46,5 @@
       "dinero": 0
     }
   ],
-  "total": 12
+  "total": 16
 }
