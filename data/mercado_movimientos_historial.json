@@ -66,6 +66,28 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-08",
+    "jugador": "Diangana",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3926.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 160800,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-08",
+    "jugador": "Luiz Junior",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3695.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 1509700,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-07",
     "jugador": "Kochorashvili",
     "posicion": "MED",
