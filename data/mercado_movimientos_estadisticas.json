@@ -1,12 +1,12 @@
 [
   {
     "manager": "Manuel Tello",
-    "total_mov": 58,
+    "total_mov": 60,
     "num_compras": 37,
     "valor_compras": 155784100,
-    "num_ventas": 21,
-    "valor_ventas": 111842400,
-    "margen_ventas": 20668300
+    "num_ventas": 23,
+    "valor_ventas": 114170000,
+    "margen_ventas": 19975900
   },
   {
     "manager": "Dani Portero",
@@ -64,12 +64,12 @@
   },
   {
     "manager": "Chirli",
-    "total_mov": 25,
+    "total_mov": 26,
     "num_compras": 19,
     "valor_compras": 54000000,
-    "num_ventas": 6,
-    "valor_ventas": 13039700,
-    "margen_ventas": 309700
+    "num_ventas": 7,
+    "valor_ventas": 18710900,
+    "margen_ventas": -1519100
   },
   {
     "manager": "Carlos Saez",

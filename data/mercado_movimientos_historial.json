@@ -33,6 +33,39 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-08",
+    "jugador": "Gorosabel",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2491.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 494900,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-08",
+    "jugador": "Juan Iglesias",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3052.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 1832700,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-08",
+    "jugador": "Joao Cancelo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1952.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor": 5671200,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-07",
     "jugador": "Kochorashvili",
     "posicion": "MED",

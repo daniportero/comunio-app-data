@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 65570000,
-    "num_jugadores": 16,
+    "valor_equipo": 63260000,
+    "num_jugadores": 14,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -79,24 +79,6 @@
       },
       {
         "posicion": "DEF",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Gorosabel",
-        "imagen": "https://www.comuniate.com/caras3/2491.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-        "valor_jugador": 490000,
-        "revalorizacion": -30000,
-        "plusvalia": -80000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
         "puntos": 34,
         "media_puntos": 8.5,
         "jugador": "Adrián de la Fuente",
@@ -111,24 +93,6 @@
         "r2": 8,
         "r1": 5,
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 14,
-        "media_puntos": 3.5,
-        "jugador": "Juan Iglesias",
-        "imagen": "https://www.comuniate.com/caras3/3052.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-        "valor_jugador": 1820000,
-        "revalorizacion": -760000,
-        "plusvalia": -630000,
-        "r5": "-",
-        "r4": 3,
-        "r3": 2,
-        "r2": 4,
-        "r1": 5,
-        "alineado": false,
         "lesion": null
       },
       {
@@ -1965,8 +1929,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 40390000,
-    "num_jugadores": 13,
+    "valor_equipo": 34830000,
+    "num_jugadores": 12,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -1984,24 +1948,6 @@
         "r3": 11,
         "r2": 5,
         "r1": 6,
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 10,
-        "media_puntos": 3.3,
-        "jugador": "Joao Cancelo",
-        "imagen": "https://www.comuniate.com/caras3/1952.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-        "valor_jugador": 5560000,
-        "revalorizacion": -1490000,
-        "plusvalia": -1940000,
-        "r5": "-",
-        "r4": "-",
-        "r3": 3,
-        "r2": 3,
-        "r1": 4,
         "alineado": true,
         "lesion": null
       },
