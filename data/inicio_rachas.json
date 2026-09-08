@@ -1,7 +1,7 @@
 [
   {
     "posicion": 1,
-    "posicion_ranking": 1,
+    "posicion_ranking": 2,
     "manager": "Carlos Saez",
     "valor_equipo": 73130000,
     "puntos": 187,
@@ -13,7 +13,7 @@
   },
   {
     "posicion": 2,
-    "posicion_ranking": 2,
+    "posicion_ranking": 1,
     "manager": "Manuel Tello",
     "valor_equipo": 65650000,
     "puntos": 181,
@@ -37,7 +37,7 @@
   },
   {
     "posicion": 4,
-    "posicion_ranking": 4,
+    "posicion_ranking": 6,
     "manager": "Dani Portero",
     "valor_equipo": 74560000,
     "puntos": 143,
@@ -61,7 +61,7 @@
   },
   {
     "posicion": 6,
-    "posicion_ranking": 6,
+    "posicion_ranking": 7,
     "manager": "Team Novita",
     "valor_equipo": 52700000,
     "puntos": 138,
@@ -73,7 +73,7 @@
   },
   {
     "posicion": 7,
-    "posicion_ranking": 7,
+    "posicion_ranking": 4,
     "manager": "Mena",
     "valor_equipo": 46810000,
     "puntos": 137,
