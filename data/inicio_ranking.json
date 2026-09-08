@@ -6,7 +6,7 @@
     "dinero": 945900,
     "puntos_jornada_actual": 73,
     "puntos_total": 256,
-    "cambio_posicion": 0,
+    "cambio_posicion": 1,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
@@ -17,7 +17,7 @@
     "dinero": 1631000,
     "puntos_jornada_actual": 57,
     "puntos_total": 244,
-    "cambio_posicion": 0,
+    "cambio_posicion": -1,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
@@ -39,7 +39,7 @@
     "dinero": 551100,
     "puntos_jornada_actual": 71,
     "puntos_total": 208,
-    "cambio_posicion": 0,
+    "cambio_posicion": 1,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
@@ -50,7 +50,7 @@
     "dinero": 922583,
     "puntos_jornada_actual": 37,
     "puntos_total": 180,
-    "cambio_posicion": 0,
+    "cambio_posicion": 3,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
@@ -61,7 +61,7 @@
     "dinero": -7357900,
     "puntos_jornada_actual": 28,
     "puntos_total": 171,
-    "cambio_posicion": 0,
+    "cambio_posicion": -2,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
@@ -83,7 +83,7 @@
     "dinero": -1545985,
     "puntos_jornada_actual": 25,
     "puntos_total": 159,
-    "cambio_posicion": 0,
+    "cambio_posicion": -2,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
   },
