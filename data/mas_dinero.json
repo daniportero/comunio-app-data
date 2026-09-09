@@ -26,32 +26,6 @@
     "margen_ventas": 16651000
   },
   {
-    "posicion": 1,
-    "manager": "Manuel Tello",
-    "valor_equipo": 66900000,
-    "puja_maxima": 17670900,
-    "dinero": 945900,
-    "compras": 155784100,
-    "ventas": 114170000,
-    "puntos": 256,
-    "cuota_mercado": 0.1271,
-    "plusvalia": -2360000,
-    "margen_ventas": 19975900
-  },
-  {
-    "posicion": 5,
-    "manager": "Edu Zurita",
-    "valor_equipo": 53930000,
-    "puja_maxima": 14405083,
-    "dinero": 922583,
-    "compras": 76000017,
-    "ventas": 34322600,
-    "puntos": 180,
-    "cuota_mercado": 0.1024,
-    "plusvalia": 2499985,
-    "margen_ventas": 9522598
-  },
-  {
     "posicion": 4,
     "manager": "Mena",
     "valor_equipo": 47830000,
@@ -65,6 +39,19 @@
     "margen_ventas": -7928900
   },
   {
+    "posicion": 5,
+    "manager": "Edu Zurita",
+    "valor_equipo": 53930000,
+    "puja_maxima": 13995083,
+    "dinero": 512583,
+    "compras": 76410017,
+    "ventas": 34322600,
+    "puntos": 180,
+    "cuota_mercado": 0.1024,
+    "plusvalia": 2599985,
+    "margen_ventas": 9522598
+  },
+  {
     "posicion": 7,
     "manager": "Team Novita",
     "valor_equipo": 56780000,
@@ -76,6 +63,19 @@
     "cuota_mercado": 0.1078,
     "plusvalia": 10265834,
     "margen_ventas": 1092423
+  },
+  {
+    "posicion": 1,
+    "manager": "Manuel Tello",
+    "valor_equipo": 66900000,
+    "puja_maxima": 15920900,
+    "dinero": -804100,
+    "compras": 157534100,
+    "ventas": 114170000,
+    "puntos": 256,
+    "cuota_mercado": 0.1271,
+    "plusvalia": -3030000,
+    "margen_ventas": 19975900
   },
   {
     "posicion": 8,
