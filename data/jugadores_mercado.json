@@ -1,12 +1,6 @@
 [
   {
     "jugador": "Lamine Yamal",
-    "dia": "02/Sep",
-    "variacion": 310000,
-    "precio": 26260000
-  },
-  {
-    "jugador": "Lamine Yamal",
     "dia": "03/Sep",
     "variacion": -110000,
     "precio": 26150000
@@ -42,10 +36,10 @@
     "precio": 25570000
   },
   {
-    "jugador": "Mbappé",
-    "dia": "02/Sep",
-    "variacion": -850000,
-    "precio": 27900000
+    "jugador": "Lamine Yamal",
+    "dia": "09/Sep",
+    "variacion": 1210000,
+    "precio": 26780000
   },
   {
     "jugador": "Mbappé",
@@ -84,10 +78,10 @@
     "precio": 21420000
   },
   {
-    "jugador": "Cucurella",
-    "dia": "02/Sep",
-    "variacion": 370000,
-    "precio": 15410000
+    "jugador": "Mbappé",
+    "dia": "09/Sep",
+    "variacion": 1770000,
+    "precio": 23190000
   },
   {
     "jugador": "Cucurella",
@@ -126,10 +120,10 @@
     "precio": 13180000
   },
   {
-    "jugador": "Gordon",
-    "dia": "02/Sep",
-    "variacion": -150000,
-    "precio": 17470000
+    "jugador": "Cucurella",
+    "dia": "09/Sep",
+    "variacion": -1470000,
+    "precio": 11710000
   },
   {
     "jugador": "Gordon",
@@ -168,10 +162,10 @@
     "precio": 17670000
   },
   {
-    "jugador": "Bernardo Silva",
-    "dia": "02/Sep",
-    "variacion": -240000,
-    "precio": 16420000
+    "jugador": "Gordon",
+    "dia": "09/Sep",
+    "variacion": -300000,
+    "precio": 17370000
   },
   {
     "jugador": "Bernardo Silva",
@@ -210,10 +204,10 @@
     "precio": 12320000
   },
   {
-    "jugador": "Vinícius Júnior",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 22920000
+    "jugador": "Bernardo Silva",
+    "dia": "09/Sep",
+    "variacion": 180000,
+    "precio": 12500000
   },
   {
     "jugador": "Vinícius Júnior",
@@ -252,10 +246,10 @@
     "precio": 18650000
   },
   {
-    "jugador": "Pedri",
-    "dia": "02/Sep",
-    "variacion": -1130000,
-    "precio": 17080000
+    "jugador": "Vinícius Júnior",
+    "dia": "09/Sep",
+    "variacion": -1030000,
+    "precio": 17620000
   },
   {
     "jugador": "Pedri",
@@ -294,10 +288,10 @@
     "precio": 17400000
   },
   {
-    "jugador": "Bellingham",
-    "dia": "02/Sep",
-    "variacion": 980000,
-    "precio": 22610000
+    "jugador": "Pedri",
+    "dia": "09/Sep",
+    "variacion": -700000,
+    "precio": 16700000
   },
   {
     "jugador": "Bellingham",
@@ -336,10 +330,10 @@
     "precio": 21990000
   },
   {
-    "jugador": "Raphinha",
-    "dia": "02/Sep",
-    "variacion": -1490000,
-    "precio": 24880000
+    "jugador": "Bellingham",
+    "dia": "09/Sep",
+    "variacion": 510000,
+    "precio": 22500000
   },
   {
     "jugador": "Raphinha",
@@ -378,10 +372,10 @@
     "precio": 26090000
   },
   {
-    "jugador": "Oyarzabal",
-    "dia": "02/Sep",
-    "variacion": -380000,
-    "precio": 14550000
+    "jugador": "Raphinha",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 26310000
   },
   {
     "jugador": "Oyarzabal",
@@ -420,10 +414,10 @@
     "precio": 14200000
   },
   {
-    "jugador": "Konaté",
-    "dia": "02/Sep",
-    "variacion": -640000,
-    "precio": 9430000
+    "jugador": "Oyarzabal",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 14260000
   },
   {
     "jugador": "Konaté",
@@ -462,10 +456,10 @@
     "precio": 10040000
   },
   {
-    "jugador": "Joan García",
-    "dia": "02/Sep",
-    "variacion": -1360000,
-    "precio": 7730000
+    "jugador": "Konaté",
+    "dia": "09/Sep",
+    "variacion": -240000,
+    "precio": 9800000
   },
   {
     "jugador": "Joan García",
@@ -504,9 +498,9 @@
     "precio": 6710000
   },
   {
-    "jugador": "Yeremay",
-    "dia": "02/Sep",
-    "variacion": 100000,
+    "jugador": "Joan García",
+    "dia": "09/Sep",
+    "variacion": 740000,
     "precio": 7450000
   },
   {
@@ -546,10 +540,10 @@
     "precio": 7440000
   },
   {
-    "jugador": "Mikautadze",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 13490000
+    "jugador": "Yeremay",
+    "dia": "09/Sep",
+    "variacion": -180000,
+    "precio": 7260000
   },
   {
     "jugador": "Mikautadze",
@@ -588,10 +582,10 @@
     "precio": 10630000
   },
   {
-    "jugador": "Lookman",
-    "dia": "02/Sep",
-    "variacion": 430000,
-    "precio": 15550000
+    "jugador": "Mikautadze",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 10690000
   },
   {
     "jugador": "Lookman",
@@ -630,10 +624,10 @@
     "precio": 15040000
   },
   {
-    "jugador": "Budimir",
-    "dia": "02/Sep",
-    "variacion": 390000,
-    "precio": 15330000
+    "jugador": "Lookman",
+    "dia": "09/Sep",
+    "variacion": -850000,
+    "precio": 14190000
   },
   {
     "jugador": "Budimir",
@@ -672,10 +666,10 @@
     "precio": 13930000
   },
   {
-    "jugador": "Dumfries",
-    "dia": "02/Sep",
-    "variacion": -370000,
-    "precio": 7440000
+    "jugador": "Budimir",
+    "dia": "09/Sep",
+    "variacion": 950000,
+    "precio": 14880000
   },
   {
     "jugador": "Dumfries",
@@ -714,10 +708,10 @@
     "precio": 6710000
   },
   {
-    "jugador": "Dani Olmo",
-    "dia": "02/Sep",
-    "variacion": -120000,
-    "precio": 13040000
+    "jugador": "Dumfries",
+    "dia": "09/Sep",
+    "variacion": -320000,
+    "precio": 6390000
   },
   {
     "jugador": "Dani Olmo",
@@ -756,10 +750,10 @@
     "precio": 10900000
   },
   {
-    "jugador": "Fede Valverde",
-    "dia": "02/Sep",
-    "variacion": -200000,
-    "precio": 16380000
+    "jugador": "Dani Olmo",
+    "dia": "09/Sep",
+    "variacion": 1240000,
+    "precio": 12140000
   },
   {
     "jugador": "Fede Valverde",
@@ -798,10 +792,10 @@
     "precio": 13550000
   },
   {
-    "jugador": "Julián Álvarez",
-    "dia": "02/Sep",
-    "variacion": 840000,
-    "precio": 12680000
+    "jugador": "Fede Valverde",
+    "dia": "09/Sep",
+    "variacion": 850000,
+    "precio": 14400000
   },
   {
     "jugador": "Julián Álvarez",
@@ -840,10 +834,10 @@
     "precio": 12350000
   },
   {
-    "jugador": "Antony",
-    "dia": "02/Sep",
-    "variacion": -1100000,
-    "precio": 14070000
+    "jugador": "Julián Álvarez",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 12410000
   },
   {
     "jugador": "Antony",
@@ -882,10 +876,10 @@
     "precio": 12300000
   },
   {
-    "jugador": "Isco",
-    "dia": "02/Sep",
-    "variacion": -680000,
-    "precio": 11380000
+    "jugador": "Antony",
+    "dia": "09/Sep",
+    "variacion": 670000,
+    "precio": 12970000
   },
   {
     "jugador": "Isco",
@@ -924,10 +918,10 @@
     "precio": 8930000
   },
   {
-    "jugador": "Abde Ezzalzouli",
-    "dia": "02/Sep",
-    "variacion": -1370000,
-    "precio": 8220000
+    "jugador": "Isco",
+    "dia": "09/Sep",
+    "variacion": 860000,
+    "precio": 9790000
   },
   {
     "jugador": "Abde Ezzalzouli",
@@ -966,10 +960,10 @@
     "precio": 7930000
   },
   {
-    "jugador": "Grimaldo",
-    "dia": "02/Sep",
-    "variacion": -410000,
-    "precio": 9650000
+    "jugador": "Abde Ezzalzouli",
+    "dia": "09/Sep",
+    "variacion": -470000,
+    "precio": 7460000
   },
   {
     "jugador": "Grimaldo",
@@ -1008,10 +1002,10 @@
     "precio": 10310000
   },
   {
-    "jugador": "Carlos Espí",
-    "dia": "02/Sep",
-    "variacion": -680000,
-    "precio": 7000000
+    "jugador": "Grimaldo",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 10290000
   },
   {
     "jugador": "Carlos Espí",
@@ -1050,10 +1044,10 @@
     "precio": 5730000
   },
   {
-    "jugador": "Pau Cubarsí",
-    "dia": "02/Sep",
-    "variacion": 140000,
-    "precio": 10880000
+    "jugador": "Carlos Espí",
+    "dia": "09/Sep",
+    "variacion": 780000,
+    "precio": 6510000
   },
   {
     "jugador": "Pau Cubarsí",
@@ -1092,10 +1086,10 @@
     "precio": 10680000
   },
   {
-    "jugador": "Nicolas Pépé",
-    "dia": "02/Sep",
-    "variacion": -450000,
-    "precio": 13840000
+    "jugador": "Pau Cubarsí",
+    "dia": "09/Sep",
+    "variacion": 300000,
+    "precio": 10980000
   },
   {
     "jugador": "Nicolas Pépé",
@@ -1134,10 +1128,10 @@
     "precio": 13060000
   },
   {
-    "jugador": "Fermín López",
-    "dia": "02/Sep",
-    "variacion": -260000,
-    "precio": 17220000
+    "jugador": "Nicolas Pépé",
+    "dia": "09/Sep",
+    "variacion": 660000,
+    "precio": 13720000
   },
   {
     "jugador": "Fermín López",
@@ -1176,10 +1170,10 @@
     "precio": 17930000
   },
   {
-    "jugador": "Nico Williams",
-    "dia": "02/Sep",
-    "variacion": -600000,
-    "precio": 10850000
+    "jugador": "Fermín López",
+    "dia": "09/Sep",
+    "variacion": 300000,
+    "precio": 18230000
   },
   {
     "jugador": "Nico Williams",
@@ -1218,10 +1212,10 @@
     "precio": 11640000
   },
   {
-    "jugador": "Marc Pubill",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 7450000
+    "jugador": "Nico Williams",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 11580000
   },
   {
     "jugador": "Marc Pubill",
@@ -1260,10 +1254,10 @@
     "precio": 6360000
   },
   {
-    "jugador": "Frenkie de Jong",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 790000
+    "jugador": "Marc Pubill",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 6430000
   },
   {
     "jugador": "Frenkie de Jong",
@@ -1302,10 +1296,10 @@
     "precio": 780000
   },
   {
-    "jugador": "Chupe",
-    "dia": "02/Sep",
-    "variacion": -350000,
-    "precio": 8110000
+    "jugador": "Frenkie de Jong",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 780000
   },
   {
     "jugador": "Chupe",
@@ -1344,10 +1338,10 @@
     "precio": 7630000
   },
   {
-    "jugador": "Álex Baena",
-    "dia": "02/Sep",
-    "variacion": 470000,
-    "precio": 15080000
+    "jugador": "Chupe",
+    "dia": "09/Sep",
+    "variacion": 160000,
+    "precio": 7790000
   },
   {
     "jugador": "Álex Baena",
@@ -1386,10 +1380,10 @@
     "precio": 14200000
   },
   {
-    "jugador": "Toni Martínez",
-    "dia": "02/Sep",
-    "variacion": -770000,
-    "precio": 5740000
+    "jugador": "Álex Baena",
+    "dia": "09/Sep",
+    "variacion": 660000,
+    "precio": 14860000
   },
   {
     "jugador": "Toni Martínez",
@@ -1428,10 +1422,10 @@
     "precio": 4610000
   },
   {
-    "jugador": "Canales",
-    "dia": "02/Sep",
-    "variacion": 60000,
-    "precio": 6070000
+    "jugador": "Toni Martínez",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 4650000
   },
   {
     "jugador": "Canales",
@@ -1470,10 +1464,10 @@
     "precio": 5840000
   },
   {
-    "jugador": "Fornals",
-    "dia": "02/Sep",
-    "variacion": 430000,
-    "precio": 10930000
+    "jugador": "Canales",
+    "dia": "09/Sep",
+    "variacion": 200000,
+    "precio": 6040000
   },
   {
     "jugador": "Fornals",
@@ -1512,10 +1506,10 @@
     "precio": 8140000
   },
   {
-    "jugador": "Arda Güler",
-    "dia": "02/Sep",
-    "variacion": -990000,
-    "precio": 13780000
+    "jugador": "Fornals",
+    "dia": "09/Sep",
+    "variacion": 490000,
+    "precio": 8630000
   },
   {
     "jugador": "Arda Güler",
@@ -1554,10 +1548,10 @@
     "precio": 12480000
   },
   {
-    "jugador": "Aubameyang",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 17850000
+    "jugador": "Arda Güler",
+    "dia": "09/Sep",
+    "variacion": 640000,
+    "precio": 13120000
   },
   {
     "jugador": "Aubameyang",
@@ -1596,10 +1590,10 @@
     "precio": 20010000
   },
   {
-    "jugador": "Borja Iglesias",
-    "dia": "02/Sep",
-    "variacion": -830000,
-    "precio": 4740000
+    "jugador": "Aubameyang",
+    "dia": "09/Sep",
+    "variacion": 400000,
+    "precio": 20410000
   },
   {
     "jugador": "Borja Iglesias",
@@ -1638,10 +1632,10 @@
     "precio": 4210000
   },
   {
-    "jugador": "Courtois",
-    "dia": "02/Sep",
-    "variacion": -530000,
-    "precio": 7060000
+    "jugador": "Borja Iglesias",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 4280000
   },
   {
     "jugador": "Courtois",
@@ -1680,10 +1674,10 @@
     "precio": 5780000
   },
   {
-    "jugador": "Gavi",
-    "dia": "02/Sep",
-    "variacion": 260000,
-    "precio": 3140000
+    "jugador": "Courtois",
+    "dia": "09/Sep",
+    "variacion": 120000,
+    "precio": 5900000
   },
   {
     "jugador": "Gavi",
@@ -1722,10 +1716,10 @@
     "precio": 2160000
   },
   {
-    "jugador": "Aleix Febas",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 5190000
+    "jugador": "Gavi",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 2200000
   },
   {
     "jugador": "Aleix Febas",
@@ -1764,10 +1758,10 @@
     "precio": 3440000
   },
   {
-    "jugador": "Eric García",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 7680000
+    "jugador": "Aleix Febas",
+    "dia": "09/Sep",
+    "variacion": -190000,
+    "precio": 3250000
   },
   {
     "jugador": "Eric García",
@@ -1806,10 +1800,10 @@
     "precio": 6940000
   },
   {
-    "jugador": "Marcos Llorente",
-    "dia": "02/Sep",
-    "variacion": 140000,
-    "precio": 7790000
+    "jugador": "Eric García",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 7040000
   },
   {
     "jugador": "Marcos Llorente",
@@ -1848,10 +1842,10 @@
     "precio": 7770000
   },
   {
-    "jugador": "Mario Soriano",
-    "dia": "02/Sep",
-    "variacion": -330000,
-    "precio": 6870000
+    "jugador": "Marcos Llorente",
+    "dia": "09/Sep",
+    "variacion": 150000,
+    "precio": 7920000
   },
   {
     "jugador": "Mario Soriano",
@@ -1890,10 +1884,10 @@
     "precio": 6270000
   },
   {
-    "jugador": "Cucho Hernández",
-    "dia": "02/Sep",
-    "variacion": -300000,
-    "precio": 6650000
+    "jugador": "Mario Soriano",
+    "dia": "09/Sep",
+    "variacion": -320000,
+    "precio": 5950000
   },
   {
     "jugador": "Cucho Hernández",
@@ -1932,10 +1926,10 @@
     "precio": 5320000
   },
   {
-    "jugador": "Guido Rodríguez",
-    "dia": "02/Sep",
-    "variacion": -430000,
-    "precio": 5780000
+    "jugador": "Cucho Hernández",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 5260000
   },
   {
     "jugador": "Guido Rodríguez",
@@ -1974,10 +1968,10 @@
     "precio": 3410000
   },
   {
-    "jugador": "Giuliano Simeone",
-    "dia": "02/Sep",
+    "jugador": "Guido Rodríguez",
+    "dia": "09/Sep",
     "variacion": 10000,
-    "precio": 8100000
+    "precio": 3420000
   },
   {
     "jugador": "Giuliano Simeone",
@@ -2016,10 +2010,10 @@
     "precio": 6350000
   },
   {
-    "jugador": "Andrés Martín",
-    "dia": "02/Sep",
-    "variacion": -170000,
-    "precio": 5790000
+    "jugador": "Giuliano Simeone",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 6450000
   },
   {
     "jugador": "Andrés Martín",
@@ -2058,10 +2052,10 @@
     "precio": 4460000
   },
   {
-    "jugador": "Sorloth",
-    "dia": "02/Sep",
-    "variacion": -220000,
-    "precio": 4930000
+    "jugador": "Andrés Martín",
+    "dia": "09/Sep",
+    "variacion": -100000,
+    "precio": 4360000
   },
   {
     "jugador": "Sorloth",
@@ -2100,10 +2094,10 @@
     "precio": 4630000
   },
   {
-    "jugador": "Tchouaméni",
-    "dia": "02/Sep",
-    "variacion": 150000,
-    "precio": 5100000
+    "jugador": "Sorloth",
+    "dia": "09/Sep",
+    "variacion": -140000,
+    "precio": 4490000
   },
   {
     "jugador": "Tchouaméni",
@@ -2142,10 +2136,10 @@
     "precio": 5100000
   },
   {
-    "jugador": "Hjulmand",
-    "dia": "02/Sep",
-    "variacion": 240000,
-    "precio": 6710000
+    "jugador": "Tchouaméni",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 5320000
   },
   {
     "jugador": "Hjulmand",
@@ -2184,10 +2178,10 @@
     "precio": 6220000
   },
   {
-    "jugador": "Pape Gueye",
-    "dia": "02/Sep",
-    "variacion": -1050000,
-    "precio": 9750000
+    "jugador": "Hjulmand",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 6220000
   },
   {
     "jugador": "Pape Gueye",
@@ -2226,10 +2220,10 @@
     "precio": 8490000
   },
   {
-    "jugador": "Gerard Moreno",
-    "dia": "02/Sep",
-    "variacion": -750000,
-    "precio": 9670000
+    "jugador": "Pape Gueye",
+    "dia": "09/Sep",
+    "variacion": 390000,
+    "precio": 8880000
   },
   {
     "jugador": "Gerard Moreno",
@@ -2268,10 +2262,10 @@
     "precio": 8480000
   },
   {
-    "jugador": "Zaid Romero",
-    "dia": "02/Sep",
-    "variacion": -60000,
-    "precio": 2300000
+    "jugador": "Gerard Moreno",
+    "dia": "09/Sep",
+    "variacion": 150000,
+    "precio": 8630000
   },
   {
     "jugador": "Zaid Romero",
@@ -2310,10 +2304,10 @@
     "precio": 2340000
   },
   {
-    "jugador": "Jorge de Frutos",
-    "dia": "02/Sep",
-    "variacion": -170000,
-    "precio": 6030000
+    "jugador": "Zaid Romero",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 2280000
   },
   {
     "jugador": "Jorge de Frutos",
@@ -2352,10 +2346,10 @@
     "precio": 4890000
   },
   {
-    "jugador": "Carlos Romero",
-    "dia": "02/Sep",
-    "variacion": -640000,
-    "precio": 5360000
+    "jugador": "Jorge de Frutos",
+    "dia": "09/Sep",
+    "variacion": -250000,
+    "precio": 4640000
   },
   {
     "jugador": "Carlos Romero",
@@ -2394,10 +2388,10 @@
     "precio": 4290000
   },
   {
-    "jugador": "Koundé",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 5390000
+    "jugador": "Carlos Romero",
+    "dia": "09/Sep",
+    "variacion": -120000,
+    "precio": 4170000
   },
   {
     "jugador": "Koundé",
@@ -2436,10 +2430,10 @@
     "precio": 4950000
   },
   {
-    "jugador": "Alberto Moleiro",
-    "dia": "02/Sep",
-    "variacion": -1220000,
-    "precio": 7160000
+    "jugador": "Koundé",
+    "dia": "09/Sep",
+    "variacion": 360000,
+    "precio": 5310000
   },
   {
     "jugador": "Alberto Moleiro",
@@ -2478,10 +2472,10 @@
     "precio": 6420000
   },
   {
-    "jugador": "David Larrubia",
-    "dia": "02/Sep",
-    "variacion": 120000,
-    "precio": 6030000
+    "jugador": "Alberto Moleiro",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 6410000
   },
   {
     "jugador": "David Larrubia",
@@ -2520,10 +2514,10 @@
     "precio": 4850000
   },
   {
-    "jugador": "Kubo",
-    "dia": "02/Sep",
-    "variacion": -970000,
-    "precio": 6310000
+    "jugador": "David Larrubia",
+    "dia": "09/Sep",
+    "variacion": -350000,
+    "precio": 4500000
   },
   {
     "jugador": "Kubo",
@@ -2562,10 +2556,10 @@
     "precio": 6320000
   },
   {
-    "jugador": "Maffeo",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 2620000
+    "jugador": "Kubo",
+    "dia": "09/Sep",
+    "variacion": -330000,
+    "precio": 5990000
   },
   {
     "jugador": "Maffeo",
@@ -2604,10 +2598,10 @@
     "precio": 1900000
   },
   {
-    "jugador": "Christantus Uche",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 1350000
+    "jugador": "Maffeo",
+    "dia": "09/Sep",
+    "variacion": -50000,
+    "precio": 1850000
   },
   {
     "jugador": "Christantus Uche",
@@ -2646,10 +2640,10 @@
     "precio": 1010000
   },
   {
-    "jugador": "Guedes",
-    "dia": "02/Sep",
-    "variacion": -630000,
-    "precio": 6730000
+    "jugador": "Christantus Uche",
+    "dia": "09/Sep",
+    "variacion": -100000,
+    "precio": 910000
   },
   {
     "jugador": "Guedes",
@@ -2688,10 +2682,10 @@
     "precio": 5910000
   },
   {
-    "jugador": "Carlos Soler",
-    "dia": "02/Sep",
-    "variacion": 170000,
-    "precio": 5220000
+    "jugador": "Guedes",
+    "dia": "09/Sep",
+    "variacion": 210000,
+    "precio": 6120000
   },
   {
     "jugador": "Carlos Soler",
@@ -2730,10 +2724,10 @@
     "precio": 5560000
   },
   {
-    "jugador": "Satriano",
-    "dia": "02/Sep",
-    "variacion": -580000,
-    "precio": 4130000
+    "jugador": "Carlos Soler",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 5670000
   },
   {
     "jugador": "Satriano",
@@ -2772,10 +2766,10 @@
     "precio": 4910000
   },
   {
-    "jugador": "Huijsen",
-    "dia": "02/Sep",
-    "variacion": 310000,
-    "precio": 6670000
+    "jugador": "Satriano",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 4910000
   },
   {
     "jugador": "Huijsen",
@@ -2814,10 +2808,10 @@
     "precio": 6780000
   },
   {
-    "jugador": "Íñigo Vicente",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 6660000
+    "jugador": "Huijsen",
+    "dia": "09/Sep",
+    "variacion": 180000,
+    "precio": 6960000
   },
   {
     "jugador": "Íñigo Vicente",
@@ -2856,10 +2850,10 @@
     "precio": 6790000
   },
   {
-    "jugador": "Gerard Martín",
-    "dia": "02/Sep",
-    "variacion": -620000,
-    "precio": 6330000
+    "jugador": "Íñigo Vicente",
+    "dia": "09/Sep",
+    "variacion": -520000,
+    "precio": 6270000
   },
   {
     "jugador": "Gerard Martín",
@@ -2898,10 +2892,10 @@
     "precio": 5300000
   },
   {
-    "jugador": "Javier Guerra",
-    "dia": "02/Sep",
-    "variacion": -1100000,
-    "precio": 6250000
+    "jugador": "Gerard Martín",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 5330000
   },
   {
     "jugador": "Javier Guerra",
@@ -2940,10 +2934,10 @@
     "precio": 4420000
   },
   {
-    "jugador": "Kike Salas",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 2000000
+    "jugador": "Javier Guerra",
+    "dia": "09/Sep",
+    "variacion": -660000,
+    "precio": 3760000
   },
   {
     "jugador": "Kike Salas",
@@ -2982,10 +2976,10 @@
     "precio": 1610000
   },
   {
-    "jugador": "Guruzeta",
-    "dia": "02/Sep",
-    "variacion": -820000,
-    "precio": 4950000
+    "jugador": "Kike Salas",
+    "dia": "09/Sep",
+    "variacion": -40000,
+    "precio": 1570000
   },
   {
     "jugador": "Guruzeta",
@@ -3024,10 +3018,10 @@
     "precio": 3510000
   },
   {
-    "jugador": "Leo Román",
-    "dia": "02/Sep",
-    "variacion": -240000,
-    "precio": 3020000
+    "jugador": "Guruzeta",
+    "dia": "09/Sep",
+    "variacion": 310000,
+    "precio": 3820000
   },
   {
     "jugador": "Leo Román",
@@ -3066,10 +3060,10 @@
     "precio": 3060000
   },
   {
-    "jugador": "Álex Calatrava",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 5930000
+    "jugador": "Leo Román",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 3060000
   },
   {
     "jugador": "Álex Calatrava",
@@ -3108,10 +3102,10 @@
     "precio": 6140000
   },
   {
-    "jugador": "Lo Celso",
-    "dia": "02/Sep",
-    "variacion": -230000,
-    "precio": 2510000
+    "jugador": "Álex Calatrava",
+    "dia": "09/Sep",
+    "variacion": -110000,
+    "precio": 6030000
   },
   {
     "jugador": "Lo Celso",
@@ -3150,10 +3144,10 @@
     "precio": 2110000
   },
   {
-    "jugador": "Ferran Jutglà",
-    "dia": "02/Sep",
-    "variacion": -380000,
-    "precio": 4260000
+    "jugador": "Lo Celso",
+    "dia": "09/Sep",
+    "variacion": 310000,
+    "precio": 2420000
   },
   {
     "jugador": "Ferran Jutglà",
@@ -3192,10 +3186,10 @@
     "precio": 4100000
   },
   {
-    "jugador": "Jon Martín",
-    "dia": "02/Sep",
-    "variacion": 360000,
-    "precio": 4500000
+    "jugador": "Ferran Jutglà",
+    "dia": "09/Sep",
+    "variacion": 380000,
+    "precio": 4480000
   },
   {
     "jugador": "Jon Martín",
@@ -3234,10 +3228,10 @@
     "precio": 4670000
   },
   {
-    "jugador": "Iñaki Williams",
-    "dia": "02/Sep",
-    "variacion": 260000,
-    "precio": 5450000
+    "jugador": "Jon Martín",
+    "dia": "09/Sep",
+    "variacion": -330000,
+    "precio": 4340000
   },
   {
     "jugador": "Iñaki Williams",
@@ -3276,10 +3270,10 @@
     "precio": 4890000
   },
   {
-    "jugador": "Lejeune",
-    "dia": "02/Sep",
-    "variacion": -540000,
-    "precio": 5210000
+    "jugador": "Iñaki Williams",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 4990000
   },
   {
     "jugador": "Lejeune",
@@ -3318,10 +3312,10 @@
     "precio": 3910000
   },
   {
-    "jugador": "Lucas Boyé",
-    "dia": "02/Sep",
-    "variacion": 110000,
-    "precio": 4430000
+    "jugador": "Lejeune",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 3950000
   },
   {
     "jugador": "Lucas Boyé",
@@ -3360,10 +3354,10 @@
     "precio": 5340000
   },
   {
-    "jugador": "Thiago Pitarch",
-    "dia": "02/Sep",
-    "variacion": -70000,
-    "precio": 1230000
+    "jugador": "Lucas Boyé",
+    "dia": "09/Sep",
+    "variacion": 210000,
+    "precio": 5550000
   },
   {
     "jugador": "Thiago Pitarch",
@@ -3402,10 +3396,10 @@
     "precio": 960000
   },
   {
-    "jugador": "Sergio Camello",
-    "dia": "02/Sep",
-    "variacion": 90000,
-    "precio": 5120000
+    "jugador": "Thiago Pitarch",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 940000
   },
   {
     "jugador": "Sergio Camello",
@@ -3444,10 +3438,10 @@
     "precio": 8130000
   },
   {
-    "jugador": "Pablo Barrios",
-    "dia": "02/Sep",
-    "variacion": 740000,
-    "precio": 9580000
+    "jugador": "Sergio Camello",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 8240000
   },
   {
     "jugador": "Pablo Barrios",
@@ -3486,10 +3480,10 @@
     "precio": 9250000
   },
   {
-    "jugador": "Ayoze Pérez",
-    "dia": "02/Sep",
-    "variacion": -1070000,
-    "precio": 6270000
+    "jugador": "Pablo Barrios",
+    "dia": "09/Sep",
+    "variacion": -360000,
+    "precio": 8890000
   },
   {
     "jugador": "Ayoze Pérez",
@@ -3528,10 +3522,10 @@
     "precio": 5360000
   },
   {
-    "jugador": "Umar Sadiq",
-    "dia": "02/Sep",
-    "variacion": 130000,
-    "precio": 3550000
+    "jugador": "Ayoze Pérez",
+    "dia": "09/Sep",
+    "variacion": -90000,
+    "precio": 5270000
   },
   {
     "jugador": "Umar Sadiq",
@@ -3570,10 +3564,10 @@
     "precio": 3230000
   },
   {
-    "jugador": "Alemao",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 2530000
+    "jugador": "Umar Sadiq",
+    "dia": "09/Sep",
+    "variacion": -190000,
+    "precio": 3040000
   },
   {
     "jugador": "Alemao",
@@ -3612,10 +3606,10 @@
     "precio": 2170000
   },
   {
-    "jugador": "Iván Martín",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 2780000
+    "jugador": "Alemao",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 2190000
   },
   {
     "jugador": "Iván Martín",
@@ -3654,10 +3648,10 @@
     "precio": 3100000
   },
   {
-    "jugador": "Rubén Vargas",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 1810000
+    "jugador": "Iván Martín",
+    "dia": "09/Sep",
+    "variacion": -100000,
+    "precio": 3000000
   },
   {
     "jugador": "Rubén Vargas",
@@ -3696,10 +3690,10 @@
     "precio": 1380000
   },
   {
-    "jugador": "Oblak",
-    "dia": "02/Sep",
-    "variacion": 860000,
-    "precio": 7320000
+    "jugador": "Rubén Vargas",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 1370000
   },
   {
     "jugador": "Oblak",
@@ -3738,10 +3732,10 @@
     "precio": 5850000
   },
   {
-    "jugador": "Edu Expósito",
-    "dia": "02/Sep",
-    "variacion": 280000,
-    "precio": 6740000
+    "jugador": "Oblak",
+    "dia": "09/Sep",
+    "variacion": -100000,
+    "precio": 5750000
   },
   {
     "jugador": "Edu Expósito",
@@ -3780,10 +3774,10 @@
     "precio": 4970000
   },
   {
-    "jugador": "Rüdiger",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 2910000
+    "jugador": "Edu Expósito",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 5020000
   },
   {
     "jugador": "Rüdiger",
@@ -3822,10 +3816,10 @@
     "precio": 3190000
   },
   {
-    "jugador": "Marc Bernal",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 4980000
+    "jugador": "Rüdiger",
+    "dia": "09/Sep",
+    "variacion": -150000,
+    "precio": 3040000
   },
   {
     "jugador": "Marc Bernal",
@@ -3864,10 +3858,10 @@
     "precio": 4910000
   },
   {
-    "jugador": "Alexander-Arnold",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 3950000
+    "jugador": "Marc Bernal",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 4910000
   },
   {
     "jugador": "Alexander-Arnold",
@@ -3906,10 +3900,10 @@
     "precio": 3400000
   },
   {
-    "jugador": "Laporte",
-    "dia": "02/Sep",
-    "variacion": -290000,
-    "precio": 4720000
+    "jugador": "Alexander-Arnold",
+    "dia": "09/Sep",
+    "variacion": 320000,
+    "precio": 3720000
   },
   {
     "jugador": "Laporte",
@@ -3948,10 +3942,10 @@
     "precio": 4090000
   },
   {
-    "jugador": "Sergio Gómez",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 3750000
+    "jugador": "Laporte",
+    "dia": "09/Sep",
+    "variacion": 280000,
+    "precio": 4370000
   },
   {
     "jugador": "Sergio Gómez",
@@ -3990,10 +3984,10 @@
     "precio": 3070000
   },
   {
-    "jugador": "Brahim Díaz",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 2820000
+    "jugador": "Sergio Gómez",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 3180000
   },
   {
     "jugador": "Brahim Díaz",
@@ -4032,10 +4026,10 @@
     "precio": 2150000
   },
   {
-    "jugador": "Germán Valera",
-    "dia": "02/Sep",
-    "variacion": -160000,
-    "precio": 3710000
+    "jugador": "Brahim Díaz",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 2210000
   },
   {
     "jugador": "Germán Valera",
@@ -4074,10 +4068,10 @@
     "precio": 2300000
   },
   {
-    "jugador": "Nsongo",
-    "dia": "02/Sep",
-    "variacion": -320000,
-    "precio": 3870000
+    "jugador": "Germán Valera",
+    "dia": "09/Sep",
+    "variacion": 150000,
+    "precio": 2450000
   },
   {
     "jugador": "Nsongo",
@@ -4116,10 +4110,10 @@
     "precio": 3720000
   },
   {
-    "jugador": "Roberto Fernández",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 11180000
+    "jugador": "Nsongo",
+    "dia": "09/Sep",
+    "variacion": -290000,
+    "precio": 3430000
   },
   {
     "jugador": "Roberto Fernández",
@@ -4158,10 +4152,10 @@
     "precio": 10430000
   },
   {
-    "jugador": "Dmitrovic",
-    "dia": "02/Sep",
-    "variacion": -540000,
-    "precio": 3130000
+    "jugador": "Roberto Fernández",
+    "dia": "09/Sep",
+    "variacion": 490000,
+    "precio": 10920000
   },
   {
     "jugador": "Dmitrovic",
@@ -4200,10 +4194,10 @@
     "precio": 3130000
   },
   {
-    "jugador": "Iago Aspas",
-    "dia": "02/Sep",
-    "variacion": 440000,
-    "precio": 5050000
+    "jugador": "Dmitrovic",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 3120000
   },
   {
     "jugador": "Iago Aspas",
@@ -4242,10 +4236,10 @@
     "precio": 6310000
   },
   {
-    "jugador": "Oskarsson",
-    "dia": "02/Sep",
-    "variacion": -190000,
-    "precio": 5790000
+    "jugador": "Iago Aspas",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 6400000
   },
   {
     "jugador": "Oskarsson",
@@ -4284,10 +4278,10 @@
     "precio": 5980000
   },
   {
-    "jugador": "Álex Remiro",
-    "dia": "02/Sep",
-    "variacion": 160000,
-    "precio": 4690000
+    "jugador": "Oskarsson",
+    "dia": "09/Sep",
+    "variacion": -230000,
+    "precio": 5750000
   },
   {
     "jugador": "Álex Remiro",
@@ -4326,10 +4320,10 @@
     "precio": 4440000
   },
   {
-    "jugador": "Luismi Cruz",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 2640000
+    "jugador": "Álex Remiro",
+    "dia": "09/Sep",
+    "variacion": -90000,
+    "precio": 4350000
   },
   {
     "jugador": "Luismi Cruz",
@@ -4368,10 +4362,10 @@
     "precio": 2930000
   },
   {
-    "jugador": "Gonzalo Villar",
-    "dia": "02/Sep",
-    "variacion": 390000,
-    "precio": 3840000
+    "jugador": "Luismi Cruz",
+    "dia": "09/Sep",
+    "variacion": 160000,
+    "precio": 3090000
   },
   {
     "jugador": "Gonzalo Villar",
@@ -4410,10 +4404,10 @@
     "precio": 3230000
   },
   {
-    "jugador": "Endrick",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 1470000
+    "jugador": "Gonzalo Villar",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 3260000
   },
   {
     "jugador": "Endrick",
@@ -4452,10 +4446,10 @@
     "precio": 1090000
   },
   {
-    "jugador": "Catena",
-    "dia": "02/Sep",
-    "variacion": -730000,
-    "precio": 6220000
+    "jugador": "Endrick",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 1060000
   },
   {
     "jugador": "Catena",
@@ -4494,10 +4488,10 @@
     "precio": 5630000
   },
   {
-    "jugador": "Hancko",
-    "dia": "02/Sep",
-    "variacion": 110000,
-    "precio": 6260000
+    "jugador": "Catena",
+    "dia": "09/Sep",
+    "variacion": 80000,
+    "precio": 5710000
   },
   {
     "jugador": "Hancko",
@@ -4536,10 +4530,10 @@
     "precio": 5360000
   },
   {
-    "jugador": "Pepelu",
-    "dia": "02/Sep",
-    "variacion": -540000,
-    "precio": 4530000
+    "jugador": "Hancko",
+    "dia": "09/Sep",
+    "variacion": -90000,
+    "precio": 5270000
   },
   {
     "jugador": "Pepelu",
@@ -4578,10 +4572,10 @@
     "precio": 4920000
   },
   {
-    "jugador": "Buchanan",
-    "dia": "02/Sep",
-    "variacion": -350000,
-    "precio": 2910000
+    "jugador": "Pepelu",
+    "dia": "09/Sep",
+    "variacion": -380000,
+    "precio": 4540000
   },
   {
     "jugador": "Buchanan",
@@ -4620,10 +4614,10 @@
     "precio": 2800000
   },
   {
-    "jugador": "Mella",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 1150000
+    "jugador": "Buchanan",
+    "dia": "09/Sep",
+    "variacion": 170000,
+    "precio": 2970000
   },
   {
     "jugador": "Mella",
@@ -4662,10 +4656,10 @@
     "precio": 740000
   },
   {
-    "jugador": "Villalibre",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 2380000
+    "jugador": "Mella",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 760000
   },
   {
     "jugador": "Villalibre",
@@ -4704,10 +4698,10 @@
     "precio": 1890000
   },
   {
-    "jugador": "Ander Barrenetxea",
-    "dia": "02/Sep",
-    "variacion": 260000,
-    "precio": 3880000
+    "jugador": "Villalibre",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 1880000
   },
   {
     "jugador": "Ander Barrenetxea",
@@ -4746,10 +4740,10 @@
     "precio": 4400000
   },
   {
-    "jugador": "Aimar Oroz",
-    "dia": "02/Sep",
-    "variacion": -320000,
-    "precio": 3650000
+    "jugador": "Ander Barrenetxea",
+    "dia": "09/Sep",
+    "variacion": -130000,
+    "precio": 4270000
   },
   {
     "jugador": "Aimar Oroz",
@@ -4788,10 +4782,10 @@
     "precio": 2580000
   },
   {
-    "jugador": "Renato Veiga",
-    "dia": "02/Sep",
-    "variacion": 500000,
-    "precio": 4270000
+    "jugador": "Aimar Oroz",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 2600000
   },
   {
     "jugador": "Renato Veiga",
@@ -4830,10 +4824,10 @@
     "precio": 5860000
   },
   {
-    "jugador": "Sucic",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 3140000
+    "jugador": "Renato Veiga",
+    "dia": "09/Sep",
+    "variacion": -870000,
+    "precio": 4990000
   },
   {
     "jugador": "Sucic",
@@ -4872,10 +4866,10 @@
     "precio": 3110000
   },
   {
-    "jugador": "Unai Simón",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 4330000
+    "jugador": "Sucic",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 3150000
   },
   {
     "jugador": "Unai Simón",
@@ -4914,10 +4908,10 @@
     "precio": 4260000
   },
   {
-    "jugador": "Sergio Herrera",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 3760000
+    "jugador": "Unai Simón",
+    "dia": "09/Sep",
+    "variacion": -50000,
+    "precio": 4210000
   },
   {
     "jugador": "Sergio Herrera",
@@ -4956,10 +4950,10 @@
     "precio": 3400000
   },
   {
-    "jugador": "Fran García",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 4970000
+    "jugador": "Sergio Herrera",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 3440000
   },
   {
     "jugador": "Fran García",
@@ -4998,10 +4992,10 @@
     "precio": 4590000
   },
   {
-    "jugador": "Arnau Martínez",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 1940000
+    "jugador": "Fran García",
+    "dia": "09/Sep",
+    "variacion": -190000,
+    "precio": 4400000
   },
   {
     "jugador": "Arnau Martínez",
@@ -5040,10 +5034,10 @@
     "precio": 1600000
   },
   {
-    "jugador": "Vlachodimos",
-    "dia": "02/Sep",
-    "variacion": 110000,
-    "precio": 2560000
+    "jugador": "Arnau Martínez",
+    "dia": "09/Sep",
+    "variacion": 120000,
+    "precio": 1720000
   },
   {
     "jugador": "Vlachodimos",
@@ -5082,10 +5076,10 @@
     "precio": 2040000
   },
   {
-    "jugador": "Ratiu",
-    "dia": "02/Sep",
-    "variacion": 260000,
-    "precio": 2420000
+    "jugador": "Vlachodimos",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 2020000
   },
   {
     "jugador": "Ratiu",
@@ -5124,10 +5118,10 @@
     "precio": 2400000
   },
   {
-    "jugador": "Leandro Cabrera",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 2360000
+    "jugador": "Ratiu",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 2500000
   },
   {
     "jugador": "Leandro Cabrera",
@@ -5166,10 +5160,10 @@
     "precio": 2440000
   },
   {
-    "jugador": "Marcos Alonso",
-    "dia": "02/Sep",
-    "variacion": -200000,
-    "precio": 3900000
+    "jugador": "Leandro Cabrera",
+    "dia": "09/Sep",
+    "variacion": 290000,
+    "precio": 2730000
   },
   {
     "jugador": "Marcos Alonso",
@@ -5208,10 +5202,10 @@
     "precio": 2990000
   },
   {
-    "jugador": "Olasagasti",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 3080000
+    "jugador": "Marcos Alonso",
+    "dia": "09/Sep",
+    "variacion": 440000,
+    "precio": 3430000
   },
   {
     "jugador": "Olasagasti",
@@ -5250,10 +5244,10 @@
     "precio": 3080000
   },
   {
-    "jugador": "Pathé Ciss",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 2430000
+    "jugador": "Olasagasti",
+    "dia": "09/Sep",
+    "variacion": 140000,
+    "precio": 3220000
   },
   {
     "jugador": "Pathé Ciss",
@@ -5292,10 +5286,10 @@
     "precio": 2300000
   },
   {
-    "jugador": "Radu",
-    "dia": "02/Sep",
-    "variacion": -220000,
-    "precio": 3000000
+    "jugador": "Pathé Ciss",
+    "dia": "09/Sep",
+    "variacion": -150000,
+    "precio": 2150000
   },
   {
     "jugador": "Radu",
@@ -5334,10 +5328,10 @@
     "precio": 2710000
   },
   {
-    "jugador": "Santiago Mouriño",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 3400000
+    "jugador": "Radu",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 2810000
   },
   {
     "jugador": "Santiago Mouriño",
@@ -5376,10 +5370,10 @@
     "precio": 2720000
   },
   {
-    "jugador": "Etta Eyong",
-    "dia": "02/Sep",
-    "variacion": 240000,
-    "precio": 3750000
+    "jugador": "Santiago Mouriño",
+    "dia": "09/Sep",
+    "variacion": 400000,
+    "precio": 3120000
   },
   {
     "jugador": "Etta Eyong",
@@ -5418,10 +5412,10 @@
     "precio": 3590000
   },
   {
-    "jugador": "Raúl Moro",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 1870000
+    "jugador": "Etta Eyong",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 3560000
   },
   {
     "jugador": "Raúl Moro",
@@ -5460,10 +5454,10 @@
     "precio": 1500000
   },
   {
-    "jugador": "Koke",
-    "dia": "02/Sep",
-    "variacion": -340000,
-    "precio": 5290000
+    "jugador": "Raúl Moro",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 1600000
   },
   {
     "jugador": "Koke",
@@ -5502,10 +5496,10 @@
     "precio": 4340000
   },
   {
-    "jugador": "Alfonso Herrero",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 2430000
+    "jugador": "Koke",
+    "dia": "09/Sep",
+    "variacion": 280000,
+    "precio": 4620000
   },
   {
     "jugador": "Alfonso Herrero",
@@ -5544,10 +5538,10 @@
     "precio": 2440000
   },
   {
-    "jugador": "David Soria",
-    "dia": "02/Sep",
-    "variacion": -250000,
-    "precio": 4440000
+    "jugador": "Alfonso Herrero",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 2420000
   },
   {
     "jugador": "David Soria",
@@ -5586,10 +5580,10 @@
     "precio": 4830000
   },
   {
-    "jugador": "Hugo Duro",
-    "dia": "02/Sep",
-    "variacion": 60000,
-    "precio": 4100000
+    "jugador": "David Soria",
+    "dia": "09/Sep",
+    "variacion": 80000,
+    "precio": 4910000
   },
   {
     "jugador": "Hugo Duro",
@@ -5628,10 +5622,10 @@
     "precio": 2590000
   },
   {
-    "jugador": "Jorge Salinas",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 3260000
+    "jugador": "Hugo Duro",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 2600000
   },
   {
     "jugador": "Jorge Salinas",
@@ -5670,10 +5664,10 @@
     "precio": 2770000
   },
   {
-    "jugador": "Javi Galán",
-    "dia": "02/Sep",
-    "variacion": -150000,
-    "precio": 2270000
+    "jugador": "Jorge Salinas",
+    "dia": "09/Sep",
+    "variacion": 230000,
+    "precio": 3000000
   },
   {
     "jugador": "Javi Galán",
@@ -5712,10 +5706,10 @@
     "precio": 2360000
   },
   {
-    "jugador": "Militão",
-    "dia": "02/Sep",
-    "variacion": -170000,
-    "precio": 1290000
+    "jugador": "Javi Galán",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 2360000
   },
   {
     "jugador": "Militão",
@@ -5754,10 +5748,10 @@
     "precio": 1330000
   },
   {
-    "jugador": "Calero",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 640000
+    "jugador": "Militão",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 1370000
   },
   {
     "jugador": "Calero",
@@ -5796,10 +5790,10 @@
     "precio": 680000
   },
   {
-    "jugador": "Obed Vargas",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 570000
+    "jugador": "Calero",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 650000
   },
   {
     "jugador": "Obed Vargas",
@@ -5838,10 +5832,10 @@
     "precio": 440000
   },
   {
-    "jugador": "Izan Merino",
-    "dia": "02/Sep",
-    "variacion": -360000,
-    "precio": 2730000
+    "jugador": "Obed Vargas",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 420000
   },
   {
     "jugador": "Izan Merino",
@@ -5880,10 +5874,10 @@
     "precio": 3950000
   },
   {
-    "jugador": "Sancet",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 5880000
+    "jugador": "Izan Merino",
+    "dia": "09/Sep",
+    "variacion": 230000,
+    "precio": 4180000
   },
   {
     "jugador": "Sancet",
@@ -5922,10 +5916,10 @@
     "precio": 5740000
   },
   {
-    "jugador": "Camavinga",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 2590000
+    "jugador": "Sancet",
+    "dia": "09/Sep",
+    "variacion": 340000,
+    "precio": 6080000
   },
   {
     "jugador": "Camavinga",
@@ -5964,10 +5958,10 @@
     "precio": 2390000
   },
   {
-    "jugador": "Alejandro Balde",
-    "dia": "02/Sep",
-    "variacion": -320000,
-    "precio": 1900000
+    "jugador": "Camavinga",
+    "dia": "09/Sep",
+    "variacion": 130000,
+    "precio": 2520000
   },
   {
     "jugador": "Alejandro Balde",
@@ -6006,10 +6000,10 @@
     "precio": 1490000
   },
   {
-    "jugador": "Álvaro Valles",
-    "dia": "02/Sep",
-    "variacion": -150000,
-    "precio": 4070000
+    "jugador": "Alejandro Balde",
+    "dia": "09/Sep",
+    "variacion": -120000,
+    "precio": 1370000
   },
   {
     "jugador": "Álvaro Valles",
@@ -6048,10 +6042,10 @@
     "precio": 5150000
   },
   {
-    "jugador": "Carlos Puga",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 2160000
+    "jugador": "Álvaro Valles",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 5210000
   },
   {
     "jugador": "Carlos Puga",
@@ -6090,10 +6084,10 @@
     "precio": 1900000
   },
   {
-    "jugador": "Luis Rioja",
-    "dia": "02/Sep",
-    "variacion": -510000,
-    "precio": 2950000
+    "jugador": "Carlos Puga",
+    "dia": "09/Sep",
+    "variacion": 150000,
+    "precio": 2050000
   },
   {
     "jugador": "Luis Rioja",
@@ -6132,10 +6126,10 @@
     "precio": 2560000
   },
   {
-    "jugador": "Álvaro Carreras",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 1410000
+    "jugador": "Luis Rioja",
+    "dia": "09/Sep",
+    "variacion": -80000,
+    "precio": 2480000
   },
   {
     "jugador": "Álvaro Carreras",
@@ -6174,10 +6168,10 @@
     "precio": 1560000
   },
   {
-    "jugador": "Iván Romero",
-    "dia": "02/Sep",
-    "variacion": -530000,
-    "precio": 3640000
+    "jugador": "Álvaro Carreras",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 1600000
   },
   {
     "jugador": "Iván Romero",
@@ -6216,10 +6210,10 @@
     "precio": 3590000
   },
   {
-    "jugador": "Pere Milla",
-    "dia": "02/Sep",
-    "variacion": -270000,
-    "precio": 2020000
+    "jugador": "Iván Romero",
+    "dia": "09/Sep",
+    "variacion": -140000,
+    "precio": 3450000
   },
   {
     "jugador": "Pere Milla",
@@ -6258,10 +6252,10 @@
     "precio": 1360000
   },
   {
-    "jugador": "Dani Lorenzo",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 3090000
+    "jugador": "Pere Milla",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 1380000
   },
   {
     "jugador": "Dani Lorenzo",
@@ -6300,10 +6294,10 @@
     "precio": 2860000
   },
   {
-    "jugador": "Sato",
-    "dia": "02/Sep",
-    "variacion": -190000,
-    "precio": 3620000
+    "jugador": "Dani Lorenzo",
+    "dia": "09/Sep",
+    "variacion": 180000,
+    "precio": 3040000
   },
   {
     "jugador": "Sato",
@@ -6342,10 +6336,10 @@
     "precio": 2820000
   },
   {
-    "jugador": "Lucas Noubi",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 2860000
+    "jugador": "Sato",
+    "dia": "09/Sep",
+    "variacion": -90000,
+    "precio": 2730000
   },
   {
     "jugador": "Lucas Noubi",
@@ -6384,10 +6378,10 @@
     "precio": 2410000
   },
   {
-    "jugador": "Comesaña",
-    "dia": "02/Sep",
-    "variacion": -420000,
-    "precio": 3420000
+    "jugador": "Lucas Noubi",
+    "dia": "09/Sep",
+    "variacion": -140000,
+    "precio": 2270000
   },
   {
     "jugador": "Comesaña",
@@ -6426,10 +6420,10 @@
     "precio": 2220000
   },
   {
-    "jugador": "Eriksson",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 490000
+    "jugador": "Comesaña",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 2330000
   },
   {
     "jugador": "Eriksson",
@@ -6468,10 +6462,10 @@
     "precio": 300000
   },
   {
-    "jugador": "Hartman",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 1050000
+    "jugador": "Eriksson",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 300000
   },
   {
     "jugador": "Hartman",
@@ -6510,10 +6504,10 @@
     "precio": 860000
   },
   {
-    "jugador": "Javi Rueda",
-    "dia": "02/Sep",
-    "variacion": 110000,
-    "precio": 1930000
+    "jugador": "Hartman",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 880000
   },
   {
     "jugador": "Javi Rueda",
@@ -6552,10 +6546,10 @@
     "precio": 1900000
   },
   {
-    "jugador": "Ángel Pérez",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 2790000
+    "jugador": "Javi Rueda",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 1970000
   },
   {
     "jugador": "Ángel Pérez",
@@ -6594,10 +6588,10 @@
     "precio": 2990000
   },
   {
-    "jugador": "Diego Murillo",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 720000
+    "jugador": "Ángel Pérez",
+    "dia": "09/Sep",
+    "variacion": 440000,
+    "precio": 3430000
   },
   {
     "jugador": "Diego Murillo",
@@ -6636,10 +6630,10 @@
     "precio": 500000
   },
   {
-    "jugador": "Natan",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 3740000
+    "jugador": "Diego Murillo",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 480000
   },
   {
     "jugador": "Natan",
@@ -6678,10 +6672,10 @@
     "precio": 4160000
   },
   {
-    "jugador": "Boyomo",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 1730000
+    "jugador": "Natan",
+    "dia": "09/Sep",
+    "variacion": -40000,
+    "precio": 4120000
   },
   {
     "jugador": "Boyomo",
@@ -6720,10 +6714,10 @@
     "precio": 1660000
   },
   {
-    "jugador": "Víctor Chust",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 1820000
+    "jugador": "Boyomo",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 1700000
   },
   {
     "jugador": "Víctor Chust",
@@ -6762,10 +6756,10 @@
     "precio": 1420000
   },
   {
-    "jugador": "Ruiz de Galarreta",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 2400000
+    "jugador": "Víctor Chust",
+    "dia": "09/Sep",
+    "variacion": 160000,
+    "precio": 1580000
   },
   {
     "jugador": "Ruiz de Galarreta",
@@ -6804,10 +6798,10 @@
     "precio": 2710000
   },
   {
-    "jugador": "Adrián de la Fuente",
-    "dia": "02/Sep",
-    "variacion": 90000,
-    "precio": 3830000
+    "jugador": "Ruiz de Galarreta",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 2750000
   },
   {
     "jugador": "Adrián de la Fuente",
@@ -6846,10 +6840,10 @@
     "precio": 3920000
   },
   {
-    "jugador": "Juan Iglesias",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 2490000
+    "jugador": "Adrián de la Fuente",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 3930000
   },
   {
     "jugador": "Juan Iglesias",
@@ -6888,10 +6882,10 @@
     "precio": 1820000
   },
   {
-    "jugador": "Mikel Jauregizar",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 2900000
+    "jugador": "Juan Iglesias",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 1850000
   },
   {
     "jugador": "Mikel Jauregizar",
@@ -6930,10 +6924,10 @@
     "precio": 2480000
   },
   {
-    "jugador": "Zakaria",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 910000
+    "jugador": "Mikel Jauregizar",
+    "dia": "09/Sep",
+    "variacion": -90000,
+    "precio": 2390000
   },
   {
     "jugador": "Zakaria",
@@ -6972,10 +6966,10 @@
     "precio": 760000
   },
   {
-    "jugador": "Batalla",
-    "dia": "02/Sep",
-    "variacion": -250000,
-    "precio": 1450000
+    "jugador": "Zakaria",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 770000
   },
   {
     "jugador": "Batalla",
@@ -7014,10 +7008,10 @@
     "precio": 1010000
   },
   {
-    "jugador": "Álvaro García",
-    "dia": "02/Sep",
-    "variacion": -820000,
-    "precio": 4700000
+    "jugador": "Batalla",
+    "dia": "09/Sep",
+    "variacion": -160000,
+    "precio": 850000
   },
   {
     "jugador": "Álvaro García",
@@ -7056,10 +7050,10 @@
     "precio": 3920000
   },
   {
-    "jugador": "Ilaix Moriba",
-    "dia": "02/Sep",
-    "variacion": -100000,
-    "precio": 2120000
+    "jugador": "Álvaro García",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 3950000
   },
   {
     "jugador": "Ilaix Moriba",
@@ -7098,10 +7092,10 @@
     "precio": 2130000
   },
   {
-    "jugador": "Gijselhart",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 680000
+    "jugador": "Ilaix Moriba",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 2220000
   },
   {
     "jugador": "Gijselhart",
@@ -7140,10 +7134,10 @@
     "precio": 520000
   },
   {
-    "jugador": "Joaquín Muñoz",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 2600000
+    "jugador": "Gijselhart",
+    "dia": "09/Sep",
+    "variacion": -40000,
+    "precio": 480000
   },
   {
     "jugador": "Joaquín Muñoz",
@@ -7182,10 +7176,10 @@
     "precio": 2660000
   },
   {
-    "jugador": "Moscardo",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 440000
+    "jugador": "Joaquín Muñoz",
+    "dia": "09/Sep",
+    "variacion": -130000,
+    "precio": 2530000
   },
   {
     "jugador": "Moscardo",
@@ -7224,10 +7218,10 @@
     "precio": 620000
   },
   {
-    "jugador": "Ugrinic",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 1710000
+    "jugador": "Moscardo",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 670000
   },
   {
     "jugador": "Ugrinic",
@@ -7266,10 +7260,10 @@
     "precio": 1430000
   },
   {
-    "jugador": "Facundo Bernal",
-    "dia": "02/Sep",
+    "jugador": "Ugrinic",
+    "dia": "09/Sep",
     "variacion": 50000,
-    "precio": 3880000
+    "precio": 1480000
   },
   {
     "jugador": "Facundo Bernal",
@@ -7308,10 +7302,10 @@
     "precio": 3630000
   },
   {
-    "jugador": "Isi Palazón",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 3560000
+    "jugador": "Facundo Bernal",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 3670000
   },
   {
     "jugador": "Isi Palazón",
@@ -7350,10 +7344,10 @@
     "precio": 3500000
   },
   {
-    "jugador": "Rodrygo",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 930000
+    "jugador": "Isi Palazón",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 3560000
   },
   {
     "jugador": "Rodrygo",
@@ -7392,10 +7386,10 @@
     "precio": 890000
   },
   {
-    "jugador": "Sergi Cardona",
-    "dia": "02/Sep",
+    "jugador": "Rodrygo",
+    "dia": "09/Sep",
     "variacion": -40000,
-    "precio": 1050000
+    "precio": 850000
   },
   {
     "jugador": "Sergi Cardona",
@@ -7434,10 +7428,10 @@
     "precio": 770000
   },
   {
-    "jugador": "Rosier",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 660000
+    "jugador": "Sergi Cardona",
+    "dia": "09/Sep",
+    "variacion": -80000,
+    "precio": 690000
   },
   {
     "jugador": "Rosier",
@@ -7476,10 +7470,10 @@
     "precio": 600000
   },
   {
-    "jugador": "Javi Puado",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 1340000
+    "jugador": "Rosier",
+    "dia": "09/Sep",
+    "variacion": -50000,
+    "precio": 550000
   },
   {
     "jugador": "Javi Puado",
@@ -7518,10 +7512,10 @@
     "precio": 1270000
   },
   {
-    "jugador": "Amatucci",
-    "dia": "02/Sep",
-    "variacion": 270000,
-    "precio": 4740000
+    "jugador": "Javi Puado",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 1240000
   },
   {
     "jugador": "Amatucci",
@@ -7560,10 +7554,10 @@
     "precio": 4410000
   },
   {
-    "jugador": "Le Normand",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 2580000
+    "jugador": "Amatucci",
+    "dia": "09/Sep",
+    "variacion": 330000,
+    "precio": 4740000
   },
   {
     "jugador": "Le Normand",
@@ -7602,10 +7596,10 @@
     "precio": 2340000
   },
   {
-    "jugador": "César Tárrega",
-    "dia": "02/Sep",
-    "variacion": -330000,
-    "precio": 3060000
+    "jugador": "Le Normand",
+    "dia": "09/Sep",
+    "variacion": -120000,
+    "precio": 2220000
   },
   {
     "jugador": "César Tárrega",
@@ -7644,10 +7638,10 @@
     "precio": 2020000
   },
   {
-    "jugador": "Jon Moncayola",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 2680000
+    "jugador": "César Tárrega",
+    "dia": "09/Sep",
+    "variacion": -100000,
+    "precio": 1920000
   },
   {
     "jugador": "Jon Moncayola",
@@ -7686,10 +7680,10 @@
     "precio": 2420000
   },
   {
-    "jugador": "De Haas",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 1240000
+    "jugador": "Jon Moncayola",
+    "dia": "09/Sep",
+    "variacion": -110000,
+    "precio": 2310000
   },
   {
     "jugador": "De Haas",
@@ -7728,10 +7722,10 @@
     "precio": 770000
   },
   {
-    "jugador": "Asp Jensen",
-    "dia": "02/Sep",
-    "variacion": -60000,
-    "precio": 1750000
+    "jugador": "De Haas",
+    "dia": "09/Sep",
+    "variacion": -70000,
+    "precio": 700000
   },
   {
     "jugador": "Asp Jensen",
@@ -7770,10 +7764,10 @@
     "precio": 1390000
   },
   {
-    "jugador": "Raúl García de Haro",
-    "dia": "02/Sep",
-    "variacion": 90000,
-    "precio": 2090000
+    "jugador": "Asp Jensen",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 1380000
   },
   {
     "jugador": "Raúl García de Haro",
@@ -7812,10 +7806,10 @@
     "precio": 2130000
   },
   {
-    "jugador": "Rafa Rodríguez",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 1090000
+    "jugador": "Raúl García de Haro",
+    "dia": "09/Sep",
+    "variacion": 150000,
+    "precio": 2280000
   },
   {
     "jugador": "Rafa Rodríguez",
@@ -7854,10 +7848,10 @@
     "precio": 860000
   },
   {
-    "jugador": "Sergio Carreira",
-    "dia": "02/Sep",
-    "variacion": 490000,
-    "precio": 4660000
+    "jugador": "Rafa Rodríguez",
+    "dia": "09/Sep",
+    "variacion": 230000,
+    "precio": 1090000
   },
   {
     "jugador": "Sergio Carreira",
@@ -7896,10 +7890,10 @@
     "precio": 4240000
   },
   {
-    "jugador": "Swedberg",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 2810000
+    "jugador": "Sergio Carreira",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 4490000
   },
   {
     "jugador": "Swedberg",
@@ -7938,10 +7932,10 @@
     "precio": 2220000
   },
   {
-    "jugador": "Borja Mayoral",
-    "dia": "02/Sep",
-    "variacion": -150000,
-    "precio": 1700000
+    "jugador": "Swedberg",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 2440000
   },
   {
     "jugador": "Borja Mayoral",
@@ -7980,10 +7974,10 @@
     "precio": 1370000
   },
   {
-    "jugador": "Diego Llorente",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 2140000
+    "jugador": "Borja Mayoral",
+    "dia": "09/Sep",
+    "variacion": -230000,
+    "precio": 1140000
   },
   {
     "jugador": "Diego Llorente",
@@ -8022,10 +8016,10 @@
     "precio": 1350000
   },
   {
-    "jugador": "Juan Cruz",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 2090000
+    "jugador": "Diego Llorente",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 1350000
   },
   {
     "jugador": "Juan Cruz",
@@ -8064,10 +8058,10 @@
     "precio": 1460000
   },
   {
-    "jugador": "Rubén García",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 3910000
+    "jugador": "Juan Cruz",
+    "dia": "09/Sep",
+    "variacion": 210000,
+    "precio": 1670000
   },
   {
     "jugador": "Rubén García",
@@ -8106,10 +8100,10 @@
     "precio": 3420000
   },
   {
-    "jugador": "Jon Aramburu",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 3040000
+    "jugador": "Rubén García",
+    "dia": "09/Sep",
+    "variacion": -230000,
+    "precio": 3190000
   },
   {
     "jugador": "Jon Aramburu",
@@ -8148,10 +8142,10 @@
     "precio": 2800000
   },
   {
-    "jugador": "Sivera",
-    "dia": "02/Sep",
-    "variacion": -210000,
-    "precio": 2720000
+    "jugador": "Jon Aramburu",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 2890000
   },
   {
     "jugador": "Sivera",
@@ -8190,10 +8184,10 @@
     "precio": 2810000
   },
   {
-    "jugador": "Aïssa Mandi",
-    "dia": "02/Sep",
-    "variacion": 290000,
-    "precio": 4320000
+    "jugador": "Sivera",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 2910000
   },
   {
     "jugador": "Aïssa Mandi",
@@ -8232,10 +8226,10 @@
     "precio": 4730000
   },
   {
-    "jugador": "Dimitrievski",
-    "dia": "02/Sep",
-    "variacion": -160000,
-    "precio": 1550000
+    "jugador": "Aïssa Mandi",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 4700000
   },
   {
     "jugador": "Dimitrievski",
@@ -8274,10 +8268,10 @@
     "precio": 1460000
   },
   {
-    "jugador": "Facu González",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 1690000
+    "jugador": "Dimitrievski",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 1430000
   },
   {
     "jugador": "Facu González",
@@ -8316,10 +8310,10 @@
     "precio": 1150000
   },
   {
-    "jugador": "Gorrotxategi",
-    "dia": "02/Sep",
-    "variacion": 160000,
-    "precio": 640000
+    "jugador": "Facu González",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 1160000
   },
   {
     "jugador": "Gorrotxategi",
@@ -8358,10 +8352,10 @@
     "precio": 740000
   },
   {
-    "jugador": "Omar El Hilali",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 2190000
+    "jugador": "Gorrotxategi",
+    "dia": "09/Sep",
+    "variacion": -110000,
+    "precio": 630000
   },
   {
     "jugador": "Omar El Hilali",
@@ -8400,10 +8394,10 @@
     "precio": 2900000
   },
   {
-    "jugador": "Kike García",
-    "dia": "02/Sep",
-    "variacion": -150000,
-    "precio": 610000
+    "jugador": "Omar El Hilali",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 2930000
   },
   {
     "jugador": "Kike García",
@@ -8442,10 +8436,10 @@
     "precio": 500000
   },
   {
-    "jugador": "Yuri Berchiche",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 3040000
+    "jugador": "Kike García",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 470000
   },
   {
     "jugador": "Yuri Berchiche",
@@ -8484,10 +8478,10 @@
     "precio": 3010000
   },
   {
-    "jugador": "Gayà",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 1530000
+    "jugador": "Yuri Berchiche",
+    "dia": "09/Sep",
+    "variacion": 360000,
+    "precio": 3370000
   },
   {
     "jugador": "Gayà",
@@ -8526,10 +8520,10 @@
     "precio": 700000
   },
   {
-    "jugador": "Nahuel Tenaglia",
-    "dia": "02/Sep",
-    "variacion": -310000,
-    "precio": 4280000
+    "jugador": "Gayà",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 710000
   },
   {
     "jugador": "Nahuel Tenaglia",
@@ -8568,10 +8562,10 @@
     "precio": 4860000
   },
   {
-    "jugador": "Marc Casadó",
-    "dia": "02/Sep",
-    "variacion": 250000,
-    "precio": 640000
+    "jugador": "Nahuel Tenaglia",
+    "dia": "09/Sep",
+    "variacion": 230000,
+    "precio": 5090000
   },
   {
     "jugador": "Marc Casadó",
@@ -8610,10 +8604,10 @@
     "precio": 1670000
   },
   {
-    "jugador": "Rafita Garrido",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 2000000
+    "jugador": "Marc Casadó",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 1890000
   },
   {
     "jugador": "Rafita Garrido",
@@ -8652,10 +8646,10 @@
     "precio": 1670000
   },
   {
-    "jugador": "Andrés García",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 2410000
+    "jugador": "Rafita Garrido",
+    "dia": "09/Sep",
+    "variacion": 140000,
+    "precio": 1810000
   },
   {
     "jugador": "Andrés García",
@@ -8694,10 +8688,10 @@
     "precio": 2340000
   },
   {
-    "jugador": "Andrés Castrín",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 1540000
+    "jugador": "Andrés García",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 2310000
   },
   {
     "jugador": "Andrés Castrín",
@@ -8736,10 +8730,10 @@
     "precio": 1300000
   },
   {
-    "jugador": "Johnny Cardoso",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 690000
+    "jugador": "Andrés Castrín",
+    "dia": "09/Sep",
+    "variacion": 80000,
+    "precio": 1380000
   },
   {
     "jugador": "Johnny Cardoso",
@@ -8778,10 +8772,10 @@
     "precio": 1090000
   },
   {
-    "jugador": "Daniel Vivian",
-    "dia": "02/Sep",
-    "variacion": 40000,
-    "precio": 1860000
+    "jugador": "Johnny Cardoso",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 1200000
   },
   {
     "jugador": "Daniel Vivian",
@@ -8820,10 +8814,10 @@
     "precio": 1310000
   },
   {
-    "jugador": "Héctor Bellerín",
-    "dia": "02/Sep",
-    "variacion": -200000,
-    "precio": 2500000
+    "jugador": "Daniel Vivian",
+    "dia": "09/Sep",
+    "variacion": -250000,
+    "precio": 1060000
   },
   {
     "jugador": "Héctor Bellerín",
@@ -8862,10 +8856,10 @@
     "precio": 1750000
   },
   {
-    "jugador": "Miguel Román",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 4010000
+    "jugador": "Héctor Bellerín",
+    "dia": "09/Sep",
+    "variacion": 80000,
+    "precio": 1830000
   },
   {
     "jugador": "Miguel Román",
@@ -8904,10 +8898,10 @@
     "precio": 4690000
   },
   {
-    "jugador": "Raúl Asencio",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 250000
+    "jugador": "Miguel Román",
+    "dia": "09/Sep",
+    "variacion": 660000,
+    "precio": 5350000
   },
   {
     "jugador": "Raúl Asencio",
@@ -8946,10 +8940,10 @@
     "precio": 200000
   },
   {
-    "jugador": "Álvaro Ferllo",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Raúl Asencio",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 210000
   },
   {
     "jugador": "Álvaro Ferllo",
@@ -8988,10 +8982,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Peio Canales",
-    "dia": "02/Sep",
-    "variacion": 400000,
-    "precio": 3570000
+    "jugador": "Álvaro Ferllo",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Peio Canales",
@@ -9030,10 +9024,10 @@
     "precio": 2690000
   },
   {
-    "jugador": "Javi Rodríguez",
-    "dia": "02/Sep",
-    "variacion": -70000,
-    "precio": 2350000
+    "jugador": "Peio Canales",
+    "dia": "09/Sep",
+    "variacion": 140000,
+    "precio": 2830000
   },
   {
     "jugador": "Javi Rodríguez",
@@ -9072,10 +9066,10 @@
     "precio": 1940000
   },
   {
-    "jugador": "Tyrhys Dolan",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 3670000
+    "jugador": "Javi Rodríguez",
+    "dia": "09/Sep",
+    "variacion": -110000,
+    "precio": 1830000
   },
   {
     "jugador": "Tyrhys Dolan",
@@ -9114,10 +9108,10 @@
     "precio": 3210000
   },
   {
-    "jugador": "Bardghji",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 180000
+    "jugador": "Tyrhys Dolan",
+    "dia": "09/Sep",
+    "variacion": -70000,
+    "precio": 3140000
   },
   {
     "jugador": "Bardghji",
@@ -9156,10 +9150,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Urko González",
-    "dia": "02/Sep",
-    "variacion": -160000,
-    "precio": 1350000
+    "jugador": "Bardghji",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 180000
   },
   {
     "jugador": "Urko González",
@@ -9198,10 +9192,10 @@
     "precio": 870000
   },
   {
-    "jugador": "Diego López Noguerol",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 240000
+    "jugador": "Urko González",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 880000
   },
   {
     "jugador": "Diego López Noguerol",
@@ -9240,10 +9234,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Mario Martín",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 580000
+    "jugador": "Diego López Noguerol",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Mario Martín",
@@ -9282,10 +9276,10 @@
     "precio": 700000
   },
   {
-    "jugador": "Beñat Turrientes",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 2410000
+    "jugador": "Mario Martín",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 700000
   },
   {
     "jugador": "Beñat Turrientes",
@@ -9324,10 +9318,10 @@
     "precio": 2520000
   },
   {
-    "jugador": "Guridi",
-    "dia": "02/Sep",
-    "variacion": -310000,
-    "precio": 3100000
+    "jugador": "Beñat Turrientes",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 2570000
   },
   {
     "jugador": "Guridi",
@@ -9366,10 +9360,10 @@
     "precio": 2360000
   },
   {
-    "jugador": "Marc Aguado",
-    "dia": "02/Sep",
-    "variacion": 60000,
-    "precio": 3310000
+    "jugador": "Guridi",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 2370000
   },
   {
     "jugador": "Marc Aguado",
@@ -9408,10 +9402,10 @@
     "precio": 2830000
   },
   {
-    "jugador": "Bigas",
-    "dia": "02/Sep",
-    "variacion": -140000,
-    "precio": 1600000
+    "jugador": "Marc Aguado",
+    "dia": "09/Sep",
+    "variacion": 80000,
+    "precio": 2910000
   },
   {
     "jugador": "Bigas",
@@ -9450,10 +9444,10 @@
     "precio": 1990000
   },
   {
-    "jugador": "Agoumé",
-    "dia": "02/Sep",
-    "variacion": 40000,
-    "precio": 2960000
+    "jugador": "Bigas",
+    "dia": "09/Sep",
+    "variacion": 190000,
+    "precio": 2180000
   },
   {
     "jugador": "Agoumé",
@@ -9492,10 +9486,10 @@
     "precio": 2810000
   },
   {
-    "jugador": "Aitor Ruibal",
-    "dia": "02/Sep",
-    "variacion": -70000,
-    "precio": 490000
+    "jugador": "Agoumé",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 2910000
   },
   {
     "jugador": "Aitor Ruibal",
@@ -9534,10 +9528,10 @@
     "precio": 310000
   },
   {
-    "jugador": "Maguette Gueye",
-    "dia": "02/Sep",
-    "variacion": -100000,
-    "precio": 2150000
+    "jugador": "Aitor Ruibal",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 290000
   },
   {
     "jugador": "Maguette Gueye",
@@ -9576,10 +9570,10 @@
     "precio": 1870000
   },
   {
-    "jugador": "Villares",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 790000
+    "jugador": "Maguette Gueye",
+    "dia": "09/Sep",
+    "variacion": -200000,
+    "precio": 1670000
   },
   {
     "jugador": "Villares",
@@ -9618,10 +9612,10 @@
     "precio": 1070000
   },
   {
-    "jugador": "Adrián Niño",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 1490000
+    "jugador": "Villares",
+    "dia": "09/Sep",
+    "variacion": 170000,
+    "precio": 1240000
   },
   {
     "jugador": "Adrián Niño",
@@ -9660,10 +9654,10 @@
     "precio": 1140000
   },
   {
-    "jugador": "Guliashvili",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 850000
+    "jugador": "Adrián Niño",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 1200000
   },
   {
     "jugador": "Guliashvili",
@@ -9702,10 +9696,10 @@
     "precio": 610000
   },
   {
-    "jugador": "Aliou Dieng",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 1130000
+    "jugador": "Guliashvili",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 610000
   },
   {
     "jugador": "Aliou Dieng",
@@ -9744,10 +9738,10 @@
     "precio": 1050000
   },
   {
-    "jugador": "Matías Dituro",
-    "dia": "02/Sep",
-    "variacion": -210000,
-    "precio": 750000
+    "jugador": "Aliou Dieng",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 1140000
   },
   {
     "jugador": "Matías Dituro",
@@ -9786,10 +9780,10 @@
     "precio": 860000
   },
   {
-    "jugador": "Abel Bretones",
-    "dia": "02/Sep",
-    "variacion": 140000,
-    "precio": 2010000
+    "jugador": "Matías Dituro",
+    "dia": "09/Sep",
+    "variacion": -120000,
+    "precio": 740000
   },
   {
     "jugador": "Abel Bretones",
@@ -9828,10 +9822,10 @@
     "precio": 2130000
   },
   {
-    "jugador": "Pau Navarro",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 910000
+    "jugador": "Abel Bretones",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 2070000
   },
   {
     "jugador": "Pau Navarro",
@@ -9870,10 +9864,10 @@
     "precio": 790000
   },
   {
-    "jugador": "Mantilla",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 1610000
+    "jugador": "Pau Navarro",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 780000
   },
   {
     "jugador": "Mantilla",
@@ -9912,10 +9906,10 @@
     "precio": 1690000
   },
   {
-    "jugador": "Quagliata",
-    "dia": "02/Sep",
+    "jugador": "Mantilla",
+    "dia": "09/Sep",
     "variacion": -10000,
-    "precio": 1480000
+    "precio": 1680000
   },
   {
     "jugador": "Quagliata",
@@ -9954,10 +9948,10 @@
     "precio": 1310000
   },
   {
-    "jugador": "Marc Bartra",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 3790000
+    "jugador": "Quagliata",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 1370000
   },
   {
     "jugador": "Marc Bartra",
@@ -9996,10 +9990,10 @@
     "precio": 4000000
   },
   {
-    "jugador": "Marc Roca",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 3400000
+    "jugador": "Marc Bartra",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 4020000
   },
   {
     "jugador": "Marc Roca",
@@ -10038,10 +10032,10 @@
     "precio": 3630000
   },
   {
-    "jugador": "Tete Morente",
-    "dia": "02/Sep",
+    "jugador": "Marc Roca",
+    "dia": "09/Sep",
     "variacion": 20000,
-    "precio": 360000
+    "precio": 3650000
   },
   {
     "jugador": "Tete Morente",
@@ -10080,10 +10074,10 @@
     "precio": 700000
   },
   {
-    "jugador": "Loureiro",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1000000
+    "jugador": "Tete Morente",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 720000
   },
   {
     "jugador": "Loureiro",
@@ -10122,10 +10116,10 @@
     "precio": 730000
   },
   {
-    "jugador": "Gabriel Suazo",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 2560000
+    "jugador": "Loureiro",
+    "dia": "09/Sep",
+    "variacion": -70000,
+    "precio": 660000
   },
   {
     "jugador": "Gabriel Suazo",
@@ -10164,10 +10158,10 @@
     "precio": 2400000
   },
   {
-    "jugador": "Adriá Altimira",
-    "dia": "02/Sep",
-    "variacion": -200000,
-    "precio": 1810000
+    "jugador": "Gabriel Suazo",
+    "dia": "09/Sep",
+    "variacion": 160000,
+    "precio": 2560000
   },
   {
     "jugador": "Adriá Altimira",
@@ -10206,10 +10200,10 @@
     "precio": 1650000
   },
   {
-    "jugador": "Ville Koski",
-    "dia": "02/Sep",
-    "variacion": 140000,
-    "precio": 2200000
+    "jugador": "Adriá Altimira",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 1700000
   },
   {
     "jugador": "Ville Koski",
@@ -10248,10 +10242,10 @@
     "precio": 2270000
   },
   {
-    "jugador": "Alex Freeman",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 720000
+    "jugador": "Ville Koski",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 2210000
   },
   {
     "jugador": "Alex Freeman",
@@ -10290,10 +10284,10 @@
     "precio": 690000
   },
   {
-    "jugador": "Héctor Fort",
-    "dia": "02/Sep",
-    "variacion": 150000,
-    "precio": 1460000
+    "jugador": "Alex Freeman",
+    "dia": "09/Sep",
+    "variacion": 160000,
+    "precio": 850000
   },
   {
     "jugador": "Héctor Fort",
@@ -10332,10 +10326,10 @@
     "precio": 1730000
   },
   {
-    "jugador": "Ramón Terrats",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 3340000
+    "jugador": "Héctor Fort",
+    "dia": "09/Sep",
+    "variacion": 150000,
+    "precio": 1880000
   },
   {
     "jugador": "Ramón Terrats",
@@ -10374,10 +10368,10 @@
     "precio": 3280000
   },
   {
-    "jugador": "Oluwaseyi",
-    "dia": "02/Sep",
-    "variacion": -60000,
-    "precio": 610000
+    "jugador": "Ramón Terrats",
+    "dia": "09/Sep",
+    "variacion": 130000,
+    "precio": 3410000
   },
   {
     "jugador": "Oluwaseyi",
@@ -10416,10 +10410,10 @@
     "precio": 640000
   },
   {
-    "jugador": "Ramón Enríquez",
-    "dia": "02/Sep",
-    "variacion": -100000,
-    "precio": 770000
+    "jugador": "Oluwaseyi",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 730000
   },
   {
     "jugador": "Ramón Enríquez",
@@ -10458,10 +10452,10 @@
     "precio": 720000
   },
   {
-    "jugador": "Sangante",
-    "dia": "02/Sep",
-    "variacion": 40000,
-    "precio": 2220000
+    "jugador": "Ramón Enríquez",
+    "dia": "09/Sep",
+    "variacion": -70000,
+    "precio": 650000
   },
   {
     "jugador": "Sangante",
@@ -10500,10 +10494,10 @@
     "precio": 1890000
   },
   {
-    "jugador": "Davinchi",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 800000
+    "jugador": "Sangante",
+    "dia": "09/Sep",
+    "variacion": -90000,
+    "precio": 1800000
   },
   {
     "jugador": "Davinchi",
@@ -10542,10 +10536,10 @@
     "precio": 590000
   },
   {
-    "jugador": "Rodrigo Mendoza",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 800000
+    "jugador": "Davinchi",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 600000
   },
   {
     "jugador": "Rodrigo Mendoza",
@@ -10584,10 +10578,10 @@
     "precio": 590000
   },
   {
-    "jugador": "Toljan",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 790000
+    "jugador": "Rodrigo Mendoza",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 570000
   },
   {
     "jugador": "Toljan",
@@ -10626,10 +10620,10 @@
     "precio": 840000
   },
   {
-    "jugador": "Álex Berenguer",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 2650000
+    "jugador": "Toljan",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 870000
   },
   {
     "jugador": "Álex Berenguer",
@@ -10668,10 +10662,10 @@
     "precio": 2850000
   },
   {
-    "jugador": "Álvaro Fidalgo",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 520000
+    "jugador": "Álex Berenguer",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 2920000
   },
   {
     "jugador": "Álvaro Fidalgo",
@@ -10710,10 +10704,10 @@
     "precio": 300000
   },
   {
-    "jugador": "Ilias Akhomach",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 790000
+    "jugador": "Álvaro Fidalgo",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 330000
   },
   {
     "jugador": "Ilias Akhomach",
@@ -10752,10 +10746,10 @@
     "precio": 780000
   },
   {
-    "jugador": "Pol Lozano",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 610000
+    "jugador": "Ilias Akhomach",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 780000
   },
   {
     "jugador": "Pol Lozano",
@@ -10794,10 +10788,10 @@
     "precio": 310000
   },
   {
-    "jugador": "Starfelt",
-    "dia": "02/Sep",
-    "variacion": 170000,
-    "precio": 2870000
+    "jugador": "Pol Lozano",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 330000
   },
   {
     "jugador": "Starfelt",
@@ -10836,10 +10830,10 @@
     "precio": 2650000
   },
   {
-    "jugador": "Antonio Blanco",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 3240000
+    "jugador": "Starfelt",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 2720000
   },
   {
     "jugador": "Antonio Blanco",
@@ -10878,10 +10872,10 @@
     "precio": 3320000
   },
   {
-    "jugador": "Yeray Álvarez",
-    "dia": "02/Sep",
-    "variacion": -200000,
-    "precio": 2020000
+    "jugador": "Antonio Blanco",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 3310000
   },
   {
     "jugador": "Yeray Álvarez",
@@ -10920,10 +10914,10 @@
     "precio": 1770000
   },
   {
-    "jugador": "Hugo Álvarez",
-    "dia": "02/Sep",
+    "jugador": "Yeray Álvarez",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 880000
+    "precio": 1770000
   },
   {
     "jugador": "Hugo Álvarez",
@@ -10962,10 +10956,10 @@
     "precio": 760000
   },
   {
-    "jugador": "Isaac Romero",
-    "dia": "02/Sep",
-    "variacion": 330000,
-    "precio": 3780000
+    "jugador": "Hugo Álvarez",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 750000
   },
   {
     "jugador": "Isaac Romero",
@@ -11004,10 +10998,10 @@
     "precio": 3680000
   },
   {
-    "jugador": "Pablo Durán",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 970000
+    "jugador": "Isaac Romero",
+    "dia": "09/Sep",
+    "variacion": 120000,
+    "precio": 3800000
   },
   {
     "jugador": "Pablo Durán",
@@ -11046,10 +11040,10 @@
     "precio": 1020000
   },
   {
-    "jugador": "Thiago Fernández",
-    "dia": "02/Sep",
-    "variacion": 60000,
-    "precio": 1010000
+    "jugador": "Pablo Durán",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 1120000
   },
   {
     "jugador": "Thiago Fernández",
@@ -11088,10 +11082,10 @@
     "precio": 1030000
   },
   {
-    "jugador": "Valentín Gómez",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 710000
+    "jugador": "Thiago Fernández",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 1050000
   },
   {
     "jugador": "Valentín Gómez",
@@ -11130,10 +11124,10 @@
     "precio": 600000
   },
   {
-    "jugador": "Yangel Herrera",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 2940000
+    "jugador": "Valentín Gómez",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 580000
   },
   {
     "jugador": "Yangel Herrera",
@@ -11172,10 +11166,10 @@
     "precio": 2870000
   },
   {
-    "jugador": "Jonny",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 3850000
+    "jugador": "Yangel Herrera",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 2910000
   },
   {
     "jugador": "Jonny",
@@ -11214,10 +11208,10 @@
     "precio": 3840000
   },
   {
-    "jugador": "Moi Gómez",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 1150000
+    "jugador": "Jonny",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 3820000
   },
   {
     "jugador": "Moi Gómez",
@@ -11256,10 +11250,10 @@
     "precio": 1620000
   },
   {
-    "jugador": "Bright Ede",
-    "dia": "02/Sep",
-    "variacion": 120000,
-    "precio": 2460000
+    "jugador": "Moi Gómez",
+    "dia": "09/Sep",
+    "variacion": 130000,
+    "precio": 1750000
   },
   {
     "jugador": "Bright Ede",
@@ -11298,10 +11292,10 @@
     "precio": 1610000
   },
   {
-    "jugador": "Dani Requena",
-    "dia": "02/Sep",
+    "jugador": "Bright Ede",
+    "dia": "09/Sep",
     "variacion": -10000,
-    "precio": 370000
+    "precio": 1600000
   },
   {
     "jugador": "Dani Requena",
@@ -11340,10 +11334,10 @@
     "precio": 360000
   },
   {
-    "jugador": "Ejuke",
-    "dia": "02/Sep",
-    "variacion": 280000,
-    "precio": 2150000
+    "jugador": "Dani Requena",
+    "dia": "09/Sep",
+    "variacion": 160000,
+    "precio": 520000
   },
   {
     "jugador": "Ejuke",
@@ -11382,10 +11376,10 @@
     "precio": 3030000
   },
   {
-    "jugador": "Lemar",
-    "dia": "02/Sep",
-    "variacion": 230000,
-    "precio": 390000
+    "jugador": "Ejuke",
+    "dia": "09/Sep",
+    "variacion": 450000,
+    "precio": 3480000
   },
   {
     "jugador": "Lemar",
@@ -11424,10 +11418,10 @@
     "precio": 1010000
   },
   {
-    "jugador": "Lucas Torró",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 1060000
+    "jugador": "Lemar",
+    "dia": "09/Sep",
+    "variacion": 130000,
+    "precio": 1140000
   },
   {
     "jugador": "Lucas Torró",
@@ -11466,10 +11460,10 @@
     "precio": 780000
   },
   {
-    "jugador": "Óscar Valentín",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 1630000
+    "jugador": "Lucas Torró",
+    "dia": "09/Sep",
+    "variacion": -110000,
+    "precio": 670000
   },
   {
     "jugador": "Óscar Valentín",
@@ -11508,10 +11502,10 @@
     "precio": 1160000
   },
   {
-    "jugador": "Aleñá",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 580000
+    "jugador": "Óscar Valentín",
+    "dia": "09/Sep",
+    "variacion": 180000,
+    "precio": 1340000
   },
   {
     "jugador": "Aleñá",
@@ -11550,10 +11544,10 @@
     "precio": 510000
   },
   {
-    "jugador": "Boselli",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 870000
+    "jugador": "Aleñá",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 520000
   },
   {
     "jugador": "Boselli",
@@ -11592,10 +11586,10 @@
     "precio": 710000
   },
   {
-    "jugador": "Juan Foyth",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 5830000
+    "jugador": "Boselli",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 700000
   },
   {
     "jugador": "Juan Foyth",
@@ -11634,10 +11628,10 @@
     "precio": 4280000
   },
   {
-    "jugador": "Kiko Femenía",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 840000
+    "jugador": "Juan Foyth",
+    "dia": "09/Sep",
+    "variacion": 80000,
+    "precio": 4360000
   },
   {
     "jugador": "Kiko Femenía",
@@ -11676,10 +11670,10 @@
     "precio": 940000
   },
   {
-    "jugador": "Nelson Deossa",
-    "dia": "02/Sep",
-    "variacion": 230000,
-    "precio": 2080000
+    "jugador": "Kiko Femenía",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 930000
   },
   {
     "jugador": "Nelson Deossa",
@@ -11718,10 +11712,10 @@
     "precio": 2000000
   },
   {
-    "jugador": "Víctor García",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 430000
+    "jugador": "Nelson Deossa",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 2030000
   },
   {
     "jugador": "Víctor García",
@@ -11760,10 +11754,10 @@
     "precio": 400000
   },
   {
-    "jugador": "Xavi Espart",
-    "dia": "02/Sep",
-    "variacion": 380000,
-    "precio": 2920000
+    "jugador": "Víctor García",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 410000
   },
   {
     "jugador": "Xavi Espart",
@@ -11802,10 +11796,10 @@
     "precio": 4620000
   },
   {
-    "jugador": "Ximo Navarro",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 1750000
+    "jugador": "Xavi Espart",
+    "dia": "09/Sep",
+    "variacion": 130000,
+    "precio": 4750000
   },
   {
     "jugador": "Ximo Navarro",
@@ -11844,10 +11838,10 @@
     "precio": 1900000
   },
   {
-    "jugador": "Zubeldia",
-    "dia": "02/Sep",
+    "jugador": "Ximo Navarro",
+    "dia": "09/Sep",
     "variacion": 240000,
-    "precio": 1850000
+    "precio": 2140000
   },
   {
     "jugador": "Zubeldia",
@@ -11886,10 +11880,10 @@
     "precio": 1980000
   },
   {
-    "jugador": "Balliu",
-    "dia": "02/Sep",
-    "variacion": -150000,
-    "precio": 860000
+    "jugador": "Zubeldia",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 1960000
   },
   {
     "jugador": "Balliu",
@@ -11928,10 +11922,10 @@
     "precio": 960000
   },
   {
-    "jugador": "Danjuma",
-    "dia": "02/Sep",
-    "variacion": 60000,
-    "precio": 3450000
+    "jugador": "Balliu",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 1050000
   },
   {
     "jugador": "Danjuma",
@@ -11970,10 +11964,10 @@
     "precio": 3060000
   },
   {
-    "jugador": "Hugo Sotelo",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 490000
+    "jugador": "Danjuma",
+    "dia": "09/Sep",
+    "variacion": 290000,
+    "precio": 3350000
   },
   {
     "jugador": "Hugo Sotelo",
@@ -12012,10 +12006,10 @@
     "precio": 360000
   },
   {
-    "jugador": "Unai Núñez",
-    "dia": "02/Sep",
-    "variacion": 180000,
-    "precio": 3360000
+    "jugador": "Hugo Sotelo",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 390000
   },
   {
     "jugador": "Unai Núñez",
@@ -12054,10 +12048,10 @@
     "precio": 3230000
   },
   {
-    "jugador": "Abdel Abqar",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 750000
+    "jugador": "Unai Núñez",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 3250000
   },
   {
     "jugador": "Abdel Abqar",
@@ -12096,10 +12090,10 @@
     "precio": 450000
   },
   {
-    "jugador": "Álex Pastor",
-    "dia": "02/Sep",
-    "variacion": 140000,
-    "precio": 870000
+    "jugador": "Abdel Abqar",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 450000
   },
   {
     "jugador": "Álex Pastor",
@@ -12138,10 +12132,10 @@
     "precio": 880000
   },
   {
-    "jugador": "Iker Losada",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 210000
+    "jugador": "Álex Pastor",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 860000
   },
   {
     "jugador": "Iker Losada",
@@ -12180,10 +12174,10 @@
     "precio": 160000
   },
   {
-    "jugador": "José Ángel Carmona",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 780000
+    "jugador": "Iker Losada",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 170000
   },
   {
     "jugador": "José Ángel Carmona",
@@ -12222,10 +12216,10 @@
     "precio": 580000
   },
   {
-    "jugador": "José Giménez",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 520000
+    "jugador": "José Ángel Carmona",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 600000
   },
   {
     "jugador": "José Giménez",
@@ -12264,10 +12258,10 @@
     "precio": 1670000
   },
   {
-    "jugador": "Juan Carlos Arana",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 420000
+    "jugador": "José Giménez",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 1920000
   },
   {
     "jugador": "Juan Carlos Arana",
@@ -12306,10 +12300,10 @@
     "precio": 230000
   },
   {
-    "jugador": "Bardeli",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 1010000
+    "jugador": "Juan Carlos Arana",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 250000
   },
   {
     "jugador": "Bardeli",
@@ -12348,10 +12342,10 @@
     "precio": 1580000
   },
   {
-    "jugador": "Rodrigo Riquelme",
-    "dia": "02/Sep",
-    "variacion": 570000,
-    "precio": 4630000
+    "jugador": "Bardeli",
+    "dia": "09/Sep",
+    "variacion": 200000,
+    "precio": 1780000
   },
   {
     "jugador": "Rodrigo Riquelme",
@@ -12390,10 +12384,10 @@
     "precio": 5440000
   },
   {
-    "jugador": "Pablo Cuñat",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Rodrigo Riquelme",
+    "dia": "09/Sep",
+    "variacion": 140000,
+    "precio": 5580000
   },
   {
     "jugador": "Pablo Cuñat",
@@ -12432,10 +12426,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Samu Becerra",
-    "dia": "02/Sep",
+    "jugador": "Pablo Cuñat",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 290000
+    "precio": 160000
   },
   {
     "jugador": "Samu Becerra",
@@ -12474,10 +12468,10 @@
     "precio": 260000
   },
   {
-    "jugador": "Abde Rebbach",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 1340000
+    "jugador": "Samu Becerra",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 260000
   },
   {
     "jugador": "Abde Rebbach",
@@ -12516,10 +12510,10 @@
     "precio": 1260000
   },
   {
-    "jugador": "Buba Sangaré",
-    "dia": "02/Sep",
-    "variacion": 40000,
-    "precio": 1410000
+    "jugador": "Abde Rebbach",
+    "dia": "09/Sep",
+    "variacion": -40000,
+    "precio": 1220000
   },
   {
     "jugador": "Buba Sangaré",
@@ -12558,10 +12552,10 @@
     "precio": 1060000
   },
   {
-    "jugador": "Denis Suárez",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 1430000
+    "jugador": "Buba Sangaré",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 1060000
   },
   {
     "jugador": "Denis Suárez",
@@ -12600,10 +12594,10 @@
     "precio": 1530000
   },
   {
-    "jugador": "Diego Aguado",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 260000
+    "jugador": "Denis Suárez",
+    "dia": "09/Sep",
+    "variacion": -70000,
+    "precio": 1460000
   },
   {
     "jugador": "Diego Aguado",
@@ -12642,10 +12636,10 @@
     "precio": 210000
   },
   {
-    "jugador": "Arnau Comas",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Diego Aguado",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 280000
   },
   {
     "jugador": "Arnau Comas",
@@ -12684,10 +12678,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Djené",
-    "dia": "02/Sep",
-    "variacion": 160000,
-    "precio": 2100000
+    "jugador": "Arnau Comas",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Djené",
@@ -12726,10 +12720,10 @@
     "precio": 1630000
   },
   {
-    "jugador": "Agirrezabala",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 1590000
+    "jugador": "Djené",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 1600000
   },
   {
     "jugador": "Agirrezabala",
@@ -12768,10 +12762,10 @@
     "precio": 1510000
   },
   {
-    "jugador": "Antañón",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 400000
+    "jugador": "Agirrezabala",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 1530000
   },
   {
     "jugador": "Antañón",
@@ -12810,10 +12804,10 @@
     "precio": 430000
   },
   {
-    "jugador": "Foulquier",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 240000
+    "jugador": "Antañón",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 430000
   },
   {
     "jugador": "Foulquier",
@@ -12852,10 +12846,10 @@
     "precio": 180000
   },
   {
-    "jugador": "José Salinas",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 1100000
+    "jugador": "Foulquier",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 180000
   },
   {
     "jugador": "José Salinas",
@@ -12894,10 +12888,10 @@
     "precio": 1050000
   },
   {
-    "jugador": "Pablo Ibáñez",
-    "dia": "02/Sep",
-    "variacion": -240000,
-    "precio": 1660000
+    "jugador": "José Salinas",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 1060000
   },
   {
     "jugador": "Pablo Ibáñez",
@@ -12936,10 +12930,10 @@
     "precio": 1680000
   },
   {
-    "jugador": "Ali Houary",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 400000
+    "jugador": "Pablo Ibáñez",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 1780000
   },
   {
     "jugador": "Ali Houary",
@@ -12978,10 +12972,10 @@
     "precio": 310000
   },
   {
-    "jugador": "Hugo Rincón",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 1110000
+    "jugador": "Ali Houary",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 310000
   },
   {
     "jugador": "Hugo Rincón",
@@ -13020,10 +13014,10 @@
     "precio": 900000
   },
   {
-    "jugador": "Jean Ives Valou",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 470000
+    "jugador": "Hugo Rincón",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 910000
   },
   {
     "jugador": "Jean Ives Valou",
@@ -13062,10 +13056,10 @@
     "precio": 390000
   },
   {
-    "jugador": "Unai López",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 3170000
+    "jugador": "Jean Ives Valou",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 380000
   },
   {
     "jugador": "Unai López",
@@ -13104,10 +13098,10 @@
     "precio": 3150000
   },
   {
-    "jugador": "Cestero",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 510000
+    "jugador": "Unai López",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 3240000
   },
   {
     "jugador": "Cestero",
@@ -13146,10 +13140,10 @@
     "precio": 410000
   },
   {
-    "jugador": "Jesús Vázquez",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 1210000
+    "jugador": "Cestero",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 410000
   },
   {
     "jugador": "Jesús Vázquez",
@@ -13188,10 +13182,10 @@
     "precio": 1230000
   },
   {
-    "jugador": "Johan Mojica",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 3320000
+    "jugador": "Jesús Vázquez",
+    "dia": "09/Sep",
+    "variacion": 160000,
+    "precio": 1390000
   },
   {
     "jugador": "Johan Mojica",
@@ -13230,10 +13224,10 @@
     "precio": 3420000
   },
   {
-    "jugador": "Julio Díaz",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 660000
+    "jugador": "Johan Mojica",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 3450000
   },
   {
     "jugador": "Julio Díaz",
@@ -13272,10 +13266,10 @@
     "precio": 980000
   },
   {
-    "jugador": "Kike Barja",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 600000
+    "jugador": "Julio Díaz",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 970000
   },
   {
     "jugador": "Kike Barja",
@@ -13314,10 +13308,10 @@
     "precio": 580000
   },
   {
-    "jugador": "Robert Navarro",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 830000
+    "jugador": "Kike Barja",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 580000
   },
   {
     "jugador": "Robert Navarro",
@@ -13356,10 +13350,10 @@
     "precio": 1700000
   },
   {
-    "jugador": "Luiz Junior",
-    "dia": "02/Sep",
-    "variacion": 220000,
-    "precio": 1530000
+    "jugador": "Robert Navarro",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 1950000
   },
   {
     "jugador": "Luiz Junior",
@@ -13398,10 +13392,10 @@
     "precio": 1470000
   },
   {
-    "jugador": "Riedel",
-    "dia": "02/Sep",
-    "variacion": -170000,
-    "precio": 1020000
+    "jugador": "Luiz Junior",
+    "dia": "09/Sep",
+    "variacion": -220000,
+    "precio": 1250000
   },
   {
     "jugador": "Riedel",
@@ -13440,10 +13434,10 @@
     "precio": 760000
   },
   {
-    "jugador": "Riki Rodríguez",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 290000
+    "jugador": "Riedel",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 740000
   },
   {
     "jugador": "Riki Rodríguez",
@@ -13482,10 +13476,10 @@
     "precio": 470000
   },
   {
-    "jugador": "Jesús Areso",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 1230000
+    "jugador": "Riki Rodríguez",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 500000
   },
   {
     "jugador": "Jesús Areso",
@@ -13524,10 +13518,10 @@
     "precio": 1710000
   },
   {
-    "jugador": "Jozhua Vertrouwd",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 460000
+    "jugador": "Jesús Areso",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 1710000
   },
   {
     "jugador": "Jozhua Vertrouwd",
@@ -13566,10 +13560,10 @@
     "precio": 420000
   },
   {
-    "jugador": "Manu Hernando",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 1740000
+    "jugador": "Jozhua Vertrouwd",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 410000
   },
   {
     "jugador": "Manu Hernando",
@@ -13608,10 +13602,10 @@
     "precio": 1450000
   },
   {
-    "jugador": "Manu Sánchez",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 1640000
+    "jugador": "Manu Hernando",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 1430000
   },
   {
     "jugador": "Manu Sánchez",
@@ -13650,10 +13644,10 @@
     "precio": 1560000
   },
   {
-    "jugador": "Martim Neto",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 270000
+    "jugador": "Manu Sánchez",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 1810000
   },
   {
     "jugador": "Martim Neto",
@@ -13692,10 +13686,10 @@
     "precio": 180000
   },
   {
-    "jugador": "Diatta",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 590000
+    "jugador": "Martim Neto",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 180000
   },
   {
     "jugador": "Diatta",
@@ -13734,10 +13728,10 @@
     "precio": 500000
   },
   {
-    "jugador": "El-Abdellaoui",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 610000
+    "jugador": "Diatta",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 490000
   },
   {
     "jugador": "El-Abdellaoui",
@@ -13776,10 +13770,10 @@
     "precio": 340000
   },
   {
-    "jugador": "Pablo Marín",
-    "dia": "02/Sep",
-    "variacion": 90000,
-    "precio": 390000
+    "jugador": "El-Abdellaoui",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 370000
   },
   {
     "jugador": "Pablo Marín",
@@ -13818,10 +13812,10 @@
     "precio": 230000
   },
   {
-    "jugador": "Randy Nteka",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 760000
+    "jugador": "Pablo Marín",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 210000
   },
   {
     "jugador": "Randy Nteka",
@@ -13860,10 +13854,10 @@
     "precio": 840000
   },
   {
-    "jugador": "Aarón Ochoa",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 280000
+    "jugador": "Randy Nteka",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 840000
   },
   {
     "jugador": "Aarón Ochoa",
@@ -13902,10 +13896,10 @@
     "precio": 230000
   },
   {
-    "jugador": "Daniel Yáñez",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 320000
+    "jugador": "Aarón Ochoa",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 230000
   },
   {
     "jugador": "Daniel Yáñez",
@@ -13944,10 +13938,10 @@
     "precio": 280000
   },
   {
-    "jugador": "Diangana",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Daniel Yáñez",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 270000
   },
   {
     "jugador": "Diangana",
@@ -13986,10 +13980,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Facundo Garcés",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 260000
+    "jugador": "Diangana",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Facundo Garcés",
@@ -14028,10 +14022,10 @@
     "precio": 250000
   },
   {
-    "jugador": "Gorosabel",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 490000
+    "jugador": "Facundo Garcés",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 240000
   },
   {
     "jugador": "Gorosabel",
@@ -14070,10 +14064,10 @@
     "precio": 490000
   },
   {
-    "jugador": "Herrando",
-    "dia": "02/Sep",
-    "variacion": 110000,
-    "precio": 1070000
+    "jugador": "Gorosabel",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 480000
   },
   {
     "jugador": "Herrando",
@@ -14112,10 +14106,10 @@
     "precio": 960000
   },
   {
-    "jugador": "Adam Boayar",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 160000
+    "jugador": "Herrando",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 970000
   },
   {
     "jugador": "Adam Boayar",
@@ -14154,10 +14148,10 @@
     "precio": 190000
   },
   {
-    "jugador": "Alfon González",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 420000
+    "jugador": "Adam Boayar",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 190000
   },
   {
     "jugador": "Alfon González",
@@ -14196,10 +14190,10 @@
     "precio": 620000
   },
   {
-    "jugador": "Marcão",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 280000
+    "jugador": "Alfon González",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 610000
   },
   {
     "jugador": "Marcão",
@@ -14238,10 +14232,10 @@
     "precio": 220000
   },
   {
-    "jugador": "Musso",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 590000
+    "jugador": "Marcão",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 210000
   },
   {
     "jugador": "Musso",
@@ -14280,10 +14274,10 @@
     "precio": 480000
   },
   {
-    "jugador": "Ochieng",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 330000
+    "jugador": "Musso",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 420000
   },
   {
     "jugador": "Ochieng",
@@ -14322,10 +14316,10 @@
     "precio": 390000
   },
   {
-    "jugador": "Raba",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 240000
+    "jugador": "Ochieng",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 640000
   },
   {
     "jugador": "Raba",
@@ -14364,10 +14358,10 @@
     "precio": 260000
   },
   {
-    "jugador": "Junior Firpo",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 410000
+    "jugador": "Raba",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 280000
   },
   {
     "jugador": "Junior Firpo",
@@ -14406,10 +14400,10 @@
     "precio": 350000
   },
   {
-    "jugador": "Logan Costa",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 360000
+    "jugador": "Junior Firpo",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 460000
   },
   {
     "jugador": "Logan Costa",
@@ -14448,10 +14442,10 @@
     "precio": 320000
   },
   {
-    "jugador": "Sainz-Maza",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 260000
+    "jugador": "Logan Costa",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 300000
   },
   {
     "jugador": "Sainz-Maza",
@@ -14490,10 +14484,10 @@
     "precio": 220000
   },
   {
-    "jugador": "Taufik Seidu",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 210000
+    "jugador": "Sainz-Maza",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 220000
   },
   {
     "jugador": "Taufik Seidu",
@@ -14532,10 +14526,10 @@
     "precio": 190000
   },
   {
-    "jugador": "Yoel Lago",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 950000
+    "jugador": "Taufik Seidu",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 190000
   },
   {
     "jugador": "Yoel Lago",
@@ -14574,10 +14568,10 @@
     "precio": 1270000
   },
   {
-    "jugador": "Álvaro Núñez",
-    "dia": "02/Sep",
-    "variacion": 60000,
-    "precio": 580000
+    "jugador": "Yoel Lago",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 1300000
   },
   {
     "jugador": "Álvaro Núñez",
@@ -14616,10 +14610,10 @@
     "precio": 670000
   },
   {
-    "jugador": "Einar Galilea",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 1720000
+    "jugador": "Álvaro Núñez",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 700000
   },
   {
     "jugador": "Einar Galilea",
@@ -14658,10 +14652,10 @@
     "precio": 1610000
   },
   {
-    "jugador": "Eneko Jauregi",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 270000
+    "jugador": "Einar Galilea",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 1640000
   },
   {
     "jugador": "Eneko Jauregi",
@@ -14700,10 +14694,10 @@
     "precio": 450000
   },
   {
-    "jugador": "Hugo González",
-    "dia": "02/Sep",
-    "variacion": -60000,
-    "precio": 1090000
+    "jugador": "Eneko Jauregi",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 440000
   },
   {
     "jugador": "Hugo González",
@@ -14742,10 +14736,10 @@
     "precio": 940000
   },
   {
-    "jugador": "Joselu Pérez",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 500000
+    "jugador": "Hugo González",
+    "dia": "09/Sep",
+    "variacion": 130000,
+    "precio": 1070000
   },
   {
     "jugador": "Joselu Pérez",
@@ -14784,10 +14778,10 @@
     "precio": 450000
   },
   {
-    "jugador": "Manu Serrano",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 260000
+    "jugador": "Joselu Pérez",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 450000
   },
   {
     "jugador": "Manu Serrano",
@@ -14826,10 +14820,10 @@
     "precio": 220000
   },
   {
-    "jugador": "Mariano Díaz",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 4580000
+    "jugador": "Manu Serrano",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 210000
   },
   {
     "jugador": "Mariano Díaz",
@@ -14868,10 +14862,10 @@
     "precio": 5800000
   },
   {
-    "jugador": "Maroan Sannadi",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 270000
+    "jugador": "Mariano Díaz",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 5850000
   },
   {
     "jugador": "Maroan Sannadi",
@@ -14910,10 +14904,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Pablo Ramón",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 1720000
+    "jugador": "Maroan Sannadi",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 170000
   },
   {
     "jugador": "Pablo Ramón",
@@ -14952,10 +14946,10 @@
     "precio": 1750000
   },
   {
-    "jugador": "Rego",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 170000
+    "jugador": "Pablo Ramón",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 1780000
   },
   {
     "jugador": "Rego",
@@ -14994,10 +14988,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Carlos Maciá",
-    "dia": "02/Sep",
-    "variacion": -100000,
-    "precio": 900000
+    "jugador": "Rego",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Carlos Maciá",
@@ -15036,10 +15030,10 @@
     "precio": 1120000
   },
   {
-    "jugador": "Christensen",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 1350000
+    "jugador": "Carlos Maciá",
+    "dia": "09/Sep",
+    "variacion": 180000,
+    "precio": 1300000
   },
   {
     "jugador": "Christensen",
@@ -15078,10 +15072,10 @@
     "precio": 1620000
   },
   {
-    "jugador": "Diakhaby",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 2100000
+    "jugador": "Christensen",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 1670000
   },
   {
     "jugador": "Diakhaby",
@@ -15120,10 +15114,10 @@
     "precio": 1330000
   },
   {
-    "jugador": "Marcos Fernández",
-    "dia": "02/Sep",
-    "variacion": -70000,
-    "precio": 690000
+    "jugador": "Diakhaby",
+    "dia": "09/Sep",
+    "variacion": 120000,
+    "precio": 1450000
   },
   {
     "jugador": "Marcos Fernández",
@@ -15162,10 +15156,10 @@
     "precio": 720000
   },
   {
-    "jugador": "Mikel Rodríguez",
-    "dia": "02/Sep",
-    "variacion": 200000,
-    "precio": 2070000
+    "jugador": "Marcos Fernández",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 830000
   },
   {
     "jugador": "Mikel Rodríguez",
@@ -15204,10 +15198,10 @@
     "precio": 2110000
   },
   {
-    "jugador": "Rayane Belaid",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 460000
+    "jugador": "Mikel Rodríguez",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 2220000
   },
   {
     "jugador": "Rayane Belaid",
@@ -15246,10 +15240,10 @@
     "precio": 490000
   },
   {
-    "jugador": "Abiel Osorio",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 170000
+    "jugador": "Rayane Belaid",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 470000
   },
   {
     "jugador": "Abiel Osorio",
@@ -15288,10 +15282,10 @@
     "precio": 340000
   },
   {
-    "jugador": "André Almeida",
-    "dia": "02/Sep",
+    "jugador": "Abiel Osorio",
+    "dia": "09/Sep",
     "variacion": 50000,
-    "precio": 640000
+    "precio": 390000
   },
   {
     "jugador": "André Almeida",
@@ -15330,10 +15324,10 @@
     "precio": 1080000
   },
   {
-    "jugador": "Brugui",
-    "dia": "02/Sep",
+    "jugador": "André Almeida",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 1320000
+    "precio": 1080000
   },
   {
     "jugador": "Brugui",
@@ -15372,10 +15366,10 @@
     "precio": 2540000
   },
   {
-    "jugador": "Diego Conde",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Brugui",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 2780000
   },
   {
     "jugador": "Diego Conde",
@@ -15414,10 +15408,10 @@
     "precio": 350000
   },
   {
-    "jugador": "Lunin",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 560000
+    "jugador": "Diego Conde",
+    "dia": "09/Sep",
+    "variacion": -70000,
+    "precio": 280000
   },
   {
     "jugador": "Lunin",
@@ -15456,10 +15450,10 @@
     "precio": 430000
   },
   {
-    "jugador": "Copete",
-    "dia": "02/Sep",
+    "jugador": "Lunin",
+    "dia": "09/Sep",
     "variacion": -20000,
-    "precio": 210000
+    "precio": 410000
   },
   {
     "jugador": "Copete",
@@ -15498,10 +15492,10 @@
     "precio": 210000
   },
   {
-    "jugador": "Lucas Cepeda",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 750000
+    "jugador": "Copete",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 210000
   },
   {
     "jugador": "Lucas Cepeda",
@@ -15540,10 +15534,10 @@
     "precio": 750000
   },
   {
-    "jugador": "Odriozola",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 280000
+    "jugador": "Lucas Cepeda",
+    "dia": "09/Sep",
+    "variacion": 180000,
+    "precio": 930000
   },
   {
     "jugador": "Odriozola",
@@ -15582,10 +15576,10 @@
     "precio": 210000
   },
   {
-    "jugador": "Osambela",
-    "dia": "02/Sep",
+    "jugador": "Odriozola",
+    "dia": "09/Sep",
     "variacion": -10000,
-    "precio": 560000
+    "precio": 200000
   },
   {
     "jugador": "Osambela",
@@ -15624,10 +15618,10 @@
     "precio": 450000
   },
   {
-    "jugador": "Pablo García Fernández",
-    "dia": "02/Sep",
-    "variacion": -70000,
-    "precio": 1410000
+    "jugador": "Osambela",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 450000
   },
   {
     "jugador": "Pablo García Fernández",
@@ -15666,10 +15660,10 @@
     "precio": 2510000
   },
   {
-    "jugador": "Peque",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 1830000
+    "jugador": "Pablo García Fernández",
+    "dia": "09/Sep",
+    "variacion": 370000,
+    "precio": 2880000
   },
   {
     "jugador": "Peque",
@@ -15708,10 +15702,10 @@
     "precio": 1510000
   },
   {
-    "jugador": "Puric",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 190000
+    "jugador": "Peque",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 1520000
   },
   {
     "jugador": "Puric",
@@ -15750,10 +15744,10 @@
     "precio": 180000
   },
   {
-    "jugador": "Raúl de Tomás",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 360000
+    "jugador": "Puric",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 180000
   },
   {
     "jugador": "Raúl de Tomás",
@@ -15792,10 +15786,10 @@
     "precio": 280000
   },
   {
-    "jugador": "Szczęsny",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 160000
+    "jugador": "Raúl de Tomás",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 290000
   },
   {
     "jugador": "Szczęsny",
@@ -15834,10 +15828,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Zakharyan",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 370000
+    "jugador": "Szczęsny",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Zakharyan",
@@ -15876,10 +15870,10 @@
     "precio": 260000
   },
   {
-    "jugador": "Adrià Pedrosa",
-    "dia": "02/Sep",
-    "variacion": 180000,
-    "precio": 920000
+    "jugador": "Zakharyan",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 260000
   },
   {
     "jugador": "Adrià Pedrosa",
@@ -15918,10 +15912,10 @@
     "precio": 1230000
   },
   {
-    "jugador": "Álex Sánchez",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 190000
+    "jugador": "Adrià Pedrosa",
+    "dia": "09/Sep",
+    "variacion": 80000,
+    "precio": 1310000
   },
   {
     "jugador": "Álex Sánchez",
@@ -15960,10 +15954,10 @@
     "precio": 190000
   },
   {
-    "jugador": "Asier Hierro",
-    "dia": "02/Sep",
+    "jugador": "Álex Sánchez",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 200000
+    "precio": 190000
   },
   {
     "jugador": "Asier Hierro",
@@ -16002,10 +15996,10 @@
     "precio": 190000
   },
   {
-    "jugador": "Fortuño",
-    "dia": "02/Sep",
+    "jugador": "Asier Hierro",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 160000
+    "precio": 190000
   },
   {
     "jugador": "Fortuño",
@@ -16044,10 +16038,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Hugo Burcio",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 470000
+    "jugador": "Fortuño",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Hugo Burcio",
@@ -16086,10 +16080,10 @@
     "precio": 370000
   },
   {
-    "jugador": "Ibai Aguirre",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 180000
+    "jugador": "Hugo Burcio",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 360000
   },
   {
     "jugador": "Ibai Aguirre",
@@ -16128,10 +16122,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Juan Berrocal",
-    "dia": "02/Sep",
-    "variacion": 130000,
-    "precio": 340000
+    "jugador": "Ibai Aguirre",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Juan Berrocal",
@@ -16170,10 +16164,10 @@
     "precio": 590000
   },
   {
-    "jugador": "Juanmi Jiménez",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 210000
+    "jugador": "Juan Berrocal",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 570000
   },
   {
     "jugador": "Juanmi Jiménez",
@@ -16212,10 +16206,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Luiz Felipe",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 310000
+    "jugador": "Juanmi Jiménez",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Luiz Felipe",
@@ -16254,10 +16248,10 @@
     "precio": 280000
   },
   {
-    "jugador": "Unai Marrero",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Luiz Felipe",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 270000
   },
   {
     "jugador": "Unai Marrero",
@@ -16296,10 +16290,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Aihen Muñoz",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 520000
+    "jugador": "Unai Marrero",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 170000
   },
   {
     "jugador": "Aihen Muñoz",
@@ -16338,10 +16332,10 @@
     "precio": 310000
   },
   {
-    "jugador": "Álvaro Djaló",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 240000
+    "jugador": "Aihen Muñoz",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 280000
   },
   {
     "jugador": "Álvaro Djaló",
@@ -16380,10 +16374,10 @@
     "precio": 380000
   },
   {
-    "jugador": "Beñat Prados",
-    "dia": "02/Sep",
+    "jugador": "Álvaro Djaló",
+    "dia": "09/Sep",
     "variacion": -10000,
-    "precio": 290000
+    "precio": 370000
   },
   {
     "jugador": "Beñat Prados",
@@ -16422,10 +16416,10 @@
     "precio": 290000
   },
   {
-    "jugador": "Carlos Ballestero",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 180000
+    "jugador": "Beñat Prados",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 280000
   },
   {
     "jugador": "Carlos Ballestero",
@@ -16464,10 +16458,10 @@
     "precio": 770000
   },
   {
-    "jugador": "Fabio Cardoso",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 230000
+    "jugador": "Carlos Ballestero",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 790000
   },
   {
     "jugador": "Fabio Cardoso",
@@ -16506,10 +16500,10 @@
     "precio": 200000
   },
   {
-    "jugador": "Hugo Novoa",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 360000
+    "jugador": "Fabio Cardoso",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 190000
   },
   {
     "jugador": "Hugo Novoa",
@@ -16548,10 +16542,10 @@
     "precio": 310000
   },
   {
-    "jugador": "Iván Corralejo",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 240000
+    "jugador": "Hugo Novoa",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 300000
   },
   {
     "jugador": "Iván Corralejo",
@@ -16590,10 +16584,10 @@
     "precio": 220000
   },
   {
-    "jugador": "Jorge Montes",
-    "dia": "02/Sep",
+    "jugador": "Iván Corralejo",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 170000
+    "precio": 220000
   },
   {
     "jugador": "Jorge Montes",
@@ -16632,10 +16626,10 @@
     "precio": 170000
   },
   {
-    "jugador": "Kumbulla",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 500000
+    "jugador": "Jorge Montes",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 170000
   },
   {
     "jugador": "Kumbulla",
@@ -16674,10 +16668,10 @@
     "precio": 460000
   },
   {
-    "jugador": "Lobete",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Kumbulla",
+    "dia": "09/Sep",
+    "variacion": 230000,
+    "precio": 690000
   },
   {
     "jugador": "Lobete",
@@ -16716,10 +16710,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Rubén Sánchez Sáez",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 320000
+    "jugador": "Lobete",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Rubén Sánchez Sáez",
@@ -16758,10 +16752,10 @@
     "precio": 410000
   },
   {
-    "jugador": "Aitor Paredes",
-    "dia": "02/Sep",
-    "variacion": 120000,
-    "precio": 2810000
+    "jugador": "Rubén Sánchez Sáez",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 410000
   },
   {
     "jugador": "Aitor Paredes",
@@ -16800,10 +16794,10 @@
     "precio": 3320000
   },
   {
-    "jugador": "Benavídez Protesoni",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 170000
+    "jugador": "Aitor Paredes",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 3570000
   },
   {
     "jugador": "Benavídez Protesoni",
@@ -16842,10 +16836,10 @@
     "precio": 300000
   },
   {
-    "jugador": "Dani Cárdenas",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 1230000
+    "jugador": "Benavídez Protesoni",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 540000
   },
   {
     "jugador": "Dani Cárdenas",
@@ -16884,10 +16878,10 @@
     "precio": 1410000
   },
   {
-    "jugador": "Daniel Martínez",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 480000
+    "jugador": "Dani Cárdenas",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 1410000
   },
   {
     "jugador": "Daniel Martínez",
@@ -16926,10 +16920,10 @@
     "precio": 390000
   },
   {
-    "jugador": "Fran González",
-    "dia": "02/Sep",
+    "jugador": "Daniel Martínez",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 160000
+    "precio": 390000
   },
   {
     "jugador": "Fran González",
@@ -16968,10 +16962,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Haitam Abaida",
-    "dia": "02/Sep",
+    "jugador": "Fran González",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 370000
+    "precio": 160000
   },
   {
     "jugador": "Haitam Abaida",
@@ -17010,10 +17004,10 @@
     "precio": 430000
   },
   {
-    "jugador": "Miguel Cubo",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 210000
+    "jugador": "Haitam Abaida",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 430000
   },
   {
     "jugador": "Miguel Cubo",
@@ -17052,8 +17046,8 @@
     "precio": 160000
   },
   {
-    "jugador": "Noé Carrillo",
-    "dia": "02/Sep",
+    "jugador": "Miguel Cubo",
+    "dia": "09/Sep",
     "variacion": 0,
     "precio": 160000
   },
@@ -17094,10 +17088,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Pedro Díaz",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 930000
+    "jugador": "Noé Carrillo",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Pedro Díaz",
@@ -17136,10 +17130,10 @@
     "precio": 720000
   },
   {
-    "jugador": "Rafa Bauza",
-    "dia": "02/Sep",
-    "variacion": -90000,
-    "precio": 1080000
+    "jugador": "Pedro Díaz",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 750000
   },
   {
     "jugador": "Rafa Bauza",
@@ -17178,10 +17172,10 @@
     "precio": 1250000
   },
   {
-    "jugador": "Youssef Enríquez",
-    "dia": "02/Sep",
-    "variacion": 150000,
-    "precio": 1630000
+    "jugador": "Rafa Bauza",
+    "dia": "09/Sep",
+    "variacion": -90000,
+    "precio": 1160000
   },
   {
     "jugador": "Youssef Enríquez",
@@ -17220,10 +17214,10 @@
     "precio": 1700000
   },
   {
-    "jugador": "Ángel Recio",
-    "dia": "02/Sep",
-    "variacion": -80000,
-    "precio": 990000
+    "jugador": "Youssef Enríquez",
+    "dia": "09/Sep",
+    "variacion": 100000,
+    "precio": 1800000
   },
   {
     "jugador": "Ángel Recio",
@@ -17262,10 +17256,10 @@
     "precio": 1110000
   },
   {
-    "jugador": "Carlos López",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Ángel Recio",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 1350000
   },
   {
     "jugador": "Carlos López",
@@ -17304,10 +17298,10 @@
     "precio": 220000
   },
   {
-    "jugador": "Carlos Martín",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 310000
+    "jugador": "Carlos López",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 220000
   },
   {
     "jugador": "Carlos Martín",
@@ -17346,10 +17340,10 @@
     "precio": 220000
   },
   {
-    "jugador": "Guevara",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 190000
+    "jugador": "Carlos Martín",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 200000
   },
   {
     "jugador": "Guevara",
@@ -17388,10 +17382,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Iker Muñoz",
-    "dia": "02/Sep",
-    "variacion": 90000,
-    "precio": 1410000
+    "jugador": "Guevara",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Iker Muñoz",
@@ -17430,10 +17424,10 @@
     "precio": 1570000
   },
   {
-    "jugador": "Josan",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 240000
+    "jugador": "Iker Muñoz",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 1600000
   },
   {
     "jugador": "Josan",
@@ -17472,10 +17466,10 @@
     "precio": 220000
   },
   {
-    "jugador": "Luken Beitia",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 650000
+    "jugador": "Josan",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 290000
   },
   {
     "jugador": "Luken Beitia",
@@ -17514,10 +17508,10 @@
     "precio": 880000
   },
   {
-    "jugador": "Manu Bueno",
-    "dia": "02/Sep",
-    "variacion": -100000,
-    "precio": 810000
+    "jugador": "Luken Beitia",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 860000
   },
   {
     "jugador": "Manu Bueno",
@@ -17556,10 +17550,10 @@
     "precio": 740000
   },
   {
-    "jugador": "Oriol Rey",
-    "dia": "02/Sep",
-    "variacion": 80000,
-    "precio": 740000
+    "jugador": "Manu Bueno",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 730000
   },
   {
     "jugador": "Oriol Rey",
@@ -17598,10 +17592,10 @@
     "precio": 930000
   },
   {
-    "jugador": "Otorbi",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 450000
+    "jugador": "Oriol Rey",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 930000
   },
   {
     "jugador": "Otorbi",
@@ -17640,10 +17634,10 @@
     "precio": 550000
   },
   {
-    "jugador": "Paco Cortés",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 260000
+    "jugador": "Otorbi",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 620000
   },
   {
     "jugador": "Paco Cortés",
@@ -17682,10 +17676,10 @@
     "precio": 280000
   },
   {
-    "jugador": "Pelayo Fernández",
-    "dia": "02/Sep",
-    "variacion": -130000,
-    "precio": 1430000
+    "jugador": "Paco Cortés",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 350000
   },
   {
     "jugador": "Pelayo Fernández",
@@ -17724,10 +17718,10 @@
     "precio": 1170000
   },
   {
-    "jugador": "Sergi Canós",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 190000
+    "jugador": "Pelayo Fernández",
+    "dia": "09/Sep",
+    "variacion": -70000,
+    "precio": 1100000
   },
   {
     "jugador": "Sergi Canós",
@@ -17766,9 +17760,9 @@
     "precio": 170000
   },
   {
-    "jugador": "Unai Egiluz",
-    "dia": "02/Sep",
-    "variacion": 0,
+    "jugador": "Sergi Canós",
+    "dia": "09/Sep",
+    "variacion": -10000,
     "precio": 160000
   },
   {
@@ -17808,8 +17802,8 @@
     "precio": 160000
   },
   {
-    "jugador": "Aitor Fernández",
-    "dia": "02/Sep",
+    "jugador": "Unai Egiluz",
+    "dia": "09/Sep",
     "variacion": 0,
     "precio": 160000
   },
@@ -17850,10 +17844,10 @@
     "precio": 170000
   },
   {
-    "jugador": "Álex Padilla",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 160000
+    "jugador": "Aitor Fernández",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 180000
   },
   {
     "jugador": "Álex Padilla",
@@ -17892,10 +17886,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Ángel Ortiz",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 710000
+    "jugador": "Álex Padilla",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Ángel Ortiz",
@@ -17934,10 +17928,10 @@
     "precio": 820000
   },
   {
-    "jugador": "Dani Díaz",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 210000
+    "jugador": "Ángel Ortiz",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 800000
   },
   {
     "jugador": "Dani Díaz",
@@ -17976,10 +17970,10 @@
     "precio": 190000
   },
   {
-    "jugador": "Iker Luque",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 560000
+    "jugador": "Dani Díaz",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 190000
   },
   {
     "jugador": "Iker Luque",
@@ -18018,10 +18012,10 @@
     "precio": 540000
   },
   {
-    "jugador": "Íñigo Arguibide",
-    "dia": "02/Sep",
-    "variacion": 210000,
-    "precio": 1310000
+    "jugador": "Iker Luque",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 550000
   },
   {
     "jugador": "Íñigo Arguibide",
@@ -18060,10 +18054,10 @@
     "precio": 1600000
   },
   {
-    "jugador": "Jofre Carreras",
-    "dia": "02/Sep",
+    "jugador": "Íñigo Arguibide",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 360000
+    "precio": 1600000
   },
   {
     "jugador": "Jofre Carreras",
@@ -18102,10 +18096,10 @@
     "precio": 290000
   },
   {
-    "jugador": "Jon Pacheco",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 200000
+    "jugador": "Jofre Carreras",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 310000
   },
   {
     "jugador": "Jon Pacheco",
@@ -18144,10 +18138,10 @@
     "precio": 170000
   },
   {
-    "jugador": "Mariezkurrena",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 360000
+    "jugador": "Jon Pacheco",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 170000
   },
   {
     "jugador": "Mariezkurrena",
@@ -18186,10 +18180,10 @@
     "precio": 270000
   },
   {
-    "jugador": "Nico Serrano",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 170000
+    "jugador": "Mariezkurrena",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 270000
   },
   {
     "jugador": "Nico Serrano",
@@ -18228,10 +18222,10 @@
     "precio": 240000
   },
   {
-    "jugador": "Yago Santiago",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 200000
+    "jugador": "Nico Serrano",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 310000
   },
   {
     "jugador": "Yago Santiago",
@@ -18270,10 +18264,10 @@
     "precio": 180000
   },
   {
-    "jugador": "Adrián Rodríguez",
-    "dia": "02/Sep",
+    "jugador": "Yago Santiago",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 160000
+    "precio": 180000
   },
   {
     "jugador": "Adrián Rodríguez",
@@ -18312,10 +18306,10 @@
     "precio": 170000
   },
   {
-    "jugador": "Aitor Mañas",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 230000
+    "jugador": "Adrián Rodríguez",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 160000
   },
   {
     "jugador": "Aitor Mañas",
@@ -18354,10 +18348,10 @@
     "precio": 450000
   },
   {
-    "jugador": "Álex Primo",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Aitor Mañas",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 460000
   },
   {
     "jugador": "Álex Primo",
@@ -18396,8 +18390,8 @@
     "precio": 160000
   },
   {
-    "jugador": "Cristian Rivero",
-    "dia": "02/Sep",
+    "jugador": "Álex Primo",
+    "dia": "09/Sep",
     "variacion": 0,
     "precio": 160000
   },
@@ -18438,10 +18432,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Federico Redondo",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 520000
+    "jugador": "Cristian Rivero",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Federico Redondo",
@@ -18480,10 +18474,10 @@
     "precio": 350000
   },
   {
-    "jugador": "Ferland Mendy",
-    "dia": "02/Sep",
-    "variacion": 10000,
-    "precio": 250000
+    "jugador": "Federico Redondo",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 340000
   },
   {
     "jugador": "Ferland Mendy",
@@ -18522,10 +18516,10 @@
     "precio": 210000
   },
   {
-    "jugador": "Fran Pérez",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 510000
+    "jugador": "Ferland Mendy",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 220000
   },
   {
     "jugador": "Fran Pérez",
@@ -18564,10 +18558,10 @@
     "precio": 420000
   },
   {
-    "jugador": "Germán Parreño",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Fran Pérez",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 360000
   },
   {
     "jugador": "Germán Parreño",
@@ -18606,10 +18600,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Gorka Carrera",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 170000
+    "jugador": "Germán Parreño",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Gorka Carrera",
@@ -18648,8 +18642,8 @@
     "precio": 160000
   },
   {
-    "jugador": "Iturbe",
-    "dia": "02/Sep",
+    "jugador": "Gorka Carrera",
+    "dia": "09/Sep",
     "variacion": 0,
     "precio": 160000
   },
@@ -18690,10 +18684,10 @@
     "precio": 270000
   },
   {
-    "jugador": "Iván Villar",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Iturbe",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 260000
   },
   {
     "jugador": "Iván Villar",
@@ -18732,10 +18726,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Javi Morcillo",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 470000
+    "jugador": "Iván Villar",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Javi Morcillo",
@@ -18774,10 +18768,10 @@
     "precio": 440000
   },
   {
-    "jugador": "Jorge Cabello",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Javi Morcillo",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 410000
   },
   {
     "jugador": "Jorge Cabello",
@@ -18816,10 +18810,10 @@
     "precio": 340000
   },
   {
-    "jugador": "Letacek",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 200000
+    "jugador": "Jorge Cabello",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 330000
   },
   {
     "jugador": "Letacek",
@@ -18858,10 +18852,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Miguel Sierra",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 3040000
+    "jugador": "Letacek",
+    "dia": "09/Sep",
+    "variacion": 90000,
+    "precio": 250000
   },
   {
     "jugador": "Miguel Sierra",
@@ -18900,10 +18894,10 @@
     "precio": 4790000
   },
   {
-    "jugador": "Nacho Pérez",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 1460000
+    "jugador": "Miguel Sierra",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 4840000
   },
   {
     "jugador": "Nacho Pérez",
@@ -18942,10 +18936,10 @@
     "precio": 1770000
   },
   {
-    "jugador": "Selton Sánchez",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Nacho Pérez",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 1840000
   },
   {
     "jugador": "Selton Sánchez",
@@ -18984,10 +18978,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Dotor",
-    "dia": "02/Sep",
-    "variacion": -60000,
-    "precio": 3370000
+    "jugador": "Selton Sánchez",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Dotor",
@@ -19026,10 +19020,10 @@
     "precio": 3860000
   },
   {
-    "jugador": "Adeyemi",
-    "dia": "02/Sep",
-    "variacion": -660000,
-    "precio": 17240000
+    "jugador": "Dotor",
+    "dia": "09/Sep",
+    "variacion": -40000,
+    "precio": 3820000
   },
   {
     "jugador": "Adeyemi",
@@ -19068,10 +19062,10 @@
     "precio": 15280000
   },
   {
-    "jugador": "Kang-In Lee",
-    "dia": "02/Sep",
-    "variacion": 1550000,
-    "precio": 17890000
+    "jugador": "Adeyemi",
+    "dia": "09/Sep",
+    "variacion": 550000,
+    "precio": 15830000
   },
   {
     "jugador": "Kang-In Lee",
@@ -19110,10 +19104,10 @@
     "precio": 18890000
   },
   {
-    "jugador": "Dubasin",
-    "dia": "02/Sep",
-    "variacion": -190000,
-    "precio": 3650000
+    "jugador": "Kang-In Lee",
+    "dia": "09/Sep",
+    "variacion": 340000,
+    "precio": 19230000
   },
   {
     "jugador": "Dubasin",
@@ -19152,10 +19146,10 @@
     "precio": 3050000
   },
   {
-    "jugador": "Miguel Rodríguez",
-    "dia": "02/Sep",
-    "variacion": -50000,
-    "precio": 520000
+    "jugador": "Dubasin",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 3040000
   },
   {
     "jugador": "Miguel Rodríguez",
@@ -19194,10 +19188,10 @@
     "precio": 450000
   },
   {
-    "jugador": "Fer Niño",
-    "dia": "02/Sep",
-    "variacion": 280000,
-    "precio": 3910000
+    "jugador": "Miguel Rodríguez",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 420000
   },
   {
     "jugador": "Fer Niño",
@@ -19236,10 +19230,10 @@
     "precio": 4190000
   },
   {
-    "jugador": "Zabiri",
-    "dia": "02/Sep",
-    "variacion": 320000,
-    "precio": 2690000
+    "jugador": "Fer Niño",
+    "dia": "09/Sep",
+    "variacion": 190000,
+    "precio": 4380000
   },
   {
     "jugador": "Zabiri",
@@ -19278,10 +19272,10 @@
     "precio": 4120000
   },
   {
-    "jugador": "Ryan",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 2980000
+    "jugador": "Zabiri",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 4170000
   },
   {
     "jugador": "Ryan",
@@ -19320,10 +19314,10 @@
     "precio": 2990000
   },
   {
-    "jugador": "Musuayi",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 550000
+    "jugador": "Ryan",
+    "dia": "09/Sep",
+    "variacion": 200000,
+    "precio": 3190000
   },
   {
     "jugador": "Musuayi",
@@ -19362,10 +19356,10 @@
     "precio": 690000
   },
   {
-    "jugador": "Abdoulaye Faye",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 620000
+    "jugador": "Musuayi",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 690000
   },
   {
     "jugador": "Abdoulaye Faye",
@@ -19404,10 +19398,10 @@
     "precio": 560000
   },
   {
-    "jugador": "Gulácsi",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 400000
+    "jugador": "Abdoulaye Faye",
+    "dia": "09/Sep",
+    "variacion": 230000,
+    "precio": 790000
   },
   {
     "jugador": "Gulácsi",
@@ -19446,10 +19440,10 @@
     "precio": 420000
   },
   {
-    "jugador": "Bisiwu",
-    "dia": "02/Sep",
-    "variacion": 140000,
-    "precio": 1790000
+    "jugador": "Gulácsi",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 660000
   },
   {
     "jugador": "Bisiwu",
@@ -19488,10 +19482,10 @@
     "precio": 1230000
   },
   {
-    "jugador": "Pedro Felipe",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 1030000
+    "jugador": "Bisiwu",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 1200000
   },
   {
     "jugador": "Pedro Felipe",
@@ -19530,10 +19524,10 @@
     "precio": 1370000
   },
   {
-    "jugador": "Sazonov",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 610000
+    "jugador": "Pedro Felipe",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 1610000
   },
   {
     "jugador": "Sazonov",
@@ -19572,10 +19566,10 @@
     "precio": 660000
   },
   {
-    "jugador": "Angeliño",
-    "dia": "02/Sep",
-    "variacion": -100000,
-    "precio": 2580000
+    "jugador": "Sazonov",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 650000
   },
   {
     "jugador": "Angeliño",
@@ -19614,10 +19608,10 @@
     "precio": 2310000
   },
   {
-    "jugador": "Diomande",
-    "dia": "02/Sep",
-    "variacion": -1440000,
-    "precio": 18470000
+    "jugador": "Angeliño",
+    "dia": "09/Sep",
+    "variacion": 260000,
+    "precio": 2570000
   },
   {
     "jugador": "Diomande",
@@ -19656,10 +19650,10 @@
     "precio": 17440000
   },
   {
-    "jugador": "Nico Guillén",
-    "dia": "02/Sep",
-    "variacion": -120000,
-    "precio": 1220000
+    "jugador": "Diomande",
+    "dia": "09/Sep",
+    "variacion": 400000,
+    "precio": 17840000
   },
   {
     "jugador": "Nico Guillén",
@@ -19698,10 +19692,10 @@
     "precio": 1150000
   },
   {
-    "jugador": "Bayindir",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 240000
+    "jugador": "Nico Guillén",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 1130000
   },
   {
     "jugador": "Bayindir",
@@ -19740,10 +19734,10 @@
     "precio": 390000
   },
   {
-    "jugador": "Gerenabarrena",
-    "dia": "02/Sep",
-    "variacion": 250000,
-    "precio": 1020000
+    "jugador": "Bayindir",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 390000
   },
   {
     "jugador": "Gerenabarrena",
@@ -19782,10 +19776,10 @@
     "precio": 2170000
   },
   {
-    "jugador": "Facundo Buonanotte",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 1320000
+    "jugador": "Gerenabarrena",
+    "dia": "09/Sep",
+    "variacion": 320000,
+    "precio": 2490000
   },
   {
     "jugador": "Facundo Buonanotte",
@@ -19824,10 +19818,10 @@
     "precio": 1850000
   },
   {
-    "jugador": "Orel Mangala",
-    "dia": "02/Sep",
-    "variacion": 150000,
-    "precio": 1840000
+    "jugador": "Facundo Buonanotte",
+    "dia": "09/Sep",
+    "variacion": 210000,
+    "precio": 2060000
   },
   {
     "jugador": "Orel Mangala",
@@ -19866,10 +19860,10 @@
     "precio": 1870000
   },
   {
-    "jugador": "Valentini",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 570000
+    "jugador": "Orel Mangala",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 1850000
   },
   {
     "jugador": "Valentini",
@@ -19908,10 +19902,10 @@
     "precio": 490000
   },
   {
-    "jugador": "Roger Hinojo",
-    "dia": "02/Sep",
-    "variacion": 270000,
-    "precio": 2830000
+    "jugador": "Valentini",
+    "dia": "09/Sep",
+    "variacion": 60000,
+    "precio": 550000
   },
   {
     "jugador": "Roger Hinojo",
@@ -19950,10 +19944,10 @@
     "precio": 3060000
   },
   {
-    "jugador": "Javier Hernández",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 3440000
+    "jugador": "Roger Hinojo",
+    "dia": "09/Sep",
+    "variacion": 170000,
+    "precio": 3230000
   },
   {
     "jugador": "Javier Hernández",
@@ -19992,10 +19986,10 @@
     "precio": 3720000
   },
   {
-    "jugador": "Dani Barcia",
-    "dia": "02/Sep",
-    "variacion": 70000,
-    "precio": 300000
+    "jugador": "Javier Hernández",
+    "dia": "09/Sep",
+    "variacion": -180000,
+    "precio": 3540000
   },
   {
     "jugador": "Dani Barcia",
@@ -20034,10 +20028,10 @@
     "precio": 410000
   },
   {
-    "jugador": "Ibra Sow",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 180000
+    "jugador": "Dani Barcia",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 390000
   },
   {
     "jugador": "Ibra Sow",
@@ -20076,10 +20070,10 @@
     "precio": 170000
   },
   {
-    "jugador": "Robbie Ure",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 4230000
+    "jugador": "Ibra Sow",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 170000
   },
   {
     "jugador": "Robbie Ure",
@@ -20118,10 +20112,10 @@
     "precio": 4620000
   },
   {
-    "jugador": "Diego Rico",
-    "dia": "02/Sep",
-    "variacion": 210000,
-    "precio": 1150000
+    "jugador": "Robbie Ure",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 4590000
   },
   {
     "jugador": "Diego Rico",
@@ -20160,10 +20154,10 @@
     "precio": 870000
   },
   {
-    "jugador": "Rockson Yeboah",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 460000
+    "jugador": "Diego Rico",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 870000
   },
   {
     "jugador": "Rockson Yeboah",
@@ -20202,10 +20196,10 @@
     "precio": 640000
   },
   {
-    "jugador": "Enes Ünal",
-    "dia": "02/Sep",
-    "variacion": 370000,
-    "precio": 9090000
+    "jugador": "Rockson Yeboah",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 650000
   },
   {
     "jugador": "Enes Ünal",
@@ -20244,10 +20238,10 @@
     "precio": 7790000
   },
   {
-    "jugador": "Tsitaishvili",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 350000
+    "jugador": "Enes Ünal",
+    "dia": "09/Sep",
+    "variacion": 780000,
+    "precio": 8570000
   },
   {
     "jugador": "Tsitaishvili",
@@ -20286,10 +20280,10 @@
     "precio": 640000
   },
   {
-    "jugador": "Ezequiel Ponce",
-    "dia": "02/Sep",
-    "variacion": 120000,
-    "precio": 1700000
+    "jugador": "Tsitaishvili",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 650000
   },
   {
     "jugador": "Ezequiel Ponce",
@@ -20328,10 +20322,10 @@
     "precio": 1430000
   },
   {
-    "jugador": "Drkusic",
-    "dia": "02/Sep",
-    "variacion": -60000,
-    "precio": 1380000
+    "jugador": "Ezequiel Ponce",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 1680000
   },
   {
     "jugador": "Drkusic",
@@ -20370,10 +20364,10 @@
     "precio": 2300000
   },
   {
-    "jugador": "Barzic",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Drkusic",
+    "dia": "09/Sep",
+    "variacion": -150000,
+    "precio": 2150000
   },
   {
     "jugador": "Barzic",
@@ -20412,10 +20406,10 @@
     "precio": 650000
   },
   {
-    "jugador": "Marc Santos",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Barzic",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 620000
   },
   {
     "jugador": "Marc Santos",
@@ -20454,10 +20448,10 @@
     "precio": 210000
   },
   {
-    "jugador": "Oláiz",
-    "dia": "02/Sep",
+    "jugador": "Marc Santos",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 160000
+    "precio": 210000
   },
   {
     "jugador": "Oláiz",
@@ -20496,10 +20490,10 @@
     "precio": 170000
   },
   {
-    "jugador": "Alberto Risco",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Oláiz",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 410000
   },
   {
     "jugador": "Alberto Risco",
@@ -20538,10 +20532,10 @@
     "precio": 180000
   },
   {
-    "jugador": "Cristian Romero",
-    "dia": "02/Sep",
-    "variacion": -350000,
-    "precio": 5860000
+    "jugador": "Alberto Risco",
+    "dia": "09/Sep",
+    "variacion": 10000,
+    "precio": 190000
   },
   {
     "jugador": "Cristian Romero",
@@ -20580,10 +20574,10 @@
     "precio": 6400000
   },
   {
-    "jugador": "Sergio Martínez",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 2410000
+    "jugador": "Cristian Romero",
+    "dia": "09/Sep",
+    "variacion": -230000,
+    "precio": 6170000
   },
   {
     "jugador": "Sergio Martínez",
@@ -20622,10 +20616,10 @@
     "precio": 2850000
   },
   {
-    "jugador": "Hamza",
-    "dia": "02/Sep",
-    "variacion": -70000,
-    "precio": 2060000
+    "jugador": "Sergio Martínez",
+    "dia": "09/Sep",
+    "variacion": -10000,
+    "precio": 2840000
   },
   {
     "jugador": "Hamza",
@@ -20664,10 +20658,10 @@
     "precio": 2150000
   },
   {
-    "jugador": "Arnau Ortiz",
-    "dia": "02/Sep",
-    "variacion": 30000,
-    "precio": 640000
+    "jugador": "Hamza",
+    "dia": "09/Sep",
+    "variacion": -50000,
+    "precio": 2100000
   },
   {
     "jugador": "Arnau Ortiz",
@@ -20706,10 +20700,10 @@
     "precio": 910000
   },
   {
-    "jugador": "Kevin Sánchez",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 200000
+    "jugador": "Arnau Ortiz",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 1130000
   },
   {
     "jugador": "Kevin Sánchez",
@@ -20748,10 +20742,10 @@
     "precio": 560000
   },
   {
-    "jugador": "Álvaro Padilla",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Kevin Sánchez",
+    "dia": "09/Sep",
+    "variacion": 20000,
+    "precio": 580000
   },
   {
     "jugador": "Álvaro Padilla",
@@ -20790,10 +20784,10 @@
     "precio": 160000
   },
   {
-    "jugador": "Rodri",
-    "dia": "02/Sep",
-    "variacion": 560000,
-    "precio": 17620000
+    "jugador": "Álvaro Padilla",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
   },
   {
     "jugador": "Rodri",
@@ -20832,10 +20826,10 @@
     "precio": 17750000
   },
   {
-    "jugador": "Francho Serrano",
-    "dia": "02/Sep",
-    "variacion": -20000,
-    "precio": 650000
+    "jugador": "Rodri",
+    "dia": "09/Sep",
+    "variacion": 2180000,
+    "precio": 19930000
   },
   {
     "jugador": "Francho Serrano",
@@ -20874,10 +20868,10 @@
     "precio": 840000
   },
   {
-    "jugador": "Jorge Domínguez",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 420000
+    "jugador": "Francho Serrano",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 840000
   },
   {
     "jugador": "Jorge Domínguez",
@@ -20916,10 +20910,10 @@
     "precio": 360000
   },
   {
-    "jugador": "Joao Cancelo",
-    "dia": "02/Sep",
-    "variacion": 100000,
-    "precio": 7150000
+    "jugador": "Jorge Domínguez",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 360000
   },
   {
     "jugador": "Joao Cancelo",
@@ -20958,10 +20952,10 @@
     "precio": 5560000
   },
   {
-    "jugador": "Parrott",
-    "dia": "02/Sep",
-    "variacion": 250000,
-    "precio": 7110000
+    "jugador": "Joao Cancelo",
+    "dia": "09/Sep",
+    "variacion": -820000,
+    "precio": 4740000
   },
   {
     "jugador": "Parrott",
@@ -21000,10 +20994,10 @@
     "precio": 7780000
   },
   {
-    "jugador": "Alex Marchal",
-    "dia": "02/Sep",
-    "variacion": 20000,
-    "precio": 380000
+    "jugador": "Parrott",
+    "dia": "09/Sep",
+    "variacion": 910000,
+    "precio": 8690000
   },
   {
     "jugador": "Alex Marchal",
@@ -21042,10 +21036,10 @@
     "precio": 680000
   },
   {
-    "jugador": "Kochorashvili",
-    "dia": "02/Sep",
-    "variacion": -170000,
-    "precio": 1790000
+    "jugador": "Alex Marchal",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 680000
   },
   {
     "jugador": "Kochorashvili",
@@ -21084,10 +21078,10 @@
     "precio": 1710000
   },
   {
-    "jugador": "Pablo Martínez",
-    "dia": "02/Sep",
-    "variacion": 40000,
-    "precio": 1210000
+    "jugador": "Kochorashvili",
+    "dia": "09/Sep",
+    "variacion": -250000,
+    "precio": 1460000
   },
   {
     "jugador": "Pablo Martínez",
@@ -21126,10 +21120,10 @@
     "precio": 1080000
   },
   {
-    "jugador": "Ndukwe",
-    "dia": "02/Sep",
-    "variacion": -60000,
-    "precio": 320000
+    "jugador": "Pablo Martínez",
+    "dia": "09/Sep",
+    "variacion": 40000,
+    "precio": 1120000
   },
   {
     "jugador": "Ndukwe",
@@ -21168,10 +21162,10 @@
     "precio": 790000
   },
   {
-    "jugador": "Van Oevelen",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 310000
+    "jugador": "Ndukwe",
+    "dia": "09/Sep",
+    "variacion": 180000,
+    "precio": 970000
   },
   {
     "jugador": "Van Oevelen",
@@ -21210,10 +21204,10 @@
     "precio": 610000
   },
   {
-    "jugador": "Driouech",
-    "dia": "02/Sep",
-    "variacion": 210000,
-    "precio": 2300000
+    "jugador": "Van Oevelen",
+    "dia": "09/Sep",
+    "variacion": 50000,
+    "precio": 660000
   },
   {
     "jugador": "Driouech",
@@ -21252,10 +21246,10 @@
     "precio": 2690000
   },
   {
-    "jugador": "Nathan Saliba",
-    "dia": "02/Sep",
-    "variacion": 160000,
-    "precio": 1740000
+    "jugador": "Driouech",
+    "dia": "09/Sep",
+    "variacion": 390000,
+    "precio": 3080000
   },
   {
     "jugador": "Nathan Saliba",
@@ -21294,10 +21288,10 @@
     "precio": 2520000
   },
   {
-    "jugador": "Bryan Zaragoza",
-    "dia": "02/Sep",
-    "variacion": 210000,
-    "precio": 3930000
+    "jugador": "Nathan Saliba",
+    "dia": "09/Sep",
+    "variacion": 110000,
+    "precio": 2630000
   },
   {
     "jugador": "Bryan Zaragoza",
@@ -21336,10 +21330,10 @@
     "precio": 4790000
   },
   {
-    "jugador": "Adama Traoré",
-    "dia": "02/Sep",
-    "variacion": 200000,
-    "precio": 2600000
+    "jugador": "Bryan Zaragoza",
+    "dia": "09/Sep",
+    "variacion": 170000,
+    "precio": 4960000
   },
   {
     "jugador": "Adama Traoré",
@@ -21378,10 +21372,10 @@
     "precio": 3860000
   },
   {
-    "jugador": "Prati",
-    "dia": "02/Sep",
-    "variacion": -30000,
-    "precio": 560000
+    "jugador": "Adama Traoré",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 3860000
   },
   {
     "jugador": "Prati",
@@ -21420,10 +21414,10 @@
     "precio": 780000
   },
   {
-    "jugador": "Bouaré",
-    "dia": "02/Sep",
-    "variacion": -10000,
-    "precio": 340000
+    "jugador": "Prati",
+    "dia": "09/Sep",
+    "variacion": -20000,
+    "precio": 760000
   },
   {
     "jugador": "Bouaré",
@@ -21462,10 +21456,10 @@
     "precio": 290000
   },
   {
-    "jugador": "Livakovic",
-    "dia": "02/Sep",
-    "variacion": -40000,
-    "precio": 270000
+    "jugador": "Bouaré",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 290000
   },
   {
     "jugador": "Livakovic",
@@ -21504,10 +21498,10 @@
     "precio": 260000
   },
   {
-    "jugador": "Johaneko",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 470000
+    "jugador": "Livakovic",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 290000
   },
   {
     "jugador": "Johaneko",
@@ -21546,10 +21540,10 @@
     "precio": 1000000
   },
   {
-    "jugador": "Mamadou Sarr",
-    "dia": "02/Sep",
-    "variacion": 110000,
-    "precio": 1240000
+    "jugador": "Johaneko",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 1220000
   },
   {
     "jugador": "Mamadou Sarr",
@@ -21588,10 +21582,10 @@
     "precio": 1340000
   },
   {
-    "jugador": "Axel Tape",
-    "dia": "02/Sep",
-    "variacion": 40000,
-    "precio": 570000
+    "jugador": "Mamadou Sarr",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 1590000
   },
   {
     "jugador": "Axel Tape",
@@ -21630,10 +21624,10 @@
     "precio": 1540000
   },
   {
-    "jugador": "Gudelj",
-    "dia": "02/Sep",
-    "variacion": 50000,
-    "precio": 650000
+    "jugador": "Axel Tape",
+    "dia": "09/Sep",
+    "variacion": -200000,
+    "precio": 1340000
   },
   {
     "jugador": "Gudelj",
@@ -21672,10 +21666,10 @@
     "precio": 1130000
   },
   {
-    "jugador": "Gabriel Jesús",
-    "dia": "02/Sep",
-    "variacion": 520000,
-    "precio": 4020000
+    "jugador": "Gudelj",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 1350000
   },
   {
     "jugador": "Gabriel Jesús",
@@ -21714,10 +21708,10 @@
     "precio": 7640000
   },
   {
-    "jugador": "Aznou",
-    "dia": "02/Sep",
-    "variacion": 60000,
-    "precio": 560000
+    "jugador": "Gabriel Jesús",
+    "dia": "09/Sep",
+    "variacion": 230000,
+    "precio": 7870000
   },
   {
     "jugador": "Aznou",
@@ -21756,10 +21750,10 @@
     "precio": 450000
   },
   {
-    "jugador": "Jonathan David",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 5000000
+    "jugador": "Aznou",
+    "dia": "09/Sep",
+    "variacion": -80000,
+    "precio": 370000
   },
   {
     "jugador": "Jonathan David",
@@ -21798,10 +21792,10 @@
     "precio": 6800000
   },
   {
-    "jugador": "Dani Ceballos",
-    "dia": "02/Sep",
-    "variacion": 1720000,
-    "precio": 2000000
+    "jugador": "Jonathan David",
+    "dia": "09/Sep",
+    "variacion": -130000,
+    "precio": 6670000
   },
   {
     "jugador": "Dani Ceballos",
@@ -21840,10 +21834,10 @@
     "precio": 3950000
   },
   {
-    "jugador": "Del Castillo",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1500000
+    "jugador": "Dani Ceballos",
+    "dia": "09/Sep",
+    "variacion": 120000,
+    "precio": 4070000
   },
   {
     "jugador": "Del Castillo",
@@ -21882,10 +21876,10 @@
     "precio": 1540000
   },
   {
-    "jugador": "Félix Correia",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1500000
+    "jugador": "Del Castillo",
+    "dia": "09/Sep",
+    "variacion": 220000,
+    "precio": 1760000
   },
   {
     "jugador": "Félix Correia",
@@ -21924,10 +21918,10 @@
     "precio": 2050000
   },
   {
-    "jugador": "Fofana",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1500000
+    "jugador": "Félix Correia",
+    "dia": "09/Sep",
+    "variacion": -60000,
+    "precio": 1990000
   },
   {
     "jugador": "Fofana",
@@ -21966,10 +21960,10 @@
     "precio": 2810000
   },
   {
-    "jugador": "Harvey Elliot",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1500000
+    "jugador": "Fofana",
+    "dia": "09/Sep",
+    "variacion": 390000,
+    "precio": 3200000
   },
   {
     "jugador": "Harvey Elliot",
@@ -22008,10 +22002,10 @@
     "precio": 3080000
   },
   {
-    "jugador": "Sebastián Cáceres",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1250000
+    "jugador": "Harvey Elliot",
+    "dia": "09/Sep",
+    "variacion": 460000,
+    "precio": 3540000
   },
   {
     "jugador": "Sebastián Cáceres",
@@ -22050,10 +22044,10 @@
     "precio": 1550000
   },
   {
-    "jugador": "Aarón Martín",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1000000
+    "jugador": "Sebastián Cáceres",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 1790000
   },
   {
     "jugador": "Aarón Martín",
@@ -22092,10 +22086,10 @@
     "precio": 1260000
   },
   {
-    "jugador": "Iván Azón",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 1000000
+    "jugador": "Aarón Martín",
+    "dia": "09/Sep",
+    "variacion": -220000,
+    "precio": 1040000
   },
   {
     "jugador": "Iván Azón",
@@ -22134,10 +22128,10 @@
     "precio": 1270000
   },
   {
-    "jugador": "Lucas Stassin",
-    "dia": "02/Sep",
+    "jugador": "Iván Azón",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 1000000
+    "precio": 1270000
   },
   {
     "jugador": "Lucas Stassin",
@@ -22176,10 +22170,10 @@
     "precio": 1810000
   },
   {
-    "jugador": "Cajuste",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 750000
+    "jugador": "Lucas Stassin",
+    "dia": "09/Sep",
+    "variacion": 270000,
+    "precio": 2080000
   },
   {
     "jugador": "Cajuste",
@@ -22218,10 +22212,10 @@
     "precio": 930000
   },
   {
-    "jugador": "Emil Audero",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 650000
+    "jugador": "Cajuste",
+    "dia": "09/Sep",
+    "variacion": -140000,
+    "precio": 790000
   },
   {
     "jugador": "Emil Audero",
@@ -22260,10 +22254,10 @@
     "precio": 950000
   },
   {
-    "jugador": "Lomónaco",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 650000
+    "jugador": "Emil Audero",
+    "dia": "09/Sep",
+    "variacion": 250000,
+    "precio": 1200000
   },
   {
     "jugador": "Lomónaco",
@@ -22302,10 +22296,10 @@
     "precio": 990000
   },
   {
-    "jugador": "Belocian",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 500000
+    "jugador": "Lomónaco",
+    "dia": "09/Sep",
+    "variacion": 70000,
+    "precio": 1060000
   },
   {
     "jugador": "Belocian",
@@ -22344,10 +22338,10 @@
     "precio": 770000
   },
   {
-    "jugador": "Ratkov",
-    "dia": "02/Sep",
+    "jugador": "Belocian",
+    "dia": "09/Sep",
     "variacion": 0,
-    "precio": 500000
+    "precio": 770000
   },
   {
     "jugador": "Ratkov",
@@ -22386,10 +22380,10 @@
     "precio": 910000
   },
   {
-    "jugador": "Sadick",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 500000
+    "jugador": "Ratkov",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 1150000
   },
   {
     "jugador": "Sadick",
@@ -22428,10 +22422,10 @@
     "precio": 620000
   },
   {
-    "jugador": "Roy Revivo",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 450000
+    "jugador": "Sadick",
+    "dia": "09/Sep",
+    "variacion": 240000,
+    "precio": 860000
   },
   {
     "jugador": "Roy Revivo",
@@ -22470,10 +22464,10 @@
     "precio": 790000
   },
   {
-    "jugador": "Brian Fariñas",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Roy Revivo",
+    "dia": "09/Sep",
+    "variacion": -40000,
+    "precio": 750000
   },
   {
     "jugador": "Brian Fariñas",
@@ -22512,10 +22506,10 @@
     "precio": 340000
   },
   {
-    "jugador": "Esquivel",
-    "dia": "02/Sep",
-    "variacion": 0,
-    "precio": 160000
+    "jugador": "Brian Fariñas",
+    "dia": "09/Sep",
+    "variacion": 30000,
+    "precio": 370000
   },
   {
     "jugador": "Esquivel",
@@ -22554,6 +22548,12 @@
     "precio": 160000
   },
   {
+    "jugador": "Esquivel",
+    "dia": "09/Sep",
+    "variacion": 0,
+    "precio": 160000
+  },
+  {
     "jugador": "Iker Córdoba",
     "dia": "06/Sep",
     "variacion": 0,
@@ -22570,5 +22570,11 @@
     "dia": "08/Sep",
     "variacion": 250000,
     "precio": 410000
+  },
+  {
+    "jugador": "Iker Córdoba",
+    "dia": "09/Sep",
+    "variacion": -30000,
+    "precio": 380000
   }
 ]
