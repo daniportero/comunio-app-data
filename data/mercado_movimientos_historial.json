@@ -33,6 +33,50 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-09",
+    "jugador": "Maffeo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2453.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 1940700,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-09",
+    "jugador": "Raba",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2498.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 276900,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-09",
+    "jugador": "Víctor García",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2924.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 405500,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-09",
+    "jugador": "Hugo Rincón",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3576.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 930000,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-08",
     "jugador": "Joan García",
     "posicion": "POR",
