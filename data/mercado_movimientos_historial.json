@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-09-09",
+    "jugador": "Beñat Turrientes",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3174.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 2449400,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-08",
     "jugador": "Joan García",
     "posicion": "POR",

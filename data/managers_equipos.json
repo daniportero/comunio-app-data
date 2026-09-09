@@ -1579,8 +1579,8 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 57830000,
-    "num_jugadores": 17,
+    "valor_equipo": 55310000,
+    "num_jugadores": 16,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1814,24 +1814,6 @@
         "r3": 4,
         "r2": "-",
         "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 19,
-        "media_puntos": 4.8,
-        "jugador": "Beñat Turrientes",
-        "imagen": "https://www.comuniate.com/caras3/3174.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
-        "valor_jugador": 2520000,
-        "revalorizacion": 180000,
-        "plusvalia": 2037000,
-        "r5": 6,
-        "r4": "-",
-        "r3": 4,
-        "r2": 4,
-        "r1": 5,
         "alineado": true,
         "lesion": null
       },
