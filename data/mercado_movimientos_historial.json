@@ -77,6 +77,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-09",
+    "jugador": "Johnny Cardoso",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3553.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 1216800,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-08",
     "jugador": "Joan García",
     "posicion": "POR",
