@@ -1229,8 +1229,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 49460000,
-    "num_jugadores": 14,
+    "valor_equipo": 31070000,
+    "num_jugadores": 13,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1465,24 +1465,6 @@
         "r2": "-",
         "r1": 2,
         "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 31,
-        "media_puntos": 7.8,
-        "jugador": "Vinícius Júnior",
-        "imagen": "https://www.comuniate.com/caras3/2565.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-        "valor_jugador": 18390000,
-        "revalorizacion": -4590000,
-        "plusvalia": -11165555,
-        "r5": "-",
-        "r4": 5,
-        "r3": 8,
-        "r2": 5,
-        "r1": 13,
-        "alineado": true,
         "lesion": null
       }
     ]
