@@ -1056,7 +1056,7 @@
       },
       {
         "jornada": 4,
-        "puntos_totales": 31,
+        "puntos_totales": 28,
         "jugadores": [
           {
             "jugador": "Diego Conde",
@@ -1100,7 +1100,7 @@
             "imagen": "https://www.comuniate.com/caras3/3686.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": "-",
-            "alineado": true,
+            "alineado": false,
             "alineado_inicial": true
           },
           {
@@ -1163,7 +1163,7 @@
             "imagen": "https://www.comuniate.com/caras3/3651.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
             "puntos": -3,
-            "alineado": false,
+            "alineado": true,
             "alineado_inicial": true
           },
           {
