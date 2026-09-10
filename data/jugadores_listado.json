@@ -1031,7 +1031,7 @@
     "compra": 0,
     "venta": null,
     "margen_venta": null,
-    "lesion": "Lesión muscular. Baja hasta mediados de septiembre"
+    "lesion": "Lesión muscular"
   },
   {
     "posicion": "MED",
@@ -3209,7 +3209,7 @@
     "compra": 1750000,
     "venta": null,
     "margen_venta": null,
-    "lesion": ""
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -4199,7 +4199,7 @@
     "compra": 2685000,
     "venta": 1714400,
     "margen_venta": -970600,
-    "lesion": ""
+    "lesion": null
   },
   {
     "posicion": "MED",

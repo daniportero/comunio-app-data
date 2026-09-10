@@ -263,7 +263,7 @@
     "r3": 4,
     "r2": 4,
     "r1": 11,
-    "titular": "No",
+    "titular": "Sí",
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
@@ -1924,7 +1924,7 @@
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
     "tendencia": 2,
-    "lesion": "Lesión muscular. Baja hasta mediados de septiembre"
+    "lesion": "Lesión muscular"
   },
   {
     "posicion": "MED",
@@ -5983,7 +5983,7 @@
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
     "tendencia": 2,
-    "lesion": ""
+    "lesion": null
   },
   {
     "posicion": "DEF",
@@ -7828,7 +7828,7 @@
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
     "tendencia": 2,
-    "lesion": ""
+    "lesion": null
   },
   {
     "posicion": "MED",
@@ -8832,7 +8832,7 @@
     "r3": 1,
     "r2": 6,
     "r1": 2,
-    "titular": "Sí",
+    "titular": "No",
     "anterior_dueño": "Dani Portero",
     "compra": 950000,
     "venta": 1696600,
@@ -9611,7 +9611,7 @@
     "r3": "-",
     "r2": "-",
     "r1": "-",
-    "titular": "No",
+    "titular": "Sí",
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
@@ -11333,7 +11333,7 @@
     "r3": 8,
     "r2": 5,
     "r1": 7,
-    "titular": "Sí",
+    "titular": "No",
     "anterior_dueño": "Muriqui Saez",
     "compra": 777777,
     "venta": null,
@@ -14203,7 +14203,7 @@
     "r3": 6,
     "r2": 5,
     "r1": 2,
-    "titular": "No",
+    "titular": "Sí",
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
@@ -16704,7 +16704,7 @@
     "r3": 2,
     "r2": "-",
     "r1": 3,
-    "titular": "Sí",
+    "titular": "No",
     "anterior_dueño": "Diego Zuri",
     "compra": 270000,
     "venta": 1766400,
@@ -20312,7 +20312,7 @@
     "r3": 5,
     "r2": "-",
     "r1": 4,
-    "titular": "Sí",
+    "titular": "No",
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
@@ -20927,7 +20927,7 @@
     "r3": 2,
     "r2": "-",
     "r1": "-",
-    "titular": "No",
+    "titular": "Sí",
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
