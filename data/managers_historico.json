@@ -686,6 +686,15 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "André Almeida",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3325.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }

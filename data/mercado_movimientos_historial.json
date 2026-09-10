@@ -39,7 +39,7 @@
     "imagen": "https://www.comuniate.com/caras3/2453.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "valor": 1940700,
-    "valor_momento": null,
+    "valor_momento": 1850000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/2498.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "valor": 276900,
-    "valor_momento": null,
+    "valor_momento": 280000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -61,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/2924.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "valor": 405500,
-    "valor_momento": null,
+    "valor_momento": 410000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -72,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/3576.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 930000,
-    "valor_momento": null,
+    "valor_momento": 910000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -83,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/3553.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "valor": 1216800,
-    "valor_momento": null,
+    "valor_momento": 1200000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
