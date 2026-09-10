@@ -1,0 +1,11 @@
+[
+  { "manager": "Carlos Saez",  "id_manager": "20580817", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Carlos%20Saez.png" },
+  { "manager": "Chirli",       "id_manager": "20580115", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Chirli.png" },
+  { "manager": "Dani Portero", "id_manager": "20579863", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Dani%20Portero.png" },
+  { "manager": "Diego Zuri",   "id_manager": "20580179", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Diego%20Zuri.png" },
+  { "manager": "Edu Zurita",   "id_manager": "20579590", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Edu%20Zurita.png" },
+  { "manager": "Manuel Tello", "id_manager": "20580645", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Manuel%20Tello.png" },
+  { "manager": "Mena",         "id_manager": "20890542", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Mena.png" },
+  { "manager": "Muriqui Saez", "id_manager": "20579857", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Muriqui%20Saez.png" },
+  { "manager": "Team Novita",  "id_manager": "20583822", "foto": "https://raw.githubusercontent.com/daniportero/comunio-app-data/main/managers/Team%20Novita.png" }
+]
