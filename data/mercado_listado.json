@@ -1,6 +1,26 @@
 [
   {
     "posicion": "MED",
+    "puntos": 15,
+    "media_puntos": 3.8,
+    "imagen": "https://www.comuniate.com/caras3/4073.png",
+    "jugador": "Izan Merino",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "valor_jugador": 3800000,
+    "revalorizacion": 1080000,
+    "plusvalia": null,
+    "venta": 4200000,
+    "r5": "-",
+    "r4": 5,
+    "r3": 2,
+    "r2": 5,
+    "r1": 3,
+    "manager": "",
+    "valor_compra": 0,
+    "lesion": null
+  },
+  {
+    "posicion": "MED",
     "puntos": 13,
     "media_puntos": 3.2,
     "imagen": "https://www.comuniate.com/caras3/3895.png",
