@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-09-10",
+    "jugador": "Guedes",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2488.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 6161100,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-10",
+    "jugador": "Javi Rodríguez",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3686.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 1696600,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-09",
     "jugador": "Beñat Turrientes",
     "posicion": "MED",

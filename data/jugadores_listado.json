@@ -1394,7 +1394,7 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor_jugador": 6070000,
     "revalorizacion": -1110000,
-    "plusvalia": -870000,
+    "plusvalia": null,
     "r5": 5,
     "r4": 3,
     "r3": 4,
@@ -1403,8 +1403,8 @@
     "libre": true,
     "anterior_dueño": "Dani Portero",
     "compra": 6940000,
-    "venta": null,
-    "margen_venta": null,
+    "venta": 6161100,
+    "margen_venta": -778900,
     "lesion": null
   },
   {
@@ -4738,7 +4738,7 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "valor_jugador": 1700000,
     "revalorizacion": -670000,
-    "plusvalia": 750000,
+    "plusvalia": null,
     "r5": 4,
     "r4": "-",
     "r3": 1,
@@ -4747,8 +4747,8 @@
     "libre": true,
     "anterior_dueño": "Dani Portero",
     "compra": 950000,
-    "venta": null,
-    "margen_venta": null,
+    "venta": 1696600,
+    "margen_venta": 746600,
     "lesion": null
   },
   {

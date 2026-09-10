@@ -52,6 +52,19 @@
     "margen_ventas": 9522598
   },
   {
+    "posicion": 6,
+    "manager": "Dani Portero",
+    "valor_equipo": 62850000,
+    "puja_maxima": 16212300,
+    "dinero": 499800,
+    "compras": 144333000,
+    "ventas": 103122800,
+    "puntos": 171,
+    "cuota_mercado": 0.1242,
+    "plusvalia": 11529000,
+    "margen_ventas": 10110800
+  },
+  {
     "posicion": 1,
     "manager": "Manuel Tello",
     "valor_equipo": 64650000,
@@ -102,18 +115,5 @@
     "cuota_mercado": 0.0977,
     "plusvalia": -6976771,
     "margen_ventas": 12500786
-  },
-  {
-    "posicion": 6,
-    "manager": "Dani Portero",
-    "valor_equipo": 62850000,
-    "puja_maxima": 8354600,
-    "dinero": -7357900,
-    "compras": 144333000,
-    "ventas": 95265100,
-    "puntos": 171,
-    "cuota_mercado": 0.1242,
-    "plusvalia": 11529000,
-    "margen_ventas": 10143100
   }
 ]

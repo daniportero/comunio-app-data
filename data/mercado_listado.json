@@ -1,6 +1,26 @@
 [
   {
     "posicion": "MED",
+    "puntos": 13,
+    "media_puntos": 3.2,
+    "imagen": "https://www.comuniate.com/caras3/3895.png",
+    "jugador": "Ugrinic",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor_jugador": 1440000,
+    "revalorizacion": -230000,
+    "plusvalia": -61000,
+    "venta": 14400000,
+    "r5": "-",
+    "r4": 1,
+    "r3": 4,
+    "r2": 6,
+    "r1": 2,
+    "manager": "Carlos Saez",
+    "valor_compra": 1501000,
+    "lesion": null
+  },
+  {
+    "posicion": "MED",
     "puntos": 17,
     "media_puntos": 5.7,
     "imagen": "https://www.comuniate.com/caras3/3842.png",
