@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 65700000,
+    "valor_equipo": 64650000,
     "num_jugadores": 14,
     "formacion": "3-4-3",
     "jugadores": [
@@ -261,7 +261,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 72320000,
+    "valor_equipo": 70620000,
     "num_jugadores": 13,
     "formacion": "4-5-1",
     "jugadores": [
@@ -503,7 +503,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 53930000,
+    "valor_equipo": 52630000,
     "num_jugadores": 15,
     "formacion": "4-3-3",
     "jugadores": [
@@ -781,7 +781,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 64510000,
+    "valor_equipo": 63010000,
     "num_jugadores": 12,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1005,7 +1005,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 47830000,
+    "valor_equipo": 47660000,
     "num_jugadores": 14,
     "formacion": "4-4-2",
     "jugadores": [
@@ -1265,7 +1265,7 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 49470000,
+    "valor_equipo": 49460000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1525,7 +1525,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 56780000,
+    "valor_equipo": 54580000,
     "num_jugadores": 16,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1821,7 +1821,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 35500000,
+    "valor_equipo": 34540000,
     "num_jugadores": 12,
     "formacion": "3-5-2",
     "jugadores": [
@@ -2045,7 +2045,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 75860000,
+    "valor_equipo": 76710000,
     "num_jugadores": 10,
     "formacion": "4-4-2",
     "jugadores": [
