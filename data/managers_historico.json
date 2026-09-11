@@ -4087,6 +4087,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Kochorashvili",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3087.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }

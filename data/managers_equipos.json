@@ -971,7 +971,7 @@
     "manager": "Mena",
     "valor_equipo": 47660000,
     "num_jugadores": 14,
-    "formacion": "4-4-2",
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1168,7 +1168,7 @@
         "r3": 4,
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -1222,7 +1222,7 @@
         "r3": 2,
         "r2": "-",
         "r1": 5,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       }
     ]
@@ -1464,7 +1464,7 @@
         "r3": "-",
         "r2": "-",
         "r1": 2,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       }
     ]
