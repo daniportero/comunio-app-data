@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 64650000,
+    "valor_equipo": 65500000,
     "num_jugadores": 14,
     "formacion": "4-3-3",
     "jugadores": [
@@ -261,7 +261,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 62850000,
+    "valor_equipo": 61970000,
     "num_jugadores": 11,
     "formacion": "4-5-1",
     "jugadores": [
@@ -467,7 +467,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 52630000,
+    "valor_equipo": 54410000,
     "num_jugadores": 15,
     "formacion": "4-3-3",
     "jugadores": [
@@ -745,7 +745,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 63010000,
+    "valor_equipo": 62650000,
     "num_jugadores": 12,
     "formacion": "3-5-2",
     "jugadores": [
@@ -969,7 +969,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 47660000,
+    "valor_equipo": 48230000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1229,8 +1229,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 31070000,
-    "num_jugadores": 13,
+    "valor_equipo": 56330000,
+    "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1466,12 +1466,30 @@
         "r1": 2,
         "alineado": true,
         "lesion": null
+      },
+      {
+        "posicion": "DEL",
+        "puntos": 40,
+        "media_puntos": 13.3,
+        "jugador": "Mbappé",
+        "imagen": "https://www.comuniate.com/caras3/3469.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+        "valor_jugador": 23460000,
+        "revalorizacion": -6600000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": -1,
+        "r3": 15,
+        "r2": 2,
+        "r1": 23,
+        "alineado": false,
+        "lesion": null
       }
     ]
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 54580000,
+    "valor_equipo": 55200000,
     "num_jugadores": 16,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1767,7 +1785,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 34540000,
+    "valor_equipo": 34880000,
     "num_jugadores": 12,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1991,8 +2009,8 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 76710000,
-    "num_jugadores": 10,
+    "valor_equipo": 79900000,
+    "num_jugadores": 12,
     "formacion": "4-4-2",
     "jugadores": [
       {
@@ -2087,6 +2105,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 25,
+        "media_puntos": 6.2,
+        "jugador": "Pablo Ibáñez",
+        "imagen": "https://www.comuniate.com/caras3/3311.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+        "valor_jugador": 1800000,
+        "revalorizacion": 60000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 12,
+        "r3": 3,
+        "r2": 8,
+        "r1": 2,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 49,
         "media_puntos": 12.2,
         "jugador": "Bellingham",
@@ -2173,6 +2209,24 @@
         "r2": 9,
         "r1": 3,
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEL",
+        "puntos": 0,
+        "media_puntos": 0.0,
+        "jugador": "Ibra Sow",
+        "imagen": "https://www.comuniate.com/caras3/4114.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+        "valor_jugador": 170000,
+        "revalorizacion": 0,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": false,
         "lesion": null
       }
     ]
