@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/3469.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "valor": 23650000,
-    "valor_momento": null,
+    "valor_momento": 25500000,
     "manager": "Muriqui Saez",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/4114.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "valor": 170000,
-    "valor_momento": null,
+    "valor_momento": 170000,
     "manager": "Carlos Saez",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/3311.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 1901000,
-    "valor_momento": null,
+    "valor_momento": 2060000,
     "manager": "Carlos Saez",
     "movimiento": "Compra"
   },
@@ -61,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/2565.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "valor": 17580800,
-    "valor_momento": null,
+    "valor_momento": 18390000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
