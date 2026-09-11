@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEL",
+    "puntos": 0,
+    "media_puntos": 0.0,
+    "imagen": "https://www.comuniate.com/caras3/4114.png",
+    "jugador": "Ibra Sow",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor_jugador": 170000,
+    "revalorizacion": -10000,
+    "plusvalia": 0,
+    "venta": 1700000,
+    "r5": "-",
+    "r4": "-",
+    "r3": "-",
+    "r2": "-",
+    "r1": "-",
+    "manager": "Carlos Saez",
+    "valor_compra": 170000,
+    "lesion": null
+  },
+  {
     "posicion": "DEF",
     "puntos": 11,
     "media_puntos": 2.8,
