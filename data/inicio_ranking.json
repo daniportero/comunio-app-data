@@ -13,8 +13,8 @@
   {
     "posicion": 2,
     "manager": "Carlos Saez",
-    "valor_equipo": 79900000,
-    "dinero": -440000,
+    "valor_equipo": 78490000,
+    "dinero": 1017900,
     "puntos_jornada_actual": 57,
     "puntos_total": 244,
     "cambio_posicion": -1,
@@ -79,8 +79,8 @@
   {
     "posicion": 8,
     "manager": "Muriqui Saez",
-    "valor_equipo": 56330000,
-    "dinero": -7615185,
+    "valor_equipo": 47120000,
+    "dinero": 1684115,
     "puntos_jornada_actual": 25,
     "puntos_total": 159,
     "cambio_posicion": -2,

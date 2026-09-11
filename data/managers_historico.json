@@ -4761,6 +4761,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Mbappé",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3469.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       },
@@ -4890,6 +4899,15 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3851.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Mbappé",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3469.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
@@ -7260,6 +7278,24 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Pablo Ibáñez",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3311.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Ibra Sow",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/4114.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       },
@@ -7365,6 +7401,24 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Pablo Ibáñez",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3311.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Ibra Sow",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/4114.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
