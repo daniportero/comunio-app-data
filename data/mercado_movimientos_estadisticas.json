@@ -46,9 +46,9 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 43,
-    "num_compras": 28,
-    "valor_compras": 93972485,
+    "total_mov": 44,
+    "num_compras": 29,
+    "valor_compras": 117622485,
     "num_ventas": 15,
     "valor_ventas": 67617300,
     "margen_ventas": 526031
@@ -73,9 +73,9 @@
   },
   {
     "manager": "Carlos Saez",
-    "total_mov": 38,
-    "num_compras": 24,
-    "valor_compras": 88342000,
+    "total_mov": 40,
+    "num_compras": 26,
+    "valor_compras": 90413000,
     "num_ventas": 14,
     "valor_ventas": 47533000,
     "margen_ventas": 16651000

@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-09-11",
+    "jugador": "Mbappé",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3469.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "valor": 23650000,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-11",
+    "jugador": "Ibra Sow",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4114.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 170000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-11",
+    "jugador": "Pablo Ibáñez",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3311.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 1901000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-10",
     "jugador": "Guedes",
     "posicion": "DEL",
