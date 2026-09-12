@@ -2165,19 +2165,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Facu González",
+            "jugador": "Javi Galán",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4030.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+            "imagen": "https://www.comuniate.com/caras3/2736.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Javi Galán",
+            "jugador": "Leandro Cabrera",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2736.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+            "imagen": "https://www.comuniate.com/caras3/1019.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -2201,19 +2201,28 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Dotor",
+            "jugador": "Abde Ezzalzouli",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3465.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "imagen": "https://www.comuniate.com/caras3/3180.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Jorge de Frutos",
+            "jugador": "Aleñá",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2806.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "imagen": "https://www.comuniate.com/caras3/2377.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Dotor",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3465.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -2237,15 +2246,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Villalibre",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2338.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Iñaki Williams",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/1995.png",
@@ -2255,19 +2255,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Leandro Cabrera",
+            "jugador": "Facu González",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/1019.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Abde Ezzalzouli",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3180.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+            "imagen": "https://www.comuniate.com/caras3/4030.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -2282,10 +2273,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Aleñá",
+            "jugador": "Jorge de Frutos",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2377.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "imagen": "https://www.comuniate.com/caras3/2806.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Villalibre",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2338.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -3837,7 +3837,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 5,
+        "puntos_totales": 11,
         "jugadores": [
           {
             "jugador": "Vlachodimos",
@@ -3894,6 +3894,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Kochorashvili",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3087.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": 6,
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Mikel Jauregizar",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3549.png",
@@ -3921,15 +3930,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Alemao",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3862.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Budimir",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2808.png",
@@ -3939,19 +3939,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Kochorashvili",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3087.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": 6,
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Juan Cruz",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2571.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Alemao",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3862.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -4709,19 +4709,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Javier Hernández",
+            "jugador": "Peque",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3851.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Mario Soriano",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/4050.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+            "imagen": "https://www.comuniate.com/caras3/3655.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -4736,10 +4727,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Vinícius Júnior",
+            "jugador": "Mbappé",
             "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2565.png",
+            "imagen": "https://www.comuniate.com/caras3/3469.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Álvaro Djaló",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3610.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -4752,33 +4752,6 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
-          },
-          {
-            "jugador": "Peque",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3655.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Álvaro Djaló",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3610.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Mbappé",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3469.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": false
           }
         ]
       },
@@ -7205,7 +7178,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 4,
+        "puntos_totales": 0,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -7271,11 +7244,11 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Ugrinic",
+            "jugador": "Pablo Ibáñez",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3895.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-            "puntos": 4,
+            "imagen": "https://www.comuniate.com/caras3/3311.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7289,6 +7262,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Ibra Sow",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/4114.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Raphinha",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3298.png",
@@ -7296,24 +7278,6 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
-          },
-          {
-            "jugador": "Pablo Ibáñez",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3311.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": false
-          },
-          {
-            "jugador": "Ibra Sow",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/4114.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": false
           }
         ]
       },
