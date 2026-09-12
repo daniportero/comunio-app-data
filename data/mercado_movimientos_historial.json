@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/2545.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "valor": 450000,
-    "valor_momento": null,
+    "valor_momento": 450000,
     "manager": "Diego Zuri",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/3879.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor": 280000,
-    "valor_momento": null,
+    "valor_momento": 280000,
     "manager": "Muriqui Saez",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/1565.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "valor": 2222222,
-    "valor_momento": null,
+    "valor_momento": 2250000,
     "manager": "Muriqui Saez",
     "movimiento": "Compra"
   },
@@ -39,7 +39,7 @@
     "imagen": "https://www.comuniate.com/caras3/2637.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 1160000,
-    "valor_momento": null,
+    "valor_momento": 1120000,
     "manager": "Carlos Saez",
     "movimiento": "Compra"
   },
@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/3930.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 10550000,
-    "valor_momento": null,
+    "valor_momento": 10310000,
     "manager": "Edu Zurita",
     "movimiento": "Compra"
   },
@@ -94,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/3895.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "valor": 1457900,
-    "valor_momento": null,
+    "valor_momento": 1410000,
     "manager": "Carlos Saez",
     "movimiento": "Venta"
   },
@@ -105,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/4050.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "valor": 5516000,
-    "valor_momento": null,
+    "valor_momento": 5600000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
@@ -116,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/3851.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 3783300,
-    "valor_momento": null,
+    "valor_momento": 3610000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
