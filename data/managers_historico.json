@@ -514,7 +514,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 23,
+        "puntos_totales": 20,
         "jugadores": [
           {
             "jugador": "Álvaro Valles",
@@ -602,7 +602,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3773.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 16,
+            "puntos": 13,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1320,7 +1320,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 3,
+        "puntos_totales": 4,
         "jugadores": [
           {
             "jugador": "Leo Román",
@@ -1336,7 +1336,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3651.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-            "puntos": 3,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -2153,7 +2153,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 8,
+        "puntos_totales": 9,
         "jugadores": [
           {
             "jugador": "Courtois",
@@ -2178,7 +2178,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/1019.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 5,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3837,7 +3837,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 29,
+        "puntos_totales": 32,
         "jugadores": [
           {
             "jugador": "Vlachodimos",
@@ -3934,7 +3934,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2808.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-            "puntos": 3,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5602,7 +5602,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 10,
+        "puntos_totales": 13,
         "jugadores": [
           {
             "jugador": "Joan García",
@@ -5690,7 +5690,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4083.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6462,7 +6462,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 14,
+        "puntos_totales": 15,
         "jugadores": [
           {
             "jugador": "Sivera",
@@ -6532,7 +6532,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2851.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-            "puntos": 3,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
