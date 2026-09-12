@@ -629,7 +629,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3216.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": 6,
+            "puntos": 7,
             "alineado": false,
             "alineado_inicial": true
           },
@@ -1320,7 +1320,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 7,
+        "puntos_totales": 11,
         "jugadores": [
           {
             "jugador": "Leo Román",
@@ -1390,7 +1390,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3888.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": "-",
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -2153,7 +2153,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 11,
+        "puntos_totales": 16,
         "jugadores": [
           {
             "jugador": "Courtois",
@@ -2250,7 +2250,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/1995.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 1,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3013,7 +3013,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 7,
+        "puntos_totales": 12,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -3083,7 +3083,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2596.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": 0,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3110,7 +3110,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3084.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 7,
+            "puntos": 10,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3837,7 +3837,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 39,
+        "puntos_totales": 43,
         "jugadores": [
           {
             "jugador": "Vlachodimos",
@@ -3880,7 +3880,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3079.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": 4,
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3907,7 +3907,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3549.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": 3,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
