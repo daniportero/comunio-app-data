@@ -4920,6 +4920,15 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Ximo Navarro",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/1565.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
@@ -7425,6 +7434,15 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/4114.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Javi Puado",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2637.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false

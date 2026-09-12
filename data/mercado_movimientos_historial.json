@@ -55,6 +55,28 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-12",
+    "jugador": "Ibra Sow",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4114.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 161500,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-12",
+    "jugador": "Peque",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3655.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 1190600,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-11",
     "jugador": "Mbappé",
     "posicion": "DEL",

@@ -1265,8 +1265,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 48160000,
-    "num_jugadores": 14,
+    "valor_equipo": 46980000,
+    "num_jugadores": 13,
     "formacion": "4-4-2",
     "jugadores": [
       {
@@ -1338,7 +1338,7 @@
         "r3": 4,
         "r2": 2,
         "r1": 3,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -1392,7 +1392,7 @@
         "r3": "-",
         "r2": "-",
         "r1": 4,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1446,24 +1446,6 @@
         "r3": 4,
         "r2": 10,
         "r1": 3,
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 12,
-        "media_puntos": 4.0,
-        "jugador": "Peque",
-        "imagen": "https://www.comuniate.com/caras3/3655.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-        "valor_jugador": 1180000,
-        "revalorizacion": -630000,
-        "plusvalia": 880000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": 3,
-        "r1": 2,
         "alineado": true,
         "lesion": null
       },
@@ -2045,8 +2027,8 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 75310000,
-    "num_jugadores": 12,
+    "valor_equipo": 75140000,
+    "num_jugadores": 11,
     "formacion": "4-3-3",
     "jugadores": [
       {
@@ -2226,7 +2208,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": "Rotura ligamento cruzado anterior de la rodilla derecha. Baja hasta agosto"
       },
       {
@@ -2244,24 +2226,6 @@
         "r3": 5,
         "r2": 2,
         "r1": 9,
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Ibra Sow",
-        "imagen": "https://www.comuniate.com/caras3/4114.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-        "valor_jugador": 170000,
-        "revalorizacion": 0,
-        "plusvalia": 0,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
         "alineado": true,
         "lesion": null
       }
