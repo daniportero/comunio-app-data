@@ -19,18 +19,18 @@
   },
   {
     "manager": "Edu Zurita",
-    "total_mov": 43,
-    "num_compras": 29,
-    "valor_compras": 76410017,
+    "total_mov": 44,
+    "num_compras": 30,
+    "valor_compras": 86960017,
     "num_ventas": 14,
     "valor_ventas": 34322600,
     "margen_ventas": 9522598
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 42,
-    "num_compras": 27,
-    "valor_compras": 69900814,
+    "total_mov": 43,
+    "num_compras": 28,
+    "valor_compras": 70350814,
     "num_ventas": 15,
     "valor_ventas": 26923300,
     "margen_ventas": 9103415
@@ -46,9 +46,9 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 46,
-    "num_compras": 29,
-    "valor_compras": 117622485,
+    "total_mov": 48,
+    "num_compras": 31,
+    "valor_compras": 120124707,
     "num_ventas": 17,
     "valor_ventas": 76916600,
     "margen_ventas": 45327
@@ -73,9 +73,9 @@
   },
   {
     "manager": "Carlos Saez",
-    "total_mov": 41,
-    "num_compras": 26,
-    "valor_compras": 90413000,
+    "total_mov": 42,
+    "num_compras": 27,
+    "valor_compras": 91573000,
     "num_ventas": 15,
     "valor_ventas": 48990900,
     "margen_ventas": 16607900

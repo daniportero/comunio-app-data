@@ -1,5 +1,60 @@
 [
   {
+    "fecha": "2026-09-12",
+    "jugador": "Junior Firpo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2545.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 450000,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-12",
+    "jugador": "Iturbe",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3879.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 280000,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-12",
+    "jugador": "Ximo Navarro",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1565.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 2222222,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-12",
+    "jugador": "Javi Puado",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2637.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 1160000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-12",
+    "jugador": "Mikautadze",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3930.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 10550000,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-11",
     "jugador": "Mbappé",
     "posicion": "DEL",

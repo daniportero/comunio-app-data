@@ -13,32 +13,6 @@
     "margen_ventas": -1519100
   },
   {
-    "posicion": 8,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 48160000,
-    "puja_maxima": 13724115,
-    "dinero": 1684115,
-    "compras": 117622485,
-    "ventas": 76916600,
-    "puntos": 159,
-    "cuota_mercado": 0.0945,
-    "plusvalia": 6368788,
-    "margen_ventas": 45327
-  },
-  {
-    "posicion": 2,
-    "manager": "Carlos Saez",
-    "valor_equipo": 75310000,
-    "puja_maxima": 19845400,
-    "dinero": 1017900,
-    "compras": 90413000,
-    "ventas": 48990900,
-    "puntos": 244,
-    "cuota_mercado": 0.1478,
-    "plusvalia": 20460000,
-    "margen_ventas": 16607900
-  },
-  {
     "posicion": 4,
     "manager": "Mena",
     "valor_equipo": 46990000,
@@ -50,19 +24,6 @@
     "cuota_mercado": 0.0922,
     "plusvalia": 13830000,
     "margen_ventas": -7928900
-  },
-  {
-    "posicion": 5,
-    "manager": "Edu Zurita",
-    "valor_equipo": 62890000,
-    "puja_maxima": 16235083,
-    "dinero": 512583,
-    "compras": 76410017,
-    "ventas": 34322600,
-    "puntos": 180,
-    "cuota_mercado": 0.1234,
-    "plusvalia": 2799985,
-    "margen_ventas": 9522598
   },
   {
     "posicion": 6,
@@ -104,16 +65,55 @@
     "margen_ventas": 1092423
   },
   {
+    "posicion": 2,
+    "manager": "Carlos Saez",
+    "valor_equipo": 75310000,
+    "puja_maxima": 18685400,
+    "dinero": -142100,
+    "compras": 91573000,
+    "ventas": 48990900,
+    "puntos": 244,
+    "cuota_mercado": 0.1478,
+    "plusvalia": 20550000,
+    "margen_ventas": 16607900
+  },
+  {
     "posicion": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 62030000,
-    "puja_maxima": 15509986,
-    "dinero": 2486,
-    "compras": 69900814,
+    "puja_maxima": 15059986,
+    "dinero": -447514,
+    "compras": 70350814,
     "ventas": 26923300,
     "puntos": 218,
     "cuota_mercado": 0.1217,
     "plusvalia": 10569071,
     "margen_ventas": 9103415
+  },
+  {
+    "posicion": 8,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 48160000,
+    "puja_maxima": 11221893,
+    "dinero": -818107,
+    "compras": 120124707,
+    "ventas": 76916600,
+    "puntos": 159,
+    "cuota_mercado": 0.0945,
+    "plusvalia": 6286566,
+    "margen_ventas": 45327
+  },
+  {
+    "posicion": 5,
+    "manager": "Edu Zurita",
+    "valor_equipo": 62890000,
+    "puja_maxima": 5685083,
+    "dinero": -10037417,
+    "compras": 86960017,
+    "ventas": 34322600,
+    "puntos": 180,
+    "cuota_mercado": 0.1234,
+    "plusvalia": 2699985,
+    "margen_ventas": 9522598
   }
 ]
