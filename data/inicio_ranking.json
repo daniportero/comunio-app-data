@@ -26,8 +26,8 @@
     "manager": "Mena",
     "valor_equipo": 46990000,
     "dinero": 541100,
-    "puntos_jornada_actual": 36,
-    "puntos_total": 243,
+    "puntos_jornada_actual": 37,
+    "puntos_total": 244,
     "cambio_posicion": 1,
     "jugadores_jugados": 5,
     "jugadores_alineados": 11
@@ -37,8 +37,8 @@
     "manager": "Diego Zuri",
     "valor_equipo": 62030000,
     "dinero": -447514,
-    "puntos_jornada_actual": 3,
-    "puntos_total": 221,
+    "puntos_jornada_actual": 8,
+    "puntos_total": 226,
     "cambio_posicion": -1,
     "jugadores_jugados": 0,
     "jugadores_alineados": 11
@@ -48,8 +48,8 @@
     "manager": "Edu Zurita",
     "valor_equipo": 62890000,
     "dinero": -10037417,
-    "puntos_jornada_actual": 10,
-    "puntos_total": 190,
+    "puntos_jornada_actual": 11,
+    "puntos_total": 191,
     "cambio_posicion": 1,
     "jugadores_jugados": 2,
     "jugadores_alineados": 11
