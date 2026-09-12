@@ -445,20 +445,9 @@
     "equipo_local": "Sevilla",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "equipo_visitante": "Valencia",
-    "resultado": null,
+    "resultado": "1-0",
     "fecha": "2026-09-11",
     "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 5,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/14.png",
-    "equipo_local": "Racing de Santander",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "equipo_visitante": "Alavés",
-    "resultado": null,
-    "fecha": "2026-09-12",
-    "hora": "14:00",
     "aplazado": false
   },
   {
@@ -771,6 +760,28 @@
   },
   {
     "jornada": 8,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "equipo_local": "Real Madrid",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "equipo_visitante": "Villarreal",
+    "resultado": null,
+    "fecha": "2026-10-10",
+    "hora": "21:00",
+    "aplazado": false
+  },
+  {
+    "jornada": 8,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "equipo_local": "Real Sociedad",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "equipo_visitante": "Deportivo",
+    "resultado": null,
+    "fecha": "2026-10-11",
+    "hora": "16:15",
+    "aplazado": false
+  },
+  {
+    "jornada": 8,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo_local": "Alavés",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
@@ -797,17 +808,6 @@
     "equipo_local": "Barcelona",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "equipo_visitante": "Getafe",
-    "resultado": null,
-    "fecha": "2026-10-11",
-    "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 8,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "equipo_local": "Levante",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/17.png",
-    "equipo_visitante": "Sevilla",
     "resultado": null,
     "fecha": "2026-10-11",
     "hora": "21:00",
@@ -848,17 +848,6 @@
   },
   {
     "jornada": 8,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/15.png",
-    "equipo_local": "Real Madrid",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/19.png",
-    "equipo_visitante": "Villarreal",
-    "resultado": null,
-    "fecha": "2026-10-11",
-    "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 8,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/14.png",
     "equipo_local": "Racing de Santander",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/18.png",
@@ -870,12 +859,12 @@
   },
   {
     "jornada": 8,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/13.png",
-    "equipo_local": "Real Sociedad",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/6.png",
-    "equipo_visitante": "Deportivo",
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "equipo_local": "Levante",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "equipo_visitante": "Sevilla",
     "resultado": null,
-    "fecha": "2026-10-11",
+    "fecha": "2026-10-12",
     "hora": "21:00",
     "aplazado": false
   },
