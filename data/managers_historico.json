@@ -514,7 +514,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 15,
+        "puntos_totales": 20,
         "jugadores": [
           {
             "jugador": "Álvaro Valles",
@@ -602,7 +602,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3773.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 9,
+            "puntos": 14,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3837,7 +3837,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 20,
+        "puntos_totales": 29,
         "jugadores": [
           {
             "jugador": "Vlachodimos",
@@ -3871,7 +3871,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3347.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 3,
+            "puntos": 10,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3934,7 +3934,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2808.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-            "puntos": 2,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -4643,7 +4643,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 14,
+        "puntos_totales": 13,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -4704,7 +4704,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3078.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 3,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6462,7 +6462,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 12,
+        "puntos_totales": 13,
         "jugadores": [
           {
             "jugador": "Sivera",
@@ -6496,7 +6496,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3807.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": 2,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
