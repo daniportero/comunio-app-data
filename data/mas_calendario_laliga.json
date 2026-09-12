@@ -474,17 +474,6 @@
   },
   {
     "jornada": 5,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/1.png",
-    "equipo_local": "Athletic Club",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "equipo_visitante": "Elche",
-    "resultado": null,
-    "fecha": "2026-09-12",
-    "hora": "18:30",
-    "aplazado": false
-  },
-  {
-    "jornada": 5,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "equipo_local": "Real Madrid",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/70.png",
