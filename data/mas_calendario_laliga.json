@@ -485,6 +485,17 @@
   },
   {
     "jornada": 5,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "equipo_local": "Real Madrid",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "equipo_visitante": "Rayo Vallecano",
+    "resultado": "4-1",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 5,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "equipo_local": "Celta",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/65.png",
