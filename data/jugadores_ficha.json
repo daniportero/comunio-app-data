@@ -4072,7 +4072,7 @@
     "valor_maximo": 4440000,
     "valor_minimo": 1300000,
     "r5": "-",
-    "r4": 7,
+    "r4": 11,
     "r3": 4,
     "r2": 9,
     "r1": 5,
@@ -4359,7 +4359,7 @@
     "valor_maximo": 10590000,
     "valor_minimo": 1580000,
     "r5": "-",
-    "r4": 3,
+    "r4": 5,
     "r3": -2,
     "r2": 7,
     "r1": 7,
@@ -5015,7 +5015,7 @@
     "valor_maximo": 7430000,
     "valor_minimo": 1110000,
     "r5": "-",
-    "r4": 6,
+    "r4": 7,
     "r3": 4,
     "r2": "-",
     "r1": "-",
@@ -5039,7 +5039,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 1,
+    "tendencia": 2,
     "lesion": null
   },
   {
@@ -5302,7 +5302,7 @@
     "valor_maximo": 6810000,
     "valor_minimo": 1030000,
     "r5": "-",
-    "r4": 3,
+    "r4": 4,
     "r3": 6,
     "r2": "-",
     "r1": 3,
@@ -5326,7 +5326,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 2,
+    "tendencia": 3,
     "lesion": null
   },
   {
@@ -7048,7 +7048,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 2,
+    "tendencia": 3,
     "lesion": null
   },
   {
@@ -9566,7 +9566,7 @@
     "valor_maximo": 2830000,
     "valor_minimo": 190000,
     "r5": "-",
-    "r4": 4,
+    "r4": 7,
     "r3": -3,
     "r2": 5,
     "r1": 5,
@@ -10984,7 +10984,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 4,
+    "tendencia": 3,
     "lesion": "Lesión muscular"
   },
   {
@@ -11763,7 +11763,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 3,
+    "tendencia": 2,
     "lesion": null
   },
   {
@@ -12993,7 +12993,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 1,
+    "tendencia": 2,
     "lesion": null
   },
   {
@@ -13092,7 +13092,7 @@
     "valor_maximo": 5800000,
     "valor_minimo": 330000,
     "r5": "-",
-    "r4": 3,
+    "r4": 4,
     "r3": 4,
     "r2": "-",
     "r1": 1,
@@ -14797,7 +14797,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 2,
+    "tendencia": 3,
     "lesion": null
   },
   {
@@ -15248,7 +15248,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 1,
+    "tendencia": 2,
     "lesion": null
   },
   {
@@ -19447,7 +19447,7 @@
     "valor_maximo": 3380000,
     "valor_minimo": 260000,
     "r5": "-",
-    "r4": 4,
+    "r4": 5,
     "r3": 2,
     "r2": 9,
     "r1": 1,
@@ -19717,7 +19717,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 1,
+    "tendencia": 2,
     "lesion": null
   },
   {
@@ -20800,7 +20800,7 @@
     "valor_maximo": 7900000,
     "valor_minimo": 2500000,
     "r5": "-",
-    "r4": 2,
+    "r4": 4,
     "r3": 5,
     "r2": "-",
     "r1": "-",
@@ -20824,7 +20824,7 @@
     "penaltis_marcados": 0,
     "penaltis_fallados": 0,
     "penaltis_parados": 0,
-    "tendencia": 1,
+    "tendencia": 2,
     "lesion": null
   },
   {
@@ -21333,7 +21333,7 @@
     "valor_maximo": 1930000,
     "valor_minimo": 1480000,
     "r5": "-",
-    "r4": 4,
+    "r4": 5,
     "r3": "-",
     "r2": "-",
     "r1": "-",

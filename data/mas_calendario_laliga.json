@@ -463,6 +463,17 @@
   },
   {
     "jornada": 5,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "equipo_local": "Osasuna",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "equipo_visitante": "Espanyol",
+    "resultado": "0-2",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 5,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "equipo_local": "Athletic Club",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/75.png",
