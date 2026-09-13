@@ -514,7 +514,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 33,
+        "puntos_totales": 32,
         "jugadores": [
           {
             "jugador": "Álvaro Valles",
@@ -530,7 +530,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3825.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
-            "puntos": 1,
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1345,7 +1345,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/2251.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
-            "puntos": 2,
+            "puntos": 1,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1363,7 +1363,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4008.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-            "puntos": 14,
+            "puntos": 15,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5611,7 +5611,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 24,
+        "puntos_totales": 25,
         "jugadores": [
           {
             "jugador": "Joan García",
@@ -5645,7 +5645,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3690.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-            "puntos": 3,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6471,7 +6471,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 27,
+        "puntos_totales": 26,
         "jugadores": [
           {
             "jugador": "Sivera",
@@ -6559,7 +6559,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3831.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
-            "puntos": 2,
+            "puntos": 1,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7196,7 +7196,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 41,
+        "puntos_totales": 42,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -7293,7 +7293,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3298.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-            "puntos": 9,
+            "puntos": 10,
             "alineado": true,
             "alineado_inicial": true
           }
