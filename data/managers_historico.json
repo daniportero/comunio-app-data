@@ -1320,14 +1320,14 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 38,
+        "puntos_totales": 37,
         "jugadores": [
           {
             "jugador": "Leo Román",
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/3213.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": 3,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3013,7 +3013,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 17,
+        "puntos_totales": 28,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -3092,7 +3092,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3282.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 2,
+            "puntos": 13,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -4643,7 +4643,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 39,
+        "puntos_totales": 38,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -4686,7 +4686,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4046.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": 3,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7196,7 +7196,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 45,
+        "puntos_totales": 44,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -7275,7 +7275,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2403.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
