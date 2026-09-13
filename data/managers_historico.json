@@ -638,7 +638,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4073.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": false,
             "alineado_inicial": true
           }
@@ -3013,7 +3013,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 14,
+        "puntos_totales": 12,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -3056,7 +3056,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4075.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-            "puntos": 3,
+            "puntos": 1,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6471,7 +6471,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 18,
+        "puntos_totales": 19,
         "jugadores": [
           {
             "jugador": "Sivera",
@@ -6514,7 +6514,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3179.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 2,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
