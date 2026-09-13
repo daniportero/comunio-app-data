@@ -40,7 +40,7 @@
     "puntos_jornada_actual": 12,
     "puntos_total": 230,
     "cambio_posicion": -1,
-    "jugadores_jugados": 4,
+    "jugadores_jugados": 5,
     "jugadores_alineados": 11
   },
   {
@@ -48,10 +48,10 @@
     "manager": "Edu Zurita",
     "valor_equipo": 60410000,
     "dinero": -9186917,
-    "puntos_jornada_actual": 23,
-    "puntos_total": 203,
+    "puntos_jornada_actual": 30,
+    "puntos_total": 210,
     "cambio_posicion": 1,
-    "jugadores_jugados": 5,
+    "jugadores_jugados": 8,
     "jugadores_alineados": 11
   },
   {
@@ -59,10 +59,10 @@
     "manager": "Muriqui Saez",
     "valor_equipo": 49840000,
     "dinero": -1849729,
-    "puntos_jornada_actual": 38,
-    "puntos_total": 197,
+    "puntos_jornada_actual": 37,
+    "puntos_total": 196,
     "cambio_posicion": 1,
-    "jugadores_jugados": 6,
+    "jugadores_jugados": 7,
     "jugadores_alineados": 11
   },
   {
@@ -81,10 +81,10 @@
     "manager": "Team Novita",
     "valor_equipo": 52750000,
     "dinero": 78257,
-    "puntos_jornada_actual": 13,
-    "puntos_total": 176,
+    "puntos_jornada_actual": 17,
+    "puntos_total": 180,
     "cambio_posicion": 0,
-    "jugadores_jugados": 4,
+    "jugadores_jugados": 5,
     "jugadores_alineados": 11
   },
   {
@@ -92,10 +92,10 @@
     "manager": "Chirli",
     "valor_equipo": 39170000,
     "dinero": 1261400,
-    "puntos_jornada_actual": 22,
-    "puntos_total": 167,
+    "puntos_jornada_actual": 28,
+    "puntos_total": 173,
     "cambio_posicion": 0,
-    "jugadores_jugados": 5,
+    "jugadores_jugados": 7,
     "jugadores_alineados": 11
   }
 ]

@@ -496,6 +496,17 @@
   },
   {
     "jornada": 5,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "equipo_local": "Celta",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "equipo_visitante": "Málaga",
+    "resultado": "1-1",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
+  },
+  {
+    "jornada": 5,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "equipo_local": "Levante",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/3.png",
