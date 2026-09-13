@@ -220,26 +220,6 @@
     "lesion": "Molestias en el tobillo"
   },
   {
-    "posicion": "DEF",
-    "puntos": 7,
-    "media_puntos": 3.5,
-    "imagen": "https://www.comuniate.com/caras3/3628.png",
-    "jugador": "Boyomo",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "valor_jugador": 1690000,
-    "revalorizacion": 0,
-    "plusvalia": -170000,
-    "venta": 1690000,
-    "r5": "-",
-    "r4": "-",
-    "r3": 2,
-    "r2": 5,
-    "r1": "-",
-    "manager": "Chirli",
-    "valor_compra": 1860000,
-    "lesion": null
-  },
-  {
     "posicion": "MED",
     "puntos": 8,
     "media_puntos": 2.7,

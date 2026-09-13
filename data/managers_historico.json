@@ -6712,6 +6712,15 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Isaac Romero",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3563.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }

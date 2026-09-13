@@ -44,6 +44,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-13",
+    "jugador": "Boyomo",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3628.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 1600600,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-12",
     "jugador": "Junior Firpo",
     "posicion": "DEF",

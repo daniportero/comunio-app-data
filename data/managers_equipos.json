@@ -1839,9 +1839,9 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 40810000,
-    "num_jugadores": 14,
-    "formacion": "3-5-2",
+    "valor_equipo": 39170000,
+    "num_jugadores": 13,
+    "formacion": "3-4-3",
     "jugadores": [
       {
         "posicion": "POR",
@@ -1876,7 +1876,7 @@
         "r3": 5,
         "r2": "-",
         "r1": 7,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -1916,24 +1916,6 @@
         "lesion": null
       },
       {
-        "posicion": "DEF",
-        "puntos": 7,
-        "media_puntos": 3.5,
-        "jugador": "Boyomo",
-        "imagen": "https://www.comuniate.com/caras3/3628.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-        "valor_jugador": 1690000,
-        "revalorizacion": 0,
-        "plusvalia": -170000,
-        "r5": "-",
-        "r4": "-",
-        "r3": 2,
-        "r2": 5,
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
         "posicion": "MED",
         "puntos": 0,
         "media_puntos": 0.0,
@@ -1948,7 +1930,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -2092,7 +2074,7 @@
         "r3": "-",
         "r2": 2,
         "r1": 14,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       }
     ]

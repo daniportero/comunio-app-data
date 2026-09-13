@@ -64,12 +64,12 @@
   },
   {
     "manager": "Chirli",
-    "total_mov": 28,
+    "total_mov": 29,
     "num_compras": 21,
     "valor_compras": 61300100,
-    "num_ventas": 7,
-    "valor_ventas": 18710900,
-    "margen_ventas": -1519100
+    "num_ventas": 8,
+    "valor_ventas": 20311500,
+    "margen_ventas": -1778500
   },
   {
     "manager": "Carlos Saez",
