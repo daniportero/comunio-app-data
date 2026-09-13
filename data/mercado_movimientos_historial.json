@@ -1,5 +1,49 @@
 [
   {
+    "fecha": "2026-09-13",
+    "jugador": "Mariano Díaz",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2304.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 6520000,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-13",
+    "jugador": "Isaac Romero",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3563.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 3510100,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-13",
+    "jugador": "Marcos Alonso",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3345.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 3790000,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-13",
+    "jugador": "Raúl García de Haro",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2865.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 2222222,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-12",
     "jugador": "Junior Firpo",
     "posicion": "DEF",

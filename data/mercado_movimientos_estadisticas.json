@@ -10,9 +10,9 @@
   },
   {
     "manager": "Dani Portero",
-    "total_mov": 47,
-    "num_compras": 29,
-    "valor_compras": 144333000,
+    "total_mov": 48,
+    "num_compras": 30,
+    "valor_compras": 150853000,
     "num_ventas": 18,
     "valor_ventas": 103122800,
     "margen_ventas": 10110800
@@ -46,9 +46,9 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 49,
-    "num_compras": 31,
-    "valor_compras": 120124707,
+    "total_mov": 50,
+    "num_compras": 32,
+    "valor_compras": 122346929,
     "num_ventas": 18,
     "valor_ventas": 78107200,
     "margen_ventas": 935927
@@ -64,9 +64,9 @@
   },
   {
     "manager": "Chirli",
-    "total_mov": 26,
-    "num_compras": 19,
-    "valor_compras": 54000000,
+    "total_mov": 28,
+    "num_compras": 21,
+    "valor_compras": 61300100,
     "num_ventas": 7,
     "valor_ventas": 18710900,
     "margen_ventas": -1519100
