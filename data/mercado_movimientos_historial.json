@@ -55,6 +55,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-13",
+    "jugador": "Facu González",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4030.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 850500,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-12",
     "jugador": "Junior Firpo",
     "posicion": "DEF",

@@ -4902,6 +4902,15 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Raúl García de Haro",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2865.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
