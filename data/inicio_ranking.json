@@ -4,8 +4,8 @@
     "manager": "Manuel Tello",
     "valor_equipo": 64700000,
     "dinero": 412700,
-    "puntos_jornada_actual": 34,
-    "puntos_total": 290,
+    "puntos_jornada_actual": 33,
+    "puntos_total": 289,
     "cambio_posicion": 0,
     "jugadores_jugados": 6,
     "jugadores_alineados": 11
@@ -26,8 +26,8 @@
     "manager": "Mena",
     "valor_equipo": 46990000,
     "dinero": 541100,
-    "puntos_jornada_actual": 44,
-    "puntos_total": 251,
+    "puntos_jornada_actual": 43,
+    "puntos_total": 250,
     "cambio_posicion": 1,
     "jugadores_jugados": 8,
     "jugadores_alineados": 11
@@ -59,8 +59,8 @@
     "manager": "Muriqui Saez",
     "valor_equipo": 46980000,
     "dinero": 372493,
-    "puntos_jornada_actual": 33,
-    "puntos_total": 192,
+    "puntos_jornada_actual": 34,
+    "puntos_total": 193,
     "cambio_posicion": 1,
     "jugadores_jugados": 6,
     "jugadores_alineados": 11
