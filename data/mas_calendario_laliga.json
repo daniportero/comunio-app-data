@@ -507,17 +507,6 @@
   },
   {
     "jornada": 5,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "equipo_local": "Levante",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "equipo_visitante": "Barcelona",
-    "resultado": null,
-    "fecha": "2026-09-13",
-    "hora": "16:15",
-    "aplazado": false
-  },
-  {
-    "jornada": 5,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "equipo_local": "Getafe",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/6.png",
