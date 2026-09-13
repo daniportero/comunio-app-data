@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 64700000,
+    "valor_equipo": 66130000,
     "num_jugadores": 14,
     "formacion": "4-3-3",
     "jugadores": [
@@ -261,8 +261,8 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 61040000,
-    "num_jugadores": 11,
+    "valor_equipo": 67030000,
+    "num_jugadores": 12,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -447,6 +447,24 @@
       },
       {
         "posicion": "DEL",
+        "puntos": 46,
+        "media_puntos": 11.5,
+        "jugador": "Mariano Díaz",
+        "imagen": "https://www.comuniate.com/caras3/2304.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+        "valor_jugador": 6520000,
+        "revalorizacion": 1420000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 1,
+        "r3": 14,
+        "r2": 3,
+        "r1": 12,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "DEL",
         "puntos": 22,
         "media_puntos": 5.5,
         "jugador": "Lookman",
@@ -467,7 +485,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 62890000,
+    "valor_equipo": 61220000,
     "num_jugadores": 16,
     "formacion": "4-4-2",
     "jugadores": [
@@ -763,7 +781,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 62030000,
+    "valor_equipo": 62930000,
     "num_jugadores": 13,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1005,7 +1023,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 46990000,
+    "valor_equipo": 49880000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1265,8 +1283,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 46980000,
-    "num_jugadores": 13,
+    "valor_equipo": 49840000,
+    "num_jugadores": 14,
     "formacion": "4-4-2",
     "jugadores": [
       {
@@ -1487,6 +1505,24 @@
       },
       {
         "posicion": "DEL",
+        "puntos": 16,
+        "media_puntos": 4.0,
+        "jugador": "Raúl García de Haro",
+        "imagen": "https://www.comuniate.com/caras3/2865.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+        "valor_jugador": 2150000,
+        "revalorizacion": -40000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 4,
+        "r3": 3,
+        "r2": 5,
+        "r1": 3,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "DEL",
         "puntos": 40,
         "media_puntos": 13.3,
         "jugador": "Mbappé",
@@ -1507,7 +1543,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 54220000,
+    "valor_equipo": 52750000,
     "num_jugadores": 16,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1803,8 +1839,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 34290000,
-    "num_jugadores": 12,
+    "valor_equipo": 40810000,
+    "num_jugadores": 14,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -1823,6 +1859,24 @@
         "r2": 11,
         "r1": 5,
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 20,
+        "media_puntos": 6.7,
+        "jugador": "Marcos Alonso",
+        "imagen": "https://www.comuniate.com/caras3/3345.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+        "valor_jugador": 3590000,
+        "revalorizacion": 220000,
+        "plusvalia": null,
+        "r5": 8,
+        "r4": "-",
+        "r3": 5,
+        "r2": "-",
+        "r1": 7,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -2022,12 +2076,30 @@
         "r1": 1,
         "alineado": true,
         "lesion": null
+      },
+      {
+        "posicion": "DEL",
+        "puntos": 21,
+        "media_puntos": 5.2,
+        "jugador": "Isaac Romero",
+        "imagen": "https://www.comuniate.com/caras3/3563.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+        "valor_jugador": 3410000,
+        "revalorizacion": -670000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 3,
+        "r3": "-",
+        "r2": 2,
+        "r1": 14,
+        "alineado": false,
+        "lesion": null
       }
     ]
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 75140000,
+    "valor_equipo": 76100000,
     "num_jugadores": 11,
     "formacion": "4-3-3",
     "jugadores": [
