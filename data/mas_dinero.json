@@ -9,7 +9,7 @@
     "ventas": 20311500,
     "puntos": 145,
     "cuota_mercado": 0.0746,
-    "plusvalia": 389900,
+    "plusvalia": -40100,
     "margen_ventas": -1778500
   },
   {
@@ -22,7 +22,7 @@
     "ventas": 14471100,
     "puntos": 207,
     "cuota_mercado": 0.095,
-    "plusvalia": 12590000,
+    "plusvalia": 15480000,
     "margen_ventas": -7928900
   },
   {
@@ -35,7 +35,7 @@
     "ventas": 115386800,
     "puntos": 256,
     "cuota_mercado": 0.1259,
-    "plusvalia": -1420000,
+    "plusvalia": 10000,
     "margen_ventas": 19942700
   },
   {
@@ -48,7 +48,7 @@
     "ventas": 10599200,
     "puntos": 163,
     "cuota_mercado": 0.1005,
-    "plusvalia": 9175834,
+    "plusvalia": 7705834,
     "margen_ventas": 1092423
   },
   {
@@ -61,7 +61,7 @@
     "ventas": 49152400,
     "puntos": 244,
     "cuota_mercado": 0.1449,
-    "plusvalia": 16120000,
+    "plusvalia": 17080000,
     "margen_ventas": 16599400
   },
   {
@@ -74,7 +74,7 @@
     "ventas": 26923300,
     "puntos": 218,
     "cuota_mercado": 0.1199,
-    "plusvalia": 9499071,
+    "plusvalia": 10399071,
     "margen_ventas": 9103415
   },
   {
@@ -87,7 +87,7 @@
     "ventas": 78107200,
     "puntos": 159,
     "cuota_mercado": 0.0949,
-    "plusvalia": 3954344,
+    "plusvalia": 4664344,
     "margen_ventas": 935927
   },
   {
@@ -100,7 +100,7 @@
     "ventas": 103122800,
     "puntos": 171,
     "cuota_mercado": 0.1277,
-    "plusvalia": 9719000,
+    "plusvalia": 9189000,
     "margen_ventas": 10110800
   },
   {
@@ -113,7 +113,7 @@
     "ventas": 34322600,
     "puntos": 180,
     "cuota_mercado": 0.1166,
-    "plusvalia": 729985,
+    "plusvalia": -940015,
     "margen_ventas": 9522598
   }
 ]
