@@ -514,7 +514,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 32,
+        "puntos_totales": 36,
         "jugadores": [
           {
             "jugador": "Álvaro Valles",
@@ -548,7 +548,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/1676.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": "-",
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -1320,14 +1320,14 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 35,
+        "puntos_totales": 38,
         "jugadores": [
           {
             "jugador": "Leo Román",
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/3213.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": "-",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3013,7 +3013,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 15,
+        "puntos_totales": 18,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -3092,7 +3092,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3282.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": "-",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3837,7 +3837,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 43,
+        "puntos_totales": 51,
         "jugadores": [
           {
             "jugador": "Vlachodimos",
@@ -3889,7 +3889,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4092.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": "-",
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3916,7 +3916,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4111.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": "-",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -4643,7 +4643,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 36,
+        "puntos_totales": 38,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -4686,7 +4686,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4046.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
-            "puntos": "-",
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5611,7 +5611,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 31,
+        "puntos_totales": 35,
         "jugadores": [
           {
             "jugador": "Joan García",
@@ -5663,7 +5663,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2838.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": "-",
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7196,7 +7196,7 @@
       },
       {
         "jornada": 5,
-        "puntos_totales": 41,
+        "puntos_totales": 44,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -7275,7 +7275,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2403.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": "-",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },

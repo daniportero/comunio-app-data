@@ -518,17 +518,6 @@
   },
   {
     "jornada": 5,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/8.png",
-    "equipo_local": "Getafe",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/6.png",
-    "equipo_visitante": "Deportivo",
-    "resultado": null,
-    "fecha": "2026-09-13",
-    "hora": "18:30",
-    "aplazado": false
-  },
-  {
-    "jornada": 5,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "equipo_local": "Real Sociedad",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
