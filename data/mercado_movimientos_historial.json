@@ -66,6 +66,39 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-14",
+    "jugador": "Iago Aspas",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/1523.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 5639000,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-14",
+    "jugador": "Aleix Febas",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2829.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 2443700,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-14",
+    "jugador": "Javi Galán",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2736.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 2005900,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-13",
     "jugador": "Mariano Díaz",
     "posicion": "DEL",

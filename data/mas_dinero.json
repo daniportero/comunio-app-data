@@ -8,7 +8,7 @@
     "compras": 150853000,
     "ventas": 114334000,
     "puntos": 171,
-    "cuota_mercado": 0.105,
+    "cuota_mercado": 0.1072,
     "plusvalia": 9059000,
     "margen_ventas": 6202000
   },
@@ -21,7 +21,7 @@
     "compras": 122346929,
     "ventas": 81544100,
     "puntos": 159,
-    "cuota_mercado": 0.0852,
+    "cuota_mercado": 0.087,
     "plusvalia": -2397879,
     "margen_ventas": 3595050
   },
@@ -34,9 +34,22 @@
     "compras": 61300100,
     "ventas": 20311500,
     "puntos": 145,
-    "cuota_mercado": 0.0781,
+    "cuota_mercado": 0.0798,
     "plusvalia": -670100,
     "margen_ventas": -1778500
+  },
+  {
+    "posicion": 5,
+    "manager": "Edu Zurita",
+    "valor_equipo": 48170000,
+    "puja_maxima": 12944183,
+    "dinero": 901683,
+    "compras": 86960017,
+    "ventas": 45261700,
+    "puntos": 180,
+    "cuota_mercado": 0.0997,
+    "plusvalia": -2440010,
+    "margen_ventas": 8911693
   },
   {
     "posicion": 4,
@@ -47,7 +60,7 @@
     "compras": 56800000,
     "ventas": 14471100,
     "puntos": 207,
-    "cuota_mercado": 0.0995,
+    "cuota_mercado": 0.1016,
     "plusvalia": 14650000,
     "margen_ventas": -7928900
   },
@@ -60,7 +73,7 @@
     "compras": 161384100,
     "ventas": 119210400,
     "puntos": 256,
-    "cuota_mercado": 0.1311,
+    "cuota_mercado": 0.1339,
     "plusvalia": -1770000,
     "margen_ventas": 20236300
   },
@@ -73,7 +86,7 @@
     "compras": 93174000,
     "ventas": 51026400,
     "puntos": 244,
-    "cuota_mercado": 0.1509,
+    "cuota_mercado": 0.1541,
     "plusvalia": 14910000,
     "margen_ventas": 17372400
   },
@@ -86,7 +99,7 @@
     "compras": 54550943,
     "ventas": 10599200,
     "puntos": 163,
-    "cuota_mercado": 0.1017,
+    "cuota_mercado": 0.1039,
     "plusvalia": 5115834,
     "margen_ventas": 1092423
   },
@@ -99,21 +112,8 @@
     "compras": 70350814,
     "ventas": 26923300,
     "puntos": 218,
-    "cuota_mercado": 0.1302,
+    "cuota_mercado": 0.1329,
     "plusvalia": 11669071,
     "margen_ventas": 9103415
-  },
-  {
-    "posicion": 5,
-    "manager": "Edu Zurita",
-    "valor_equipo": 58360000,
-    "puja_maxima": 5403083,
-    "dinero": -9186917,
-    "compras": 86960017,
-    "ventas": 35173100,
-    "puntos": 180,
-    "cuota_mercado": 0.1183,
-    "plusvalia": -2110015,
-    "margen_ventas": 8683098
   }
 ]
