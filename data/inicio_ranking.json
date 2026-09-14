@@ -2,7 +2,7 @@
   {
     "posicion": 1,
     "manager": "Manuel Tello",
-    "valor_equipo": 66130000,
+    "valor_equipo": 68580000,
     "dinero": 412700,
     "puntos_jornada_actual": 38,
     "puntos_total": 294,
@@ -13,7 +13,7 @@
   {
     "posicion": 2,
     "manager": "Carlos Saez",
-    "valor_equipo": 76100000,
+    "valor_equipo": 76380000,
     "dinero": 19400,
     "puntos_jornada_actual": 49,
     "puntos_total": 293,
@@ -24,10 +24,10 @@
   {
     "posicion": 3,
     "manager": "Diego Zuri",
-    "valor_equipo": 62930000,
+    "valor_equipo": 64200000,
     "dinero": -447514,
-    "puntos_jornada_actual": 52,
-    "puntos_total": 270,
+    "puntos_jornada_actual": 53,
+    "puntos_total": 271,
     "cambio_posicion": 0,
     "jugadores_jugados": 9,
     "jugadores_alineados": 11
@@ -35,10 +35,10 @@
   {
     "posicion": 4,
     "manager": "Mena",
-    "valor_equipo": 49880000,
+    "valor_equipo": 49050000,
     "dinero": 541100,
-    "puntos_jornada_actual": 57,
-    "puntos_total": 264,
+    "puntos_jornada_actual": 56,
+    "puntos_total": 263,
     "cambio_posicion": 0,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
@@ -46,10 +46,10 @@
   {
     "posicion": 5,
     "manager": "Dani Portero",
-    "valor_equipo": 67030000,
+    "valor_equipo": 62980000,
     "dinero": -6020200,
-    "puntos_jornada_actual": 48,
-    "puntos_total": 219,
+    "puntos_jornada_actual": 49,
+    "puntos_total": 220,
     "cambio_posicion": 0,
     "jugadores_jugados": 11,
     "jugadores_alineados": 11
@@ -57,7 +57,7 @@
   {
     "posicion": 6,
     "manager": "Edu Zurita",
-    "valor_equipo": 60410000,
+    "valor_equipo": 58360000,
     "dinero": -9186917,
     "puntos_jornada_actual": 30,
     "puntos_total": 210,
@@ -68,7 +68,7 @@
   {
     "posicion": 7,
     "manager": "Muriqui Saez",
-    "valor_equipo": 46410000,
+    "valor_equipo": 42000000,
     "dinero": 1587171,
     "puntos_jornada_actual": 42,
     "puntos_total": 201,
@@ -79,7 +79,7 @@
   {
     "posicion": 8,
     "manager": "Team Novita",
-    "valor_equipo": 52750000,
+    "valor_equipo": 50160000,
     "dinero": 78257,
     "puntos_jornada_actual": 34,
     "puntos_total": 197,
@@ -90,7 +90,7 @@
   {
     "posicion": 9,
     "manager": "Chirli",
-    "valor_equipo": 39170000,
+    "valor_equipo": 38540000,
     "dinero": 1261400,
     "puntos_jornada_actual": 49,
     "puntos_total": 194,
