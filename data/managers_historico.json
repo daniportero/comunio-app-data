@@ -521,7 +521,7 @@
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/3428.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -557,7 +557,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3458.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -593,7 +593,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3673.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -2214,7 +2214,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3180.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3038,7 +3038,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3116.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -4713,7 +4713,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2591.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6541,7 +6541,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/1249.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7248,7 +7248,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3685.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
+            "puntos": 0,
             "alineado": true,
             "alineado_inicial": true
           },
