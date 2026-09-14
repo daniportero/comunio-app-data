@@ -2063,9 +2063,9 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 76380000,
-    "num_jugadores": 12,
-    "formacion": "4-3-3",
+    "valor_equipo": 74430000,
+    "num_jugadores": 11,
+    "formacion": "3-4-3",
     "jugadores": [
       {
         "posicion": "POR",
@@ -2102,24 +2102,6 @@
         "r1": 8,
         "alineado": true,
         "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 19,
-        "media_puntos": 4.8,
-        "jugador": "Andrés García",
-        "imagen": "https://www.comuniate.com/caras3/4097.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-        "valor_jugador": 2030000,
-        "revalorizacion": -370000,
-        "plusvalia": 929000,
-        "r5": "-",
-        "r4": "-",
-        "r3": 4,
-        "r2": 4,
-        "r1": 9,
-        "alineado": true,
-        "lesion": "Pendiente de evolución"
       },
       {
         "posicion": "DEF",
@@ -2244,7 +2226,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": "Rotura ligamento cruzado anterior de la rodilla derecha. Baja hasta agosto"
       },
       {
@@ -2280,7 +2262,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       }
     ]

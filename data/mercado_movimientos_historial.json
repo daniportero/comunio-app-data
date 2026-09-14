@@ -22,6 +22,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-14",
+    "jugador": "Andrés García",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4097.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 1874000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-13",
     "jugador": "Mariano Díaz",
     "posicion": "DEL",
