@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-09-14",
+    "jugador": "Pepelu",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3096.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 3850000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-14",
+    "jugador": "Ratkov",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4162.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "valor": 1601000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-13",
     "jugador": "Mariano Díaz",
     "posicion": "DEL",
