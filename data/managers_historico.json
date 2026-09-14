@@ -3272,6 +3272,15 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Junior Firpo",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/2545.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }

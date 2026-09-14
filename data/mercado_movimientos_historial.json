@@ -66,6 +66,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-13",
+    "jugador": "Juan Foyth",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3017.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 3436900,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-12",
     "jugador": "Junior Firpo",
     "posicion": "DEF",
