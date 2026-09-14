@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/3096.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "valor": 3850000,
-    "valor_momento": null,
+    "valor_momento": 3350000,
     "manager": "Manuel Tello",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/4162.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "valor": 1601000,
-    "valor_momento": null,
+    "valor_momento": 1260000,
     "manager": "Carlos Saez",
     "movimiento": "Compra"
   },
@@ -72,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/3628.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
     "valor": 1600600,
-    "valor_momento": null,
+    "valor_momento": 1640000,
     "manager": "Chirli",
     "movimiento": "Venta"
   },
@@ -83,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/4030.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
     "valor": 850500,
-    "valor_momento": null,
+    "valor_momento": 810000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
@@ -94,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/3017.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 3436900,
-    "valor_momento": null,
+    "valor_momento": 3430000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
