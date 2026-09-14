@@ -1570,6 +1570,15 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Mariano Díaz",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2304.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
