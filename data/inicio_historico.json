@@ -180,6 +180,51 @@
     "manager": "Chirli"
   },
   {
+    "jornada": 5,
+    "posicion": 1,
+    "manager": "Manuel Tello"
+  },
+  {
+    "jornada": 5,
+    "posicion": 2,
+    "manager": "Carlos Saez"
+  },
+  {
+    "jornada": 5,
+    "posicion": 3,
+    "manager": "Diego Zuri"
+  },
+  {
+    "jornada": 5,
+    "posicion": 4,
+    "manager": "Mena"
+  },
+  {
+    "jornada": 5,
+    "posicion": 5,
+    "manager": "Dani Portero"
+  },
+  {
+    "jornada": 5,
+    "posicion": 6,
+    "manager": "Muriqui Saez"
+  },
+  {
+    "jornada": 5,
+    "posicion": 7,
+    "manager": "Edu Zurita"
+  },
+  {
+    "jornada": 5,
+    "posicion": 8,
+    "manager": "Chirli"
+  },
+  {
+    "jornada": 5,
+    "posicion": 9,
+    "manager": "Team Novita"
+  },
+  {
     "jornada": 6,
     "posicion": 1,
     "manager": "Manuel Tello"
@@ -202,22 +247,22 @@
   {
     "jornada": 6,
     "posicion": 5,
-    "manager": "Edu Zurita"
-  },
-  {
-    "jornada": 6,
-    "posicion": 6,
     "manager": "Dani Portero"
   },
   {
     "jornada": 6,
+    "posicion": 6,
+    "manager": "Edu Zurita"
+  },
+  {
+    "jornada": 6,
     "posicion": 7,
-    "manager": "Team Novita"
+    "manager": "Muriqui Saez"
   },
   {
     "jornada": 6,
     "posicion": 8,
-    "manager": "Muriqui Saez"
+    "manager": "Team Novita"
   },
   {
     "jornada": 6,

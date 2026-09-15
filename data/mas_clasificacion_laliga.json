@@ -25,6 +25,18 @@
   },
   {
     "posicion": 3,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "equipo": "Betis",
+    "puntos": 12,
+    "pj": 5,
+    "pg": 4,
+    "pe": 0,
+    "pp": 1,
+    "gf": 7,
+    "gc": 6
+  },
+  {
+    "posicion": 4,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo": "Alavés",
     "puntos": 10,
@@ -36,7 +48,7 @@
     "gc": 5
   },
   {
-    "posicion": 4,
+    "posicion": 5,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo": "Atlético",
     "puntos": 10,
@@ -48,7 +60,7 @@
     "gc": 6
   },
   {
-    "posicion": 5,
+    "posicion": 6,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "equipo": "Sevilla",
     "puntos": 10,
@@ -60,7 +72,7 @@
     "gc": 6
   },
   {
-    "posicion": 6,
+    "posicion": 7,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "equipo": "Deportivo",
     "puntos": 9,
@@ -70,18 +82,6 @@
     "pp": 0,
     "gf": 9,
     "gc": 6
-  },
-  {
-    "posicion": 7,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-    "equipo": "Betis",
-    "puntos": 9,
-    "pj": 4,
-    "pg": 3,
-    "pe": 0,
-    "pp": 1,
-    "gf": 5,
-    "gc": 5
   },
   {
     "posicion": 8,
@@ -208,12 +208,12 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "equipo": "Villarreal",
     "puntos": 2,
-    "pj": 4,
+    "pj": 5,
     "pg": 0,
     "pe": 2,
-    "pp": 2,
-    "gf": 6,
-    "gc": 8
+    "pp": 3,
+    "gf": 7,
+    "gc": 10
   },
   {
     "posicion": 19,

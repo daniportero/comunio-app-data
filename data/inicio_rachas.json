@@ -1,110 +1,110 @@
 [
   {
     "posicion": 1,
-    "posicion_ranking": 1,
-    "manager": "Manuel Tello",
-    "valor_equipo": 65860000,
-    "puntos": 254,
-    "r5": 2,
-    "r4": 73,
-    "r3": 64,
-    "r2": 53,
-    "r1": 62
-  },
-  {
-    "posicion": 2,
     "posicion_ranking": 2,
     "manager": "Carlos Saez",
     "valor_equipo": 75000000,
-    "puntos": 244,
+    "puntos": 267,
     "r5": 3,
-    "r4": 57,
-    "r3": 61,
-    "r2": 82,
-    "r1": 41
+    "r4": 64,
+    "r3": 57,
+    "r2": 61,
+    "r1": 82
+  },
+  {
+    "posicion": 2,
+    "posicion_ranking": 1,
+    "manager": "Manuel Tello",
+    "valor_equipo": 65860000,
+    "puntos": 250,
+    "r5": 2,
+    "r4": 58,
+    "r3": 73,
+    "r2": 64,
+    "r1": 53
   },
   {
     "posicion": 3,
     "posicion_ranking": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 62130000,
-    "puntos": 218,
+    "puntos": 228,
     "r5": 0,
-    "r4": 67,
-    "r3": 24,
-    "r2": 77,
-    "r1": 50
+    "r4": 60,
+    "r3": 67,
+    "r2": 24,
+    "r1": 77
   },
   {
     "posicion": 4,
     "posicion_ranking": 4,
     "manager": "Mena",
     "valor_equipo": 52020000,
-    "puntos": 208,
+    "puntos": 198,
     "r5": 2,
-    "r4": 71,
-    "r3": 51,
-    "r2": 18,
-    "r1": 66
+    "r4": 56,
+    "r3": 71,
+    "r2": 51,
+    "r1": 18
   },
   {
     "posicion": 5,
     "posicion_ranking": 6,
     "manager": "Edu Zurita",
     "valor_equipo": 49390000,
-    "puntos": 180,
+    "puntos": 172,
     "r5": 18,
-    "r4": 37,
-    "r3": 38,
-    "r2": 43,
-    "r1": 44
+    "r4": 36,
+    "r3": 37,
+    "r2": 38,
+    "r1": 43
   },
   {
     "posicion": 6,
     "posicion_ranking": 5,
     "manager": "Dani Portero",
     "valor_equipo": 66830000,
-    "puntos": 171,
+    "puntos": 160,
     "r5": 4,
-    "r4": 28,
-    "r3": 42,
-    "r2": 37,
-    "r1": 60
+    "r4": 49,
+    "r3": 28,
+    "r2": 42,
+    "r1": 37
   },
   {
     "posicion": 7,
     "posicion_ranking": 8,
     "manager": "Team Novita",
     "valor_equipo": 50380000,
-    "puntos": 163,
+    "puntos": 157,
     "r5": 10,
-    "r4": 25,
-    "r3": 32,
-    "r2": 51,
-    "r1": 45
+    "r4": 39,
+    "r3": 25,
+    "r2": 32,
+    "r1": 51
   },
   {
     "posicion": 8,
     "posicion_ranking": 7,
     "manager": "Muriqui Saez",
     "valor_equipo": 45740000,
-    "puntos": 159,
+    "puntos": 155,
     "r5": 0,
-    "r4": 25,
-    "r3": 50,
-    "r2": 32,
-    "r1": 52
+    "r4": 48,
+    "r3": 25,
+    "r2": 50,
+    "r1": 32
   },
   {
     "posicion": 9,
     "posicion_ranking": 9,
     "manager": "Chirli",
     "valor_equipo": 36900000,
-    "puntos": 145,
+    "puntos": 155,
     "r5": 0,
-    "r4": 28,
-    "r3": 45,
-    "r2": 30,
-    "r1": 42
+    "r4": 52,
+    "r3": 28,
+    "r2": 45,
+    "r1": 30
   }
 ]
