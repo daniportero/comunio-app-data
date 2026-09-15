@@ -1588,6 +1588,24 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Arda Güler",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3457.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Ruiz de Galarreta",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/1566.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }

@@ -1,5 +1,18 @@
 [
   {
+    "posicion": 5,
+    "manager": "Dani Portero",
+    "valor_equipo": 53140000,
+    "puja_maxima": 17260800,
+    "dinero": 3975800,
+    "compras": 165728000,
+    "ventas": 127503800,
+    "puntos": 220,
+    "cuota_mercado": 0.1087,
+    "plusvalia": 4244000,
+    "margen_ventas": 10671800
+  },
+  {
     "posicion": 7,
     "manager": "Muriqui Saez",
     "valor_equipo": 45740000,
@@ -8,8 +21,8 @@
     "compras": 122346929,
     "ventas": 81544100,
     "puntos": 207,
-    "cuota_mercado": 0.091,
-    "plusvalia": -2397879,
+    "cuota_mercado": 0.0936,
+    "plusvalia": 1342121,
     "margen_ventas": 3595050
   },
   {
@@ -21,8 +34,8 @@
     "compras": 61300100,
     "ventas": 20311500,
     "puntos": 197,
-    "cuota_mercado": 0.0734,
-    "plusvalia": -670100,
+    "cuota_mercado": 0.0755,
+    "plusvalia": -2310100,
     "margen_ventas": -1778500
   },
   {
@@ -34,8 +47,8 @@
     "compras": 87700017,
     "ventas": 45261700,
     "puntos": 216,
-    "cuota_mercado": 0.0983,
-    "plusvalia": -2450010,
+    "cuota_mercado": 0.1011,
+    "plusvalia": -1960010,
     "margen_ventas": 8911693
   },
   {
@@ -47,8 +60,8 @@
     "compras": 54550943,
     "ventas": 10599200,
     "puntos": 202,
-    "cuota_mercado": 0.1003,
-    "plusvalia": 5115834,
+    "cuota_mercado": 0.1031,
+    "plusvalia": 5335834,
     "margen_ventas": 1092423
   },
   {
@@ -60,8 +73,8 @@
     "compras": 161384100,
     "ventas": 119210400,
     "puntos": 314,
-    "cuota_mercado": 0.1311,
-    "plusvalia": -1770000,
+    "cuota_mercado": 0.1348,
+    "plusvalia": -580000,
     "margen_ventas": 20236300
   },
   {
@@ -73,8 +86,8 @@
     "compras": 93335000,
     "ventas": 51026400,
     "puntos": 308,
-    "cuota_mercado": 0.1493,
-    "plusvalia": 14909000,
+    "cuota_mercado": 0.1535,
+    "plusvalia": 15319000,
     "margen_ventas": 17372400
   },
   {
@@ -86,8 +99,8 @@
     "compras": 70350814,
     "ventas": 26923300,
     "puntos": 278,
-    "cuota_mercado": 0.1237,
-    "plusvalia": 11669071,
+    "cuota_mercado": 0.1271,
+    "plusvalia": 9599071,
     "margen_ventas": 9103415
   },
   {
@@ -99,21 +112,8 @@
     "compras": 59600000,
     "ventas": 16321100,
     "puntos": 263,
-    "cuota_mercado": 0.0999,
-    "plusvalia": 16390000,
+    "cuota_mercado": 0.1027,
+    "plusvalia": 16620000,
     "margen_ventas": -9728900
-  },
-  {
-    "posicion": 5,
-    "manager": "Dani Portero",
-    "valor_equipo": 66830000,
-    "puja_maxima": 7513500,
-    "dinero": -9194000,
-    "compras": 165728000,
-    "ventas": 114334000,
-    "puntos": 220,
-    "cuota_mercado": 0.133,
-    "plusvalia": 8584000,
-    "margen_ventas": 6202000
   }
 ]
