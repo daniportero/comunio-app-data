@@ -55,6 +55,28 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-15",
+    "jugador": "Alemao",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3862.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 1630000,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-15",
+    "jugador": "Ali Houary",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3915.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 220000,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-14",
     "jugador": "Pepelu",
     "posicion": "MED",

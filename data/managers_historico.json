@@ -827,6 +827,15 @@
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Pepelu",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3096.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       }
@@ -7461,6 +7470,15 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/4162.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
+          },
+          {
+            "jugador": "Unai Egiluz",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3512.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": false

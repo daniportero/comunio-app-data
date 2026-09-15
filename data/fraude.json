@@ -1,1 +1,18 @@
-[]
+[
+  {
+    "manager": "Mena",
+    "jugador": "Alemao",
+    "imagen": "https://www.comuniate.com/caras3/3862.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "precio_venta": 1630000,
+    "fecha": "2026-09-15"
+  },
+  {
+    "manager": "Mena",
+    "jugador": "Ali Houary",
+    "imagen": "https://www.comuniate.com/caras3/3915.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "precio_venta": 220000,
+    "fecha": "2026-09-15"
+  }
+]
