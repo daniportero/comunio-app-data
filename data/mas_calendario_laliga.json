@@ -562,17 +562,6 @@
   },
   {
     "jornada": 6,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "equipo_local": "Rayo Vallecano",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/7.png",
-    "equipo_visitante": "Espanyol",
-    "resultado": null,
-    "fecha": "2026-09-15",
-    "hora": "19:00",
-    "aplazado": true
-  },
-  {
-    "jornada": 6,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo_local": "Alavés",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/18.png",
