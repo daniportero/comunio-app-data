@@ -49,7 +49,7 @@
   },
   {
     "posicion": 5,
-    "posicion_ranking": 5,
+    "posicion_ranking": 6,
     "manager": "Edu Zurita",
     "valor_equipo": 48170000,
     "puntos": 180,
@@ -61,7 +61,7 @@
   },
   {
     "posicion": 6,
-    "posicion_ranking": 6,
+    "posicion_ranking": 5,
     "manager": "Dani Portero",
     "valor_equipo": 51780000,
     "puntos": 171,
@@ -73,7 +73,7 @@
   },
   {
     "posicion": 7,
-    "posicion_ranking": 7,
+    "posicion_ranking": 8,
     "manager": "Team Novita",
     "valor_equipo": 50160000,
     "puntos": 163,
@@ -85,7 +85,7 @@
   },
   {
     "posicion": 8,
-    "posicion_ranking": 8,
+    "posicion_ranking": 7,
     "manager": "Muriqui Saez",
     "valor_equipo": 42000000,
     "puntos": 159,
