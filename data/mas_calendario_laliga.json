@@ -573,14 +573,14 @@
   },
   {
     "jornada": 6,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "equipo_local": "Elche",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/15.png",
-    "equipo_visitante": "Real Madrid",
-    "resultado": null,
-    "fecha": "2026-09-15",
-    "hora": "21:30",
-    "aplazado": true
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "equipo_local": "Alavés",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "equipo_visitante": "Valencia",
+    "resultado": "0-1",
+    "fecha": "",
+    "hora": "",
+    "aplazado": false
   },
   {
     "jornada": 6,
