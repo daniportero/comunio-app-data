@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 64670000,
+    "valor_equipo": 65860000,
     "num_jugadores": 13,
     "formacion": "4-3-3",
     "jugadores": [
@@ -243,8 +243,8 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 51780000,
-    "num_jugadores": 11,
+    "valor_equipo": 66830000,
+    "num_jugadores": 13,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -339,6 +339,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 18,
+        "media_puntos": 4.5,
+        "jugador": "Ruiz de Galarreta",
+        "imagen": "https://www.comuniate.com/caras3/1566.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+        "valor_jugador": 2590000,
+        "revalorizacion": 80000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 5,
+        "r3": 4,
+        "r2": 7,
+        "r1": 2,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 29,
         "media_puntos": 7.2,
         "jugador": "Pablo Barrios",
@@ -411,6 +429,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 47,
+        "media_puntos": 9.4,
+        "jugador": "Arda Güler",
+        "imagen": "https://www.comuniate.com/caras3/3457.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+        "valor_jugador": 11810000,
+        "revalorizacion": -2150000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 10,
+        "r3": 7,
+        "r2": 12,
+        "r1": 11,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 32,
         "media_puntos": 6.4,
         "jugador": "Fede Valverde",
@@ -449,8 +485,8 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 48170000,
-    "num_jugadores": 12,
+    "valor_equipo": 49390000,
+    "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -524,6 +560,24 @@
         "r1": 3,
         "alineado": true,
         "lesion": "Molestias musculares"
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 11,
+        "media_puntos": 3.7,
+        "jugador": "Julio Díaz",
+        "imagen": "https://www.comuniate.com/caras3/4003.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+        "valor_jugador": 730000,
+        "revalorizacion": -100000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 4,
+        "r3": "-",
+        "r2": 2,
+        "r1": 5,
+        "alineado": false,
+        "lesion": null
       },
       {
         "posicion": "MED",
@@ -673,7 +727,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 64200000,
+    "valor_equipo": 62130000,
     "num_jugadores": 13,
     "formacion": "3-5-2",
     "jugadores": [
@@ -915,8 +969,8 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 49050000,
-    "num_jugadores": 14,
+    "valor_equipo": 52020000,
+    "num_jugadores": 15,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1170,12 +1224,30 @@
         "r1": "-",
         "alineado": false,
         "lesion": null
+      },
+      {
+        "posicion": "DEL",
+        "puntos": 12,
+        "media_puntos": 6.0,
+        "jugador": "Lucas Stassin",
+        "imagen": "https://www.comuniate.com/caras3/4152.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+        "valor_jugador": 2800000,
+        "revalorizacion": 1080000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 2,
+        "r3": 10,
+        "r2": "-",
+        "r1": "-",
+        "alineado": false,
+        "lesion": null
       }
     ]
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 42000000,
+    "valor_equipo": 45740000,
     "num_jugadores": 13,
     "formacion": "4-3-3",
     "jugadores": [
@@ -1417,7 +1489,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 50160000,
+    "valor_equipo": 50380000,
     "num_jugadores": 16,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1713,7 +1785,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 38540000,
+    "valor_equipo": 36900000,
     "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
@@ -1955,8 +2027,8 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 74430000,
-    "num_jugadores": 11,
+    "valor_equipo": 75000000,
+    "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -1976,6 +2048,24 @@
         "r1": 3,
         "alineado": true,
         "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 0,
+        "media_puntos": 0.0,
+        "jugador": "Unai Egiluz",
+        "imagen": "https://www.comuniate.com/caras3/3512.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+        "valor_jugador": 160000,
+        "revalorizacion": 0,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": false,
+        "lesion": "Rotura ligamento cruzado anterior de la rodilla derecha. Baja hasta enero"
       },
       {
         "posicion": "DEF",
