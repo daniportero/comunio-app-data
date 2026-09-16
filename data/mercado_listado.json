@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEF",
+    "puntos": 11,
+    "media_puntos": 3.7,
+    "imagen": "https://www.comuniate.com/caras3/4003.png",
+    "jugador": "Julio Díaz",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor_jugador": 650000,
+    "revalorizacion": -320000,
+    "plusvalia": -90000,
+    "venta": 6500000,
+    "r5": "-",
+    "r4": 4,
+    "r3": "-",
+    "r2": 2,
+    "r1": 5,
+    "manager": "Edu Zurita",
+    "valor_compra": 740000,
+    "lesion": null
+  },
+  {
     "posicion": "DEL",
     "puntos": 0,
     "media_puntos": 0.0,
@@ -357,26 +377,6 @@
     "r1": 11,
     "manager": "Team Novita",
     "valor_compra": 2110000,
-    "lesion": null
-  },
-  {
-    "posicion": "DEF",
-    "puntos": 11,
-    "media_puntos": 3.7,
-    "imagen": "https://www.comuniate.com/caras3/4003.png",
-    "jugador": "Julio Díaz",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-    "valor_jugador": 650000,
-    "revalorizacion": -320000,
-    "plusvalia": -90000,
-    "venta": 7100000,
-    "r5": "-",
-    "r4": 4,
-    "r3": "-",
-    "r2": 2,
-    "r1": 5,
-    "manager": "Edu Zurita",
-    "valor_compra": 740000,
     "lesion": null
   },
   {
