@@ -646,7 +646,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 24,
+        "puntos_totales": 23,
         "jugadores": [
           {
             "jugador": "Unai Simón",
@@ -689,7 +689,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3216.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5833,7 +5833,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 24,
+        "puntos_totales": 25,
         "jugadores": [
           {
             "jugador": "Luiz Junior",
@@ -5912,7 +5912,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3278.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
-            "puntos": 4,
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
