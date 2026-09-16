@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/3833.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 570000,
-    "valor_momento": null,
+    "valor_momento": 640000,
     "manager": "Team Novita",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/2395.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
     "valor": 680000,
-    "valor_momento": null,
+    "valor_momento": 680000,
     "manager": "Muriqui Saez",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/1083.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "valor": 4095000,
-    "valor_momento": null,
+    "valor_momento": 4070000,
     "manager": "Dani Portero",
     "movimiento": "Compra"
   },
@@ -94,7 +94,7 @@
     "imagen": "https://www.comuniate.com/caras3/3862.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "valor": 1630000,
-    "valor_momento": null,
+    "valor_momento": 1630000,
     "manager": "Mena",
     "movimiento": "Venta"
   },
@@ -105,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/3915.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor": 220000,
-    "valor_momento": null,
+    "valor_momento": 220000,
     "manager": "Mena",
     "movimiento": "Venta"
   },
@@ -116,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/2415.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "valor": 13169800,
-    "valor_momento": null,
+    "valor_momento": 13690000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },

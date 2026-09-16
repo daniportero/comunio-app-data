@@ -50363,8 +50363,8 @@
   },
   {
     "jugador": "Endrick",
-    "puntos": 67,
-    "media": 3.5,
+    "puntos": 4,
+    "media": 4.0,
     "goles": 0,
     "asistencias": 0,
     "amarillas": 0,
@@ -176970,8 +176970,8 @@
   },
   {
     "jugador": "Guevara",
-    "puntos": 122,
-    "media": 3.7,
+    "puntos": 83,
+    "media": 3.3,
     "goles": 1,
     "asistencias": 1,
     "amarillas": 0,
@@ -192993,6 +192993,19 @@
   },
   {
     "jugador": "Bambo Diaby",
+    "puntos": null,
+    "media": null,
+    "goles": null,
+    "asistencias": null,
+    "amarillas": null,
+    "doble_amarilla": null,
+    "rojas": null,
+    "penaltis_marcados": null,
+    "penaltis_fallados": null,
+    "jornadas": []
+  },
+  {
+    "jugador": "Mayol",
     "puntos": null,
     "media": null,
     "goles": null,
