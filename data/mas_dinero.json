@@ -9,7 +9,7 @@
     "ventas": 20311500,
     "puntos": 197,
     "cuota_mercado": 0.0757,
-    "plusvalia": -2310100,
+    "plusvalia": -1140100,
     "margen_ventas": -1778500
   },
   {
@@ -22,7 +22,7 @@
     "ventas": 81544100,
     "puntos": 207,
     "cuota_mercado": 0.0934,
-    "plusvalia": 1302121,
+    "plusvalia": 1902121,
     "margen_ventas": 3595050
   },
   {
@@ -35,7 +35,7 @@
     "ventas": 45261700,
     "puntos": 216,
     "cuota_mercado": 0.0993,
-    "plusvalia": -1960010,
+    "plusvalia": -1390010,
     "margen_ventas": 8911693
   },
   {
@@ -48,21 +48,21 @@
     "ventas": 119210400,
     "puntos": 314,
     "cuota_mercado": 0.1359,
-    "plusvalia": -580000,
+    "plusvalia": 1910000,
     "margen_ventas": 20236300
   },
   {
     "posicion": 2,
     "manager": "Carlos Saez",
-    "valor_equipo": 76280000,
-    "puja_maxima": 19841400,
-    "dinero": 771400,
+    "valor_equipo": 76110000,
+    "puja_maxima": 19976700,
+    "dinero": 949200,
     "compras": 93335000,
-    "ventas": 51026400,
+    "ventas": 51204200,
     "puntos": 308,
-    "cuota_mercado": 0.1516,
-    "plusvalia": 15319000,
-    "margen_ventas": 17372400
+    "cuota_mercado": 0.1513,
+    "plusvalia": 16590000,
+    "margen_ventas": 17389200
   },
   {
     "posicion": 8,
@@ -74,7 +74,7 @@
     "ventas": 10599200,
     "puntos": 202,
     "cuota_mercado": 0.0991,
-    "plusvalia": 5335834,
+    "plusvalia": 4225834,
     "margen_ventas": 1092423
   },
   {
@@ -86,8 +86,8 @@
     "compras": 70350814,
     "ventas": 26923300,
     "puntos": 278,
-    "cuota_mercado": 0.1248,
-    "plusvalia": 9599071,
+    "cuota_mercado": 0.1249,
+    "plusvalia": 10269071,
     "margen_ventas": 9103415
   },
   {
@@ -100,7 +100,7 @@
     "ventas": 16321100,
     "puntos": 263,
     "cuota_mercado": 0.1031,
-    "plusvalia": 16620000,
+    "plusvalia": 18310000,
     "margen_ventas": -9728900
   },
   {
@@ -112,8 +112,8 @@
     "compras": 169823000,
     "ventas": 127503800,
     "puntos": 220,
-    "cuota_mercado": 0.1171,
-    "plusvalia": 4219000,
+    "cuota_mercado": 0.1172,
+    "plusvalia": 5939000,
     "margen_ventas": 10671800
   }
 ]

@@ -33,6 +33,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-16",
+    "jugador": "Unai Egiluz",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3512.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 177800,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-15",
     "jugador": "Julio Díaz",
     "posicion": "DEF",
