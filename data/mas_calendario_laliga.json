@@ -617,28 +617,6 @@
   },
   {
     "jornada": 6,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "equipo_local": "Barcelona",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/14.png",
-    "equipo_visitante": "Racing de Santander",
-    "resultado": null,
-    "fecha": "2026-09-16",
-    "hora": "21:30",
-    "aplazado": true
-  },
-  {
-    "jornada": 6,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "equipo_local": "Levante",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/1.png",
-    "equipo_visitante": "Athletic Club",
-    "resultado": null,
-    "fecha": "2026-09-16",
-    "hora": "21:30",
-    "aplazado": true
-  },
-  {
-    "jornada": 6,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "equipo_local": "Betis",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/8.png",
