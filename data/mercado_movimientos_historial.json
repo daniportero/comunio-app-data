@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-09-16",
+    "jugador": "Gorrotxategi",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3833.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 570000,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-16",
+    "jugador": "Kike Barja",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2395.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 680000,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-16",
+    "jugador": "Koke",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/1083.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 4095000,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-15",
     "jugador": "Julio Díaz",
     "posicion": "DEF",
