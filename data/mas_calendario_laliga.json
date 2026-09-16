@@ -595,28 +595,6 @@
   },
   {
     "jornada": 6,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/2.png",
-    "equipo_local": "Atlético",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "equipo_visitante": "Osasuna",
-    "resultado": null,
-    "fecha": "2026-09-16",
-    "hora": "19:00",
-    "aplazado": true
-  },
-  {
-    "jornada": 6,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
-    "equipo_local": "Deportivo",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/17.png",
-    "equipo_visitante": "Sevilla",
-    "resultado": null,
-    "fecha": "2026-09-16",
-    "hora": "19:00",
-    "aplazado": true
-  },
-  {
-    "jornada": 6,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/3.png",
     "equipo_local": "Barcelona",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/14.png",
