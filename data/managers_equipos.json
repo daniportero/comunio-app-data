@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 65860000,
+    "valor_equipo": 68350000,
     "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
@@ -243,8 +243,8 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 53140000,
-    "num_jugadores": 12,
+    "valor_equipo": 58930000,
+    "num_jugadores": 13,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -353,6 +353,24 @@
         "r2": 7,
         "r1": 2,
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
+        "puntos": 27,
+        "media_puntos": 5.4,
+        "jugador": "Koke",
+        "imagen": "https://www.comuniate.com/caras3/1083.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+        "valor_jugador": 4070000,
+        "revalorizacion": -270000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 4,
+        "r3": 5,
+        "r2": 3,
+        "r1": 8,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -467,7 +485,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 49390000,
+    "valor_equipo": 49960000,
     "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
@@ -709,7 +727,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 62130000,
+    "valor_equipo": 62800000,
     "num_jugadores": 13,
     "formacion": "3-5-2",
     "jugadores": [
@@ -951,7 +969,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 50170000,
+    "valor_equipo": 51860000,
     "num_jugadores": 13,
     "formacion": "4-4-2",
     "jugadores": [
@@ -1193,8 +1211,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 45740000,
-    "num_jugadores": 13,
+    "valor_equipo": 46980000,
+    "num_jugadores": 14,
     "formacion": "4-3-3",
     "jugadores": [
       {
@@ -1343,6 +1361,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 17,
+        "media_puntos": 4.2,
+        "jugador": "Kike Barja",
+        "imagen": "https://www.comuniate.com/caras3/2395.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+        "valor_jugador": 640000,
+        "revalorizacion": 60000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 3,
+        "r3": "-",
+        "r2": 4,
+        "r1": 0,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 38,
         "media_puntos": 7.6,
         "jugador": "Íñigo Vicente",
@@ -1435,8 +1471,8 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 50380000,
-    "num_jugadores": 16,
+    "valor_equipo": 49840000,
+    "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1675,6 +1711,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 9,
+        "media_puntos": 2.2,
+        "jugador": "Gorrotxategi",
+        "imagen": "https://www.comuniate.com/caras3/3833.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+        "valor_jugador": 570000,
+        "revalorizacion": -170000,
+        "plusvalia": null,
+        "r5": 4,
+        "r4": 2,
+        "r3": 3,
+        "r2": 0,
+        "r1": "-",
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 4,
         "media_puntos": 2.0,
         "jugador": "Luis Rioja",
@@ -1731,7 +1785,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 36900000,
+    "valor_equipo": 38070000,
     "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
@@ -1973,7 +2027,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 75000000,
+    "valor_equipo": 76280000,
     "num_jugadores": 12,
     "formacion": "4-3-3",
     "jugadores": [

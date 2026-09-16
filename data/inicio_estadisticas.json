@@ -2,7 +2,7 @@
   {
     "posicion": 1,
     "manager": "Manuel Tello",
-    "valor_equipo": 65860000,
+    "valor_equipo": 68350000,
     "semanas_lider": 3,
     "jornadas_ganadas": 2,
     "mejor_puntos_jornada": 73,
@@ -25,7 +25,7 @@
   {
     "posicion": 2,
     "manager": "Carlos Saez",
-    "valor_equipo": 75000000,
+    "valor_equipo": 76280000,
     "semanas_lider": 1,
     "jornadas_ganadas": 2,
     "mejor_puntos_jornada": 82,
@@ -48,7 +48,7 @@
   {
     "posicion": 3,
     "manager": "Diego Zuri",
-    "valor_equipo": 62130000,
+    "valor_equipo": 62800000,
     "semanas_lider": 1,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 77,
@@ -71,7 +71,7 @@
   {
     "posicion": 4,
     "manager": "Mena",
-    "valor_equipo": 50170000,
+    "valor_equipo": 51860000,
     "semanas_lider": 1,
     "jornadas_ganadas": 1,
     "mejor_puntos_jornada": 71,
@@ -94,7 +94,7 @@
   {
     "posicion": 5,
     "manager": "Dani Portero",
-    "valor_equipo": 53140000,
+    "valor_equipo": 58930000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 60,
@@ -117,7 +117,7 @@
   {
     "posicion": 6,
     "manager": "Edu Zurita",
-    "valor_equipo": 49390000,
+    "valor_equipo": 49960000,
     "semanas_lider": 0,
     "jornadas_ganadas": 1,
     "mejor_puntos_jornada": 44,
@@ -140,7 +140,7 @@
   {
     "posicion": 7,
     "manager": "Muriqui Saez",
-    "valor_equipo": 45740000,
+    "valor_equipo": 46980000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 52,
@@ -154,16 +154,16 @@
     "valor_mejor_jugador": 26110000,
     "imagen_mejor_jugador": "https://www.comuniate.com/caras3/3469.png",
     "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/15.png",
-    "jugador_rentable": "Urko González",
-    "puntos_jugador_rentable": 16,
-    "valor_jugador_rentable": 810000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3078.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/7.png"
+    "jugador_rentable": "Kike Barja",
+    "puntos_jugador_rentable": 17,
+    "valor_jugador_rentable": 640000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/2395.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/12.png"
   },
   {
     "posicion": 8,
     "manager": "Team Novita",
-    "valor_equipo": 50380000,
+    "valor_equipo": 49840000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 51,
@@ -177,16 +177,16 @@
     "valor_mejor_jugador": 7100000,
     "imagen_mejor_jugador": "https://www.comuniate.com/caras3/3214.png",
     "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "jugador_rentable": "Alex Freeman",
-    "puntos_jugador_rentable": 16,
-    "valor_jugador_rentable": 1070000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3980.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/19.png"
+    "jugador_rentable": "Gorrotxategi",
+    "puntos_jugador_rentable": 9,
+    "valor_jugador_rentable": 570000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3833.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/13.png"
   },
   {
     "posicion": 9,
     "manager": "Chirli",
-    "valor_equipo": 36900000,
+    "valor_equipo": 38070000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 52,
