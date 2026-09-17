@@ -66,6 +66,17 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-17",
+    "jugador": "Isaac Romero",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3563.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+    "valor": 2949100,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-16",
     "jugador": "Gorrotxategi",
     "posicion": "MED",

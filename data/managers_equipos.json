@@ -1821,8 +1821,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 40070000,
-    "num_jugadores": 14,
+    "valor_equipo": 37190000,
+    "num_jugadores": 13,
     "formacion": null,
     "jugadores": [
       {
@@ -2056,24 +2056,6 @@
         "r3": 4,
         "r2": 2,
         "r1": 1,
-        "alineado": null,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 24,
-        "media_puntos": 4.8,
-        "jugador": "Isaac Romero",
-        "imagen": "https://www.comuniate.com/caras3/3563.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-        "valor_jugador": 2880000,
-        "revalorizacion": -700000,
-        "plusvalia": -630100,
-        "r5": 3,
-        "r4": 3,
-        "r3": "-",
-        "r2": 2,
-        "r1": 14,
         "alineado": null,
         "lesion": null
       }
