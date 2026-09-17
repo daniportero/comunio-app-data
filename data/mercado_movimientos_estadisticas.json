@@ -28,9 +28,9 @@
   },
   {
     "manager": "Diego Zuri",
-    "total_mov": 43,
-    "num_compras": 28,
-    "valor_compras": 70350814,
+    "total_mov": 44,
+    "num_compras": 29,
+    "valor_compras": 77870814,
     "num_ventas": 15,
     "valor_ventas": 26923300,
     "margen_ventas": 9103415
@@ -46,36 +46,36 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 52,
-    "num_compras": 33,
-    "valor_compras": 123026929,
+    "total_mov": 53,
+    "num_compras": 34,
+    "valor_compras": 124686929,
     "num_ventas": 19,
     "valor_ventas": 81544100,
     "margen_ventas": 3595050
   },
   {
     "manager": "Team Novita",
-    "total_mov": 36,
-    "num_compras": 26,
-    "valor_compras": 55120943,
+    "total_mov": 37,
+    "num_compras": 27,
+    "valor_compras": 55280945,
     "num_ventas": 10,
     "valor_ventas": 11881700,
     "margen_ventas": 1459923
   },
   {
     "manager": "Chirli",
-    "total_mov": 29,
-    "num_compras": 21,
-    "valor_compras": 61300100,
+    "total_mov": 30,
+    "num_compras": 22,
+    "valor_compras": 66540100,
     "num_ventas": 8,
     "valor_ventas": 20311500,
     "margen_ventas": -1778500
   },
   {
     "manager": "Carlos Saez",
-    "total_mov": 47,
-    "num_compras": 29,
-    "valor_compras": 93335000,
+    "total_mov": 48,
+    "num_compras": 30,
+    "valor_compras": 93696000,
     "num_ventas": 18,
     "valor_ventas": 51204200,
     "margen_ventas": 17389200

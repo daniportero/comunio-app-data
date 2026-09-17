@@ -11,6 +11,61 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-17",
+    "jugador": "Ochieng",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3996.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 1660000,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-17",
+    "jugador": "Maroan Sannadi",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3785.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 160002,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-17",
+    "jugador": "Cucho Hernández",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2585.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 5240000,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-17",
+    "jugador": "Konaté",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4063.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "valor": 7520000,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-17",
+    "jugador": "Josan",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2981.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 361000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-16",
     "jugador": "Gorrotxategi",
     "posicion": "MED",
