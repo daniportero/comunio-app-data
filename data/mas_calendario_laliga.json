@@ -628,6 +628,17 @@
   },
   {
     "jornada": 6,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "equipo_local": "Betis",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "equipo_visitante": "Getafe",
+    "resultado": "1-0",
+    "fecha": "2026-09-17",
+    "hora": "19:00",
+    "aplazado": true
+  },
+  {
+    "jornada": 6,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/65.png",
     "equipo_local": "Málaga",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/19.png",
