@@ -2213,7 +2213,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 39,
+        "puntos_totales": 49,
         "jugadores": [
           {
             "jugador": "Courtois",
@@ -2256,7 +2256,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3180.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": 3,
+            "puntos": 13,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3870,7 +3870,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 38,
+        "puntos_totales": 37,
         "jugadores": [
           {
             "jugador": "Vlachodimos",
@@ -3949,7 +3949,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4111.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -4640,7 +4640,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 26,
+        "puntos_totales": 25,
         "jugadores": [
           {
             "jugador": "Álex Padilla",
@@ -4683,7 +4683,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3971.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 3,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7076,7 +7076,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 43,
+        "puntos_totales": 45,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -7092,7 +7092,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3685.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": 4,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
