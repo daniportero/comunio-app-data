@@ -460,26 +460,6 @@
     "lesion": null
   },
   {
-    "posicion": "DEF",
-    "puntos": 5,
-    "media_puntos": 2.5,
-    "imagen": "https://www.comuniate.com/caras3/1450.png",
-    "jugador": "Bigas",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "valor_jugador": 1250000,
-    "revalorizacion": -930000,
-    "plusvalia": 335000,
-    "venta": 1400000,
-    "r5": "-",
-    "r4": "-",
-    "r3": 2,
-    "r2": 2,
-    "r1": 3,
-    "manager": "Team Novita",
-    "valor_compra": 915000,
-    "lesion": null
-  },
-  {
     "posicion": "MED",
     "puntos": 35,
     "media_puntos": 5.8,
