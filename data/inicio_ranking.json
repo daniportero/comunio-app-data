@@ -26,8 +26,8 @@
     "manager": "Diego Zuri",
     "valor_equipo": 67740000,
     "dinero": -7367514,
-    "puntos_jornada_actual": 30,
-    "puntos_total": 308,
+    "puntos_jornada_actual": 32,
+    "puntos_total": 310,
     "cambio_posicion": 0,
     "jugadores_jugados": 8,
     "jugadores_alineados": 11
@@ -70,8 +70,8 @@
     "manager": "Muriqui Saez",
     "valor_equipo": 42940000,
     "dinero": -272829,
-    "puntos_jornada_actual": 41,
-    "puntos_total": 248,
+    "puntos_jornada_actual": 40,
+    "puntos_total": 247,
     "cambio_posicion": -1,
     "jugadores_jugados": 7,
     "jugadores_alineados": 11
@@ -81,8 +81,8 @@
     "manager": "Team Novita",
     "valor_equipo": 45040000,
     "dinero": 1820755,
-    "puntos_jornada_actual": 41,
-    "puntos_total": 243,
+    "puntos_jornada_actual": 42,
+    "puntos_total": 244,
     "cambio_posicion": 1,
     "jugadores_jugados": 11,
     "jugadores_alineados": 12
@@ -92,8 +92,8 @@
     "manager": "Chirli",
     "valor_equipo": 37190000,
     "dinero": -509500,
-    "puntos_jornada_actual": 24,
-    "puntos_total": 221,
+    "puntos_jornada_actual": 26,
+    "puntos_total": 223,
     "cambio_posicion": -1,
     "jugadores_jugados": 8,
     "jugadores_alineados": 11
