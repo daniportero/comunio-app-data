@@ -1821,8 +1821,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 37190000,
-    "num_jugadores": 13,
+    "valor_equipo": 35570000,
+    "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -1950,24 +1950,6 @@
         "r1": 2,
         "alineado": true,
         "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 12,
-        "media_puntos": 4.0,
-        "jugador": "Aimar Oroz",
-        "imagen": "https://www.comuniate.com/caras3/2953.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-        "valor_jugador": 1620000,
-        "revalorizacion": -710000,
-        "plusvalia": -1640000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": 4,
-        "r1": 5,
-        "alineado": false,
-        "lesion": "Lesión muscular en bíceps femoral. Baja hasta octubre"
       },
       {
         "posicion": "MED",
