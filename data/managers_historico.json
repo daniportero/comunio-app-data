@@ -2459,7 +2459,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 62,
+        "puntos_totales": 61,
         "jugadores": [
           {
             "jugador": "Courtois",
@@ -2520,7 +2520,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3465.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-            "puntos": 12,
+            "puntos": 11,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3424,7 +3424,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 28,
+        "puntos_totales": 30,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -3512,7 +3512,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3389.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": 2,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5280,7 +5280,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/2261.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-            "puntos": 3,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5316,7 +5316,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2591.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": 5,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7320,7 +7320,7 @@
       },
       {
         "jornada": 6,
-        "puntos_totales": 26,
+        "puntos_totales": 24,
         "jugadores": [
           {
             "jugador": "Sivera",
@@ -7336,7 +7336,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4072.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-            "puntos": 4,
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
