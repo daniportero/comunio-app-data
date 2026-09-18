@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 66810000,
+    "valor_equipo": 67640000,
     "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
@@ -243,7 +243,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 58280000,
+    "valor_equipo": 59950000,
     "num_jugadores": 13,
     "formacion": "4-5-1",
     "jugadores": [
@@ -485,8 +485,8 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 46420000,
-    "num_jugadores": 13,
+    "valor_equipo": 47570000,
+    "num_jugadores": 14,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -523,6 +523,24 @@
         "r2": "-",
         "r1": "-",
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 17,
+        "media_puntos": 3.4,
+        "jugador": "Djené",
+        "imagen": "https://www.comuniate.com/caras3/2447.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+        "valor_jugador": 1550000,
+        "revalorizacion": -150000,
+        "plusvalia": null,
+        "r5": 3,
+        "r4": 5,
+        "r3": 2,
+        "r2": 1,
+        "r1": 6,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -727,8 +745,8 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 67740000,
-    "num_jugadores": 14,
+    "valor_equipo": 69050000,
+    "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -783,6 +801,24 @@
         "r2": "-",
         "r1": "-",
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 11,
+        "media_puntos": 5.5,
+        "jugador": "Hartman",
+        "imagen": "https://www.comuniate.com/caras3/4087.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+        "valor_jugador": 800000,
+        "revalorizacion": -60000,
+        "plusvalia": -199999,
+        "r5": 6,
+        "r4": "-",
+        "r3": 5,
+        "r2": "-",
+        "r1": "-",
+        "alineado": false,
         "lesion": null
       },
       {
@@ -987,7 +1023,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 48010000,
+    "valor_equipo": 46590000,
     "num_jugadores": 13,
     "formacion": "4-4-2",
     "jugadores": [
@@ -1229,7 +1265,7 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 42940000,
+    "valor_equipo": 45490000,
     "num_jugadores": 15,
     "formacion": "4-4-2",
     "jugadores": [
@@ -1507,7 +1543,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 45040000,
+    "valor_equipo": 45220000,
     "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1821,7 +1857,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 35570000,
+    "valor_equipo": 36970000,
     "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
@@ -2045,8 +2081,8 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 71840000,
-    "num_jugadores": 12,
+    "valor_equipo": 76170000,
+    "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -2156,6 +2192,24 @@
         "r1": "-",
         "alineado": true,
         "lesion": null
+      },
+      {
+        "posicion": "MED",
+        "puntos": 7,
+        "media_puntos": 3.5,
+        "jugador": "Isi Palazón",
+        "imagen": "https://www.comuniate.com/caras3/3108.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+        "valor_jugador": 2060000,
+        "revalorizacion": -1370000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": "-",
+        "r3": "-",
+        "r2": "-",
+        "r1": 3,
+        "alineado": false,
+        "lesion": "Lesión muscular en cuádriceps"
       },
       {
         "posicion": "MED",
