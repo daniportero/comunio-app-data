@@ -25,6 +25,18 @@
   },
   {
     "posicion": 3,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "equipo": "Betis",
+    "puntos": 15,
+    "pj": 6,
+    "pg": 5,
+    "pe": 0,
+    "pp": 1,
+    "gf": 8,
+    "gc": 6
+  },
+  {
+    "posicion": 4,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
     "equipo": "Atlético",
     "puntos": 13,
@@ -36,7 +48,7 @@
     "gc": 6
   },
   {
-    "posicion": 4,
+    "posicion": 5,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "equipo": "Sevilla",
     "puntos": 13,
@@ -45,18 +57,6 @@
     "pe": 1,
     "pp": 1,
     "gf": 9,
-    "gc": 6
-  },
-  {
-    "posicion": 5,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-    "equipo": "Betis",
-    "puntos": 12,
-    "pj": 5,
-    "pg": 4,
-    "pe": 0,
-    "pp": 1,
-    "gf": 7,
     "gc": 6
   },
   {
@@ -157,6 +157,18 @@
   },
   {
     "posicion": 14,
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "equipo": "Villarreal",
+    "puntos": 5,
+    "pj": 6,
+    "pg": 1,
+    "pe": 2,
+    "pp": 3,
+    "gf": 10,
+    "gc": 11
+  },
+  {
+    "posicion": 15,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
     "equipo": "Levante",
     "puntos": 5,
@@ -168,19 +180,19 @@
     "gc": 9
   },
   {
-    "posicion": 15,
+    "posicion": 16,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "equipo": "Getafe",
     "puntos": 5,
-    "pj": 5,
+    "pj": 6,
     "pg": 1,
     "pe": 2,
-    "pp": 2,
+    "pp": 3,
     "gf": 3,
-    "gc": 6
+    "gc": 7
   },
   {
-    "posicion": 16,
+    "posicion": 17,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "equipo": "Celta",
     "puntos": 4,
@@ -192,7 +204,7 @@
     "gc": 6
   },
   {
-    "posicion": 17,
+    "posicion": 18,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "equipo": "Valencia",
     "puntos": 4,
@@ -204,28 +216,16 @@
     "gc": 10
   },
   {
-    "posicion": 18,
+    "posicion": 19,
     "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
     "equipo": "Málaga",
     "puntos": 3,
-    "pj": 5,
+    "pj": 6,
     "pg": 0,
     "pe": 3,
-    "pp": 2,
-    "gf": 2,
-    "gc": 8
-  },
-  {
-    "posicion": 19,
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-    "equipo": "Villarreal",
-    "puntos": 2,
-    "pj": 5,
-    "pg": 0,
-    "pe": 2,
     "pp": 3,
-    "gf": 7,
-    "gc": 10
+    "gf": 3,
+    "gc": 11
   },
   {
     "posicion": 20,

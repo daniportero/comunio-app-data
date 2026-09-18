@@ -18,7 +18,7 @@
     {
       "posicion": 3,
       "manager": "Diego Zuri",
-      "dinero": 2
+      "dinero": 4
     },
     {
       "posicion": 4,
@@ -38,7 +38,7 @@
     {
       "posicion": 9,
       "manager": "Chirli",
-      "dinero": 2
+      "dinero": 4
     },
     {
       "posicion": 1,
@@ -46,5 +46,5 @@
       "dinero": 0
     }
   ],
-  "total": 20
+  "total": 24
 }
