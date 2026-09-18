@@ -3667,15 +3667,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Konaté",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4063.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Militão",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/2760.png",

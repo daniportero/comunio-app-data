@@ -8,8 +8,8 @@
     "compras": 55280945,
     "ventas": 11881700,
     "puntos": 246,
-    "cuota_mercado": 0.0917,
-    "plusvalia": 180832,
+    "cuota_mercado": 0.0933,
+    "plusvalia": 360832,
     "margen_ventas": 1459923
   },
   {
@@ -21,8 +21,8 @@
     "compras": 66540100,
     "ventas": 24904900,
     "puntos": 224,
-    "cuota_mercado": 0.075,
-    "plusvalia": -2110000,
+    "cuota_mercado": 0.0763,
+    "plusvalia": -710000,
     "margen_ventas": -3955200
   },
   {
@@ -34,9 +34,22 @@
     "compras": 161384100,
     "ventas": 119210400,
     "puntos": 355,
-    "cuota_mercado": 0.1372,
-    "plusvalia": 370000,
+    "cuota_mercado": 0.1396,
+    "plusvalia": 1200000,
     "margen_ventas": 20236300
+  },
+  {
+    "posicion": 3,
+    "manager": "Diego Zuri",
+    "valor_equipo": 60620000,
+    "puja_maxima": 16218686,
+    "dinero": 1063686,
+    "compras": 78670814,
+    "ventas": 35024500,
+    "puntos": 311,
+    "cuota_mercado": 0.1251,
+    "plusvalia": 7289071,
+    "margen_ventas": 9884614
   },
   {
     "posicion": 4,
@@ -47,8 +60,8 @@
     "compras": 59600000,
     "ventas": 16321100,
     "puntos": 303,
-    "cuota_mercado": 0.0945,
-    "plusvalia": 14460000,
+    "cuota_mercado": 0.0961,
+    "plusvalia": 13040000,
     "margen_ventas": -9728900
   },
   {
@@ -60,8 +73,8 @@
     "compras": 169823000,
     "ventas": 127503800,
     "puntos": 262,
-    "cuota_mercado": 0.1216,
-    "plusvalia": 5289000,
+    "cuota_mercado": 0.1237,
+    "plusvalia": 6959000,
     "margen_ventas": 10671800
   },
   {
@@ -73,8 +86,8 @@
     "compras": 89250018,
     "ventas": 45261700,
     "puntos": 261,
-    "cuota_mercado": 0.0965,
-    "plusvalia": -4930011,
+    "cuota_mercado": 0.0982,
+    "plusvalia": -5330011,
     "margen_ventas": 8911693
   },
   {
@@ -86,8 +99,8 @@
     "compras": 124686929,
     "ventas": 81544100,
     "puntos": 250,
-    "cuota_mercado": 0.0923,
-    "plusvalia": -3797879,
+    "cuota_mercado": 0.0939,
+    "plusvalia": -1247879,
     "margen_ventas": 3595050
   },
   {
@@ -99,21 +112,8 @@
     "compras": 96197000,
     "ventas": 52761000,
     "puntos": 356,
-    "cuota_mercado": 0.1512,
-    "plusvalia": 11880000,
+    "cuota_mercado": 0.1539,
+    "plusvalia": 14140000,
     "margen_ventas": 16984000
-  },
-  {
-    "posicion": 3,
-    "manager": "Diego Zuri",
-    "valor_equipo": 69050000,
-    "puja_maxima": 10224986,
-    "dinero": -7037514,
-    "compras": 78670814,
-    "ventas": 26923300,
-    "puntos": 311,
-    "cuota_mercado": 0.14,
-    "plusvalia": 7689071,
-    "margen_ventas": 9303414
   }
 ]
