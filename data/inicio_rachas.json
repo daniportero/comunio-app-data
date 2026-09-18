@@ -1,7 +1,7 @@
 [
   {
     "posicion": 1,
-    "posicion_ranking": 2,
+    "posicion_ranking": 1,
     "manager": "Carlos Saez",
     "valor_equipo": 71840000,
     "puntos": 267,
@@ -13,7 +13,7 @@
   },
   {
     "posicion": 2,
-    "posicion_ranking": 1,
+    "posicion_ranking": 2,
     "manager": "Manuel Tello",
     "valor_equipo": 66810000,
     "puntos": 250,
