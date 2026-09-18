@@ -4,11 +4,11 @@
     "manager": "Manuel Tello",
     "valor_equipo": 67640000,
     "dinero": 1376300,
-    "puntos_jornada_actual": 8,
-    "puntos_total": 363,
-    "cambio_posicion": 0,
-    "jugadores_jugados": 11,
-    "jugadores_alineados": 12
+    "puntos_jornada_actual": 11,
+    "puntos_total": 366,
+    "cambio_posicion": 1,
+    "jugadores_jugados": 3,
+    "jugadores_alineados": 3
   },
   {
     "posicion": 2,
@@ -17,42 +17,42 @@
     "dinero": 124000,
     "puntos_jornada_actual": 0,
     "puntos_total": 356,
-    "cambio_posicion": 0,
-    "jugadores_jugados": 9,
-    "jugadores_alineados": 11
+    "cambio_posicion": -1,
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 1
   },
   {
     "posicion": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 60620000,
     "dinero": 1063686,
-    "puntos_jornada_actual": 6,
-    "puntos_total": 317,
+    "puntos_jornada_actual": 9,
+    "puntos_total": 320,
     "cambio_posicion": 0,
-    "jugadores_jugados": 10,
-    "jugadores_alineados": 11
+    "jugadores_jugados": 2,
+    "jugadores_alineados": 2
   },
   {
     "posicion": 4,
     "manager": "Mena",
     "valor_equipo": 46590000,
     "dinero": 551100,
-    "puntos_jornada_actual": 4,
-    "puntos_total": 307,
+    "puntos_jornada_actual": -1,
+    "puntos_total": 302,
     "cambio_posicion": 0,
-    "jugadores_jugados": 10,
-    "jugadores_alineados": 12
+    "jugadores_jugados": 2,
+    "jugadores_alineados": 2
   },
   {
     "posicion": 5,
     "manager": "Edu Zurita",
     "valor_equipo": 47570000,
     "dinero": 221682,
-    "puntos_jornada_actual": 2,
-    "puntos_total": 263,
-    "cambio_posicion": 2,
-    "jugadores_jugados": 15,
-    "jugadores_alineados": 16
+    "puntos_jornada_actual": 4,
+    "puntos_total": 265,
+    "cambio_posicion": 1,
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 1
   },
   {
     "posicion": 6,
@@ -62,19 +62,19 @@
     "puntos_jornada_actual": 0,
     "puntos_total": 262,
     "cambio_posicion": -1,
-    "jugadores_jugados": 10,
-    "jugadores_alineados": 12
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 1
   },
   {
     "posicion": 7,
     "manager": "Team Novita",
     "valor_equipo": 45220000,
     "dinero": 2260755,
-    "puntos_jornada_actual": 9,
-    "puntos_total": 255,
-    "cambio_posicion": 2,
-    "jugadores_jugados": 12,
-    "jugadores_alineados": 12
+    "puntos_jornada_actual": 12,
+    "puntos_total": 258,
+    "cambio_posicion": 1,
+    "jugadores_jugados": 2,
+    "jugadores_alineados": 2
   },
   {
     "posicion": 8,
@@ -83,9 +83,9 @@
     "dinero": 157171,
     "puntos_jornada_actual": 2,
     "puntos_total": 252,
-    "cambio_posicion": -2,
-    "jugadores_jugados": 9,
-    "jugadores_alineados": 11
+    "cambio_posicion": -1,
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 1
   },
   {
     "posicion": 9,
@@ -94,8 +94,8 @@
     "dinero": 2204800,
     "puntos_jornada_actual": 1,
     "puntos_total": 225,
-    "cambio_posicion": -1,
-    "jugadores_jugados": 9,
-    "jugadores_alineados": 11
+    "cambio_posicion": 0,
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 1
   }
 ]

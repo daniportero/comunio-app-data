@@ -778,14 +778,14 @@
       },
       {
         "jornada": 7,
-        "puntos_totales": 0,
+        "puntos_totales": 11,
         "jugadores": [
           {
             "jugador": "Gonzalo Villar",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3216.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": "-",
+            "puntos": 5,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -794,7 +794,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3885.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -803,7 +803,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3773.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           }
@@ -2420,14 +2420,14 @@
       },
       {
         "jornada": 7,
-        "puntos_totales": 0,
+        "puntos_totales": 4,
         "jugadores": [
           {
             "jugador": "Leandro Cabrera",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/1019.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           }
@@ -3250,14 +3250,14 @@
       },
       {
         "jornada": 7,
-        "puntos_totales": 0,
+        "puntos_totales": 9,
         "jugadores": [
           {
             "jugador": "Hartman",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4087.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3266,7 +3266,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2596.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": "-",
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           }
@@ -4089,7 +4089,7 @@
       },
       {
         "jornada": 7,
-        "puntos_totales": 0,
+        "puntos_totales": -1,
         "jugadores": [
           {
             "jugador": "Omar El Hilali",
@@ -4105,7 +4105,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3079.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": "-",
+            "puntos": -1,
             "alineado": true,
             "alineado_inicial": true
           }
@@ -4874,14 +4874,14 @@
       },
       {
         "jornada": 7,
-        "puntos_totales": 0,
+        "puntos_totales": 2,
         "jugadores": [
           {
             "jugador": "Urko González",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3078.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 2,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5902,14 +5902,14 @@
       },
       {
         "jornada": 7,
-        "puntos_totales": 0,
+        "puntos_totales": 12,
         "jugadores": [
           {
             "jugador": "Unai Núñez",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/2428.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 9,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -5918,7 +5918,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4083.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           }
@@ -6678,14 +6678,14 @@
       },
       {
         "jornada": 7,
-        "puntos_totales": 0,
+        "puntos_totales": 1,
         "jugadores": [
           {
             "jugador": "Roger Hinojo",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3807.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
+            "puntos": 1,
             "alineado": true,
             "alineado_inicial": true
           }
