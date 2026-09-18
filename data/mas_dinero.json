@@ -13,19 +13,6 @@
     "margen_ventas": 1459923
   },
   {
-    "posicion": 6,
-    "manager": "Edu Zurita",
-    "valor_equipo": 47570000,
-    "puja_maxima": 13664183,
-    "dinero": 1771683,
-    "compras": 87700017,
-    "ventas": 45261700,
-    "puntos": 261,
-    "cuota_mercado": 0.0962,
-    "plusvalia": -4930010,
-    "margen_ventas": 8911693
-  },
-  {
     "posicion": 9,
     "manager": "Chirli",
     "valor_equipo": 36970000,
@@ -50,19 +37,6 @@
     "cuota_mercado": 0.1367,
     "plusvalia": 370000,
     "margen_ventas": 20236300
-  },
-  {
-    "posicion": 1,
-    "manager": "Carlos Saez",
-    "valor_equipo": 76170000,
-    "puja_maxima": 20110700,
-    "dinero": 1068200,
-    "compras": 93696000,
-    "ventas": 51204200,
-    "puntos": 356,
-    "cuota_mercado": 0.154,
-    "plusvalia": 11959000,
-    "margen_ventas": 17389200
   },
   {
     "posicion": 4,
@@ -91,6 +65,19 @@
     "margen_ventas": 10671800
   },
   {
+    "posicion": 6,
+    "manager": "Edu Zurita",
+    "valor_equipo": 47570000,
+    "puja_maxima": 12114182,
+    "dinero": 221682,
+    "compras": 89250018,
+    "ventas": 45261700,
+    "puntos": 261,
+    "cuota_mercado": 0.0962,
+    "plusvalia": -4930011,
+    "margen_ventas": 8911693
+  },
+  {
     "posicion": 7,
     "manager": "Muriqui Saez",
     "valor_equipo": 45490000,
@@ -104,16 +91,29 @@
     "margen_ventas": 3595050
   },
   {
+    "posicion": 1,
+    "manager": "Carlos Saez",
+    "valor_equipo": 76170000,
+    "puja_maxima": 17609700,
+    "dinero": -1432800,
+    "compras": 96197000,
+    "ventas": 51204200,
+    "puntos": 356,
+    "cuota_mercado": 0.154,
+    "plusvalia": 11518000,
+    "margen_ventas": 17389200
+  },
+  {
     "posicion": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 69050000,
-    "puja_maxima": 10224986,
-    "dinero": -7037514,
-    "compras": 77870814,
+    "puja_maxima": 9424986,
+    "dinero": -7837514,
+    "compras": 78670814,
     "ventas": 26923300,
     "puntos": 311,
     "cuota_mercado": 0.1396,
-    "plusvalia": 7489072,
-    "margen_ventas": 9103415
+    "plusvalia": 7689071,
+    "margen_ventas": 9303414
   }
 ]

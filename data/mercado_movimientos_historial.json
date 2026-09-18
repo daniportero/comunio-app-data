@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-09-18",
+    "jugador": "Hartman",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4087.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 800000,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-18",
+    "jugador": "Isi Palazón",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3108.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 2501000,
+    "valor_momento": null,
+    "manager": "Carlos Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-18",
+    "jugador": "Djené",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2447.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 1550001,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-17",
     "jugador": "Bigas",
     "posicion": "DEF",
