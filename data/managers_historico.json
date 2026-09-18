@@ -3577,10 +3577,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Junior Firpo",
+            "jugador": "Hartman",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2545.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+            "imagen": "https://www.comuniate.com/caras3/4087.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -3658,10 +3658,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Hartman",
+            "jugador": "Junior Firpo",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4087.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "imagen": "https://www.comuniate.com/caras3/2545.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true

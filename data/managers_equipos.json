@@ -800,7 +800,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -818,7 +818,7 @@
         "r3": 5,
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
