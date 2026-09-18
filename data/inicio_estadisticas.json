@@ -2,7 +2,7 @@
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 76170000,
+    "valor_equipo": 74560000,
     "semanas_lider": 2,
     "jornadas_ganadas": 2,
     "mejor_puntos_jornada": 82,
@@ -16,11 +16,11 @@
     "valor_mejor_jugador": 25600000,
     "imagen_mejor_jugador": "https://www.comuniate.com/caras3/3298.png",
     "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/3.png",
-    "jugador_rentable": "Josan",
-    "puntos_jugador_rentable": 14,
-    "valor_jugador_rentable": 360000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/2981.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/75.png"
+    "jugador_rentable": "Agirrezabala",
+    "puntos_jugador_rentable": 32,
+    "valor_jugador_rentable": 1700000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3140.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/14.png"
   },
   {
     "posicion": 2,

@@ -2081,8 +2081,8 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 76170000,
-    "num_jugadores": 13,
+    "valor_equipo": 74560000,
+    "num_jugadores": 11,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -2177,24 +2177,6 @@
       },
       {
         "posicion": "MED",
-        "puntos": 14,
-        "media_puntos": 4.7,
-        "jugador": "Josan",
-        "imagen": "https://www.comuniate.com/caras3/2981.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-        "valor_jugador": 360000,
-        "revalorizacion": 40000,
-        "plusvalia": -1000,
-        "r5": 4,
-        "r4": "-",
-        "r3": 5,
-        "r2": 5,
-        "r1": "-",
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
         "puntos": 7,
         "media_puntos": 3.5,
         "jugador": "Isi Palazón",
@@ -2208,7 +2190,7 @@
         "r3": "-",
         "r2": "-",
         "r1": 3,
-        "alineado": false,
+        "alineado": true,
         "lesion": "Lesión muscular en cuádriceps"
       },
       {
@@ -2280,7 +2262,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": "Rotura ligamento cruzado anterior de la rodilla derecha. Baja hasta agosto"
       },
       {
@@ -2298,24 +2280,6 @@
         "r3": 5,
         "r2": 2,
         "r1": 9,
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 2,
-        "media_puntos": 2.0,
-        "jugador": "Ratkov",
-        "imagen": "https://www.comuniate.com/caras3/4162.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
-        "valor_jugador": 1240000,
-        "revalorizacion": 80000,
-        "plusvalia": -361000,
-        "r5": "-",
-        "r4": 2,
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
         "alineado": true,
         "lesion": null
       }

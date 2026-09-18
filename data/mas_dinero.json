@@ -8,7 +8,7 @@
     "compras": 55280945,
     "ventas": 11881700,
     "puntos": 246,
-    "cuota_mercado": 0.0914,
+    "cuota_mercado": 0.0917,
     "plusvalia": 180832,
     "margen_ventas": 1459923
   },
@@ -21,7 +21,7 @@
     "compras": 66540100,
     "ventas": 24904900,
     "puntos": 224,
-    "cuota_mercado": 0.0747,
+    "cuota_mercado": 0.075,
     "plusvalia": -2110000,
     "margen_ventas": -3955200
   },
@@ -34,7 +34,7 @@
     "compras": 161384100,
     "ventas": 119210400,
     "puntos": 355,
-    "cuota_mercado": 0.1367,
+    "cuota_mercado": 0.1372,
     "plusvalia": 370000,
     "margen_ventas": 20236300
   },
@@ -47,7 +47,7 @@
     "compras": 59600000,
     "ventas": 16321100,
     "puntos": 303,
-    "cuota_mercado": 0.0942,
+    "cuota_mercado": 0.0945,
     "plusvalia": 14460000,
     "margen_ventas": -9728900
   },
@@ -60,7 +60,7 @@
     "compras": 169823000,
     "ventas": 127503800,
     "puntos": 262,
-    "cuota_mercado": 0.1212,
+    "cuota_mercado": 0.1216,
     "plusvalia": 5289000,
     "margen_ventas": 10671800
   },
@@ -73,7 +73,7 @@
     "compras": 89250018,
     "ventas": 45261700,
     "puntos": 261,
-    "cuota_mercado": 0.0962,
+    "cuota_mercado": 0.0965,
     "plusvalia": -4930011,
     "margen_ventas": 8911693
   },
@@ -86,22 +86,22 @@
     "compras": 124686929,
     "ventas": 81544100,
     "puntos": 250,
-    "cuota_mercado": 0.092,
+    "cuota_mercado": 0.0923,
     "plusvalia": -3797879,
     "margen_ventas": 3595050
   },
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 76170000,
-    "puja_maxima": 17609700,
-    "dinero": -1432800,
+    "valor_equipo": 74560000,
+    "puja_maxima": 18764000,
+    "dinero": 124000,
     "compras": 96197000,
-    "ventas": 51204200,
+    "ventas": 52761000,
     "puntos": 356,
-    "cuota_mercado": 0.154,
-    "plusvalia": 11518000,
-    "margen_ventas": 17389200
+    "cuota_mercado": 0.1512,
+    "plusvalia": 11880000,
+    "margen_ventas": 16984000
   },
   {
     "posicion": 3,
@@ -112,7 +112,7 @@
     "compras": 78670814,
     "ventas": 26923300,
     "puntos": 311,
-    "cuota_mercado": 0.1396,
+    "cuota_mercado": 0.14,
     "plusvalia": 7689071,
     "margen_ventas": 9303414
   }
