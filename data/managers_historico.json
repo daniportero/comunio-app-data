@@ -1674,18 +1674,18 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Marc Aguado",
+            "jugador": "Koke",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3842.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+            "imagen": "https://www.comuniate.com/caras3/1083.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Martim Neto",
+            "jugador": "Marc Aguado",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3888.png",
+            "imagen": "https://www.comuniate.com/caras3/3842.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": "-",
             "alineado": true,
@@ -1719,10 +1719,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Koke",
+            "jugador": "Martim Neto",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/1083.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+            "imagen": "https://www.comuniate.com/caras3/3888.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true

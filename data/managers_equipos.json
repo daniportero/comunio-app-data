@@ -370,7 +370,7 @@
         "r3": 5,
         "r2": 3,
         "r1": 8,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -424,7 +424,7 @@
         "r3": "-",
         "r2": "-",
         "r1": 2,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
