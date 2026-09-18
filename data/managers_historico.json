@@ -6571,10 +6571,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Youssef Enríquez",
+            "jugador": "Unai Núñez",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/3812.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "imagen": "https://www.comuniate.com/caras3/2428.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Gorrotxategi",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3833.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -6584,15 +6593,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2838.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Luis Rioja",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2812.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -6652,19 +6652,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Unai Núñez",
+            "jugador": "Youssef Enríquez",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2428.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "imagen": "https://www.comuniate.com/caras3/3812.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
           },
           {
-            "jugador": "Gorrotxategi",
+            "jugador": "Luis Rioja",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3833.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "imagen": "https://www.comuniate.com/caras3/2812.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
