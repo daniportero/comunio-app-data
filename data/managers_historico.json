@@ -4560,10 +4560,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Juan Cruz",
+            "jugador": "Kochorashvili",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2571.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "imagen": "https://www.comuniate.com/caras3/3087.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -4587,6 +4587,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Sucic",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3671.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Budimir",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2808.png",
@@ -4596,28 +4605,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Lucas Stassin",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/4152.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Kochorashvili",
+            "jugador": "Juan Cruz",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3087.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "imagen": "https://www.comuniate.com/caras3/2571.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
           },
           {
-            "jugador": "Sucic",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3671.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "jugador": "Lucas Stassin",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/4152.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -5435,15 +5435,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Comesaña",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2591.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Urko González",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3078.png",
@@ -5489,6 +5480,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Raúl García de Haro",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2865.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Iturbe",
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/3879.png",
@@ -5507,10 +5507,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Raúl García de Haro",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2865.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "jugador": "Comesaña",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/2591.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
