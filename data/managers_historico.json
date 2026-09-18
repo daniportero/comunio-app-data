@@ -2621,10 +2621,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Julio Díaz",
+            "jugador": "Djené",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4003.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "imagen": "https://www.comuniate.com/caras3/2447.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -2684,19 +2684,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Mikautadze",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3930.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+            "jugador": "Yangel Herrera",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/2727.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Villalibre",
+            "jugador": "Mikautadze",
             "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2338.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+            "imagen": "https://www.comuniate.com/caras3/3930.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -2711,10 +2711,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Djené",
+            "jugador": "Julio Díaz",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2447.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+            "imagen": "https://www.comuniate.com/caras3/4003.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -2729,10 +2729,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Yangel Herrera",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2727.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "jugador": "Villalibre",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2338.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true

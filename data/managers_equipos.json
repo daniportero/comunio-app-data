@@ -487,7 +487,7 @@
     "manager": "Edu Zurita",
     "valor_equipo": 47570000,
     "num_jugadores": 14,
-    "formacion": "3-4-3",
+    "formacion": "3-5-2",
     "jugadores": [
       {
         "posicion": "POR",
@@ -540,7 +540,7 @@
         "r3": 2,
         "r2": 1,
         "r1": 6,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -594,7 +594,7 @@
         "r3": "-",
         "r2": 2,
         "r1": 5,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -684,7 +684,7 @@
         "r3": 13,
         "r2": 4,
         "r1": 4,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -720,7 +720,7 @@
         "r3": "-",
         "r2": 5,
         "r1": 2,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {

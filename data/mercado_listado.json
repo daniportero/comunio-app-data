@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEL",
+    "puntos": 12,
+    "media_puntos": 2.4,
+    "imagen": "https://www.comuniate.com/caras3/2338.png",
+    "jugador": "Villalibre",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor_jugador": 1280000,
+    "revalorizacion": -500000,
+    "plusvalia": -2130005,
+    "venta": 12800000,
+    "r5": 2,
+    "r4": 3,
+    "r3": "-",
+    "r2": 5,
+    "r1": 2,
+    "manager": "Edu Zurita",
+    "valor_compra": 3410005,
+    "lesion": null
+  },
+  {
     "posicion": "DEF",
     "puntos": 12,
     "media_puntos": 6.0,
