@@ -672,17 +672,6 @@
   },
   {
     "jornada": 7,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "equipo_local": "Osasuna",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "equipo_visitante": "Rayo Vallecano",
-    "resultado": null,
-    "fecha": "2026-09-19",
-    "hora": "14:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 7,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "equipo_local": "Athletic Club",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/89.png",
