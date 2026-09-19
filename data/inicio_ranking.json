@@ -1,33 +1,33 @@
 [
   {
     "posicion": 1,
+    "manager": "Carlos Saez",
+    "valor_equipo": 72340000,
+    "dinero": 124000,
+    "puntos_jornada_actual": 27,
+    "puntos_total": 383,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 1
+  },
+  {
+    "posicion": 2,
     "manager": "Manuel Tello",
     "valor_equipo": 67470000,
     "dinero": 1376300,
     "puntos_jornada_actual": 27,
     "puntos_total": 382,
-    "cambio_posicion": 1,
+    "cambio_posicion": 0,
     "jugadores_jugados": 3,
     "jugadores_alineados": 3
-  },
-  {
-    "posicion": 2,
-    "manager": "Carlos Saez",
-    "valor_equipo": 72340000,
-    "dinero": 124000,
-    "puntos_jornada_actual": 22,
-    "puntos_total": 378,
-    "cambio_posicion": -1,
-    "jugadores_jugados": 1,
-    "jugadores_alineados": 1
   },
   {
     "posicion": 3,
     "manager": "Mena",
     "valor_equipo": 45820000,
     "dinero": 551100,
-    "puntos_jornada_actual": 37,
-    "puntos_total": 340,
+    "puntos_jornada_actual": 35,
+    "puntos_total": 338,
     "cambio_posicion": 1,
     "jugadores_jugados": 2,
     "jugadores_alineados": 2
@@ -37,8 +37,8 @@
     "manager": "Diego Zuri",
     "valor_equipo": 58420000,
     "dinero": 397017,
-    "puntos_jornada_actual": 25,
-    "puntos_total": 336,
+    "puntos_jornada_actual": 24,
+    "puntos_total": 335,
     "cambio_posicion": -1,
     "jugadores_jugados": 2,
     "jugadores_alineados": 2
@@ -70,8 +70,8 @@
     "manager": "Team Novita",
     "valor_equipo": 44600000,
     "dinero": 2260755,
-    "puntos_jornada_actual": 21,
-    "puntos_total": 267,
+    "puntos_jornada_actual": 27,
+    "puntos_total": 273,
     "cambio_posicion": 1,
     "jugadores_jugados": 2,
     "jugadores_alineados": 2
