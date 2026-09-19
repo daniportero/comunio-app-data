@@ -1,6 +1,26 @@
 [
   {
     "posicion": "MED",
+    "puntos": 20,
+    "media_puntos": 3.3,
+    "imagen": "https://www.comuniate.com/caras3/2591.png",
+    "jugador": "Comesaña",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor_jugador": 1620000,
+    "revalorizacion": -550000,
+    "plusvalia": -2550000,
+    "venta": 1620000,
+    "r5": "-",
+    "r4": 6,
+    "r3": 6,
+    "r2": 2,
+    "r1": 3,
+    "manager": "Muriqui Saez",
+    "valor_compra": 4170000,
+    "lesion": "Esguince de tobillo"
+  },
+  {
+    "posicion": "MED",
     "puntos": 26,
     "media_puntos": 4.3,
     "imagen": "https://www.comuniate.com/caras3/2339.png",
