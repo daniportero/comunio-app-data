@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-09-19",
+    "jugador": "Rosier",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3649.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 666669,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-18",
     "jugador": "Hartman",
     "posicion": "DEF",
