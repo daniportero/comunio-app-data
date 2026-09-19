@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEF",
+    "puntos": 17,
+    "media_puntos": 4.2,
+    "imagen": "https://www.comuniate.com/caras3/1676.png",
+    "jugador": "José Giménez",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor_jugador": 4260000,
+    "revalorizacion": 1640000,
+    "plusvalia": null,
+    "venta": 4850000,
+    "r5": "-",
+    "r4": 3,
+    "r3": 5,
+    "r2": 6,
+    "r1": 3,
+    "manager": "",
+    "valor_compra": 0,
+    "lesion": null
+  },
+  {
     "posicion": "POR",
     "puntos": 32,
     "media_puntos": 5.3,
