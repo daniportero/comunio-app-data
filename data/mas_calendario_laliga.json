@@ -683,17 +683,6 @@
   },
   {
     "jornada": 7,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/1.png",
-    "equipo_local": "Athletic Club",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "equipo_visitante": "Alavés",
-    "resultado": null,
-    "fecha": "2026-09-19",
-    "hora": "16:15",
-    "aplazado": false
-  },
-  {
-    "jornada": 7,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "equipo_local": "Celta",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/14.png",
