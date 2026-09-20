@@ -4,8 +4,8 @@
     "manager": "Carlos Saez",
     "valor_equipo": 74250000,
     "dinero": 124000,
-    "puntos_jornada_actual": 41,
-    "puntos_total": 397,
+    "puntos_jornada_actual": 43,
+    "puntos_total": 399,
     "cambio_posicion": 0,
     "jugadores_jugados": 1,
     "jugadores_alineados": 1
@@ -15,8 +15,8 @@
     "manager": "Manuel Tello",
     "valor_equipo": 83640000,
     "dinero": -14473700,
-    "puntos_jornada_actual": 37,
-    "puntos_total": 392,
+    "puntos_jornada_actual": 43,
+    "puntos_total": 398,
     "cambio_posicion": 0,
     "jugadores_jugados": 3,
     "jugadores_alineados": 3
@@ -70,8 +70,8 @@
     "manager": "Team Novita",
     "valor_equipo": 45480000,
     "dinero": 2260755,
-    "puntos_jornada_actual": 41,
-    "puntos_total": 287,
+    "puntos_jornada_actual": 42,
+    "puntos_total": 288,
     "cambio_posicion": 1,
     "jugadores_jugados": 2,
     "jugadores_alineados": 2
