@@ -1,25 +1,25 @@
 [
   {
     "posicion": 1,
-    "manager": "Manuel Tello",
-    "valor_equipo": 83640000,
-    "dinero": -14473700,
-    "puntos_jornada_actual": 56,
-    "puntos_total": 411,
-    "cambio_posicion": 1,
-    "jugadores_jugados": 3,
-    "jugadores_alineados": 3
-  },
-  {
-    "posicion": 2,
     "manager": "Carlos Saez",
     "valor_equipo": 74250000,
     "dinero": 124000,
-    "puntos_jornada_actual": 48,
-    "puntos_total": 404,
-    "cambio_posicion": -1,
+    "puntos_jornada_actual": 58,
+    "puntos_total": 414,
+    "cambio_posicion": 0,
     "jugadores_jugados": 1,
     "jugadores_alineados": 1
+  },
+  {
+    "posicion": 2,
+    "manager": "Manuel Tello",
+    "valor_equipo": 83640000,
+    "dinero": -14473700,
+    "puntos_jornada_actual": 55,
+    "puntos_total": 410,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 3,
+    "jugadores_alineados": 3
   },
   {
     "posicion": 3,
@@ -48,8 +48,8 @@
     "manager": "Edu Zurita",
     "valor_equipo": 48300000,
     "dinero": 221682,
-    "puntos_jornada_actual": 56,
-    "puntos_total": 317,
+    "puntos_jornada_actual": 61,
+    "puntos_total": 322,
     "cambio_posicion": 1,
     "jugadores_jugados": 1,
     "jugadores_alineados": 1
@@ -81,8 +81,8 @@
     "manager": "Chirli",
     "valor_equipo": 37070000,
     "dinero": 2204800,
-    "puntos_jornada_actual": 69,
-    "puntos_total": 293,
+    "puntos_jornada_actual": 67,
+    "puntos_total": 291,
     "cambio_posicion": 1,
     "jugadores_jugados": 1,
     "jugadores_alineados": 1
