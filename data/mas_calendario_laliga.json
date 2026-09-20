@@ -738,6 +738,28 @@
   },
   {
     "jornada": 7,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "equipo_local": "Deportivo",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "equipo_visitante": "Betis",
+    "resultado": "1-1",
+    "fecha": "2026-09-20",
+    "hora": "18:30",
+    "aplazado": false
+  },
+  {
+    "jornada": 7,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "equipo_local": "Villarreal",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "equipo_visitante": "Levante",
+    "resultado": "3-1",
+    "fecha": "2026-09-20",
+    "hora": "18:30",
+    "aplazado": false
+  },
+  {
+    "jornada": 7,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "equipo_local": "Valencia",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/13.png",
