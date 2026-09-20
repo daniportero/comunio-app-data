@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 83640000,
-    "num_jugadores": 16,
+    "valor_equipo": 67790000,
+    "num_jugadores": 14,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -74,7 +74,7 @@
         "r3": 5,
         "r2": 7,
         "r1": -2,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -92,7 +92,7 @@
         "r3": 5,
         "r2": 6,
         "r1": 3,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -187,24 +187,6 @@
       },
       {
         "posicion": "MED",
-        "puntos": 34,
-        "media_puntos": 5.7,
-        "jugador": "Pablo García Fernández",
-        "imagen": "https://www.comuniate.com/caras3/3777.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
-        "valor_jugador": 4140000,
-        "revalorizacion": 220000,
-        "plusvalia": 490000,
-        "r5": 0,
-        "r4": "-",
-        "r3": 3,
-        "r2": 13,
-        "r1": 2,
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
         "puntos": 25,
         "media_puntos": 4.2,
         "jugador": "Pepelu",
@@ -273,24 +255,6 @@
         "r2": 19,
         "r1": 16,
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 38,
-        "media_puntos": 7.6,
-        "jugador": "Nicolas Pépé",
-        "imagen": "https://www.comuniate.com/caras3/3673.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-        "valor_jugador": 11710000,
-        "revalorizacion": -2760000,
-        "plusvalia": -3970000,
-        "r5": 3,
-        "r4": "-",
-        "r3": 5,
-        "r2": 12,
-        "r1": 4,
-        "alineado": false,
         "lesion": null
       }
     ]
@@ -799,8 +763,8 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 61000000,
-    "num_jugadores": 16,
+    "valor_equipo": 60140000,
+    "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
       {
@@ -853,24 +817,6 @@
         "r4": 7,
         "r3": "-",
         "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 14,
-        "media_puntos": 4.7,
-        "jugador": "Hartman",
-        "imagen": "https://www.comuniate.com/caras3/4087.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-        "valor_jugador": 860000,
-        "revalorizacion": 10000,
-        "plusvalia": 60000,
-        "r5": 3,
-        "r4": 6,
-        "r3": "-",
-        "r2": 5,
         "r1": "-",
         "alineado": false,
         "lesion": null
@@ -1337,8 +1283,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 47620000,
-    "num_jugadores": 17,
+    "valor_equipo": 46000000,
+    "num_jugadores": 16,
     "formacion": "4-3-3",
     "jugadores": [
       {
@@ -1556,24 +1502,6 @@
         "r1": 10,
         "alineado": true,
         "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 20,
-        "media_puntos": 3.3,
-        "jugador": "Comesaña",
-        "imagen": "https://www.comuniate.com/caras3/2591.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-        "valor_jugador": 1620000,
-        "revalorizacion": -470000,
-        "plusvalia": -2550000,
-        "r5": "-",
-        "r4": 6,
-        "r3": 6,
-        "r2": 2,
-        "r1": 3,
-        "alineado": false,
-        "lesion": "Esguince de tobillo"
       },
       {
         "posicion": "DEL",

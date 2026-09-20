@@ -66,6 +66,50 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-09-20",
+    "jugador": "Comesaña",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2591.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 1571400,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Hartman",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4087.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 892700,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Nicolas Pépé",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3673.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 11780300,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Pablo García Fernández",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3777.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
+    "valor": 4326300,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-19",
     "jugador": "Rosier",
     "posicion": "DEF",
