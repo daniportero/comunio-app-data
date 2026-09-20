@@ -759,17 +759,6 @@
     "aplazado": false
   },
   {
-    "jornada": 7,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/18.png",
-    "equipo_local": "Valencia",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/13.png",
-    "equipo_visitante": "Real Sociedad",
-    "resultado": null,
-    "fecha": "2026-09-20",
-    "hora": "21:00",
-    "aplazado": false
-  },
-  {
     "jornada": 8,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "equipo_local": "Real Madrid",
