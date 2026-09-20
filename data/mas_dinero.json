@@ -26,19 +26,6 @@
     "margen_ventas": -3955200
   },
   {
-    "posicion": 2,
-    "manager": "Manuel Tello",
-    "valor_equipo": 83640000,
-    "puja_maxima": 22286300,
-    "dinero": 1376300,
-    "compras": 161384100,
-    "ventas": 119210400,
-    "puntos": 355,
-    "cuota_mercado": 0.1661,
-    "plusvalia": 4105900,
-    "margen_ventas": 20236300
-  },
-  {
     "posicion": 4,
     "manager": "Mena",
     "valor_equipo": 47190000,
@@ -50,19 +37,6 @@
     "cuota_mercado": 0.0937,
     "plusvalia": 12270000,
     "margen_ventas": -9728900
-  },
-  {
-    "posicion": 3,
-    "manager": "Diego Zuri",
-    "valor_equipo": 61000000,
-    "puja_maxima": 15647017,
-    "dinero": 397017,
-    "compras": 79337483,
-    "ventas": 35024500,
-    "puntos": 311,
-    "cuota_mercado": 0.1211,
-    "plusvalia": 4422402,
-    "margen_ventas": 9884614
   },
   {
     "posicion": 5,
@@ -91,19 +65,6 @@
     "margen_ventas": 8911693
   },
   {
-    "posicion": 7,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 47620000,
-    "puja_maxima": 12062171,
-    "dinero": 157171,
-    "compras": 124686929,
-    "ventas": 81544100,
-    "puntos": 250,
-    "cuota_mercado": 0.0945,
-    "plusvalia": -1397879,
-    "margen_ventas": 3595050
-  },
-  {
     "posicion": 1,
     "manager": "Carlos Saez",
     "valor_equipo": 74250000,
@@ -115,5 +76,44 @@
     "cuota_mercado": 0.1474,
     "plusvalia": 11920000,
     "margen_ventas": 16984000
+  },
+  {
+    "posicion": 7,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 47620000,
+    "puja_maxima": 10562170,
+    "dinero": -1342830,
+    "compras": 126186930,
+    "ventas": 81544100,
+    "puntos": 250,
+    "cuota_mercado": 0.0945,
+    "plusvalia": -2117880,
+    "margen_ventas": 3045049
+  },
+  {
+    "posicion": 3,
+    "manager": "Diego Zuri",
+    "valor_equipo": 61000000,
+    "puja_maxima": 12313678,
+    "dinero": -2936322,
+    "compras": 82670822,
+    "ventas": 35024500,
+    "puntos": 311,
+    "cuota_mercado": 0.1211,
+    "plusvalia": 4189063,
+    "margen_ventas": 9884614
+  },
+  {
+    "posicion": 2,
+    "manager": "Manuel Tello",
+    "valor_equipo": 83640000,
+    "puja_maxima": 6436300,
+    "dinero": -14473700,
+    "compras": 177234100,
+    "ventas": 119210400,
+    "puntos": 355,
+    "cuota_mercado": 0.1661,
+    "plusvalia": -1040000,
+    "margen_ventas": 15090400
   }
 ]

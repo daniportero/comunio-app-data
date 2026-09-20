@@ -1,5 +1,71 @@
 [
   {
+    "fecha": "2026-09-20",
+    "jugador": "David Larrubia",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/4078.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "valor": 3333339,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Lucas Cepeda",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3977.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 1000001,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Pablo Durán",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3356.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 950000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Álex Baena",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2943.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 12450000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Aitor Fernández",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/2633.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 500000,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-20",
+    "jugador": "Héctor Bellerín",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3164.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 2450000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-19",
     "jugador": "Rosier",
     "posicion": "DEF",
