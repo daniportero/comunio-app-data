@@ -4,8 +4,8 @@
     "manager": "Manuel Tello",
     "valor_equipo": 83640000,
     "dinero": -14473700,
-    "puntos_jornada_actual": 55,
-    "puntos_total": 410,
+    "puntos_jornada_actual": 56,
+    "puntos_total": 411,
     "cambio_posicion": 1,
     "jugadores_jugados": 3,
     "jugadores_alineados": 3
@@ -37,8 +37,8 @@
     "manager": "Mena",
     "valor_equipo": 47190000,
     "dinero": 551100,
-    "puntos_jornada_actual": 50,
-    "puntos_total": 353,
+    "puntos_jornada_actual": 49,
+    "puntos_total": 352,
     "cambio_posicion": 0,
     "jugadores_jugados": 2,
     "jugadores_alineados": 2
@@ -70,8 +70,8 @@
     "manager": "Team Novita",
     "valor_equipo": 45480000,
     "dinero": 2260755,
-    "puntos_jornada_actual": 49,
-    "puntos_total": 295,
+    "puntos_jornada_actual": 48,
+    "puntos_total": 294,
     "cambio_posicion": 1,
     "jugadores_jugados": 2,
     "jugadores_alineados": 2
@@ -81,8 +81,8 @@
     "manager": "Chirli",
     "valor_equipo": 37070000,
     "dinero": 2204800,
-    "puntos_jornada_actual": 68,
-    "puntos_total": 292,
+    "puntos_jornada_actual": 69,
+    "puntos_total": 293,
     "cambio_posicion": 1,
     "jugadores_jugados": 1,
     "jugadores_alineados": 1
