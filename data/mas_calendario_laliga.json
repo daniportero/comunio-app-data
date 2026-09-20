@@ -727,6 +727,17 @@
   },
   {
     "jornada": 7,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "equipo_local": "Atlético",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "equipo_visitante": "Real Madrid",
+    "resultado": "2-1",
+    "fecha": "2026-09-20",
+    "hora": "16:15",
+    "aplazado": false
+  },
+  {
+    "jornada": 7,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "equipo_local": "Deportivo",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/4.png",
