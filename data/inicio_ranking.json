@@ -7,8 +7,8 @@
     "puntos_jornada_actual": 58,
     "puntos_total": 414,
     "cambio_posicion": 0,
-    "jugadores_jugados": 1,
-    "jugadores_alineados": 1
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 2,
@@ -18,8 +18,8 @@
     "puntos_jornada_actual": 55,
     "puntos_total": 410,
     "cambio_posicion": 0,
-    "jugadores_jugados": 3,
-    "jugadores_alineados": 3
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 3,
@@ -29,8 +29,8 @@
     "puntos_jornada_actual": 65,
     "puntos_total": 376,
     "cambio_posicion": 0,
-    "jugadores_jugados": 2,
-    "jugadores_alineados": 2
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 4,
@@ -40,8 +40,8 @@
     "puntos_jornada_actual": 49,
     "puntos_total": 352,
     "cambio_posicion": 0,
-    "jugadores_jugados": 2,
-    "jugadores_alineados": 2
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 5,
@@ -51,8 +51,8 @@
     "puntos_jornada_actual": 61,
     "puntos_total": 322,
     "cambio_posicion": 1,
-    "jugadores_jugados": 1,
-    "jugadores_alineados": 1
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 6,
@@ -62,8 +62,8 @@
     "puntos_jornada_actual": 43,
     "puntos_total": 305,
     "cambio_posicion": -1,
-    "jugadores_jugados": 1,
-    "jugadores_alineados": 1
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 7,
@@ -73,8 +73,8 @@
     "puntos_jornada_actual": 48,
     "puntos_total": 294,
     "cambio_posicion": 1,
-    "jugadores_jugados": 2,
-    "jugadores_alineados": 2
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 8,
@@ -84,8 +84,8 @@
     "puntos_jornada_actual": 67,
     "puntos_total": 291,
     "cambio_posicion": 1,
-    "jugadores_jugados": 1,
-    "jugadores_alineados": 1
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   },
   {
     "posicion": 9,
@@ -95,7 +95,7 @@
     "puntos_jornada_actual": 26,
     "puntos_total": 276,
     "cambio_posicion": -2,
-    "jugadores_jugados": 1,
-    "jugadores_alineados": 1
+    "jugadores_jugados": null,
+    "jugadores_alineados": null
   }
 ]
