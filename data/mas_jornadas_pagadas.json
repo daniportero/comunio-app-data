@@ -6,12 +6,12 @@
       "dinero": 0
     },
     {
-      "posicion": 5,
+      "posicion": 6,
       "manager": "Dani Portero",
       "dinero": 0
     },
     {
-      "posicion": 6,
+      "posicion": 5,
       "manager": "Edu Zurita",
       "dinero": 4
     },
@@ -26,17 +26,17 @@
       "dinero": 2
     },
     {
-      "posicion": 7,
+      "posicion": 9,
       "manager": "Muriqui Saez",
       "dinero": 2
     },
     {
-      "posicion": 8,
+      "posicion": 7,
       "manager": "Team Novita",
       "dinero": 8
     },
     {
-      "posicion": 9,
+      "posicion": 8,
       "manager": "Chirli",
       "dinero": 4
     },

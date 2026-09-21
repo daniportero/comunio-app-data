@@ -1,6 +1,26 @@
 [
   {
     "posicion": "DEF",
+    "puntos": 36,
+    "media_puntos": 7.2,
+    "imagen": "https://www.comuniate.com/caras3/4008.png",
+    "jugador": "Xavi Espart",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "valor_jugador": 6940000,
+    "revalorizacion": 1300000,
+    "plusvalia": 3509000,
+    "venta": 7950000,
+    "r5": "-",
+    "r4": "-",
+    "r3": 12,
+    "r2": 6,
+    "r1": 5,
+    "manager": "Dani Portero",
+    "valor_compra": 3431000,
+    "lesion": null
+  },
+  {
+    "posicion": "DEF",
     "puntos": 17,
     "media_puntos": 4.2,
     "imagen": "https://www.comuniate.com/caras3/1676.png",
