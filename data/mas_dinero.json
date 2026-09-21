@@ -8,7 +8,7 @@
     "compras": 66540100,
     "ventas": 24904900,
     "puntos": 291,
-    "cuota_mercado": 0.0727,
+    "cuota_mercado": 0.0749,
     "plusvalia": -610000,
     "margen_ventas": -3955200
   },
@@ -21,7 +21,7 @@
     "compras": 55280945,
     "ventas": 11881700,
     "puntos": 294,
-    "cuota_mercado": 0.0909,
+    "cuota_mercado": 0.0937,
     "plusvalia": 620832,
     "margen_ventas": 1459923
   },
@@ -34,7 +34,7 @@
     "compras": 126186930,
     "ventas": 83115500,
     "puntos": 276,
-    "cuota_mercado": 0.0922,
+    "cuota_mercado": 0.095,
     "plusvalia": 1932120,
     "margen_ventas": 446449
   },
@@ -47,7 +47,7 @@
     "compras": 59600000,
     "ventas": 16321100,
     "puntos": 352,
-    "cuota_mercado": 0.0924,
+    "cuota_mercado": 0.0952,
     "plusvalia": 13640000,
     "margen_ventas": -9728900
   },
@@ -60,7 +60,7 @@
     "compras": 89250018,
     "ventas": 45261700,
     "puntos": 322,
-    "cuota_mercado": 0.093,
+    "cuota_mercado": 0.0959,
     "plusvalia": -4600011,
     "margen_ventas": 8911693
   },
@@ -73,9 +73,22 @@
     "compras": 96197000,
     "ventas": 52761000,
     "puntos": 414,
-    "cuota_mercado": 0.1418,
+    "cuota_mercado": 0.1462,
     "plusvalia": 13830000,
     "margen_ventas": 16984000
+  },
+  {
+    "posicion": 2,
+    "manager": "Manuel Tello",
+    "valor_equipo": 71440000,
+    "puja_maxima": 17207700,
+    "dinero": -652300,
+    "compras": 195684100,
+    "ventas": 150931800,
+    "puntos": 410,
+    "cuota_mercado": 0.1438,
+    "plusvalia": -810000,
+    "margen_ventas": 15631800
   },
   {
     "posicion": 3,
@@ -86,7 +99,7 @@
     "compras": 82670822,
     "ventas": 35917200,
     "puntos": 376,
-    "cuota_mercado": 0.1202,
+    "cuota_mercado": 0.1238,
     "plusvalia": 3609063,
     "margen_ventas": 9777315
   },
@@ -99,21 +112,8 @@
     "compras": 177373000,
     "ventas": 127503800,
     "puntos": 305,
-    "cuota_mercado": 0.1277,
+    "cuota_mercado": 0.1316,
     "plusvalia": 5879000,
     "margen_ventas": 10671800
-  },
-  {
-    "posicion": 2,
-    "manager": "Manuel Tello",
-    "valor_equipo": 86600000,
-    "puja_maxima": 5382900,
-    "dinero": -16267100,
-    "compras": 195684100,
-    "ventas": 135317000,
-    "puntos": 410,
-    "cuota_mercado": 0.1691,
-    "plusvalia": 4350000,
-    "margen_ventas": 11867000
   }
 ]
