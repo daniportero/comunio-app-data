@@ -2,7 +2,7 @@
   {
     "posicion": 1,
     "manager": "Carlos Saez",
-    "valor_equipo": 74250000,
+    "valor_equipo": 72640000,
     "semanas_lider": 2,
     "jornadas_ganadas": 2,
     "mejor_puntos_jornada": 82,
@@ -25,7 +25,7 @@
   {
     "posicion": 2,
     "manager": "Manuel Tello",
-    "valor_equipo": 67790000,
+    "valor_equipo": 86600000,
     "semanas_lider": 2,
     "jornadas_ganadas": 2,
     "mejor_puntos_jornada": 73,
@@ -48,7 +48,7 @@
   {
     "posicion": 3,
     "manager": "Diego Zuri",
-    "valor_equipo": 60140000,
+    "valor_equipo": 61540000,
     "semanas_lider": 1,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 77,
@@ -71,7 +71,7 @@
   {
     "posicion": 4,
     "manager": "Mena",
-    "valor_equipo": 47190000,
+    "valor_equipo": 47300000,
     "semanas_lider": 1,
     "jornadas_ganadas": 1,
     "mejor_puntos_jornada": 71,
@@ -94,7 +94,7 @@
   {
     "posicion": 5,
     "manager": "Edu Zurita",
-    "valor_equipo": 48300000,
+    "valor_equipo": 47650000,
     "semanas_lider": 0,
     "jornadas_ganadas": 1,
     "mejor_puntos_jornada": 63,
@@ -117,7 +117,7 @@
   {
     "posicion": 6,
     "manager": "Dani Portero",
-    "valor_equipo": 59120000,
+    "valor_equipo": 65390000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 60,
@@ -140,7 +140,7 @@
   {
     "posicion": 7,
     "manager": "Team Novita",
-    "valor_equipo": 45480000,
+    "valor_equipo": 46570000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 54,
@@ -163,7 +163,7 @@
   {
     "posicion": 8,
     "manager": "Chirli",
-    "valor_equipo": 37070000,
+    "valor_equipo": 37220000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 52,
@@ -186,7 +186,7 @@
   {
     "posicion": 9,
     "manager": "Muriqui Saez",
-    "valor_equipo": 46000000,
+    "valor_equipo": 47220000,
     "semanas_lider": 0,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 52,

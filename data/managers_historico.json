@@ -938,6 +938,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Diomande",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3806.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
           }
         ]
       }
@@ -1785,6 +1794,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Laporte",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/1613.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Martim Neto",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3888.png",
@@ -1798,6 +1816,15 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3357.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Pathé Ciss",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3136.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
