@@ -1722,15 +1722,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Xavi Espart",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4008.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Arda Güler",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3457.png",
