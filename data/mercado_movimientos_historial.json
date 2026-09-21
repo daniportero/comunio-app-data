@@ -55,6 +55,17 @@
     "movimiento": "Venta"
   },
   {
+    "fecha": "2026-09-21",
+    "jugador": "Jonny",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1599.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 4608700,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-20",
     "jugador": "David Larrubia",
     "posicion": "MED",

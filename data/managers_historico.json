@@ -922,10 +922,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Jonny",
+            "jugador": "Héctor Bellerín",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/1599.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "imagen": "https://www.comuniate.com/caras3/3164.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -967,6 +967,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Tyrhys Dolan",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3885.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Álex Baena",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2943.png",
@@ -980,15 +989,6 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3806.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Pablo Durán",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3356.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -1012,19 +1012,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Héctor Bellerín",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/3164.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Tyrhys Dolan",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3885.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "jugador": "Pablo Durán",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3356.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
