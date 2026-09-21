@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-09-21",
+    "jugador": "Laporte",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1613.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor": 4850000,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-21",
+    "jugador": "Diomande",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3806.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+    "valor": 18450000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-21",
+    "jugador": "Pathé Ciss",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3136.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 2700000,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-20",
     "jugador": "David Larrubia",
     "posicion": "MED",
