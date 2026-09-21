@@ -6191,10 +6191,10 @@
         "puntos_totales": 0,
         "jugadores": [
           {
-            "jugador": "Álex Padilla",
+            "jugador": "Aitor Fernández",
             "posicion": "POR",
-            "imagen": "https://www.comuniate.com/caras3/3665.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "imagen": "https://www.comuniate.com/caras3/2633.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -6290,19 +6290,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Aitor Fernández",
+            "jugador": "Iturbe",
             "posicion": "POR",
-            "imagen": "https://www.comuniate.com/caras3/2633.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "imagen": "https://www.comuniate.com/caras3/3879.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
           },
           {
-            "jugador": "Iturbe",
+            "jugador": "Álex Padilla",
             "posicion": "POR",
-            "imagen": "https://www.comuniate.com/caras3/3879.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+            "imagen": "https://www.comuniate.com/caras3/3665.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
