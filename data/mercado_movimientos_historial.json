@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/1613.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 4850000,
-    "valor_momento": null,
+    "valor_momento": 4790000,
     "manager": "Dani Portero",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/3806.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "valor": 18450000,
-    "valor_momento": null,
+    "valor_momento": 20110000,
     "manager": "Manuel Tello",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/3136.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "valor": 2700000,
-    "valor_momento": null,
+    "valor_momento": 2510000,
     "manager": "Dani Portero",
     "movimiento": "Compra"
   },
@@ -105,7 +105,7 @@
     "imagen": "https://www.comuniate.com/caras3/2591.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 1571400,
-    "valor_momento": null,
+    "valor_momento": 1620000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
@@ -116,7 +116,7 @@
     "imagen": "https://www.comuniate.com/caras3/4087.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 892700,
-    "valor_momento": null,
+    "valor_momento": 860000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
@@ -127,7 +127,7 @@
     "imagen": "https://www.comuniate.com/caras3/3673.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 11780300,
-    "valor_momento": null,
+    "valor_momento": 11710000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -138,7 +138,7 @@
     "imagen": "https://www.comuniate.com/caras3/3777.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/14.png",
     "valor": 4326300,
-    "valor_momento": null,
+    "valor_momento": 4140000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },

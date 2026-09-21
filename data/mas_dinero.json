@@ -26,6 +26,19 @@
     "margen_ventas": 1459923
   },
   {
+    "posicion": 9,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 47220000,
+    "puja_maxima": 13093570,
+    "dinero": 1288570,
+    "compras": 126186930,
+    "ventas": 83115500,
+    "puntos": 276,
+    "cuota_mercado": 0.0922,
+    "plusvalia": 1932120,
+    "margen_ventas": 446449
+  },
+  {
     "posicion": 4,
     "manager": "Mena",
     "valor_equipo": 47300000,
@@ -65,19 +78,6 @@
     "margen_ventas": 16984000
   },
   {
-    "posicion": 9,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 47220000,
-    "puja_maxima": 12293570,
-    "dinero": 488570,
-    "compras": 126186930,
-    "ventas": 83115500,
-    "puntos": 276,
-    "cuota_mercado": 0.0922,
-    "plusvalia": 1932120,
-    "margen_ventas": 446449
-  },
-  {
     "posicion": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 61540000,
@@ -94,8 +94,8 @@
     "posicion": 6,
     "manager": "Dani Portero",
     "valor_equipo": 65390000,
-    "puja_maxima": 9528300,
-    "dinero": -6819200,
+    "puja_maxima": 10328300,
+    "dinero": -6019200,
     "compras": 177373000,
     "ventas": 127503800,
     "puntos": 305,

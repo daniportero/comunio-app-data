@@ -8,7 +8,7 @@
     {
       "posicion": 6,
       "manager": "Dani Portero",
-      "dinero": 0
+      "dinero": 2
     },
     {
       "posicion": 5,
@@ -28,7 +28,7 @@
     {
       "posicion": 9,
       "manager": "Muriqui Saez",
-      "dinero": 2
+      "dinero": 4
     },
     {
       "posicion": 7,
@@ -46,5 +46,5 @@
       "dinero": 0
     }
   ],
-  "total": 24
+  "total": 28
 }
