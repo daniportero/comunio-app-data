@@ -949,6 +949,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Ander Barrenetxea",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/2695.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Gonzalo Villar",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3216.png",
@@ -962,15 +971,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3096.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Tyrhys Dolan",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3885.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -1012,10 +1012,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Ander Barrenetxea",
+            "jugador": "Tyrhys Dolan",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2695.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "imagen": "https://www.comuniate.com/caras3/3885.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
