@@ -1012,6 +1012,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Ander Barrenetxea",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/2695.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Pablo Durán",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3356.png",
