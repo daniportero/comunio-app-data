@@ -1,18 +1,5 @@
 [
   {
-    "posicion": 2,
-    "manager": "Manuel Tello",
-    "valor_equipo": 70670000,
-    "puja_maxima": 21623900,
-    "dinero": 3956400,
-    "compras": 195684100,
-    "ventas": 155540500,
-    "puntos": 410,
-    "cuota_mercado": 0.1417,
-    "plusvalia": 2120000,
-    "margen_ventas": 19590500
-  },
-  {
     "posicion": 8,
     "manager": "Chirli",
     "valor_equipo": 37810000,
@@ -102,6 +89,19 @@
     "cuota_mercado": 0.1513,
     "plusvalia": 12220000,
     "margen_ventas": 16984000
+  },
+  {
+    "posicion": 2,
+    "manager": "Manuel Tello",
+    "valor_equipo": 70670000,
+    "puja_maxima": 17667900,
+    "dinero": 400,
+    "compras": 199640100,
+    "ventas": 155540500,
+    "puntos": 410,
+    "cuota_mercado": 0.1417,
+    "plusvalia": 1184000,
+    "margen_ventas": 19590500
   },
   {
     "posicion": 3,

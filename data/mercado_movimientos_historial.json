@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-09-22",
+    "jugador": "Ander Barrenetxea",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2695.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 3956000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-21",
     "jugador": "Laporte",
     "posicion": "DEF",
