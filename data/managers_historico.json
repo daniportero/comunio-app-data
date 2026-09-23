@@ -3125,6 +3125,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Fofana",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/4165.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Villalibre",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2338.png",
