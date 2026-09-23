@@ -771,6 +771,17 @@
   },
   {
     "jornada": 8,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "equipo_local": "Rayo Vallecano",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "equipo_visitante": "Athletic Club",
+    "resultado": null,
+    "fecha": "2026-10-10",
+    "hora": "14:00",
+    "aplazado": false
+  },
+  {
+    "jornada": 8,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo_local": "Alavés",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
@@ -815,6 +826,17 @@
   },
   {
     "jornada": 8,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "equipo_local": "Betis",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "equipo_visitante": "Osasuna",
+    "resultado": null,
+    "fecha": "2026-10-11",
+    "hora": "18:30",
+    "aplazado": false
+  },
+  {
+    "jornada": 8,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "equipo_local": "Elche",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/5.png",
@@ -830,28 +852,6 @@
     "equipo_local": "Málaga",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "equipo_visitante": "Espanyol",
-    "resultado": null,
-    "fecha": "2026-10-11",
-    "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 8,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "equipo_local": "Rayo Vallecano",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/1.png",
-    "equipo_visitante": "Athletic Club",
-    "resultado": null,
-    "fecha": "2026-10-11",
-    "hora": "21:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 8,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/4.png",
-    "equipo_local": "Betis",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "equipo_visitante": "Osasuna",
     "resultado": null,
     "fecha": "2026-10-11",
     "hora": "21:00",
