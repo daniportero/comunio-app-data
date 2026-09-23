@@ -521,9 +521,9 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 50420000,
-    "num_jugadores": 15,
-    "formacion": "3-5-2",
+    "valor_equipo": 45960000,
+    "num_jugadores": 14,
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -612,7 +612,7 @@
         "r3": "-",
         "r2": 2,
         "r1": 6,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -648,7 +648,7 @@
         "r3": 3,
         "r2": 4,
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -738,24 +738,6 @@
         "r3": 7,
         "r2": 2,
         "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 20,
-        "media_puntos": 3.3,
-        "jugador": "Iñaki Williams",
-        "imagen": "https://www.comuniate.com/caras3/1995.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-        "valor_jugador": 4460000,
-        "revalorizacion": 70000,
-        "plusvalia": -1680000,
-        "r5": 2,
-        "r4": "-",
-        "r3": 6,
-        "r2": 3,
-        "r1": 4,
         "alineado": true,
         "lesion": null
       },

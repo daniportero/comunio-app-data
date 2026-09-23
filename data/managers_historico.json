@@ -3044,6 +3044,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Zubeldia",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/2371.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Abde Ezzalzouli",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3180.png",
@@ -3053,19 +3062,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Aleñá",
+            "jugador": "Dotor",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2377.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+            "imagen": "https://www.comuniate.com/caras3/3465.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Dotor",
+            "jugador": "Fofana",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3465.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "imagen": "https://www.comuniate.com/caras3/4165.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -3098,15 +3107,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Iñaki Williams",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/1995.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Julio Díaz",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4003.png",
@@ -3116,19 +3116,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Zubeldia",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2371.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Fofana",
+            "jugador": "Aleñá",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/4165.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "imagen": "https://www.comuniate.com/caras3/2377.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
