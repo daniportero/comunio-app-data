@@ -52,19 +52,6 @@
     "margen_ventas": -9728900
   },
   {
-    "posicion": 5,
-    "manager": "Edu Zurita",
-    "valor_equipo": 50420000,
-    "puja_maxima": 13436682,
-    "dinero": 831682,
-    "compras": 89250018,
-    "ventas": 45261700,
-    "puntos": 322,
-    "cuota_mercado": 0.1005,
-    "plusvalia": -4600011,
-    "margen_ventas": 8911693
-  },
-  {
     "posicion": 6,
     "manager": "Dani Portero",
     "valor_equipo": 58940000,
@@ -115,5 +102,18 @@
     "cuota_mercado": 0.1247,
     "plusvalia": 6209063,
     "margen_ventas": 9777315
+  },
+  {
+    "posicion": 5,
+    "manager": "Edu Zurita",
+    "valor_equipo": 50420000,
+    "puja_maxima": 9336682,
+    "dinero": -3268318,
+    "compras": 93350018,
+    "ventas": 45261700,
+    "puntos": 322,
+    "cuota_mercado": 0.1005,
+    "plusvalia": -4570011,
+    "margen_ventas": 8911693
   }
 ]
