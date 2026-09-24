@@ -1337,8 +1337,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 44780000,
-    "num_jugadores": 16,
+    "valor_equipo": 42860000,
+    "num_jugadores": 15,
     "formacion": "4-3-3",
     "jugadores": [
       {
@@ -1572,24 +1572,6 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "DEL",
-        "puntos": 24,
-        "media_puntos": 3.4,
-        "jugador": "Raúl García de Haro",
-        "imagen": "https://www.comuniate.com/caras3/2865.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-        "valor_jugador": 1920000,
-        "revalorizacion": -130000,
-        "plusvalia": -302222,
-        "r5": 3,
-        "r4": 2,
-        "r3": 3,
-        "r2": 3,
-        "r1": 5,
         "alineado": true,
         "lesion": null
       },

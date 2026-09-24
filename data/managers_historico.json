@@ -6299,10 +6299,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Raúl García de Haro",
+            "jugador": "Álvaro Djaló",
             "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2865.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "imagen": "https://www.comuniate.com/caras3/3610.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -6339,15 +6339,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3977.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Álvaro Djaló",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3610.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true

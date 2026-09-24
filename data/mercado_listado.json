@@ -540,26 +540,6 @@
     "lesion": null
   },
   {
-    "posicion": "DEL",
-    "puntos": 24,
-    "media_puntos": 3.4,
-    "imagen": "https://www.comuniate.com/caras3/2865.png",
-    "jugador": "Raúl García de Haro",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "valor_jugador": 1920000,
-    "revalorizacion": -130000,
-    "plusvalia": -302222,
-    "venta": 1920000,
-    "r5": 3,
-    "r4": 2,
-    "r3": 3,
-    "r2": 3,
-    "r1": 5,
-    "manager": "Muriqui Saez",
-    "valor_compra": 2222222,
-    "lesion": null
-  },
-  {
     "posicion": "POR",
     "puntos": 14,
     "media_puntos": 2.3,
