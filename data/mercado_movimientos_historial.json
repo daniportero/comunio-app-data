@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/2655.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "valor": 2350000,
-    "valor_momento": null,
+    "valor_momento": 1870000,
     "manager": "Chirli",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/2550.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
     "valor": 2200000,
-    "valor_momento": null,
+    "valor_momento": 2200000,
     "manager": "Mena",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/3619.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
     "valor": 2030000,
-    "valor_momento": null,
+    "valor_momento": 2140000,
     "manager": "Mena",
     "movimiento": "Compra"
   },
@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/1995.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 4593800,
-    "valor_momento": null,
+    "valor_momento": 4460000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
