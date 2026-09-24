@@ -5265,10 +5265,28 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Yoel Lago",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3619.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Juan Cruz",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2571.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Hugo Duro",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2550.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -8625,6 +8643,15 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": "-",
             "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Adrià Pedrosa",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/2655.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "puntos": "-",
+            "alineado": false,
             "alineado_inicial": true
           },
           {

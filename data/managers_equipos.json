@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 71980000,
+    "valor_equipo": 73020000,
     "num_jugadores": 14,
     "formacion": "4-4-2",
     "jugadores": [
@@ -261,7 +261,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 58940000,
+    "valor_equipo": 60010000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -521,7 +521,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 45960000,
+    "valor_equipo": 45890000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -781,7 +781,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 62560000,
+    "valor_equipo": 64600000,
     "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1059,8 +1059,8 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 48460000,
-    "num_jugadores": 13,
+    "valor_equipo": 53050000,
+    "num_jugadores": 15,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -1115,6 +1115,24 @@
         "r2": 6,
         "r1": 6,
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 32,
+        "media_puntos": 4.6,
+        "jugador": "Yoel Lago",
+        "imagen": "https://www.comuniate.com/caras3/3619.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+        "valor_jugador": 2000000,
+        "revalorizacion": 230000,
+        "plusvalia": null,
+        "r5": 6,
+        "r4": 4,
+        "r3": 5,
+        "r2": 4,
+        "r1": 6,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1296,12 +1314,30 @@
         "r1": "-",
         "alineado": false,
         "lesion": "Lesión muscular en aductor"
+      },
+      {
+        "posicion": "DEL",
+        "puntos": 19,
+        "media_puntos": 2.7,
+        "jugador": "Hugo Duro",
+        "imagen": "https://www.comuniate.com/caras3/2550.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+        "valor_jugador": 2170000,
+        "revalorizacion": -220000,
+        "plusvalia": null,
+        "r5": 3,
+        "r4": 3,
+        "r3": 3,
+        "r2": 3,
+        "r1": 2,
+        "alineado": false,
+        "lesion": null
       }
     ]
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 47970000,
+    "valor_equipo": 44780000,
     "num_jugadores": 16,
     "formacion": "4-3-3",
     "jugadores": [
@@ -1597,7 +1633,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 47630000,
+    "valor_equipo": 49110000,
     "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1911,8 +1947,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 38410000,
-    "num_jugadores": 12,
+    "valor_equipo": 39650000,
+    "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -1985,6 +2021,24 @@
         "r2": 5,
         "r1": 2,
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 26,
+        "media_puntos": 5.2,
+        "jugador": "Adrià Pedrosa",
+        "imagen": "https://www.comuniate.com/caras3/2655.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+        "valor_jugador": 1780000,
+        "revalorizacion": 220000,
+        "plusvalia": null,
+        "r5": 6,
+        "r4": 15,
+        "r3": 2,
+        "r2": 1,
+        "r1": 2,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -2135,7 +2189,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 75370000,
+    "valor_equipo": 78990000,
     "num_jugadores": 11,
     "formacion": "3-4-3",
     "jugadores": [
