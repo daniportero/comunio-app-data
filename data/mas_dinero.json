@@ -1,18 +1,5 @@
 [
   {
-    "posicion": 8,
-    "manager": "Chirli",
-    "valor_equipo": 39650000,
-    "puja_maxima": 12787300,
-    "dinero": 2874800,
-    "compras": 66540100,
-    "ventas": 24904900,
-    "puntos": 291,
-    "cuota_mercado": 0.0779,
-    "plusvalia": 730000,
-    "margen_ventas": -3955200
-  },
-  {
     "posicion": 7,
     "manager": "Team Novita",
     "valor_equipo": 49110000,
@@ -52,19 +39,6 @@
     "margen_ventas": 446449
   },
   {
-    "posicion": 4,
-    "manager": "Mena",
-    "valor_equipo": 53050000,
-    "puja_maxima": 14303600,
-    "dinero": 1041100,
-    "compras": 59600000,
-    "ventas": 16321100,
-    "puntos": 352,
-    "cuota_mercado": 0.1042,
-    "plusvalia": 14910000,
-    "margen_ventas": -9728900
-  },
-  {
     "posicion": 6,
     "manager": "Dani Portero",
     "valor_equipo": 60010000,
@@ -91,6 +65,19 @@
     "margen_ventas": 16984000
   },
   {
+    "posicion": 8,
+    "manager": "Chirli",
+    "valor_equipo": 39650000,
+    "puja_maxima": 10437300,
+    "dinero": 524800,
+    "compras": 68890100,
+    "ventas": 24904900,
+    "puntos": 291,
+    "cuota_mercado": 0.0779,
+    "plusvalia": 160000,
+    "margen_ventas": -3955200
+  },
+  {
     "posicion": 2,
     "manager": "Manuel Tello",
     "valor_equipo": 73020000,
@@ -115,5 +102,18 @@
     "cuota_mercado": 0.1269,
     "plusvalia": 6029063,
     "margen_ventas": 9777315
+  },
+  {
+    "posicion": 4,
+    "manager": "Mena",
+    "valor_equipo": 53050000,
+    "puja_maxima": 10073600,
+    "dinero": -3188900,
+    "compras": 63830000,
+    "ventas": 16321100,
+    "puntos": 352,
+    "cuota_mercado": 0.1042,
+    "plusvalia": 14850000,
+    "margen_ventas": -9728900
   }
 ]

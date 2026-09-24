@@ -37,9 +37,9 @@
   },
   {
     "manager": "Mena",
-    "total_mov": 35,
-    "num_compras": 24,
-    "valor_compras": 59600000,
+    "total_mov": 37,
+    "num_compras": 26,
+    "valor_compras": 63830000,
     "num_ventas": 11,
     "valor_ventas": 16321100,
     "margen_ventas": -9728900
@@ -64,9 +64,9 @@
   },
   {
     "manager": "Chirli",
-    "total_mov": 32,
-    "num_compras": 22,
-    "valor_compras": 66540100,
+    "total_mov": 33,
+    "num_compras": 23,
+    "valor_compras": 68890100,
     "num_ventas": 10,
     "valor_ventas": 24904900,
     "margen_ventas": -3955200

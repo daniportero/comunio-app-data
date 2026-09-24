@@ -1,5 +1,38 @@
 [
   {
+    "fecha": "2026-09-24",
+    "jugador": "Adrià Pedrosa",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2655.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 2350000,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-24",
+    "jugador": "Hugo Duro",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2550.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "valor": 2200000,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-24",
+    "jugador": "Yoel Lago",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3619.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "valor": 2030000,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-23",
     "jugador": "Fofana",
     "posicion": "MED",
