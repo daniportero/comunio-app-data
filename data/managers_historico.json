@@ -8556,10 +8556,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Carlos Puga",
+            "jugador": "Adrià Pedrosa",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4072.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "imagen": "https://www.comuniate.com/caras3/2655.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -8643,15 +8643,6 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/10.png",
             "puntos": "-",
             "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Adrià Pedrosa",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2655.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
-            "puntos": "-",
-            "alineado": false,
             "alineado_inicial": true
           },
           {

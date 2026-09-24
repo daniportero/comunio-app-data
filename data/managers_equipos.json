@@ -1947,8 +1947,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 39650000,
-    "num_jugadores": 13,
+    "valor_equipo": 37850000,
+    "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -2007,24 +2007,6 @@
       },
       {
         "posicion": "DEF",
-        "puntos": 25,
-        "media_puntos": 4.2,
-        "jugador": "Carlos Puga",
-        "imagen": "https://www.comuniate.com/caras3/4072.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
-        "valor_jugador": 1800000,
-        "revalorizacion": 90000,
-        "plusvalia": -370000,
-        "r5": "-",
-        "r4": 5,
-        "r3": 5,
-        "r2": 5,
-        "r1": 2,
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "DEF",
         "puntos": 26,
         "media_puntos": 5.2,
         "jugador": "Adrià Pedrosa",
@@ -2038,7 +2020,7 @@
         "r3": 2,
         "r2": 1,
         "r1": 2,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
