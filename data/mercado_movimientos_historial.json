@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-09-25",
+    "jugador": "Marcos Fernández",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/3848.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 2220000,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-09-25",
+    "jugador": "Comesaña",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2591.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 1920000,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-24",
     "jugador": "Adrià Pedrosa",
     "posicion": "DEF",

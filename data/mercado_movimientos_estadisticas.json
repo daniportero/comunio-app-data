@@ -19,9 +19,9 @@
   },
   {
     "manager": "Edu Zurita",
-    "total_mov": 52,
-    "num_compras": 33,
-    "valor_compras": 93350018,
+    "total_mov": 53,
+    "num_compras": 34,
+    "valor_compras": 95270018,
     "num_ventas": 19,
     "valor_ventas": 49855500,
     "margen_ventas": 7365493
@@ -46,9 +46,9 @@
   },
   {
     "manager": "Muriqui Saez",
-    "total_mov": 57,
-    "num_compras": 36,
-    "valor_compras": 126186930,
+    "total_mov": 58,
+    "num_compras": 37,
+    "valor_compras": 128406930,
     "num_ventas": 21,
     "valor_ventas": 84943300,
     "margen_ventas": 52027
