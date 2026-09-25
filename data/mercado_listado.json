@@ -400,26 +400,6 @@
     "lesion": null
   },
   {
-    "posicion": "DEL",
-    "puntos": 17,
-    "media_puntos": 5.7,
-    "imagen": "https://www.comuniate.com/caras3/4152.png",
-    "jugador": "Lucas Stassin",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-    "valor_jugador": 4890000,
-    "revalorizacion": 1330000,
-    "plusvalia": null,
-    "venta": 4290000,
-    "r5": "-",
-    "r4": 5,
-    "r3": 2,
-    "r2": 10,
-    "r1": "-",
-    "manager": "",
-    "valor_compra": 0,
-    "lesion": "Lesión muscular en aductor"
-  },
-  {
     "posicion": "MED",
     "puntos": 26,
     "media_puntos": 4.3,

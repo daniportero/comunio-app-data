@@ -8,7 +8,7 @@
     "compras": 55280945,
     "ventas": 11881700,
     "puntos": 294,
-    "cuota_mercado": 0.0959,
+    "cuota_mercado": 0.0969,
     "plusvalia": 4370832,
     "margen_ventas": 1459923
   },
@@ -21,9 +21,22 @@
     "compras": 68890100,
     "ventas": 26712100,
     "puntos": 291,
-    "cuota_mercado": 0.0758,
+    "cuota_mercado": 0.0765,
     "plusvalia": 1020000,
     "margen_ventas": -4318000
+  },
+  {
+    "posicion": 4,
+    "manager": "Mena",
+    "valor_equipo": 49890000,
+    "puja_maxima": 14403400,
+    "dinero": 1930900,
+    "compras": 63830000,
+    "ventas": 21440900,
+    "puntos": 352,
+    "cuota_mercado": 0.0982,
+    "plusvalia": 14910000,
+    "margen_ventas": -7409100
   },
   {
     "posicion": 9,
@@ -34,7 +47,7 @@
     "compras": 128406930,
     "ventas": 84943300,
     "puntos": 276,
-    "cuota_mercado": 0.091,
+    "cuota_mercado": 0.0919,
     "plusvalia": 2654342,
     "margen_ventas": 52027
   },
@@ -47,7 +60,7 @@
     "compras": 177373000,
     "ventas": 134231400,
     "puntos": 305,
-    "cuota_mercado": 0.1153,
+    "cuota_mercado": 0.1164,
     "plusvalia": 2040000,
     "margen_ventas": 13968400
   },
@@ -60,7 +73,7 @@
     "compras": 96197000,
     "ventas": 52761000,
     "puntos": 414,
-    "cuota_mercado": 0.1532,
+    "cuota_mercado": 0.1546,
     "plusvalia": 18180000,
     "margen_ventas": 16984000
   },
@@ -73,7 +86,7 @@
     "compras": 199640100,
     "ventas": 155540500,
     "puntos": 410,
-    "cuota_mercado": 0.1426,
+    "cuota_mercado": 0.1439,
     "plusvalia": 4324000,
     "margen_ventas": 19590500
   },
@@ -86,7 +99,7 @@
     "compras": 95270018,
     "ventas": 49855500,
     "puntos": 322,
-    "cuota_mercado": 0.0927,
+    "cuota_mercado": 0.0936,
     "plusvalia": -5210011,
     "margen_ventas": 7365493
   },
@@ -99,21 +112,8 @@
     "compras": 82670822,
     "ventas": 35917200,
     "puntos": 376,
-    "cuota_mercado": 0.1268,
+    "cuota_mercado": 0.128,
     "plusvalia": 8529063,
     "margen_ventas": 9777315
-  },
-  {
-    "posicion": 4,
-    "manager": "Mena",
-    "valor_equipo": 54780000,
-    "puja_maxima": 10506100,
-    "dinero": -3188900,
-    "compras": 63830000,
-    "ventas": 16321100,
-    "puntos": 352,
-    "cuota_mercado": 0.1068,
-    "plusvalia": 17000000,
-    "margen_ventas": -9728900
   }
 ]
