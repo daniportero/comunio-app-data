@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 73020000,
+    "valor_equipo": 73160000,
     "num_jugadores": 14,
     "formacion": "4-4-2",
     "jugadores": [
@@ -261,7 +261,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 60010000,
+    "valor_equipo": 59150000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -521,8 +521,8 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 45890000,
-    "num_jugadores": 14,
+    "valor_equipo": 47570000,
+    "num_jugadores": 15,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -742,6 +742,24 @@
         "lesion": null
       },
       {
+        "posicion": "MED",
+        "puntos": 20,
+        "media_puntos": 3.3,
+        "jugador": "Comesaña",
+        "imagen": "https://www.comuniate.com/caras3/2591.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+        "valor_jugador": 1920000,
+        "revalorizacion": 260000,
+        "plusvalia": null,
+        "r5": "-",
+        "r4": 6,
+        "r3": 6,
+        "r2": 2,
+        "r1": 3,
+        "alineado": false,
+        "lesion": "Esguince de tobillo"
+      },
+      {
         "posicion": "DEL",
         "puntos": 15,
         "media_puntos": 2.5,
@@ -781,7 +799,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 64600000,
+    "valor_equipo": 65060000,
     "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1059,7 +1077,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 53050000,
+    "valor_equipo": 54780000,
     "num_jugadores": 15,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1337,8 +1355,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 42860000,
-    "num_jugadores": 15,
+    "valor_equipo": 46720000,
+    "num_jugadores": 16,
     "formacion": "4-3-3",
     "jugadores": [
       {
@@ -1577,6 +1595,24 @@
       },
       {
         "posicion": "DEL",
+        "puntos": 30,
+        "media_puntos": 5.0,
+        "jugador": "Marcos Fernández",
+        "imagen": "https://www.comuniate.com/caras3/3848.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+        "valor_jugador": 2000000,
+        "revalorizacion": 560000,
+        "plusvalia": null,
+        "r5": 8,
+        "r4": 4,
+        "r3": 6,
+        "r2": 8,
+        "r1": 2,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "DEL",
         "puntos": 80,
         "media_puntos": 13.3,
         "jugador": "Mbappé",
@@ -1615,7 +1651,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 49110000,
+    "valor_equipo": 49230000,
     "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1929,7 +1965,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 37850000,
+    "valor_equipo": 38880000,
     "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
@@ -2153,7 +2189,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 78990000,
+    "valor_equipo": 78600000,
     "num_jugadores": 11,
     "formacion": "3-4-3",
     "jugadores": [

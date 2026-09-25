@@ -3125,6 +3125,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Comesaña",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/2591.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Villalibre",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2338.png",
@@ -6339,6 +6348,15 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3977.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Marcos Fernández",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3848.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
