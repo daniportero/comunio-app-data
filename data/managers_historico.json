@@ -8646,6 +8646,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Luismi Cruz",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3223.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Iker Losada",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2847.png",

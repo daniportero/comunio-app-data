@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 73160000,
+    "valor_equipo": 71160000,
     "num_jugadores": 14,
     "formacion": "4-4-2",
     "jugadores": [
@@ -261,7 +261,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 59150000,
+    "valor_equipo": 58080000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -521,7 +521,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 47570000,
+    "valor_equipo": 46950000,
     "num_jugadores": 15,
     "formacion": "4-5-1",
     "jugadores": [
@@ -799,7 +799,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 65060000,
+    "valor_equipo": 61990000,
     "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1077,7 +1077,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 49890000,
+    "valor_equipo": 49540000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1337,7 +1337,7 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 46720000,
+    "valor_equipo": 47520000,
     "num_jugadores": 16,
     "formacion": "4-3-3",
     "jugadores": [
@@ -1633,7 +1633,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 49230000,
+    "valor_equipo": 46800000,
     "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1947,8 +1947,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 38880000,
-    "num_jugadores": 12,
+    "valor_equipo": 41330000,
+    "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -2079,6 +2079,24 @@
       },
       {
         "posicion": "MED",
+        "puntos": 42,
+        "media_puntos": 6.0,
+        "jugador": "Luismi Cruz",
+        "imagen": "https://www.comuniate.com/caras3/3223.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+        "valor_jugador": 3660000,
+        "revalorizacion": 480000,
+        "plusvalia": null,
+        "r5": 8,
+        "r4": 4,
+        "r3": 5,
+        "r2": 13,
+        "r1": 4,
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
         "puntos": 26,
         "media_puntos": 3.7,
         "jugador": "Jon Moncayola",
@@ -2171,7 +2189,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 78600000,
+    "valor_equipo": 77920000,
     "num_jugadores": 11,
     "formacion": "3-4-3",
     "jugadores": [

@@ -2280,7 +2280,7 @@
     "r3": 5,
     "r2": 13,
     "r1": 4,
-    "libre": true,
+    "libre": false,
     "anterior_dueño": null,
     "compra": 0,
     "venta": null,
