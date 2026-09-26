@@ -6,8 +6,8 @@
       "imagen": "https://www.comuniate.com/caras3/3806.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 18450000,
-      "plusvalia": -450000,
-      "revalorizacion": 130000
+      "plusvalia": -1080000,
+      "revalorizacion": -500000
     },
     {
       "manager": "Dani Portero",
@@ -15,8 +15,8 @@
       "imagen": "https://www.comuniate.com/caras3/2161.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
       "valor_compra": 16557000,
-      "plusvalia": -3457000,
-      "revalorizacion": 1140000
+      "plusvalia": -3677000,
+      "revalorizacion": 920000
     },
     {
       "manager": "Edu Zurita",
@@ -24,8 +24,8 @@
       "imagen": "https://www.comuniate.com/caras3/3930.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
       "valor_compra": 10550000,
-      "plusvalia": -3970000,
-      "revalorizacion": -880000
+      "plusvalia": -3840000,
+      "revalorizacion": -750000
     },
     {
       "manager": "Diego Zuri",
@@ -33,8 +33,8 @@
       "imagen": "https://www.comuniate.com/caras3/3084.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
       "valor_compra": 15190000,
-      "plusvalia": -4550000,
-      "revalorizacion": 880000
+      "plusvalia": -4790000,
+      "revalorizacion": 640000
     },
     {
       "manager": "Mena",
@@ -42,8 +42,8 @@
       "imagen": "https://www.comuniate.com/caras3/2808.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
       "valor_compra": 9500000,
-      "plusvalia": 4530000,
-      "revalorizacion": 1880000
+      "plusvalia": 4780000,
+      "revalorizacion": 2130000
     },
     {
       "manager": "Muriqui Saez",
@@ -51,8 +51,8 @@
       "imagen": "https://www.comuniate.com/caras3/2565.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 29555555,
-      "plusvalia": -13125555,
-      "revalorizacion": 1720000
+      "plusvalia": -13445555,
+      "revalorizacion": 1400000
     },
     {
       "manager": "Team Novita",
@@ -60,8 +60,8 @@
       "imagen": "https://www.comuniate.com/caras3/3680.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
       "valor_compra": 12680055,
-      "plusvalia": -2760055,
-      "revalorizacion": 720000
+      "plusvalia": -3350055,
+      "revalorizacion": 130000
     },
     {
       "manager": "Chirli",
@@ -69,8 +69,8 @@
       "imagen": "https://www.comuniate.com/caras3/1249.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
       "valor_compra": 12500000,
-      "plusvalia": -3730000,
-      "revalorizacion": -10000
+      "plusvalia": -3650000,
+      "revalorizacion": 70000
     },
     {
       "manager": "Carlos Saez",
@@ -78,8 +78,8 @@
       "imagen": "https://www.comuniate.com/caras3/3444.png",
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 24101000,
-      "plusvalia": -6201000,
-      "revalorizacion": -1670000
+      "plusvalia": -5981000,
+      "revalorizacion": -1450000
     }
   ],
   "top_venta": [
