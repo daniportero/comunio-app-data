@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-09-26",
+    "jugador": "Luismi Cruz",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3223.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 3770000,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-25",
     "jugador": "Marcos Fernández",
     "posicion": "DEL",

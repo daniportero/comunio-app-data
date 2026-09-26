@@ -13,19 +13,6 @@
     "margen_ventas": 1459923
   },
   {
-    "posicion": 8,
-    "manager": "Chirli",
-    "valor_equipo": 41330000,
-    "puja_maxima": 12664500,
-    "dinero": 2332000,
-    "compras": 68890100,
-    "ventas": 26712100,
-    "puntos": 291,
-    "cuota_mercado": 0.0824,
-    "plusvalia": 1020000,
-    "margen_ventas": -4318000
-  },
-  {
     "posicion": 4,
     "manager": "Mena",
     "valor_equipo": 49540000,
@@ -115,5 +102,18 @@
     "cuota_mercado": 0.1237,
     "plusvalia": 8529063,
     "margen_ventas": 9777315
+  },
+  {
+    "posicion": 8,
+    "manager": "Chirli",
+    "valor_equipo": 41330000,
+    "puja_maxima": 8894500,
+    "dinero": -1438000,
+    "compras": 72660100,
+    "ventas": 26712100,
+    "puntos": 291,
+    "cuota_mercado": 0.0824,
+    "plusvalia": 910000,
+    "margen_ventas": -4318000
   }
 ]
