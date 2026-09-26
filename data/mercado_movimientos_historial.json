@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/3223.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "valor": 3770000,
-    "valor_momento": null,
+    "valor_momento": 3670000,
     "manager": "Chirli",
     "movimiento": "Compra"
   },
@@ -39,7 +39,7 @@
     "imagen": "https://www.comuniate.com/caras3/4152.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "valor": 5119800,
-    "valor_momento": null,
+    "valor_momento": 4890000,
     "manager": "Mena",
     "movimiento": "Venta"
   },
