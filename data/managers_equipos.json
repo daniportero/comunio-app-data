@@ -1947,8 +1947,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 41330000,
-    "num_jugadores": 13,
+    "valor_equipo": 39340000,
+    "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -2092,24 +2092,6 @@
         "r3": 5,
         "r2": 13,
         "r1": 4,
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 26,
-        "media_puntos": 3.7,
-        "jugador": "Jon Moncayola",
-        "imagen": "https://www.comuniate.com/caras3/2851.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-        "valor_jugador": 1990000,
-        "revalorizacion": 60000,
-        "plusvalia": 780000,
-        "r5": 2,
-        "r4": 4,
-        "r3": 4,
-        "r2": 1,
-        "r1": 6,
         "alineado": true,
         "lesion": null
       },

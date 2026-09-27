@@ -3996,7 +3996,7 @@
     "r3": 4,
     "r2": 1,
     "r1": 6,
-    "libre": false,
+    "libre": true,
     "anterior_dueño": "Chirli",
     "compra": 1210000,
     "venta": null,
