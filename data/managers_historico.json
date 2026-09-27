@@ -1744,6 +1744,15 @@
             "puntos": 4,
             "alineado": true,
             "alineado_inicial": false
+          },
+          {
+            "jugador": "Laporte",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/1613.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": false
           }
         ]
       },
@@ -1911,6 +1920,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Laporte",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/1613.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Arda Güler",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3457.png",
@@ -1929,10 +1947,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Marc Aguado",
+            "jugador": "Pathé Ciss",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3842.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+            "imagen": "https://www.comuniate.com/caras3/3136.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -1965,10 +1983,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Laporte",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/1613.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "jugador": "Marc Aguado",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3842.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -1987,15 +2005,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3357.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Pathé Ciss",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3136.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
