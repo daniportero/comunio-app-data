@@ -3990,7 +3990,7 @@
     "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
     "valor_jugador": 1990000,
     "revalorizacion": 60000,
-    "plusvalia": 780000,
+    "plusvalia": null,
     "r5": 2,
     "r4": 4,
     "r3": 4,
@@ -3999,8 +3999,8 @@
     "libre": true,
     "anterior_dueño": "Chirli",
     "compra": 1210000,
-    "venta": null,
-    "margen_venta": null,
+    "venta": 1994000,
+    "margen_venta": 784000,
     "lesion": null
   },
   {
