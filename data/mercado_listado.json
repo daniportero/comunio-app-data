@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "MED",
+    "puntos": 27,
+    "media_puntos": 6.8,
+    "imagen": "https://www.comuniate.com/caras3/2596.png",
+    "jugador": "Lemar",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor_jugador": 2470000,
+    "revalorizacion": 580000,
+    "plusvalia": 2214000,
+    "venta": 2470000,
+    "r5": 6,
+    "r4": 5,
+    "r3": 2,
+    "r2": 14,
+    "r1": "-",
+    "manager": "Diego Zuri",
+    "valor_compra": 256000,
+    "lesion": null
+  },
+  {
     "posicion": "DEF",
     "puntos": 23,
     "media_puntos": 7.7,
