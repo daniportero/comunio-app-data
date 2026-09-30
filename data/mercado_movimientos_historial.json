@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-09-30",
+    "jugador": "Lo Celso",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2684.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "valor": 2030000,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-28",
     "jugador": "Livakovic",
     "posicion": "POR",

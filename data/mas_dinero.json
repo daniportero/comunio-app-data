@@ -1,18 +1,5 @@
 [
   {
-    "posicion": 4,
-    "manager": "Mena",
-    "valor_equipo": 51900000,
-    "puja_maxima": 14905900,
-    "dinero": 1930900,
-    "compras": 63830000,
-    "ventas": 21440900,
-    "puntos": 352,
-    "cuota_mercado": 0.1044,
-    "plusvalia": 16050000,
-    "margen_ventas": -7409100
-  },
-  {
     "posicion": 7,
     "manager": "Team Novita",
     "valor_equipo": 47540000,
@@ -89,6 +76,19 @@
     "cuota_mercado": 0.149,
     "plusvalia": 4974000,
     "margen_ventas": 19590500
+  },
+  {
+    "posicion": 4,
+    "manager": "Mena",
+    "valor_equipo": 51900000,
+    "puja_maxima": 12875900,
+    "dinero": -99100,
+    "compras": 65860000,
+    "ventas": 21440900,
+    "puntos": 352,
+    "cuota_mercado": 0.1044,
+    "plusvalia": 16110000,
+    "margen_ventas": -7409100
   },
   {
     "posicion": 5,
