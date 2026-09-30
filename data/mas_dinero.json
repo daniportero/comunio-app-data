@@ -8,9 +8,22 @@
     "compras": 56360945,
     "ventas": 11881700,
     "puntos": 294,
-    "cuota_mercado": 0.0957,
+    "cuota_mercado": 0.0959,
     "plusvalia": 1600832,
     "margen_ventas": 1459923
+  },
+  {
+    "posicion": 4,
+    "manager": "Mena",
+    "valor_equipo": 50620000,
+    "puja_maxima": 13834600,
+    "dinero": 1179600,
+    "compras": 65860000,
+    "ventas": 22719600,
+    "puntos": 352,
+    "cuota_mercado": 0.1021,
+    "plusvalia": 15560000,
+    "margen_ventas": -8080400
   },
   {
     "posicion": 9,
@@ -21,7 +34,7 @@
     "compras": 128406930,
     "ventas": 84943300,
     "puntos": 276,
-    "cuota_mercado": 0.0867,
+    "cuota_mercado": 0.087,
     "plusvalia": -965658,
     "margen_ventas": 52027
   },
@@ -34,7 +47,7 @@
     "compras": 177373000,
     "ventas": 134231400,
     "puntos": 305,
-    "cuota_mercado": 0.1124,
+    "cuota_mercado": 0.1127,
     "plusvalia": -1260000,
     "margen_ventas": 13968400
   },
@@ -47,7 +60,7 @@
     "compras": 96197000,
     "ventas": 52761000,
     "puntos": 414,
-    "cuota_mercado": 0.1518,
+    "cuota_mercado": 0.1521,
     "plusvalia": 14990000,
     "margen_ventas": 16984000
   },
@@ -60,7 +73,7 @@
     "compras": 72660100,
     "ventas": 28706100,
     "puntos": 291,
-    "cuota_mercado": 0.0775,
+    "cuota_mercado": 0.0777,
     "plusvalia": -1890000,
     "margen_ventas": -3534000
   },
@@ -73,22 +86,9 @@
     "compras": 199640100,
     "ventas": 155540500,
     "puntos": 410,
-    "cuota_mercado": 0.149,
+    "cuota_mercado": 0.1493,
     "plusvalia": 5184000,
     "margen_ventas": 19590500
-  },
-  {
-    "posicion": 4,
-    "manager": "Mena",
-    "valor_equipo": 51900000,
-    "puja_maxima": 12875900,
-    "dinero": -99100,
-    "compras": 65860000,
-    "ventas": 21440900,
-    "puntos": 352,
-    "cuota_mercado": 0.1044,
-    "plusvalia": 14890000,
-    "margen_ventas": -7409100
   },
   {
     "posicion": 5,
@@ -99,7 +99,7 @@
     "compras": 95270018,
     "ventas": 49855500,
     "puntos": 322,
-    "cuota_mercado": 0.0928,
+    "cuota_mercado": 0.093,
     "plusvalia": -6690011,
     "margen_ventas": 7365493
   },
@@ -112,7 +112,7 @@
     "compras": 82670822,
     "ventas": 35917200,
     "puntos": 376,
-    "cuota_mercado": 0.1298,
+    "cuota_mercado": 0.1301,
     "plusvalia": 7949063,
     "margen_ventas": 9777315
   }

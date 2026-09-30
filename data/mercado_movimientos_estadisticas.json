@@ -37,12 +37,12 @@
   },
   {
     "manager": "Mena",
-    "total_mov": 39,
+    "total_mov": 40,
     "num_compras": 27,
     "valor_compras": 65860000,
-    "num_ventas": 12,
-    "valor_ventas": 21440900,
-    "margen_ventas": -7409100
+    "num_ventas": 13,
+    "valor_ventas": 22719600,
+    "margen_ventas": -8080400
   },
   {
     "manager": "Muriqui Saez",
