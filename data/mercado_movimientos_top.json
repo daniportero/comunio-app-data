@@ -7,7 +7,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 18450000,
       "plusvalia": 140000,
-      "revalorizacion": -640000
+      "revalorizacion": 170000
     },
     {
       "manager": "Dani Portero",
@@ -25,7 +25,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
       "valor_compra": 10550000,
       "plusvalia": -2760000,
-      "revalorizacion": 110000
+      "revalorizacion": 70000
     },
     {
       "manager": "Diego Zuri",
@@ -34,7 +34,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
       "valor_compra": 15190000,
       "plusvalia": -3350000,
-      "revalorizacion": 1190000
+      "revalorizacion": 950000
     },
     {
       "manager": "Mena",
@@ -43,7 +43,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
       "valor_compra": 9500000,
       "plusvalia": 4910000,
-      "revalorizacion": 540000
+      "revalorizacion": 520000
     },
     {
       "manager": "Muriqui Saez",
@@ -52,7 +52,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 29555555,
       "plusvalia": -12845555,
-      "revalorizacion": 1450000
+      "revalorizacion": 280000
     },
     {
       "manager": "Team Novita",
@@ -61,7 +61,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
       "valor_compra": 12680055,
       "plusvalia": -3050055,
-      "revalorizacion": -320000
+      "revalorizacion": -390000
     },
     {
       "manager": "Chirli",
@@ -70,7 +70,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
       "valor_compra": 12500000,
       "plusvalia": -4060000,
-      "revalorizacion": -700000
+      "revalorizacion": -10000
     },
     {
       "manager": "Carlos Saez",
@@ -79,7 +79,7 @@
       "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
       "valor_compra": 24101000,
       "plusvalia": -5011000,
-      "revalorizacion": 990000
+      "revalorizacion": 510000
     }
   ],
   "top_venta": [
