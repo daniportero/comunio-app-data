@@ -5175,15 +5175,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Aitor Paredes",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/3331.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Nahuel Tenaglia",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3215.png",
@@ -5197,6 +5188,15 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3347.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Yoel Lago",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3619.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -5256,10 +5256,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Yoel Lago",
+            "jugador": "Hugo Duro",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2550.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Aitor Paredes",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/3619.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+            "imagen": "https://www.comuniate.com/caras3/3331.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -5278,15 +5287,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2684.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Hugo Duro",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2550.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/18.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
