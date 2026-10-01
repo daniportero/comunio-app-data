@@ -1,25 +1,5 @@
 [
   {
-    "posicion": "DEL",
-    "puntos": 55,
-    "media_puntos": 7.9,
-    "imagen": "https://www.comuniate.com/caras3/2304.png",
-    "jugador": "Mariano Díaz",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "valor_jugador": 5740000,
-    "revalorizacion": -290000,
-    "plusvalia": -780000,
-    "venta": 7500000,
-    "r5": 2,
-    "r4": 6,
-    "r3": 1,
-    "r2": 14,
-    "r1": 3,
-    "manager": "Dani Portero",
-    "valor_compra": 6520000,
-    "lesion": null
-  },
-  {
     "posicion": "MED",
     "puntos": 27,
     "media_puntos": 6.8,
@@ -77,6 +57,26 @@
     "r1": 5,
     "manager": "Diego Zuri",
     "valor_compra": 656154,
+    "lesion": null
+  },
+  {
+    "posicion": "DEL",
+    "puntos": 55,
+    "media_puntos": 7.9,
+    "imagen": "https://www.comuniate.com/caras3/2304.png",
+    "jugador": "Mariano Díaz",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor_jugador": 5740000,
+    "revalorizacion": -290000,
+    "plusvalia": -780000,
+    "venta": 7500000,
+    "r5": 2,
+    "r4": 6,
+    "r3": 1,
+    "r2": 14,
+    "r1": 3,
+    "manager": "Dani Portero",
+    "valor_compra": 6520000,
     "lesion": null
   },
   {
