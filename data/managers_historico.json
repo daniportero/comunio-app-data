@@ -1012,6 +1012,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Marcos Llorente",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/2158.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Tyrhys Dolan",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3885.png",

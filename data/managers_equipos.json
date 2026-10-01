@@ -1,8 +1,8 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 74020000,
-    "num_jugadores": 14,
+    "valor_equipo": 79550000,
+    "num_jugadores": 15,
     "formacion": "4-4-2",
     "jugadores": [
       {
@@ -38,6 +38,24 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
+        "alineado": false,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 36,
+        "media_puntos": 5.1,
+        "jugador": "Marcos Llorente",
+        "imagen": "https://www.comuniate.com/caras3/2158.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+        "valor_jugador": 5360000,
+        "revalorizacion": -1380000,
+        "plusvalia": null,
+        "r5": 4,
+        "r4": 8,
+        "r3": 4,
+        "r2": 2,
+        "r1": 10,
         "alineado": false,
         "lesion": null
       },
@@ -261,7 +279,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 55850000,
+    "valor_equipo": 56700000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -521,7 +539,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 46090000,
+    "valor_equipo": 45570000,
     "num_jugadores": 15,
     "formacion": "4-5-1",
     "jugadores": [
@@ -799,7 +817,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 64480000,
+    "valor_equipo": 64360000,
     "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1077,7 +1095,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 50620000,
+    "valor_equipo": 50820000,
     "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1337,7 +1355,7 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 43100000,
+    "valor_equipo": 45180000,
     "num_jugadores": 16,
     "formacion": "4-3-3",
     "jugadores": [
@@ -1633,7 +1651,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 47540000,
+    "valor_equipo": 49150000,
     "num_jugadores": 18,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1965,7 +1983,7 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 38530000,
+    "valor_equipo": 39140000,
     "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
@@ -2189,7 +2207,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 75410000,
+    "valor_equipo": 76130000,
     "num_jugadores": 11,
     "formacion": "3-4-3",
     "jugadores": [
