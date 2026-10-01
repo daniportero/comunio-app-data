@@ -11,6 +11,39 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-10-01",
+    "jugador": "José Giménez",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/1676.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "valor": 4884800,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-10-01",
+    "jugador": "Tyrhys Dolan",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/3885.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
+    "valor": 1233600,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-10-01",
+    "jugador": "Lemar",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2596.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "valor": 2521500,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-09-30",
     "jugador": "Lo Celso",
     "posicion": "MED",

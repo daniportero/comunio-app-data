@@ -8,7 +8,7 @@
     "compras": 56360945,
     "ventas": 11881700,
     "puntos": 294,
-    "cuota_mercado": 0.097,
+    "cuota_mercado": 0.0986,
     "plusvalia": 3210832,
     "margen_ventas": 1459923
   },
@@ -21,9 +21,22 @@
     "compras": 65860000,
     "ventas": 22719600,
     "puntos": 352,
-    "cuota_mercado": 0.1003,
+    "cuota_mercado": 0.102,
     "plusvalia": 15760000,
     "margen_ventas": -8080400
+  },
+  {
+    "posicion": 3,
+    "manager": "Diego Zuri",
+    "valor_equipo": 61900000,
+    "puja_maxima": 16602878,
+    "dinero": 1127878,
+    "compras": 82670822,
+    "ventas": 38438700,
+    "puntos": 376,
+    "cuota_mercado": 0.1242,
+    "plusvalia": 5625063,
+    "margen_ventas": 12042815
   },
   {
     "posicion": 9,
@@ -34,7 +47,7 @@
     "compras": 128406930,
     "ventas": 84943300,
     "puntos": 276,
-    "cuota_mercado": 0.0892,
+    "cuota_mercado": 0.0907,
     "plusvalia": 1114342,
     "margen_ventas": 52027
   },
@@ -47,7 +60,7 @@
     "compras": 177373000,
     "ventas": 134231400,
     "puntos": 305,
-    "cuota_mercado": 0.1119,
+    "cuota_mercado": 0.1138,
     "plusvalia": -410000,
     "margen_ventas": 13968400
   },
@@ -60,7 +73,7 @@
     "compras": 96197000,
     "ventas": 52761000,
     "puntos": 414,
-    "cuota_mercado": 0.1503,
+    "cuota_mercado": 0.1528,
     "plusvalia": 15710000,
     "margen_ventas": 16984000
   },
@@ -73,9 +86,22 @@
     "compras": 72660100,
     "ventas": 28706100,
     "puntos": 291,
-    "cuota_mercado": 0.0773,
+    "cuota_mercado": 0.0786,
     "plusvalia": -1280000,
     "margen_ventas": -3534000
+  },
+  {
+    "posicion": 2,
+    "manager": "Manuel Tello",
+    "valor_equipo": 73680000,
+    "puja_maxima": 18588800,
+    "dinero": 168800,
+    "compras": 205590100,
+    "ventas": 161658900,
+    "puntos": 410,
+    "cuota_mercado": 0.1479,
+    "plusvalia": 5894000,
+    "margen_ventas": 18708900
   },
   {
     "posicion": 5,
@@ -86,34 +112,8 @@
     "compras": 95270018,
     "ventas": 49855500,
     "puntos": 322,
-    "cuota_mercado": 0.09,
+    "cuota_mercado": 0.0915,
     "plusvalia": -7210011,
     "margen_ventas": 7365493
-  },
-  {
-    "posicion": 3,
-    "manager": "Diego Zuri",
-    "valor_equipo": 64360000,
-    "puja_maxima": 14696378,
-    "dinero": -1393622,
-    "compras": 82670822,
-    "ventas": 35917200,
-    "puntos": 376,
-    "cuota_mercado": 0.127,
-    "plusvalia": 7829063,
-    "margen_ventas": 9777315
-  },
-  {
-    "posicion": 2,
-    "manager": "Manuel Tello",
-    "valor_equipo": 79550000,
-    "puja_maxima": 13937900,
-    "dinero": -5949600,
-    "compras": 205590100,
-    "ventas": 155540500,
-    "puntos": 410,
-    "cuota_mercado": 0.157,
-    "plusvalia": 4764000,
-    "margen_ventas": 19590500
   }
 ]

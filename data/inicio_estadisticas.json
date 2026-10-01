@@ -25,7 +25,7 @@
   {
     "posicion": 2,
     "manager": "Manuel Tello",
-    "valor_equipo": 79550000,
+    "valor_equipo": 73680000,
     "semanas_lider": 2,
     "jornadas_ganadas": 2,
     "mejor_puntos_jornada": 73,
@@ -39,16 +39,16 @@
     "valor_mejor_jugador": 14010000,
     "imagen_mejor_jugador": "https://www.comuniate.com/caras3/2764.png",
     "escudo_mejor_jugador": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "jugador_rentable": "Tyrhys Dolan",
-    "puntos_jugador_rentable": 26,
-    "valor_jugador_rentable": 1200000,
-    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3885.png",
-    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/7.png"
+    "jugador_rentable": "Santiago Mouriño",
+    "puntos_jugador_rentable": 22,
+    "valor_jugador_rentable": 1280000,
+    "imagen_jugador_rentable": "https://www.comuniate.com/caras3/3458.png",
+    "escudo_jugador_rentable": "https://www.comuniate.com/images/escudos_laliga/19.png"
   },
   {
     "posicion": 3,
     "manager": "Diego Zuri",
-    "valor_equipo": 64360000,
+    "valor_equipo": 61900000,
     "semanas_lider": 1,
     "jornadas_ganadas": 0,
     "mejor_puntos_jornada": 77,

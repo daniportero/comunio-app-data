@@ -931,10 +931,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "José Giménez",
+            "jugador": "Marcos Llorente",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/1676.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+            "imagen": "https://www.comuniate.com/caras3/2158.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -1007,24 +1007,6 @@
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/3121.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Marcos Llorente",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2158.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Tyrhys Dolan",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3885.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -4172,15 +4154,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3240.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Lemar",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2596.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
