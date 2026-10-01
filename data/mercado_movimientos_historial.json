@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-10-01",
+    "jugador": "Marcos Llorente",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/2158.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "valor": 5950000,
+    "valor_momento": null,
+    "manager": "Manuel Tello",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-09-30",
     "jugador": "Lo Celso",
     "posicion": "MED",

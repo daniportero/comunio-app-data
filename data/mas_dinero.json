@@ -78,19 +78,6 @@
     "margen_ventas": -3534000
   },
   {
-    "posicion": 2,
-    "manager": "Manuel Tello",
-    "valor_equipo": 79550000,
-    "puja_maxima": 19887900,
-    "dinero": 400,
-    "compras": 199640100,
-    "ventas": 155540500,
-    "puntos": 410,
-    "cuota_mercado": 0.157,
-    "plusvalia": 5184000,
-    "margen_ventas": 19590500
-  },
-  {
     "posicion": 5,
     "manager": "Edu Zurita",
     "valor_equipo": 45570000,
@@ -115,5 +102,18 @@
     "cuota_mercado": 0.127,
     "plusvalia": 7949063,
     "margen_ventas": 9777315
+  },
+  {
+    "posicion": 2,
+    "manager": "Manuel Tello",
+    "valor_equipo": 79550000,
+    "puja_maxima": 13937900,
+    "dinero": -5949600,
+    "compras": 205590100,
+    "ventas": 155540500,
+    "puntos": 410,
+    "cuota_mercado": 0.157,
+    "plusvalia": 4594000,
+    "margen_ventas": 19590500
   }
 ]
