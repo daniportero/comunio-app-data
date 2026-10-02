@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/3698.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
     "valor": 1170000,
-    "valor_momento": null,
+    "valor_momento": 1320000,
     "manager": "Mena",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/1676.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
     "valor": 4884800,
-    "valor_momento": null,
+    "valor_momento": 4670000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -39,7 +39,7 @@
     "imagen": "https://www.comuniate.com/caras3/3885.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 1233600,
-    "valor_momento": null,
+    "valor_momento": 1200000,
     "manager": "Manuel Tello",
     "movimiento": "Venta"
   },
@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/2596.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/75.png",
     "valor": 2521500,
-    "valor_momento": null,
+    "valor_momento": 2460000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
