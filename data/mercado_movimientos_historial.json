@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-10-02",
+    "jugador": "Pau Navarro",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/3698.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+    "valor": 1170000,
+    "valor_momento": null,
+    "manager": "Mena",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-10-01",
     "jugador": "Marcos Llorente",
     "posicion": "DEF",

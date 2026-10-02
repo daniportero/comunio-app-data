@@ -13,19 +13,6 @@
     "margen_ventas": 1459923
   },
   {
-    "posicion": 4,
-    "manager": "Mena",
-    "valor_equipo": 52150000,
-    "puja_maxima": 14217100,
-    "dinero": 1179600,
-    "compras": 65860000,
-    "ventas": 22719600,
-    "puntos": 352,
-    "cuota_mercado": 0.104,
-    "plusvalia": 15760000,
-    "margen_ventas": -8080400
-  },
-  {
     "posicion": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 62790000,
@@ -102,6 +89,19 @@
     "cuota_mercado": 0.146,
     "plusvalia": 5894000,
     "margen_ventas": 18708900
+  },
+  {
+    "posicion": 4,
+    "manager": "Mena",
+    "valor_equipo": 52150000,
+    "puja_maxima": 13047100,
+    "dinero": 9600,
+    "compras": 67030000,
+    "ventas": 22719600,
+    "puntos": 352,
+    "cuota_mercado": 0.104,
+    "plusvalia": 15830000,
+    "margen_ventas": -8080400
   },
   {
     "posicion": 5,
