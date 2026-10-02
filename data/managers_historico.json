@@ -5274,6 +5274,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Pau Navarro",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3698.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Juan Cruz",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2571.png",
