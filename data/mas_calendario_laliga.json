@@ -1101,35 +1101,35 @@
   },
   {
     "jornada": 11,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/1.png",
-    "equipo_local": "Athletic Club",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/13.png",
-    "equipo_visitante": "Real Sociedad",
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/10.png",
+    "equipo_local": "Levante",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
+    "equipo_visitante": "Atlético",
     "resultado": null,
-    "fecha": "2026-11-01",
-    "hora": "20:00",
+    "fecha": "2026-10-31",
+    "hora": "14:00",
     "aplazado": false
   },
   {
     "jornada": 11,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
-    "equipo_local": "Deportivo",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
-    "equipo_visitante": "Osasuna",
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "equipo_local": "Rayo Vallecano",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/5.png",
+    "equipo_visitante": "Celta",
     "resultado": null,
-    "fecha": "2026-11-01",
-    "hora": "20:00",
+    "fecha": "2026-10-31",
+    "hora": "16:15",
     "aplazado": false
   },
   {
     "jornada": 11,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/75.png",
-    "equipo_local": "Elche",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/18.png",
-    "equipo_visitante": "Valencia",
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/4.png",
+    "equipo_local": "Betis",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/65.png",
+    "equipo_visitante": "Málaga",
     "resultado": null,
-    "fecha": "2026-11-01",
-    "hora": "20:00",
+    "fecha": "2026-10-31",
+    "hora": "18:30",
     "aplazado": false
   },
   {
@@ -1139,8 +1139,8 @@
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo_visitante": "Alavés",
     "resultado": null,
-    "fecha": "2026-11-01",
-    "hora": "20:00",
+    "fecha": "2026-10-31",
+    "hora": "21:00",
     "aplazado": false
   },
   {
@@ -1151,40 +1151,7 @@
     "equipo_visitante": "Sevilla",
     "resultado": null,
     "fecha": "2026-11-01",
-    "hora": "20:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 11,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/10.png",
-    "equipo_local": "Levante",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
-    "equipo_visitante": "Atlético",
-    "resultado": null,
-    "fecha": "2026-11-01",
-    "hora": "20:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 11,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "equipo_local": "Rayo Vallecano",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/5.png",
-    "equipo_visitante": "Celta",
-    "resultado": null,
-    "fecha": "2026-11-01",
-    "hora": "20:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 11,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/4.png",
-    "equipo_local": "Betis",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/65.png",
-    "equipo_visitante": "Málaga",
-    "resultado": null,
-    "fecha": "2026-11-01",
-    "hora": "20:00",
+    "hora": "14:00",
     "aplazado": false
   },
   {
@@ -1195,7 +1162,18 @@
     "equipo_visitante": "Real Madrid",
     "resultado": null,
     "fecha": "2026-11-01",
-    "hora": "20:00",
+    "hora": "16:15",
+    "aplazado": false
+  },
+  {
+    "jornada": 11,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/75.png",
+    "equipo_local": "Elche",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/18.png",
+    "equipo_visitante": "Valencia",
+    "resultado": null,
+    "fecha": "2026-11-01",
+    "hora": "18:30",
     "aplazado": false
   },
   {
@@ -1207,6 +1185,28 @@
     "resultado": null,
     "fecha": "2026-11-01",
     "hora": "20:00",
+    "aplazado": false
+  },
+  {
+    "jornada": 11,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "equipo_local": "Athletic Club",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "equipo_visitante": "Real Sociedad",
+    "resultado": null,
+    "fecha": "2026-11-01",
+    "hora": "21:00",
+    "aplazado": false
+  },
+  {
+    "jornada": 11,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/6.png",
+    "equipo_local": "Deportivo",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "equipo_visitante": "Osasuna",
+    "resultado": null,
+    "fecha": "2026-11-02",
+    "hora": "21:00",
     "aplazado": false
   },
   {
