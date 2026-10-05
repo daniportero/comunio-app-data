@@ -4141,6 +4141,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "David Larrubia",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/4078.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Fermín López",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3506.png",
@@ -4199,15 +4208,6 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3649.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "David Larrubia",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/4078.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
