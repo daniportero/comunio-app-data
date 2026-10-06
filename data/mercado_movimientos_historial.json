@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-10-06",
+    "jugador": "Oyarzabal",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2161.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+    "valor": 10650000,
+    "valor_momento": null,
+    "manager": "Edu Zurita",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-10-02",
     "jugador": "Pau Navarro",
     "posicion": "DEF",
