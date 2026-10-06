@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEL",
+    "puntos": 39,
+    "media_puntos": 6.5,
+    "imagen": "https://www.comuniate.com/caras3/3084.png",
+    "jugador": "Nico Williams",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+    "valor_jugador": 8650000,
+    "revalorizacion": -2260000,
+    "plusvalia": -6540000,
+    "venta": 8650000,
+    "r5": 7,
+    "r4": "-",
+    "r3": 10,
+    "r2": 12,
+    "r1": 3,
+    "manager": "Diego Zuri",
+    "valor_compra": 15190000,
+    "lesion": "Lesión muscular"
+  },
+  {
     "posicion": "POR",
     "puntos": 37,
     "media_puntos": 5.3,

@@ -783,7 +783,7 @@
     "manager": "Diego Zuri",
     "valor_equipo": 60070000,
     "num_jugadores": 14,
-    "formacion": "3-5-2",
+    "formacion": "4-5-1",
     "jugadores": [
       {
         "posicion": "POR",
@@ -836,7 +836,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -854,7 +854,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -890,7 +890,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": "Lesión muscular en bíceps femoral"
       },
       {
@@ -1016,7 +1016,7 @@
         "r3": 10,
         "r2": 12,
         "r1": 3,
-        "alineado": true,
+        "alineado": false,
         "lesion": "Lesión muscular"
       },
       {
