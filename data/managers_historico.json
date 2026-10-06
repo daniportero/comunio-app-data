@@ -4123,15 +4123,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Junior Firpo",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2545.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Ratiu",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3498.png",
@@ -4145,6 +4136,15 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3649.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Militão",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/2760.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -4204,10 +4204,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Militão",
+            "jugador": "Junior Firpo",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2760.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+            "imagen": "https://www.comuniate.com/caras3/2545.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
