@@ -3134,6 +3134,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Oyarzabal",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2161.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Villalibre",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2338.png",
