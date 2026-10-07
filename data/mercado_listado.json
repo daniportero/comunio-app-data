@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "DEL",
+    "puntos": 24,
+    "media_puntos": 3.4,
+    "imagen": "https://www.comuniate.com/caras3/2865.png",
+    "jugador": "Raúl García de Haro",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor_jugador": 1220000,
+    "revalorizacion": -380000,
+    "plusvalia": -60000,
+    "venta": 1220000,
+    "r5": 3,
+    "r4": 2,
+    "r3": 3,
+    "r2": 3,
+    "r1": 5,
+    "manager": "Diego Zuri",
+    "valor_compra": 1280000,
+    "lesion": null
+  },
+  {
     "posicion": "POR",
     "puntos": 0,
     "media_puntos": 0.0,
