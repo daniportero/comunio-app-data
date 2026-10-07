@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-10-07",
+    "jugador": "Raúl García de Haro",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/2865.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+    "valor": 1280000,
+    "valor_momento": null,
+    "manager": "Diego Zuri",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-10-06",
     "jugador": "Oyarzabal",
     "posicion": "DEL",

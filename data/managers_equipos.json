@@ -1046,7 +1046,7 @@
         "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
         "valor_jugador": 1280000,
         "revalorizacion": -320000,
-        "plusvalia": null,
+        "plusvalia": 0,
         "r5": 3,
         "r4": 2,
         "r3": 3,
