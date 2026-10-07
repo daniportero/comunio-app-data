@@ -799,8 +799,8 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 59960000,
-    "num_jugadores": 15,
+    "valor_equipo": 59320000,
+    "num_jugadores": 14,
     "formacion": "4-5-1",
     "jugadores": [
       {
@@ -838,24 +838,6 @@
         "r1": 0,
         "alineado": true,
         "lesion": null
-      },
-      {
-        "posicion": "DEF",
-        "puntos": 12,
-        "media_puntos": 6.0,
-        "jugador": "Junior Firpo",
-        "imagen": "https://www.comuniate.com/caras3/2545.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-        "valor_jugador": 640000,
-        "revalorizacion": -170000,
-        "plusvalia": 190000,
-        "r5": "-",
-        "r4": 7,
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": "Lesión muscular en aductor izquierdo"
       },
       {
         "posicion": "DEF",
