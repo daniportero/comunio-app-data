@@ -1,5 +1,25 @@
 [
   {
+    "posicion": "POR",
+    "puntos": 0,
+    "media_puntos": 0.0,
+    "imagen": "https://www.comuniate.com/caras3/3796.png",
+    "jugador": "Adrián Rodríguez",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor_jugador": 160000,
+    "revalorizacion": 0,
+    "plusvalia": -20000,
+    "venta": 1600000,
+    "r5": "-",
+    "r4": "-",
+    "r3": "-",
+    "r2": "-",
+    "r1": "-",
+    "manager": "Team Novita",
+    "valor_compra": 180000,
+    "lesion": null
+  },
+  {
     "posicion": "DEF",
     "puntos": 16,
     "media_puntos": 4.0,
