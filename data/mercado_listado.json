@@ -1,6 +1,26 @@
 [
   {
     "posicion": "MED",
+    "puntos": 37,
+    "media_puntos": 5.3,
+    "imagen": "https://www.comuniate.com/caras3/1771.png",
+    "jugador": "Álvaro García",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor_jugador": 3330000,
+    "revalorizacion": 150000,
+    "plusvalia": 1480000,
+    "venta": 3950000,
+    "r5": 2,
+    "r4": 15,
+    "r3": 2,
+    "r2": 4,
+    "r1": 3,
+    "manager": "Dani Portero",
+    "valor_compra": 1850000,
+    "lesion": null
+  },
+  {
+    "posicion": "MED",
     "puntos": 19,
     "media_puntos": 3.8,
     "imagen": "https://www.comuniate.com/caras3/3625.png",
