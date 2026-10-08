@@ -1500,7 +1500,7 @@
         "r3": 2,
         "r2": 7,
         "r1": 4,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -1536,7 +1536,7 @@
         "r3": 3,
         "r2": "-",
         "r1": 4,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1572,7 +1572,7 @@
         "r3": "-",
         "r2": "-",
         "r1": "-",
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1590,7 +1590,7 @@
         "r3": 6,
         "r2": 8,
         "r1": 2,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
