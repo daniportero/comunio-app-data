@@ -1999,6 +1999,15 @@
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
+          },
+          {
+            "jugador": "Iván Azón",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/4156.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
           }
         ]
       }
