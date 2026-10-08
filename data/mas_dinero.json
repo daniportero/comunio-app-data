@@ -26,19 +26,6 @@
     "margen_ventas": 52027
   },
   {
-    "posicion": 6,
-    "manager": "Dani Portero",
-    "valor_equipo": 58900000,
-    "puja_maxima": 15433400,
-    "dinero": 708400,
-    "compras": 177373000,
-    "ventas": 134231400,
-    "puntos": 305,
-    "cuota_mercado": 0.1191,
-    "plusvalia": -1230000,
-    "margen_ventas": 13968400
-  },
-  {
     "posicion": 1,
     "manager": "Carlos Saez",
     "valor_equipo": 72620000,
@@ -102,6 +89,19 @@
     "cuota_mercado": 0.1049,
     "plusvalia": 14500000,
     "margen_ventas": -8080400
+  },
+  {
+    "posicion": 6,
+    "manager": "Dani Portero",
+    "valor_equipo": 58900000,
+    "puja_maxima": 12383400,
+    "dinero": -2341600,
+    "compras": 180423000,
+    "ventas": 134231400,
+    "puntos": 305,
+    "cuota_mercado": 0.1191,
+    "plusvalia": -1240000,
+    "margen_ventas": 13968400
   },
   {
     "posicion": 5,

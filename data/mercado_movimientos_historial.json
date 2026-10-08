@@ -1,5 +1,16 @@
 [
   {
+    "fecha": "2026-10-08",
+    "jugador": "Iván Azón",
+    "posicion": "DEL",
+    "imagen": "https://www.comuniate.com/caras3/4156.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 3050000,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-10-07",
     "jugador": "Raúl García de Haro",
     "posicion": "DEL",
