@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/4156.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "valor": 3050000,
-    "valor_momento": null,
+    "valor_momento": 3040000,
     "manager": "Dani Portero",
     "movimiento": "Compra"
   },
@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/2545.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "valor": 637400,
-    "valor_momento": null,
+    "valor_momento": 640000,
     "manager": "Diego Zuri",
     "movimiento": "Venta"
   },
