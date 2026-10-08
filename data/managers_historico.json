@@ -4141,15 +4141,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Militão",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2760.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Dani Lorenzo",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/4075.png",
@@ -4204,6 +4195,24 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Raúl García de Haro",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/2865.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Militão",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/2760.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Rubén Vargas",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3766.png",
@@ -4217,15 +4226,6 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3084.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Raúl García de Haro",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/2865.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
