@@ -3026,15 +3026,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Leandro Cabrera",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/1019.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Lejeune",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/1470.png",
@@ -3062,19 +3053,28 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Dotor",
+            "jugador": "Aleñá",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/3465.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "imagen": "https://www.comuniate.com/caras3/2377.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Fofana",
+            "jugador": "Comesaña",
             "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/4165.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "imagen": "https://www.comuniate.com/caras3/2591.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Dotor",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/3465.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -3089,15 +3089,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Yangel Herrera",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2727.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Mikautadze",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3930.png",
@@ -3107,37 +3098,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Julio Díaz",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4003.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Aleñá",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2377.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Comesaña",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2591.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Oyarzabal",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2161.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Julio Díaz",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/4003.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
