@@ -3,7 +3,7 @@
     "manager": "Manuel Tello",
     "valor_equipo": 70490000,
     "num_jugadores": 13,
-    "formacion": "4-4-2",
+    "formacion": "3-4-3",
     "jugadores": [
       {
         "posicion": "POR",
@@ -110,7 +110,7 @@
         "r3": 2,
         "r2": "-",
         "r1": 4,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -200,7 +200,7 @@
         "r3": "-",
         "r2": 0,
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -243,9 +243,9 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 58900000,
-    "num_jugadores": 15,
-    "formacion": "4-5-1",
+    "valor_equipo": 55600000,
+    "num_jugadores": 14,
+    "formacion": "4-4-2",
     "jugadores": [
       {
         "posicion": "POR",
@@ -429,24 +429,6 @@
       },
       {
         "posicion": "MED",
-        "puntos": 37,
-        "media_puntos": 5.3,
-        "jugador": "Álvaro García",
-        "imagen": "https://www.comuniate.com/caras3/1771.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
-        "valor_jugador": 3300000,
-        "revalorizacion": 80000,
-        "plusvalia": 1450000,
-        "r5": 2,
-        "r4": 15,
-        "r3": 2,
-        "r2": 4,
-        "r1": 3,
-        "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
         "puntos": 33,
         "media_puntos": 4.7,
         "jugador": "Pathé Ciss",
@@ -514,7 +496,7 @@
         "r3": 6,
         "r2": 3,
         "r1": "-",
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       }
     ]
@@ -1651,28 +1633,10 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 43650000,
-    "num_jugadores": 18,
+    "valor_equipo": 43490000,
+    "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
-      {
-        "posicion": "POR",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Adrián Rodríguez",
-        "imagen": "https://www.comuniate.com/caras3/3796.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-        "valor_jugador": 160000,
-        "revalorizacion": 0,
-        "plusvalia": -20000,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
       {
         "posicion": "POR",
         "puntos": 32,

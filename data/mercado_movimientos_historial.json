@@ -11,6 +11,28 @@
     "movimiento": "Compra"
   },
   {
+    "fecha": "2026-10-08",
+    "jugador": "Álvaro García",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/1771.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+    "valor": 3333000,
+    "valor_momento": null,
+    "manager": "Dani Portero",
+    "movimiento": "Venta"
+  },
+  {
+    "fecha": "2026-10-08",
+    "jugador": "Adrián Rodríguez",
+    "posicion": "POR",
+    "imagen": "https://www.comuniate.com/caras3/3796.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 163400,
+    "valor_momento": null,
+    "manager": "Team Novita",
+    "movimiento": "Venta"
+  },
+  {
     "fecha": "2026-10-07",
     "jugador": "Raúl García de Haro",
     "posicion": "DEL",

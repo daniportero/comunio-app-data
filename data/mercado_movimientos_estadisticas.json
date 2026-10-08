@@ -10,12 +10,12 @@
   },
   {
     "manager": "Dani Portero",
-    "total_mov": 57,
+    "total_mov": 58,
     "num_compras": 36,
     "valor_compras": 180423000,
-    "num_ventas": 21,
-    "valor_ventas": 134231400,
-    "margen_ventas": 13968400
+    "num_ventas": 22,
+    "valor_ventas": 137564400,
+    "margen_ventas": 15451400
   },
   {
     "manager": "Edu Zurita",
@@ -55,12 +55,12 @@
   },
   {
     "manager": "Team Novita",
-    "total_mov": 38,
+    "total_mov": 39,
     "num_compras": 28,
     "valor_compras": 56360945,
-    "num_ventas": 10,
-    "valor_ventas": 11881700,
-    "margen_ventas": 1459923
+    "num_ventas": 11,
+    "valor_ventas": 12045100,
+    "margen_ventas": 1443323
   },
   {
     "manager": "Chirli",

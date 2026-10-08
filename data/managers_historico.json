@@ -940,15 +940,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Santiago Mouriño",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/3458.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Ander Barrenetxea",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2695.png",
@@ -994,6 +985,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Pablo Durán",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/3356.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Sergio Camello",
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/2764.png",
@@ -1012,10 +1012,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Pablo Durán",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/3356.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/5.png",
+            "jugador": "Santiago Mouriño",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3458.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -1956,10 +1956,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Álvaro García",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/1771.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "jugador": "Iván Azón",
+            "posicion": "DEL",
+            "imagen": "https://www.comuniate.com/caras3/4156.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -1996,15 +1996,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3357.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Iván Azón",
-            "posicion": "DEL",
-            "imagen": "https://www.comuniate.com/caras3/4156.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -7636,15 +7627,6 @@
             "escudo": "https://www.comuniate.com/images/escudos_laliga/2.png",
             "puntos": "-",
             "alineado": true,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Adrián Rodríguez",
-            "posicion": "POR",
-            "imagen": "https://www.comuniate.com/caras3/3796.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-            "puntos": "-",
-            "alineado": false,
             "alineado_inicial": true
           },
           {

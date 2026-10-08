@@ -180,26 +180,6 @@
     "lesion": null
   },
   {
-    "posicion": "POR",
-    "puntos": 0,
-    "media_puntos": 0.0,
-    "imagen": "https://www.comuniate.com/caras3/3796.png",
-    "jugador": "Adrián Rodríguez",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-    "valor_jugador": 160000,
-    "revalorizacion": 0,
-    "plusvalia": -20000,
-    "venta": 1600000,
-    "r5": "-",
-    "r4": "-",
-    "r3": "-",
-    "r2": "-",
-    "r1": "-",
-    "manager": "Team Novita",
-    "valor_compra": 180000,
-    "lesion": null
-  },
-  {
     "posicion": "DEF",
     "puntos": 16,
     "media_puntos": 4.0,
@@ -257,26 +237,6 @@
     "r1": "-",
     "manager": "Edu Zurita",
     "valor_compra": 4100000,
-    "lesion": null
-  },
-  {
-    "posicion": "MED",
-    "puntos": 37,
-    "media_puntos": 5.3,
-    "imagen": "https://www.comuniate.com/caras3/1771.png",
-    "jugador": "Álvaro García",
-    "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "valor_jugador": 3300000,
-    "revalorizacion": 80000,
-    "plusvalia": 1450000,
-    "venta": 3950000,
-    "r5": 2,
-    "r4": 15,
-    "r3": 2,
-    "r2": 4,
-    "r1": 3,
-    "manager": "Dani Portero",
-    "valor_compra": 1850000,
     "lesion": null
   },
   {
