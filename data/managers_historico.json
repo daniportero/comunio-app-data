@@ -3026,19 +3026,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Lejeune",
+            "jugador": "Julio Díaz",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/1470.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
+            "imagen": "https://www.comuniate.com/caras3/4003.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Zubeldia",
+            "jugador": "Lejeune",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2371.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
+            "imagen": "https://www.comuniate.com/caras3/1470.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -3107,10 +3107,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Julio Díaz",
+            "jugador": "Zubeldia",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4003.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
+            "imagen": "https://www.comuniate.com/caras3/2371.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
