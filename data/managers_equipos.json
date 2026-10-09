@@ -1,7 +1,7 @@
 [
   {
     "manager": "Manuel Tello",
-    "valor_equipo": 70490000,
+    "valor_equipo": 69930000,
     "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
@@ -243,7 +243,7 @@
   },
   {
     "manager": "Dani Portero",
-    "valor_equipo": 55600000,
+    "valor_equipo": 53190000,
     "num_jugadores": 14,
     "formacion": "4-4-2",
     "jugadores": [
@@ -503,7 +503,7 @@
   },
   {
     "manager": "Edu Zurita",
-    "valor_equipo": 42330000,
+    "valor_equipo": 40050000,
     "num_jugadores": 13,
     "formacion": "3-5-2",
     "jugadores": [
@@ -745,7 +745,7 @@
   },
   {
     "manager": "Diego Zuri",
-    "valor_equipo": 58820000,
+    "valor_equipo": 58450000,
     "num_jugadores": 14,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1005,7 +1005,7 @@
   },
   {
     "manager": "Mena",
-    "valor_equipo": 51840000,
+    "valor_equipo": 50390000,
     "num_jugadores": 15,
     "formacion": "3-5-2",
     "jugadores": [
@@ -1283,8 +1283,8 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 45200000,
-    "num_jugadores": 16,
+    "valor_equipo": 42030000,
+    "num_jugadores": 17,
     "formacion": "4-3-3",
     "jugadores": [
       {
@@ -1375,6 +1375,24 @@
         "r2": 4,
         "r1": 2,
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "DEF",
+        "puntos": 26,
+        "media_puntos": 4.3,
+        "jugador": "Andrés García",
+        "imagen": "https://www.comuniate.com/caras3/4097.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+        "valor_jugador": 1730000,
+        "revalorizacion": -120000,
+        "plusvalia": null,
+        "r5": 5,
+        "r4": 2,
+        "r3": "-",
+        "r2": 4,
+        "r1": 4,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1579,7 +1597,7 @@
   },
   {
     "manager": "Team Novita",
-    "valor_equipo": 43490000,
+    "valor_equipo": 44680000,
     "num_jugadores": 17,
     "formacion": "4-5-1",
     "jugadores": [
@@ -1893,8 +1911,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 38990000,
-    "num_jugadores": 12,
+    "valor_equipo": 37020000,
+    "num_jugadores": 13,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -1967,6 +1985,24 @@
         "r2": 1,
         "r1": 2,
         "alineado": true,
+        "lesion": null
+      },
+      {
+        "posicion": "MED",
+        "puntos": 11,
+        "media_puntos": 3.7,
+        "jugador": "Guevara",
+        "imagen": "https://www.comuniate.com/caras3/2748.png",
+        "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+        "valor_jugador": 560000,
+        "revalorizacion": 0,
+        "plusvalia": null,
+        "r5": 6,
+        "r4": 5,
+        "r3": "-",
+        "r2": "-",
+        "r1": "-",
+        "alineado": false,
         "lesion": null
       },
       {
@@ -2117,7 +2153,7 @@
   },
   {
     "manager": "Carlos Saez",
-    "valor_equipo": 72620000,
+    "valor_equipo": 68850000,
     "num_jugadores": 11,
     "formacion": "3-4-3",
     "jugadores": [
