@@ -1,5 +1,27 @@
 [
   {
+    "fecha": "2026-10-09",
+    "jugador": "Andrés García",
+    "posicion": "DEF",
+    "imagen": "https://www.comuniate.com/caras3/4097.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "valor": 1730000,
+    "valor_momento": null,
+    "manager": "Muriqui Saez",
+    "movimiento": "Compra"
+  },
+  {
+    "fecha": "2026-10-09",
+    "jugador": "Guevara",
+    "posicion": "MED",
+    "imagen": "https://www.comuniate.com/caras3/2748.png",
+    "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
+    "valor": 670000,
+    "valor_momento": null,
+    "manager": "Chirli",
+    "movimiento": "Compra"
+  },
+  {
     "fecha": "2026-10-08",
     "jugador": "Iván Azón",
     "posicion": "DEL",

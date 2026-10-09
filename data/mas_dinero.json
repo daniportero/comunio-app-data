@@ -26,19 +26,6 @@
     "margen_ventas": 15451400
   },
   {
-    "posicion": 9,
-    "manager": "Muriqui Saez",
-    "valor_equipo": 42030000,
-    "puja_maxima": 11403870,
-    "dinero": 896370,
-    "compras": 128406930,
-    "ventas": 84943300,
-    "puntos": 276,
-    "cuota_mercado": 0.0905,
-    "plusvalia": 1134342,
-    "margen_ventas": 52027
-  },
-  {
     "posicion": 1,
     "manager": "Carlos Saez",
     "valor_equipo": 68850000,
@@ -50,19 +37,6 @@
     "cuota_mercado": 0.1482,
     "plusvalia": 12200000,
     "margen_ventas": 16984000
-  },
-  {
-    "posicion": 8,
-    "manager": "Chirli",
-    "valor_equipo": 37020000,
-    "puja_maxima": 9811000,
-    "dinero": 556000,
-    "compras": 72660100,
-    "ventas": 28706100,
-    "puntos": 291,
-    "cuota_mercado": 0.0797,
-    "plusvalia": -1430000,
-    "margen_ventas": -3534000
   },
   {
     "posicion": 3,
@@ -115,5 +89,31 @@
     "cuota_mercado": 0.1085,
     "plusvalia": 15610000,
     "margen_ventas": -8080400
+  },
+  {
+    "posicion": 8,
+    "manager": "Chirli",
+    "valor_equipo": 37020000,
+    "puja_maxima": 9141000,
+    "dinero": -114000,
+    "compras": 73330100,
+    "ventas": 28706100,
+    "puntos": 291,
+    "cuota_mercado": 0.0797,
+    "plusvalia": -1540000,
+    "margen_ventas": -3534000
+  },
+  {
+    "posicion": 9,
+    "manager": "Muriqui Saez",
+    "valor_equipo": 42030000,
+    "puja_maxima": 9673870,
+    "dinero": -833630,
+    "compras": 130136930,
+    "ventas": 84943300,
+    "puntos": 276,
+    "cuota_mercado": 0.0905,
+    "plusvalia": 1134342,
+    "margen_ventas": 52027
   }
 ]
