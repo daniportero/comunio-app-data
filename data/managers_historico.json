@@ -5157,6 +5157,15 @@
             "alineado_inicial": true
           },
           {
+            "jugador": "Aitor Paredes",
+            "posicion": "DEF",
+            "imagen": "https://www.comuniate.com/caras3/3331.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
+            "puntos": "-",
+            "alineado": true,
+            "alineado_inicial": true
+          },
+          {
             "jugador": "Nahuel Tenaglia",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3215.png",
@@ -5211,15 +5220,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Orel Mangala",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/4111.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": "-",
-            "alineado": true,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Sucic",
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3671.png",
@@ -5247,15 +5247,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Aitor Paredes",
-            "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/3331.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Pau Navarro",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3698.png",
@@ -5278,6 +5269,15 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2684.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
+            "puntos": "-",
+            "alineado": false,
+            "alineado_inicial": true
+          },
+          {
+            "jugador": "Orel Mangala",
+            "posicion": "MED",
+            "imagen": "https://www.comuniate.com/caras3/4111.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
