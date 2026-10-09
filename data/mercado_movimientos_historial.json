@@ -6,7 +6,7 @@
     "imagen": "https://www.comuniate.com/caras3/4097.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
     "valor": 1730000,
-    "valor_momento": null,
+    "valor_momento": 1570000,
     "manager": "Muriqui Saez",
     "movimiento": "Compra"
   },
@@ -17,7 +17,7 @@
     "imagen": "https://www.comuniate.com/caras3/2748.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 670000,
-    "valor_momento": null,
+    "valor_momento": 550000,
     "manager": "Chirli",
     "movimiento": "Compra"
   },
@@ -39,7 +39,7 @@
     "imagen": "https://www.comuniate.com/caras3/1771.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/70.png",
     "valor": 3333000,
-    "valor_momento": null,
+    "valor_momento": 3300000,
     "manager": "Dani Portero",
     "movimiento": "Venta"
   },
@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/3796.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "valor": 163400,
-    "valor_momento": null,
+    "valor_momento": 160000,
     "manager": "Team Novita",
     "movimiento": "Venta"
   },
@@ -61,7 +61,7 @@
     "imagen": "https://www.comuniate.com/caras3/4165.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/17.png",
     "valor": 6255800,
-    "valor_momento": null,
+    "valor_momento": 6200000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
@@ -72,7 +72,7 @@
     "imagen": "https://www.comuniate.com/caras3/2727.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/13.png",
     "valor": 3132500,
-    "valor_momento": null,
+    "valor_momento": 3120000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
@@ -83,7 +83,7 @@
     "imagen": "https://www.comuniate.com/caras3/1019.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/7.png",
     "valor": 2096600,
-    "valor_momento": null,
+    "valor_momento": 2200000,
     "manager": "Edu Zurita",
     "movimiento": "Venta"
   },
