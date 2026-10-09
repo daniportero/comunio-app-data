@@ -6200,19 +6200,19 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Einar Galilea",
+            "jugador": "Andrés García",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/2261.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
+            "imagen": "https://www.comuniate.com/caras3/4097.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
           },
           {
-            "jugador": "Lucas Noubi",
+            "jugador": "Einar Galilea",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4046.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
+            "imagen": "https://www.comuniate.com/caras3/2261.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/65.png",
             "puntos": "-",
             "alineado": true,
             "alineado_inicial": true
@@ -6299,15 +6299,6 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Álex Padilla",
-            "posicion": "POR",
-            "imagen": "https://www.comuniate.com/caras3/3665.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
             "jugador": "Aihen Muñoz",
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/2719.png",
@@ -6317,19 +6308,10 @@
             "alineado_inicial": true
           },
           {
-            "jugador": "Andrés García",
+            "jugador": "Lucas Noubi",
             "posicion": "DEF",
-            "imagen": "https://www.comuniate.com/caras3/4097.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Kike Barja",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2395.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
+            "imagen": "https://www.comuniate.com/caras3/4046.png",
+            "escudo": "https://www.comuniate.com/images/escudos_laliga/6.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true
@@ -8641,15 +8623,6 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2748.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/89.png",
-            "puntos": "-",
-            "alineado": false,
-            "alineado_inicial": true
-          },
-          {
-            "jugador": "Iker Losada",
-            "posicion": "MED",
-            "imagen": "https://www.comuniate.com/caras3/2847.png",
-            "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
             "puntos": "-",
             "alineado": false,
             "alineado_inicial": true

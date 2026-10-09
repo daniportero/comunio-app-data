@@ -79,8 +79,8 @@
   {
     "posicion": 8,
     "manager": "Chirli",
-    "valor_equipo": 37020000,
-    "dinero": -114000,
+    "valor_equipo": 36860000,
+    "dinero": 41800,
     "puntos_jornada_actual": 67,
     "puntos_total": 291,
     "cambio_posicion": 1,
@@ -90,8 +90,8 @@
   {
     "posicion": 9,
     "manager": "Muriqui Saez",
-    "valor_equipo": 42030000,
-    "dinero": -833630,
+    "valor_equipo": 41090000,
+    "dinero": 92670,
     "puntos_jornada_actual": 26,
     "puntos_total": 276,
     "cambio_posicion": -2,

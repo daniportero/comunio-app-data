@@ -1283,28 +1283,10 @@
   },
   {
     "manager": "Muriqui Saez",
-    "valor_equipo": 42030000,
-    "num_jugadores": 17,
+    "valor_equipo": 41090000,
+    "num_jugadores": 15,
     "formacion": "4-3-3",
     "jugadores": [
-      {
-        "posicion": "POR",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Álex Padilla",
-        "imagen": "https://www.comuniate.com/caras3/3665.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
-        "valor_jugador": 160000,
-        "revalorizacion": 0,
-        "plusvalia": 0,
-        "r5": "-",
-        "r4": "-",
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
       {
         "posicion": "POR",
         "puntos": 0,
@@ -1356,7 +1338,7 @@
         "r3": 5,
         "r2": 3,
         "r1": 3,
-        "alineado": true,
+        "alineado": false,
         "lesion": null
       },
       {
@@ -1392,7 +1374,7 @@
         "r3": "-",
         "r2": 4,
         "r1": 4,
-        "alineado": false,
+        "alineado": true,
         "lesion": null
       },
       {
@@ -1483,24 +1465,6 @@
         "r2": 4,
         "r1": 2,
         "alineado": true,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 22,
-        "media_puntos": 3.7,
-        "jugador": "Kike Barja",
-        "imagen": "https://www.comuniate.com/caras3/2395.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
-        "valor_jugador": 780000,
-        "revalorizacion": -130000,
-        "plusvalia": 100000,
-        "r5": 3,
-        "r4": 2,
-        "r3": 3,
-        "r2": "-",
-        "r1": 4,
-        "alineado": false,
         "lesion": null
       },
       {
@@ -1911,8 +1875,8 @@
   },
   {
     "manager": "Chirli",
-    "valor_equipo": 37020000,
-    "num_jugadores": 13,
+    "valor_equipo": 36860000,
+    "num_jugadores": 12,
     "formacion": "3-4-3",
     "jugadores": [
       {
@@ -1999,24 +1963,6 @@
         "plusvalia": -120000,
         "r5": 6,
         "r4": 5,
-        "r3": "-",
-        "r2": "-",
-        "r1": "-",
-        "alineado": false,
-        "lesion": null
-      },
-      {
-        "posicion": "MED",
-        "puntos": 0,
-        "media_puntos": 0.0,
-        "jugador": "Iker Losada",
-        "imagen": "https://www.comuniate.com/caras3/2847.png",
-        "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
-        "valor_jugador": 160000,
-        "revalorizacion": -10000,
-        "plusvalia": -290000,
-        "r5": "-",
-        "r4": "-",
         "r3": "-",
         "r2": "-",
         "r1": "-",
