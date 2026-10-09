@@ -7,8 +7,8 @@
     "puntos_jornada_actual": 0,
     "puntos_total": 414,
     "cambio_posicion": 0,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 2,
@@ -18,41 +18,41 @@
     "puntos_jornada_actual": 0,
     "puntos_total": 410,
     "cambio_posicion": 0,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "jugadores_jugados": 0,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 3,
     "manager": "Diego Zuri",
     "valor_equipo": 58450000,
     "dinero": 485278,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 376,
+    "puntos_jornada_actual": 15,
+    "puntos_total": 391,
     "cambio_posicion": 0,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "jugadores_jugados": 2,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 4,
     "manager": "Mena",
     "valor_equipo": 50390000,
     "dinero": 9600,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 352,
+    "puntos_jornada_actual": 5,
+    "puntos_total": 357,
     "cambio_posicion": 0,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 5,
     "manager": "Edu Zurita",
     "valor_equipo": 40050000,
     "dinero": 240382,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 322,
-    "cambio_posicion": 1,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "puntos_jornada_actual": 3,
+    "puntos_total": 325,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 6,
@@ -61,41 +61,41 @@
     "dinero": 991400,
     "puntos_jornada_actual": 0,
     "puntos_total": 305,
-    "cambio_posicion": -1,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "cambio_posicion": 0,
+    "jugadores_jugados": 0,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 7,
     "manager": "Team Novita",
     "valor_equipo": 44680000,
     "dinero": 1824155,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 294,
-    "cambio_posicion": 1,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "puntos_jornada_actual": 3,
+    "puntos_total": 297,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 2,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 8,
     "manager": "Chirli",
     "valor_equipo": 36860000,
     "dinero": 41800,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 291,
-    "cambio_posicion": 1,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "puntos_jornada_actual": 1,
+    "puntos_total": 292,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 1,
+    "jugadores_alineados": 11
   },
   {
     "posicion": 9,
     "manager": "Muriqui Saez",
     "valor_equipo": 41090000,
     "dinero": 92670,
-    "puntos_jornada_actual": 0,
-    "puntos_total": 276,
-    "cambio_posicion": -2,
-    "jugadores_jugados": null,
-    "jugadores_alineados": null
+    "puntos_jornada_actual": 4,
+    "puntos_total": 280,
+    "cambio_posicion": 0,
+    "jugadores_jugados": 2,
+    "jugadores_alineados": 11
   }
 ]
