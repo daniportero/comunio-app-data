@@ -28,7 +28,7 @@
     "imagen": "https://www.comuniate.com/caras3/2395.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/12.png",
     "valor": 758900,
-    "valor_momento": null,
+    "valor_momento": 780000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
@@ -39,7 +39,7 @@
     "imagen": "https://www.comuniate.com/caras3/3665.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/1.png",
     "valor": 167400,
-    "valor_momento": null,
+    "valor_momento": 160000,
     "manager": "Muriqui Saez",
     "movimiento": "Venta"
   },
@@ -50,7 +50,7 @@
     "imagen": "https://www.comuniate.com/caras3/2847.png",
     "escudo": "https://www.comuniate.com/images/escudos_laliga/4.png",
     "valor": 155800,
-    "valor_momento": null,
+    "valor_momento": 160000,
     "manager": "Chirli",
     "movimiento": "Venta"
   },
