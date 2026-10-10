@@ -1,24 +1,24 @@
 [
   {
     "posicion": 1,
-    "manager": "Carlos Saez",
-    "valor_equipo": 68530000,
-    "dinero": 704000,
-    "puntos_jornada_actual": 6,
-    "puntos_total": 420,
-    "cambio_posicion": 0,
-    "jugadores_jugados": 1,
+    "manager": "Manuel Tello",
+    "valor_equipo": 69560000,
+    "dinero": 168800,
+    "puntos_jornada_actual": 15,
+    "puntos_total": 425,
+    "cambio_posicion": 1,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
     "posicion": 2,
-    "manager": "Manuel Tello",
-    "valor_equipo": 69560000,
-    "dinero": 168800,
-    "puntos_jornada_actual": 8,
-    "puntos_total": 418,
-    "cambio_posicion": 0,
-    "jugadores_jugados": 0,
+    "manager": "Carlos Saez",
+    "valor_equipo": 68530000,
+    "dinero": 704000,
+    "puntos_jornada_actual": 5,
+    "puntos_total": 419,
+    "cambio_posicion": -1,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
@@ -29,7 +29,7 @@
     "puntos_jornada_actual": 26,
     "puntos_total": 402,
     "cambio_posicion": 0,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 4,
     "jugadores_alineados": 11
   },
   {
@@ -40,7 +40,7 @@
     "puntos_jornada_actual": 11,
     "puntos_total": 363,
     "cambio_posicion": 0,
-    "jugadores_jugados": 1,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
@@ -51,7 +51,7 @@
     "puntos_jornada_actual": 3,
     "puntos_total": 325,
     "cambio_posicion": 0,
-    "jugadores_jugados": 1,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
@@ -59,10 +59,10 @@
     "manager": "Dani Portero",
     "valor_equipo": 49900000,
     "dinero": 991400,
-    "puntos_jornada_actual": 15,
-    "puntos_total": 320,
+    "puntos_jornada_actual": 16,
+    "puntos_total": 321,
     "cambio_posicion": 0,
-    "jugadores_jugados": 0,
+    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -70,10 +70,10 @@
     "manager": "Team Novita",
     "valor_equipo": 44050000,
     "dinero": 1824155,
-    "puntos_jornada_actual": 5,
-    "puntos_total": 299,
+    "puntos_jornada_actual": 6,
+    "puntos_total": 300,
     "cambio_posicion": 0,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -84,7 +84,7 @@
     "puntos_jornada_actual": 4,
     "puntos_total": 295,
     "cambio_posicion": 0,
-    "jugadores_jugados": 1,
+    "jugadores_jugados": 2,
     "jugadores_alineados": 11
   },
   {
