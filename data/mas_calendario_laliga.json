@@ -793,6 +793,17 @@
   },
   {
     "jornada": 8,
+    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/3.png",
+    "equipo_local": "Barcelona",
+    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/8.png",
+    "equipo_visitante": "Getafe",
+    "resultado": "3-0",
+    "fecha": "2026-10-10",
+    "hora": "18:30",
+    "aplazado": false
+  },
+  {
+    "jornada": 8,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/15.png",
     "equipo_local": "Real Madrid",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/19.png",

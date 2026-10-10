@@ -18,7 +18,7 @@
     "puntos_jornada_actual": 5,
     "puntos_total": 419,
     "cambio_posicion": -1,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 4,
     "jugadores_alineados": 11
   },
   {
@@ -26,10 +26,10 @@
     "manager": "Diego Zuri",
     "valor_equipo": 58560000,
     "dinero": 485278,
-    "puntos_jornada_actual": 31,
-    "puntos_total": 407,
+    "puntos_jornada_actual": 37,
+    "puntos_total": 413,
     "cambio_posicion": 0,
-    "jugadores_jugados": 4,
+    "jugadores_jugados": 6,
     "jugadores_alineados": 11
   },
   {
@@ -51,7 +51,7 @@
     "puntos_jornada_actual": 5,
     "puntos_total": 327,
     "cambio_posicion": 0,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 3,
     "jugadores_alineados": 11
   },
   {
@@ -62,7 +62,7 @@
     "puntos_jornada_actual": 18,
     "puntos_total": 323,
     "cambio_posicion": 0,
-    "jugadores_jugados": 3,
+    "jugadores_jugados": 4,
     "jugadores_alineados": 11
   },
   {
@@ -70,10 +70,10 @@
     "manager": "Team Novita",
     "valor_equipo": 44050000,
     "dinero": 1824155,
-    "puntos_jornada_actual": 23,
-    "puntos_total": 317,
+    "puntos_jornada_actual": 29,
+    "puntos_total": 323,
     "cambio_posicion": 0,
-    "jugadores_jugados": 3,
+    "jugadores_jugados": 7,
     "jugadores_alineados": 11
   },
   {
@@ -95,7 +95,7 @@
     "puntos_jornada_actual": 8,
     "puntos_total": 284,
     "cambio_posicion": 0,
-    "jugadores_jugados": 2,
+    "jugadores_jugados": 4,
     "jugadores_alineados": 11
   }
 ]
