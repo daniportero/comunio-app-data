@@ -4075,7 +4075,7 @@
       },
       {
         "jornada": 8,
-        "puntos_totales": 29,
+        "puntos_totales": 30,
         "jugadores": [
           {
             "jugador": "Oblak",
@@ -4154,7 +4154,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3282.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 3,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6188,7 +6188,7 @@
       },
       {
         "jornada": 8,
-        "puntos_totales": 10,
+        "puntos_totales": 7,
         "jugadores": [
           {
             "jugador": "Aitor Fernández",
@@ -6204,7 +6204,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/4097.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 3,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6231,7 +6231,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3971.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 3,
+            "puntos": -1,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7492,14 +7492,14 @@
       },
       {
         "jornada": 8,
-        "puntos_totales": 18,
+        "puntos_totales": 21,
         "jugadores": [
           {
             "jugador": "Joan García",
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/3214.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-            "puntos": 3,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7526,7 +7526,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3690.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/3.png",
-            "puntos": 5,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7553,7 +7553,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2838.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/8.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
