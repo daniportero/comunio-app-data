@@ -782,17 +782,6 @@
   },
   {
     "jornada": 8,
-    "escudo_local": "https://www.comuniate.com/images/escudos_laliga/70.png",
-    "equipo_local": "Rayo Vallecano",
-    "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/1.png",
-    "equipo_visitante": "Athletic Club",
-    "resultado": null,
-    "fecha": "2026-10-10",
-    "hora": "14:00",
-    "aplazado": false
-  },
-  {
-    "jornada": 8,
     "escudo_local": "https://www.comuniate.com/images/escudos_laliga/89.png",
     "equipo_local": "Alavés",
     "escudo_visitante": "https://www.comuniate.com/images/escudos_laliga/2.png",
