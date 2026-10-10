@@ -3005,14 +3005,14 @@
       },
       {
         "jornada": 8,
-        "puntos_totales": 18,
+        "puntos_totales": 29,
         "jugadores": [
           {
             "jugador": "Courtois",
             "posicion": "POR",
             "imagen": "https://www.comuniate.com/caras3/1400.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 4,
+            "puntos": 10,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3066,7 +3066,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/2591.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": 3,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -3093,7 +3093,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3930.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": 0,
+            "puntos": 4,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -6188,7 +6188,7 @@
       },
       {
         "jornada": 8,
-        "puntos_totales": 13,
+        "puntos_totales": 14,
         "jugadores": [
           {
             "jugador": "Aitor Fernández",
@@ -6276,7 +6276,7 @@
             "posicion": "DEL",
             "imagen": "https://www.comuniate.com/caras3/3469.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 5,
+            "puntos": 6,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -7492,7 +7492,7 @@
       },
       {
         "jornada": 8,
-        "puntos_totales": 36,
+        "puntos_totales": 38,
         "jugadores": [
           {
             "jugador": "Joan García",
@@ -7508,7 +7508,7 @@
             "posicion": "DEF",
             "imagen": "https://www.comuniate.com/caras3/3980.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/19.png",
-            "puntos": 7,
+            "puntos": 9,
             "alineado": true,
             "alineado_inicial": true
           },
@@ -9416,7 +9416,7 @@
       },
       {
         "jornada": 8,
-        "puntos_totales": 9,
+        "puntos_totales": 8,
         "jugadores": [
           {
             "jugador": "Agirrezabala",
@@ -9459,7 +9459,7 @@
             "posicion": "MED",
             "imagen": "https://www.comuniate.com/caras3/3444.png",
             "escudo": "https://www.comuniate.com/images/escudos_laliga/15.png",
-            "puntos": 4,
+            "puntos": 3,
             "alineado": true,
             "alineado_inicial": true
           },
